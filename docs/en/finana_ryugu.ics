@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Finana Ryugu
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d012021
+DTSTAMP:20250303T183622Z
+DTSTART:20210621
+DTEND:20210621
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu Birthday
+DESCRIPTION:Finana Ryugu Birthday\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022021
+DTSTAMP:20250303T183622Z
+DTSTART:20210512T131000Z
+DTEND:20210512T134000Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu Debut
+DESCRIPTION:Finana Ryugu Debut\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022022
+DTSTAMP:20250303T183622Z
+DTSTART:20220512T131000Z
+DTEND:20220512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 1st Anniversary
+DESCRIPTION:Finana Ryugu 1st Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022023
+DTSTAMP:20250303T183622Z
+DTSTART:20230512T131000Z
+DTEND:20230512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 2nd Anniversary
+DESCRIPTION:Finana Ryugu 2nd Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022024
+DTSTAMP:20250303T183622Z
+DTSTART:20240512T131000Z
+DTEND:20240512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 3rd Anniversary
+DESCRIPTION:Finana Ryugu 3rd Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022025
+DTSTAMP:20250303T183622Z
+DTSTART:20250512T131000Z
+DTEND:20250512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 4th Anniversary
+DESCRIPTION:Finana Ryugu 4th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022026
+DTSTAMP:20250303T183622Z
+DTSTART:20260512T131000Z
+DTEND:20260512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 5th Anniversary
+DESCRIPTION:Finana Ryugu 5th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022027
+DTSTAMP:20250303T183622Z
+DTSTART:20270512T131000Z
+DTEND:20270512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 6th Anniversary
+DESCRIPTION:Finana Ryugu 6th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022028
+DTSTAMP:20250303T183622Z
+DTSTART:20280512T131000Z
+DTEND:20280512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 7th Anniversary
+DESCRIPTION:Finana Ryugu 7th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022029
+DTSTAMP:20250303T183622Z
+DTSTART:20290512T131000Z
+DTEND:20290512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 8th Anniversary
+DESCRIPTION:Finana Ryugu 8th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022030
+DTSTAMP:20250303T183622Z
+DTSTART:20300512T131000Z
+DTEND:20300512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 9th Anniversary
+DESCRIPTION:Finana Ryugu 9th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022031
+DTSTAMP:20250303T183622Z
+DTSTART:20310512T131000Z
+DTEND:20310512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 10th Anniversary
+DESCRIPTION:Finana Ryugu 10th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022032
+DTSTAMP:20250303T183622Z
+DTSTART:20320512T131000Z
+DTEND:20320512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 11th Anniversary
+DESCRIPTION:Finana Ryugu 11th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022033
+DTSTAMP:20250303T183622Z
+DTSTART:20330512T131000Z
+DTEND:20330512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 12th Anniversary
+DESCRIPTION:Finana Ryugu 12th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022034
+DTSTAMP:20250303T183622Z
+DTSTART:20340512T131000Z
+DTEND:20340512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 13th Anniversary
+DESCRIPTION:Finana Ryugu 13th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022035
+DTSTAMP:20250303T183622Z
+DTSTART:20350512T131000Z
+DTEND:20350512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 14th Anniversary
+DESCRIPTION:Finana Ryugu 14th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

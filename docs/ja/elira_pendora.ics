@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:エリーラ ペンドラ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773012021
+DTSTAMP:20250303T183554Z
+DTSTART:20211016
+DTEND:20211016
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 誕生日
+DESCRIPTION:エリーラ ペンドラ 誕生日\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022021
+DTSTAMP:20250303T183554Z
+DTSTART:20210512T131000Z
+DTEND:20210512T134000Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 活動開始
+DESCRIPTION:エリーラ ペンドラ 活動開始\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022022
+DTSTAMP:20250303T183554Z
+DTSTART:20220512T131000Z
+DTEND:20220512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 1周年
+DESCRIPTION:エリーラ ペンドラ 1周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022023
+DTSTAMP:20250303T183554Z
+DTSTART:20230512T131000Z
+DTEND:20230512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 2周年
+DESCRIPTION:エリーラ ペンドラ 2周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022024
+DTSTAMP:20250303T183554Z
+DTSTART:20240512T131000Z
+DTEND:20240512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 3周年
+DESCRIPTION:エリーラ ペンドラ 3周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022025
+DTSTAMP:20250303T183554Z
+DTSTART:20250512T131000Z
+DTEND:20250512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 4周年
+DESCRIPTION:エリーラ ペンドラ 4周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022026
+DTSTAMP:20250303T183554Z
+DTSTART:20260512T131000Z
+DTEND:20260512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 5周年
+DESCRIPTION:エリーラ ペンドラ 5周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022027
+DTSTAMP:20250303T183554Z
+DTSTART:20270512T131000Z
+DTEND:20270512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 6周年
+DESCRIPTION:エリーラ ペンドラ 6周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022028
+DTSTAMP:20250303T183554Z
+DTSTART:20280512T131000Z
+DTEND:20280512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 7周年
+DESCRIPTION:エリーラ ペンドラ 7周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022029
+DTSTAMP:20250303T183554Z
+DTSTART:20290512T131000Z
+DTEND:20290512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 8周年
+DESCRIPTION:エリーラ ペンドラ 8周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022030
+DTSTAMP:20250303T183554Z
+DTSTART:20300512T131000Z
+DTEND:20300512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 9周年
+DESCRIPTION:エリーラ ペンドラ 9周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022031
+DTSTAMP:20250303T183554Z
+DTSTART:20310512T131000Z
+DTEND:20310512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 10周年
+DESCRIPTION:エリーラ ペンドラ 10周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022032
+DTSTAMP:20250303T183554Z
+DTSTART:20320512T131000Z
+DTEND:20320512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 11周年
+DESCRIPTION:エリーラ ペンドラ 11周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022033
+DTSTAMP:20250303T183554Z
+DTSTART:20330512T131000Z
+DTEND:20330512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 12周年
+DESCRIPTION:エリーラ ペンドラ 12周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022034
+DTSTAMP:20250303T183554Z
+DTSTART:20340512T131000Z
+DTEND:20340512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 13周年
+DESCRIPTION:エリーラ ペンドラ 13周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773022035
+DTSTAMP:20250303T183554Z
+DTSTART:20350512T131000Z
+DTEND:20350512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:エリーラ ペンドラ 14周年
+DESCRIPTION:エリーラ ペンドラ 14周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 （日本時間）\n\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

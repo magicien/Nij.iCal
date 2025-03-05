@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Ban Hada
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899012021
+DTSTAMP:20250303T183458Z
+DTSTART:20210830
+DTEND:20210830
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada Birthday
+DESCRIPTION:Ban Hada Birthday\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022021
+DTSTAMP:20250303T183458Z
+DTSTART:20210423T075100Z
+DTEND:20210423T082100Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada Debut
+DESCRIPTION:Ban Hada Debut\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022022
+DTSTAMP:20250303T183458Z
+DTSTART:20220423T075100Z
+DTEND:20220423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 1st Anniversary
+DESCRIPTION:Ban Hada 1st Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022023
+DTSTAMP:20250303T183458Z
+DTSTART:20230423T075100Z
+DTEND:20230423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 2nd Anniversary
+DESCRIPTION:Ban Hada 2nd Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022024
+DTSTAMP:20250303T183458Z
+DTSTART:20240423T075100Z
+DTEND:20240423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 3rd Anniversary
+DESCRIPTION:Ban Hada 3rd Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022025
+DTSTAMP:20250303T183458Z
+DTSTART:20250423T075100Z
+DTEND:20250423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 4th Anniversary
+DESCRIPTION:Ban Hada 4th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022026
+DTSTAMP:20250303T183458Z
+DTSTART:20260423T075100Z
+DTEND:20260423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 5th Anniversary
+DESCRIPTION:Ban Hada 5th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022027
+DTSTAMP:20250303T183458Z
+DTSTART:20270423T075100Z
+DTEND:20270423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 6th Anniversary
+DESCRIPTION:Ban Hada 6th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022028
+DTSTAMP:20250303T183458Z
+DTSTART:20280423T075100Z
+DTEND:20280423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 7th Anniversary
+DESCRIPTION:Ban Hada 7th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022029
+DTSTAMP:20250303T183458Z
+DTSTART:20290423T075100Z
+DTEND:20290423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 8th Anniversary
+DESCRIPTION:Ban Hada 8th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022030
+DTSTAMP:20250303T183458Z
+DTSTART:20300423T075100Z
+DTEND:20300423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 9th Anniversary
+DESCRIPTION:Ban Hada 9th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022031
+DTSTAMP:20250303T183458Z
+DTSTART:20310423T075100Z
+DTEND:20310423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 10th Anniversary
+DESCRIPTION:Ban Hada 10th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022032
+DTSTAMP:20250303T183458Z
+DTSTART:20320423T075100Z
+DTEND:20320423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 11th Anniversary
+DESCRIPTION:Ban Hada 11th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022033
+DTSTAMP:20250303T183458Z
+DTSTART:20330423T075100Z
+DTEND:20330423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 12th Anniversary
+DESCRIPTION:Ban Hada 12th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022034
+DTSTAMP:20250303T183458Z
+DTSTART:20340423T075100Z
+DTEND:20340423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 13th Anniversary
+DESCRIPTION:Ban Hada 13th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022035
+DTSTAMP:20250303T183458Z
+DTSTART:20350423T075100Z
+DTEND:20350423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ban Hada 14th Anniversary
+DESCRIPTION:Ban Hada 14th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Ban Hada】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

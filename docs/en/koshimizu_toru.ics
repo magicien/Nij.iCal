@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Koshimizu Toru
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:727b81ad-7a6e-4f09-9f29-459af03f593d
+DTSTAMP:20250304T013649Z
+DTSTART:20250622T090000Z
+DTEND:20250622T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya
+LOCATION:Aichi Prefectural Art Theater
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e012023
+DTSTAMP:20250303T184221Z
+DTSTART:20230603
+DTEND:20230603
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru Birthday
+DESCRIPTION:Koshimizu Toru Birthday\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022023
+DTSTAMP:20250303T184221Z
+DTSTART:20230116T033000Z
+DTEND:20230116T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru Debut
+DESCRIPTION:Koshimizu Toru Debut\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022024
+DTSTAMP:20250303T184221Z
+DTSTART:20240116T033000Z
+DTEND:20240116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 1st Anniversary
+DESCRIPTION:Koshimizu Toru 1st Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022025
+DTSTAMP:20250303T184221Z
+DTSTART:20250116T033000Z
+DTEND:20250116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 2nd Anniversary
+DESCRIPTION:Koshimizu Toru 2nd Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022026
+DTSTAMP:20250303T184221Z
+DTSTART:20260116T033000Z
+DTEND:20260116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 3rd Anniversary
+DESCRIPTION:Koshimizu Toru 3rd Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022027
+DTSTAMP:20250303T184221Z
+DTSTART:20270116T033000Z
+DTEND:20270116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 4th Anniversary
+DESCRIPTION:Koshimizu Toru 4th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022028
+DTSTAMP:20250303T184221Z
+DTSTART:20280116T033000Z
+DTEND:20280116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 5th Anniversary
+DESCRIPTION:Koshimizu Toru 5th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022029
+DTSTAMP:20250303T184221Z
+DTSTART:20290116T033000Z
+DTEND:20290116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 6th Anniversary
+DESCRIPTION:Koshimizu Toru 6th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022030
+DTSTAMP:20250303T184221Z
+DTSTART:20300116T033000Z
+DTEND:20300116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 7th Anniversary
+DESCRIPTION:Koshimizu Toru 7th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022031
+DTSTAMP:20250303T184221Z
+DTSTART:20310116T033000Z
+DTEND:20310116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 8th Anniversary
+DESCRIPTION:Koshimizu Toru 8th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022032
+DTSTAMP:20250303T184221Z
+DTSTART:20320116T033000Z
+DTEND:20320116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 9th Anniversary
+DESCRIPTION:Koshimizu Toru 9th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022033
+DTSTAMP:20250303T184221Z
+DTSTART:20330116T033000Z
+DTEND:20330116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 10th Anniversary
+DESCRIPTION:Koshimizu Toru 10th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022034
+DTSTAMP:20250303T184221Z
+DTSTART:20340116T033000Z
+DTEND:20340116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 11th Anniversary
+DESCRIPTION:Koshimizu Toru 11th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022035
+DTSTAMP:20250303T184221Z
+DTSTART:20350116T033000Z
+DTEND:20350116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:Koshimizu Toru 12th Anniversary
+DESCRIPTION:Koshimizu Toru 12th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

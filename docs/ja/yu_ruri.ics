@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ユ ルリ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c001066c-76ed-424d-8be8-9307ac012020
+DTSTAMP:20250303T183401Z
+DTSTART:20200827
+DTEND:20200827
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ユ ルリ 誕生日
+DESCRIPTION:ユ ルリ 誕生日\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://twitter.com/RuriYu2434\n\n
+URL:https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA
+END:VEVENT
+BEGIN:VEVENT
+UID:c001066c-76ed-424d-8be8-9307ac022020
+DTSTAMP:20250303T183401Z
+DTSTART:20200123T053600Z
+DTEND:20200123T060600Z
+TRANSP:TRANSPARENT
+SUMMARY:ユ ルリ 活動開始
+DESCRIPTION:ユ ルリ 活動開始\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://twitter.com/RuriYu2434\n\n
+URL:https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA
+END:VEVENT
+BEGIN:VEVENT
+UID:c001066c-76ed-424d-8be8-9307ac992020
+DTSTAMP:20250303T183401Z
+DTSTART:20200717
+DTEND:20200717
+TRANSP:TRANSPARENT
+SUMMARY:ユ ルリ 卒業
+DESCRIPTION:ユ ルリ 卒業\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://twitter.com/RuriYu2434\n\n
+URL:https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

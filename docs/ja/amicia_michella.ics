@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:アミシア ミシェラ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4388c2e-fb22-444d-817f-dc9f19012019
+DTSTAMP:20250303T183220Z
+DTSTART:20191227
+DTEND:20191227
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:アミシア ミシェラ 誕生日
+DESCRIPTION:アミシア ミシェラ 誕生日\n\n==========\n【アミシア ミシェラ】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e4388c2e-fb22-444d-817f-dc9f19022019
+DTSTAMP:20250303T183220Z
+DTSTART:20191218T102700Z
+DTEND:20191218T105700Z
+TRANSP:TRANSPARENT
+SUMMARY:アミシア ミシェラ 活動開始
+DESCRIPTION:アミシア ミシェラ 活動開始\n\n==========\n【アミシア ミシェラ】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e4388c2e-fb22-444d-817f-dc9f19022020
+DTSTAMP:20250303T183220Z
+DTSTART:20201218T102700Z
+DTEND:20201218T102701Z
+TRANSP:TRANSPARENT
+SUMMARY:アミシア ミシェラ 1周年
+DESCRIPTION:アミシア ミシェラ 1周年\n\n初ツイート：2019/12/18 19:27 （日本時間）\n初配信：2019/12/21 （日本時間）\n\n\n==========\n【アミシア ミシェラ】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e4388c2e-fb22-444d-817f-dc9f19022021
+DTSTAMP:20250303T183220Z
+DTSTART:20211218T102700Z
+DTEND:20211218T102701Z
+TRANSP:TRANSPARENT
+SUMMARY:アミシア ミシェラ 2周年
+DESCRIPTION:アミシア ミシェラ 2周年\n\n初ツイート：2019/12/18 19:27 （日本時間）\n初配信：2019/12/21 （日本時間）\n\n\n==========\n【アミシア ミシェラ】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e4388c2e-fb22-444d-817f-dc9f19022022
+DTSTAMP:20250303T183220Z
+DTSTART:20221218T102700Z
+DTEND:20221218T102701Z
+TRANSP:TRANSPARENT
+SUMMARY:アミシア ミシェラ 3周年
+DESCRIPTION:アミシア ミシェラ 3周年\n\n初ツイート：2019/12/18 19:27 （日本時間）\n初配信：2019/12/21 （日本時間）\n\n\n==========\n【アミシア ミシェラ】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e4388c2e-fb22-444d-817f-dc9f19992023
+DTSTAMP:20250303T183220Z
+DTSTART:20230716
+DTEND:20230716
+TRANSP:TRANSPARENT
+SUMMARY:アミシア ミシェラ 卒業
+DESCRIPTION:アミシア ミシェラ 卒業\n\n==========\n【アミシア ミシェラ】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Asuka Hina
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc012019
+DTSTAMP:20250303T182709Z
+DTSTART:20190303
+DTEND:20190303
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina Birthday
+DESCRIPTION:Asuka Hina Birthday\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022018
+DTSTAMP:20250303T182709Z
+DTSTART:20180809T071400Z
+DTEND:20180809T074400Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina Debut
+DESCRIPTION:Asuka Hina Debut\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022019
+DTSTAMP:20250303T182709Z
+DTSTART:20190809T071400Z
+DTEND:20190809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 1st Anniversary
+DESCRIPTION:Asuka Hina 1st Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022020
+DTSTAMP:20250303T182709Z
+DTSTART:20200809T071400Z
+DTEND:20200809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 2nd Anniversary
+DESCRIPTION:Asuka Hina 2nd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022021
+DTSTAMP:20250303T182709Z
+DTSTART:20210809T071400Z
+DTEND:20210809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 3rd Anniversary
+DESCRIPTION:Asuka Hina 3rd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022022
+DTSTAMP:20250303T182709Z
+DTSTART:20220809T071400Z
+DTEND:20220809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 4th Anniversary
+DESCRIPTION:Asuka Hina 4th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022023
+DTSTAMP:20250303T182709Z
+DTSTART:20230809T071400Z
+DTEND:20230809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 5th Anniversary
+DESCRIPTION:Asuka Hina 5th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022024
+DTSTAMP:20250303T182709Z
+DTSTART:20240809T071400Z
+DTEND:20240809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 6th Anniversary
+DESCRIPTION:Asuka Hina 6th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022025
+DTSTAMP:20250303T182709Z
+DTSTART:20250809T071400Z
+DTEND:20250809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 7th Anniversary
+DESCRIPTION:Asuka Hina 7th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022026
+DTSTAMP:20250303T182709Z
+DTSTART:20260809T071400Z
+DTEND:20260809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 8th Anniversary
+DESCRIPTION:Asuka Hina 8th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022027
+DTSTAMP:20250303T182709Z
+DTSTART:20270809T071400Z
+DTEND:20270809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 9th Anniversary
+DESCRIPTION:Asuka Hina 9th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022028
+DTSTAMP:20250303T182709Z
+DTSTART:20280809T071400Z
+DTEND:20280809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 10th Anniversary
+DESCRIPTION:Asuka Hina 10th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022029
+DTSTAMP:20250303T182709Z
+DTSTART:20290809T071400Z
+DTEND:20290809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 11th Anniversary
+DESCRIPTION:Asuka Hina 11th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022030
+DTSTAMP:20250303T182709Z
+DTSTART:20300809T071400Z
+DTEND:20300809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 12th Anniversary
+DESCRIPTION:Asuka Hina 12th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022031
+DTSTAMP:20250303T182709Z
+DTSTART:20310809T071400Z
+DTEND:20310809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 13th Anniversary
+DESCRIPTION:Asuka Hina 13th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022032
+DTSTAMP:20250303T182709Z
+DTSTART:20320809T071400Z
+DTEND:20320809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 14th Anniversary
+DESCRIPTION:Asuka Hina 14th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022033
+DTSTAMP:20250303T182709Z
+DTSTART:20330809T071400Z
+DTEND:20330809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 15th Anniversary
+DESCRIPTION:Asuka Hina 15th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022034
+DTSTAMP:20250303T182709Z
+DTSTART:20340809T071400Z
+DTEND:20340809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 16th Anniversary
+DESCRIPTION:Asuka Hina 16th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc022035
+DTSTAMP:20250303T182709Z
+DTSTART:20350809T071400Z
+DTEND:20350809T071401Z
+TRANSP:TRANSPARENT
+SUMMARY:Asuka Hina 17th Anniversary
+DESCRIPTION:Asuka Hina 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 22, 2018 (JST)\n\n\n==========\n【Asuka Hina】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

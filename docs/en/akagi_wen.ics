@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Akagi Wen
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077012023
+DTSTAMP:20250303T183514Z
+DTSTART:20231206
+DTEND:20231206
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen Birthday
+DESCRIPTION:Akagi Wen Birthday\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022023
+DTSTAMP:20250303T183514Z
+DTSTART:20230330T030800Z
+DTEND:20230330T033800Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen Debut
+DESCRIPTION:Akagi Wen Debut\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022024
+DTSTAMP:20250303T183514Z
+DTSTART:20240330T030800Z
+DTEND:20240330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 1st Anniversary
+DESCRIPTION:Akagi Wen 1st Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022025
+DTSTAMP:20250303T183514Z
+DTSTART:20250330T030800Z
+DTEND:20250330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 2nd Anniversary
+DESCRIPTION:Akagi Wen 2nd Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022026
+DTSTAMP:20250303T183514Z
+DTSTART:20260330T030800Z
+DTEND:20260330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 3rd Anniversary
+DESCRIPTION:Akagi Wen 3rd Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022027
+DTSTAMP:20250303T183514Z
+DTSTART:20270330T030800Z
+DTEND:20270330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 4th Anniversary
+DESCRIPTION:Akagi Wen 4th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022028
+DTSTAMP:20250303T183514Z
+DTSTART:20280330T030800Z
+DTEND:20280330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 5th Anniversary
+DESCRIPTION:Akagi Wen 5th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022029
+DTSTAMP:20250303T183514Z
+DTSTART:20290330T030800Z
+DTEND:20290330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 6th Anniversary
+DESCRIPTION:Akagi Wen 6th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022030
+DTSTAMP:20250303T183514Z
+DTSTART:20300330T030800Z
+DTEND:20300330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 7th Anniversary
+DESCRIPTION:Akagi Wen 7th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022031
+DTSTAMP:20250303T183514Z
+DTSTART:20310330T030800Z
+DTEND:20310330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 8th Anniversary
+DESCRIPTION:Akagi Wen 8th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022032
+DTSTAMP:20250303T183514Z
+DTSTART:20320330T030800Z
+DTEND:20320330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 9th Anniversary
+DESCRIPTION:Akagi Wen 9th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022033
+DTSTAMP:20250303T183514Z
+DTSTART:20330330T030800Z
+DTEND:20330330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 10th Anniversary
+DESCRIPTION:Akagi Wen 10th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022034
+DTSTAMP:20250303T183514Z
+DTSTART:20340330T030800Z
+DTEND:20340330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 11th Anniversary
+DESCRIPTION:Akagi Wen 11th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022035
+DTSTAMP:20250303T183514Z
+DTSTART:20350330T030800Z
+DTEND:20350330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Akagi Wen 12th Anniversary
+DESCRIPTION:Akagi Wen 12th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

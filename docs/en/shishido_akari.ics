@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shishido Akari
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f012023
+DTSTAMP:20250303T183504Z
+DTSTART:20230731
+DTEND:20230731
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari Birthday
+DESCRIPTION:Shishido Akari Birthday\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022023
+DTSTAMP:20250303T183504Z
+DTSTART:20230116T034000Z
+DTEND:20230116T041000Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari Debut
+DESCRIPTION:Shishido Akari Debut\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022024
+DTSTAMP:20250303T183504Z
+DTSTART:20240116T034000Z
+DTEND:20240116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 1st Anniversary
+DESCRIPTION:Shishido Akari 1st Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022025
+DTSTAMP:20250303T183504Z
+DTSTART:20250116T034000Z
+DTEND:20250116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 2nd Anniversary
+DESCRIPTION:Shishido Akari 2nd Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022026
+DTSTAMP:20250303T183504Z
+DTSTART:20260116T034000Z
+DTEND:20260116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 3rd Anniversary
+DESCRIPTION:Shishido Akari 3rd Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022027
+DTSTAMP:20250303T183504Z
+DTSTART:20270116T034000Z
+DTEND:20270116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 4th Anniversary
+DESCRIPTION:Shishido Akari 4th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022028
+DTSTAMP:20250303T183504Z
+DTSTART:20280116T034000Z
+DTEND:20280116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 5th Anniversary
+DESCRIPTION:Shishido Akari 5th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022029
+DTSTAMP:20250303T183504Z
+DTSTART:20290116T034000Z
+DTEND:20290116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 6th Anniversary
+DESCRIPTION:Shishido Akari 6th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022030
+DTSTAMP:20250303T183504Z
+DTSTART:20300116T034000Z
+DTEND:20300116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 7th Anniversary
+DESCRIPTION:Shishido Akari 7th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022031
+DTSTAMP:20250303T183504Z
+DTSTART:20310116T034000Z
+DTEND:20310116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 8th Anniversary
+DESCRIPTION:Shishido Akari 8th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022032
+DTSTAMP:20250303T183504Z
+DTSTART:20320116T034000Z
+DTEND:20320116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 9th Anniversary
+DESCRIPTION:Shishido Akari 9th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022033
+DTSTAMP:20250303T183504Z
+DTSTART:20330116T034000Z
+DTEND:20330116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 10th Anniversary
+DESCRIPTION:Shishido Akari 10th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022034
+DTSTAMP:20250303T183504Z
+DTSTART:20340116T034000Z
+DTEND:20340116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 11th Anniversary
+DESCRIPTION:Shishido Akari 11th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f022035
+DTSTAMP:20250303T183504Z
+DTSTART:20350116T034000Z
+DTEND:20350116T034001Z
+TRANSP:TRANSPARENT
+SUMMARY:Shishido Akari 12th Anniversary
+DESCRIPTION:Shishido Akari 12th Anniversary\n\nFirst tweet: Jan 16, 2023, 12:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

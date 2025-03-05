@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Yuzuki Roa
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6012019
+DTSTAMP:20250303T182756Z
+DTSTART:20190704
+DTEND:20190704
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa Birthday
+DESCRIPTION:Yuzuki Roa Birthday\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022019
+DTSTAMP:20250303T182756Z
+DTSTART:20190118T073000Z
+DTEND:20190118T080000Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa Debut
+DESCRIPTION:Yuzuki Roa Debut\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022020
+DTSTAMP:20250303T182756Z
+DTSTART:20200118T073000Z
+DTEND:20200118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 1st Anniversary
+DESCRIPTION:Yuzuki Roa 1st Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022021
+DTSTAMP:20250303T182756Z
+DTSTART:20210118T073000Z
+DTEND:20210118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 2nd Anniversary
+DESCRIPTION:Yuzuki Roa 2nd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022022
+DTSTAMP:20250303T182756Z
+DTSTART:20220118T073000Z
+DTEND:20220118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 3rd Anniversary
+DESCRIPTION:Yuzuki Roa 3rd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022023
+DTSTAMP:20250303T182756Z
+DTSTART:20230118T073000Z
+DTEND:20230118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 4th Anniversary
+DESCRIPTION:Yuzuki Roa 4th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022024
+DTSTAMP:20250303T182756Z
+DTSTART:20240118T073000Z
+DTEND:20240118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 5th Anniversary
+DESCRIPTION:Yuzuki Roa 5th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022025
+DTSTAMP:20250303T182756Z
+DTSTART:20250118T073000Z
+DTEND:20250118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 6th Anniversary
+DESCRIPTION:Yuzuki Roa 6th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022026
+DTSTAMP:20250303T182756Z
+DTSTART:20260118T073000Z
+DTEND:20260118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 7th Anniversary
+DESCRIPTION:Yuzuki Roa 7th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022027
+DTSTAMP:20250303T182756Z
+DTSTART:20270118T073000Z
+DTEND:20270118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 8th Anniversary
+DESCRIPTION:Yuzuki Roa 8th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022028
+DTSTAMP:20250303T182756Z
+DTSTART:20280118T073000Z
+DTEND:20280118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 9th Anniversary
+DESCRIPTION:Yuzuki Roa 9th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022029
+DTSTAMP:20250303T182756Z
+DTSTART:20290118T073000Z
+DTEND:20290118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 10th Anniversary
+DESCRIPTION:Yuzuki Roa 10th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022030
+DTSTAMP:20250303T182756Z
+DTSTART:20300118T073000Z
+DTEND:20300118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 11th Anniversary
+DESCRIPTION:Yuzuki Roa 11th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022031
+DTSTAMP:20250303T182756Z
+DTSTART:20310118T073000Z
+DTEND:20310118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 12th Anniversary
+DESCRIPTION:Yuzuki Roa 12th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022032
+DTSTAMP:20250303T182756Z
+DTSTART:20320118T073000Z
+DTEND:20320118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 13th Anniversary
+DESCRIPTION:Yuzuki Roa 13th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022033
+DTSTAMP:20250303T182756Z
+DTSTART:20330118T073000Z
+DTEND:20330118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 14th Anniversary
+DESCRIPTION:Yuzuki Roa 14th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022034
+DTSTAMP:20250303T182756Z
+DTSTART:20340118T073000Z
+DTEND:20340118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 15th Anniversary
+DESCRIPTION:Yuzuki Roa 15th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022035
+DTSTAMP:20250303T182756Z
+DTSTART:20350118T073000Z
+DTEND:20350118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuzuki Roa 16th Anniversary
+DESCRIPTION:Yuzuki Roa 16th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

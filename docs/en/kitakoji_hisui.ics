@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kitakoji Hisui
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f012021
+DTSTAMP:20250303T183031Z
+DTSTART:20210413
+DTEND:20210413
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui Birthday
+DESCRIPTION:Kitakoji Hisui Birthday\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022020
+DTSTAMP:20250303T183031Z
+DTSTART:20200806T070000Z
+DTEND:20200806T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui Debut
+DESCRIPTION:Kitakoji Hisui Debut\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022021
+DTSTAMP:20250303T183031Z
+DTSTART:20210806T070000Z
+DTEND:20210806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 1st Anniversary
+DESCRIPTION:Kitakoji Hisui 1st Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022022
+DTSTAMP:20250303T183031Z
+DTSTART:20220806T070000Z
+DTEND:20220806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 2nd Anniversary
+DESCRIPTION:Kitakoji Hisui 2nd Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022023
+DTSTAMP:20250303T183031Z
+DTSTART:20230806T070000Z
+DTEND:20230806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 3rd Anniversary
+DESCRIPTION:Kitakoji Hisui 3rd Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022024
+DTSTAMP:20250303T183031Z
+DTSTART:20240806T070000Z
+DTEND:20240806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 4th Anniversary
+DESCRIPTION:Kitakoji Hisui 4th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022025
+DTSTAMP:20250303T183031Z
+DTSTART:20250806T070000Z
+DTEND:20250806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 5th Anniversary
+DESCRIPTION:Kitakoji Hisui 5th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022026
+DTSTAMP:20250303T183031Z
+DTSTART:20260806T070000Z
+DTEND:20260806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 6th Anniversary
+DESCRIPTION:Kitakoji Hisui 6th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022027
+DTSTAMP:20250303T183031Z
+DTSTART:20270806T070000Z
+DTEND:20270806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 7th Anniversary
+DESCRIPTION:Kitakoji Hisui 7th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022028
+DTSTAMP:20250303T183031Z
+DTSTART:20280806T070000Z
+DTEND:20280806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 8th Anniversary
+DESCRIPTION:Kitakoji Hisui 8th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022029
+DTSTAMP:20250303T183031Z
+DTSTART:20290806T070000Z
+DTEND:20290806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 9th Anniversary
+DESCRIPTION:Kitakoji Hisui 9th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022030
+DTSTAMP:20250303T183031Z
+DTSTART:20300806T070000Z
+DTEND:20300806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 10th Anniversary
+DESCRIPTION:Kitakoji Hisui 10th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022031
+DTSTAMP:20250303T183031Z
+DTSTART:20310806T070000Z
+DTEND:20310806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 11th Anniversary
+DESCRIPTION:Kitakoji Hisui 11th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022032
+DTSTAMP:20250303T183031Z
+DTSTART:20320806T070000Z
+DTEND:20320806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 12th Anniversary
+DESCRIPTION:Kitakoji Hisui 12th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022033
+DTSTAMP:20250303T183031Z
+DTSTART:20330806T070000Z
+DTEND:20330806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 13th Anniversary
+DESCRIPTION:Kitakoji Hisui 13th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022034
+DTSTAMP:20250303T183031Z
+DTSTART:20340806T070000Z
+DTEND:20340806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 14th Anniversary
+DESCRIPTION:Kitakoji Hisui 14th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022035
+DTSTAMP:20250303T183031Z
+DTSTART:20350806T070000Z
+DTEND:20350806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kitakoji Hisui 15th Anniversary
+DESCRIPTION:Kitakoji Hisui 15th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

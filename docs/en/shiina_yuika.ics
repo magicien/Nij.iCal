@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shiina Yuika
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
+DTSTAMP:20250304T013705Z
+DTSTART:20260118T090000Z
+DTEND:20260118T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo
+LOCATION:TOYOTA ARENA TOKYO
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81012019
+DTSTAMP:20250303T184301Z
+DTSTART:20190417
+DTEND:20190417
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika Birthday
+DESCRIPTION:Shiina Yuika Birthday\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022018
+DTSTAMP:20250303T184301Z
+DTSTART:20180730T123500Z
+DTEND:20180730T130500Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika Debut
+DESCRIPTION:Shiina Yuika Debut\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022019
+DTSTAMP:20250303T184301Z
+DTSTART:20190730T123500Z
+DTEND:20190730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 1st Anniversary
+DESCRIPTION:Shiina Yuika 1st Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022020
+DTSTAMP:20250303T184301Z
+DTSTART:20200730T123500Z
+DTEND:20200730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 2nd Anniversary
+DESCRIPTION:Shiina Yuika 2nd Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022021
+DTSTAMP:20250303T184301Z
+DTSTART:20210730T123500Z
+DTEND:20210730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 3rd Anniversary
+DESCRIPTION:Shiina Yuika 3rd Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022022
+DTSTAMP:20250303T184301Z
+DTSTART:20220730T123500Z
+DTEND:20220730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 4th Anniversary
+DESCRIPTION:Shiina Yuika 4th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022023
+DTSTAMP:20250303T184301Z
+DTSTART:20230730T123500Z
+DTEND:20230730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 5th Anniversary
+DESCRIPTION:Shiina Yuika 5th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022024
+DTSTAMP:20250303T184301Z
+DTSTART:20240730T123500Z
+DTEND:20240730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 6th Anniversary
+DESCRIPTION:Shiina Yuika 6th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022025
+DTSTAMP:20250303T184301Z
+DTSTART:20250730T123500Z
+DTEND:20250730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 7th Anniversary
+DESCRIPTION:Shiina Yuika 7th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022026
+DTSTAMP:20250303T184301Z
+DTSTART:20260730T123500Z
+DTEND:20260730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 8th Anniversary
+DESCRIPTION:Shiina Yuika 8th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022027
+DTSTAMP:20250303T184301Z
+DTSTART:20270730T123500Z
+DTEND:20270730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 9th Anniversary
+DESCRIPTION:Shiina Yuika 9th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022028
+DTSTAMP:20250303T184301Z
+DTSTART:20280730T123500Z
+DTEND:20280730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 10th Anniversary
+DESCRIPTION:Shiina Yuika 10th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022029
+DTSTAMP:20250303T184301Z
+DTSTART:20290730T123500Z
+DTEND:20290730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 11th Anniversary
+DESCRIPTION:Shiina Yuika 11th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022030
+DTSTAMP:20250303T184301Z
+DTSTART:20300730T123500Z
+DTEND:20300730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 12th Anniversary
+DESCRIPTION:Shiina Yuika 12th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022031
+DTSTAMP:20250303T184301Z
+DTSTART:20310730T123500Z
+DTEND:20310730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 13th Anniversary
+DESCRIPTION:Shiina Yuika 13th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022032
+DTSTAMP:20250303T184301Z
+DTSTART:20320730T123500Z
+DTEND:20320730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 14th Anniversary
+DESCRIPTION:Shiina Yuika 14th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022033
+DTSTAMP:20250303T184301Z
+DTSTART:20330730T123500Z
+DTEND:20330730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 15th Anniversary
+DESCRIPTION:Shiina Yuika 15th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022034
+DTSTAMP:20250303T184301Z
+DTSTART:20340730T123500Z
+DTEND:20340730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 16th Anniversary
+DESCRIPTION:Shiina Yuika 16th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81022035
+DTSTAMP:20250303T184301Z
+DTSTART:20350730T123500Z
+DTEND:20350730T123501Z
+TRANSP:TRANSPARENT
+SUMMARY:Shiina Yuika 17th Anniversary
+DESCRIPTION:Shiina Yuika 17th Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 2, 2018 (JST)\n\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Hex Haywire
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:98b2b6d6-7d65-4b0b-8013-6fa6ff012023
+DTSTAMP:20250303T183931Z
+DTSTART:20230507
+DTEND:20230507
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Hex Haywire Birthday
+DESCRIPTION:Hex Haywire Birthday\n\n==========\n【Hex Haywire】\nYouTube: https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ\nX: https://twitter.com/HexHaywire\n\n
+URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
+END:VEVENT
+BEGIN:VEVENT
+UID:98b2b6d6-7d65-4b0b-8013-6fa6ff022022
+DTSTAMP:20250303T183931Z
+DTSTART:20221206T000500Z
+DTEND:20221206T003500Z
+TRANSP:TRANSPARENT
+SUMMARY:Hex Haywire Debut
+DESCRIPTION:Hex Haywire Debut\n\n==========\n【Hex Haywire】\nYouTube: https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ\nX: https://twitter.com/HexHaywire\n\n
+URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
+END:VEVENT
+BEGIN:VEVENT
+UID:98b2b6d6-7d65-4b0b-8013-6fa6ff022023
+DTSTAMP:20250303T183931Z
+DTSTART:20231206T000500Z
+DTEND:20231206T000501Z
+TRANSP:TRANSPARENT
+SUMMARY:Hex Haywire 1st Anniversary
+DESCRIPTION:Hex Haywire 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Hex Haywire】\nYouTube: https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ\nX: https://twitter.com/HexHaywire\n\n
+URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
+END:VEVENT
+BEGIN:VEVENT
+UID:98b2b6d6-7d65-4b0b-8013-6fa6ff992024
+DTSTAMP:20250303T183931Z
+DTSTART:20240823
+DTEND:20240823
+TRANSP:TRANSPARENT
+SUMMARY:Hex Haywire Graduation
+DESCRIPTION:Hex Haywire Graduation\n\n==========\n【Hex Haywire】\nYouTube: https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ\nX: https://twitter.com/HexHaywire\n\n
+URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

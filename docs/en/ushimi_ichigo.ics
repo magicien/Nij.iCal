@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Ushimi Ichigo
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24012018
+DTSTAMP:20250303T184237Z
+DTSTART:20180415
+DTEND:20180415
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo Birthday
+DESCRIPTION:Ushimi Ichigo Birthday\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022018
+DTSTAMP:20250303T184237Z
+DTSTART:20180307T100100Z
+DTEND:20180307T103100Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo Debut
+DESCRIPTION:Ushimi Ichigo Debut\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022019
+DTSTAMP:20250303T184237Z
+DTSTART:20190307T100100Z
+DTEND:20190307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 1st Anniversary
+DESCRIPTION:Ushimi Ichigo 1st Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022020
+DTSTAMP:20250303T184237Z
+DTSTART:20200307T100100Z
+DTEND:20200307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 2nd Anniversary
+DESCRIPTION:Ushimi Ichigo 2nd Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022021
+DTSTAMP:20250303T184237Z
+DTSTART:20210307T100100Z
+DTEND:20210307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 3rd Anniversary
+DESCRIPTION:Ushimi Ichigo 3rd Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022022
+DTSTAMP:20250303T184237Z
+DTSTART:20220307T100100Z
+DTEND:20220307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 4th Anniversary
+DESCRIPTION:Ushimi Ichigo 4th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022023
+DTSTAMP:20250303T184237Z
+DTSTART:20230307T100100Z
+DTEND:20230307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 5th Anniversary
+DESCRIPTION:Ushimi Ichigo 5th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022024
+DTSTAMP:20250303T184237Z
+DTSTART:20240307T100100Z
+DTEND:20240307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 6th Anniversary
+DESCRIPTION:Ushimi Ichigo 6th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022025
+DTSTAMP:20250303T184237Z
+DTSTART:20250307T100100Z
+DTEND:20250307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 7th Anniversary
+DESCRIPTION:Ushimi Ichigo 7th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022026
+DTSTAMP:20250303T184237Z
+DTSTART:20260307T100100Z
+DTEND:20260307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 8th Anniversary
+DESCRIPTION:Ushimi Ichigo 8th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022027
+DTSTAMP:20250303T184237Z
+DTSTART:20270307T100100Z
+DTEND:20270307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 9th Anniversary
+DESCRIPTION:Ushimi Ichigo 9th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022028
+DTSTAMP:20250303T184237Z
+DTSTART:20280307T100100Z
+DTEND:20280307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 10th Anniversary
+DESCRIPTION:Ushimi Ichigo 10th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022029
+DTSTAMP:20250303T184237Z
+DTSTART:20290307T100100Z
+DTEND:20290307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 11th Anniversary
+DESCRIPTION:Ushimi Ichigo 11th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022030
+DTSTAMP:20250303T184237Z
+DTSTART:20300307T100100Z
+DTEND:20300307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 12th Anniversary
+DESCRIPTION:Ushimi Ichigo 12th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022031
+DTSTAMP:20250303T184237Z
+DTSTART:20310307T100100Z
+DTEND:20310307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 13th Anniversary
+DESCRIPTION:Ushimi Ichigo 13th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022032
+DTSTAMP:20250303T184237Z
+DTSTART:20320307T100100Z
+DTEND:20320307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 14th Anniversary
+DESCRIPTION:Ushimi Ichigo 14th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022033
+DTSTAMP:20250303T184237Z
+DTSTART:20330307T100100Z
+DTEND:20330307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 15th Anniversary
+DESCRIPTION:Ushimi Ichigo 15th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022034
+DTSTAMP:20250303T184237Z
+DTSTART:20340307T100100Z
+DTEND:20340307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 16th Anniversary
+DESCRIPTION:Ushimi Ichigo 16th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24022035
+DTSTAMP:20250303T184237Z
+DTSTART:20350307T100100Z
+DTEND:20350307T100101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ushimi Ichigo 17th Anniversary
+DESCRIPTION:Ushimi Ichigo 17th Anniversary\n\nFirst tweet: Mar 7, 2018, 19:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Ushimi Ichigo】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

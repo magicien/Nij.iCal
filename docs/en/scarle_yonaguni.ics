@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Scarle Yonaguni
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578012023
+DTSTAMP:20250303T183928Z
+DTSTART:20230219
+DTEND:20230219
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni Birthday
+DESCRIPTION:Scarle Yonaguni Birthday\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022022
+DTSTAMP:20250303T183928Z
+DTSTART:20220720T000000Z
+DTEND:20220720T003000Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni Debut
+DESCRIPTION:Scarle Yonaguni Debut\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022023
+DTSTAMP:20250303T183928Z
+DTSTART:20230720T000000Z
+DTEND:20230720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 1st Anniversary
+DESCRIPTION:Scarle Yonaguni 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022024
+DTSTAMP:20250303T183928Z
+DTSTART:20240720T000000Z
+DTEND:20240720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 2nd Anniversary
+DESCRIPTION:Scarle Yonaguni 2nd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022025
+DTSTAMP:20250303T183928Z
+DTSTART:20250720T000000Z
+DTEND:20250720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 3rd Anniversary
+DESCRIPTION:Scarle Yonaguni 3rd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022026
+DTSTAMP:20250303T183928Z
+DTSTART:20260720T000000Z
+DTEND:20260720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 4th Anniversary
+DESCRIPTION:Scarle Yonaguni 4th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022027
+DTSTAMP:20250303T183928Z
+DTSTART:20270720T000000Z
+DTEND:20270720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 5th Anniversary
+DESCRIPTION:Scarle Yonaguni 5th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022028
+DTSTAMP:20250303T183928Z
+DTSTART:20280720T000000Z
+DTEND:20280720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 6th Anniversary
+DESCRIPTION:Scarle Yonaguni 6th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022029
+DTSTAMP:20250303T183928Z
+DTSTART:20290720T000000Z
+DTEND:20290720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 7th Anniversary
+DESCRIPTION:Scarle Yonaguni 7th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022030
+DTSTAMP:20250303T183928Z
+DTSTART:20300720T000000Z
+DTEND:20300720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 8th Anniversary
+DESCRIPTION:Scarle Yonaguni 8th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022031
+DTSTAMP:20250303T183928Z
+DTSTART:20310720T000000Z
+DTEND:20310720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 9th Anniversary
+DESCRIPTION:Scarle Yonaguni 9th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022032
+DTSTAMP:20250303T183928Z
+DTSTART:20320720T000000Z
+DTEND:20320720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 10th Anniversary
+DESCRIPTION:Scarle Yonaguni 10th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022033
+DTSTAMP:20250303T183928Z
+DTSTART:20330720T000000Z
+DTEND:20330720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 11th Anniversary
+DESCRIPTION:Scarle Yonaguni 11th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022034
+DTSTAMP:20250303T183928Z
+DTSTART:20340720T000000Z
+DTEND:20340720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 12th Anniversary
+DESCRIPTION:Scarle Yonaguni 12th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:fc791380-3523-4947-8b78-840578022035
+DTSTAMP:20250303T183928Z
+DTSTART:20350720T000000Z
+DTEND:20350720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Scarle Yonaguni 13th Anniversary
+DESCRIPTION:Scarle Yonaguni 13th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Scarle Yonaguni】\nYouTube: https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ\nX: https://twitter.com/ScarleYonaguni\n\n
+URL:https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

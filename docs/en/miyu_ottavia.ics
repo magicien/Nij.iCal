@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Miyu Ottavia
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfcfe742-0d52-45b1-b143-5a4dcd012020
+DTSTAMP:20250303T134829Z
+DTSTART:20200508
+DTEND:20200508
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Miyu Ottavia Birthday
+DESCRIPTION:Miyu Ottavia Birthday\n\n==========\n【Miyu Ottavia】\nYouTube: https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g
+END:VEVENT
+BEGIN:VEVENT
+UID:dfcfe742-0d52-45b1-b143-5a4dcd022019
+DTSTAMP:20250303T134829Z
+DTSTART:20191218T101600Z
+DTEND:20191218T104600Z
+TRANSP:TRANSPARENT
+SUMMARY:Miyu Ottavia Debut
+DESCRIPTION:Miyu Ottavia Debut\n\n==========\n【Miyu Ottavia】\nYouTube: https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g
+END:VEVENT
+BEGIN:VEVENT
+UID:dfcfe742-0d52-45b1-b143-5a4dcd022020
+DTSTAMP:20250303T134829Z
+DTSTART:20201218T101600Z
+DTEND:20201218T101601Z
+TRANSP:TRANSPARENT
+SUMMARY:Miyu Ottavia 1st Anniversary
+DESCRIPTION:Miyu Ottavia 1st Anniversary\n\nFirst tweet: Dec 18, 2019, 19:12 (JST)\nFirst stream: Dec 21, 2019 (JST)\n\n\n==========\n【Miyu Ottavia】\nYouTube: https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g
+END:VEVENT
+BEGIN:VEVENT
+UID:dfcfe742-0d52-45b1-b143-5a4dcd022021
+DTSTAMP:20250303T134829Z
+DTSTART:20211218T101600Z
+DTEND:20211218T101601Z
+TRANSP:TRANSPARENT
+SUMMARY:Miyu Ottavia 2nd Anniversary
+DESCRIPTION:Miyu Ottavia 2nd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:12 (JST)\nFirst stream: Dec 21, 2019 (JST)\n\n\n==========\n【Miyu Ottavia】\nYouTube: https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g
+END:VEVENT
+BEGIN:VEVENT
+UID:dfcfe742-0d52-45b1-b143-5a4dcd992022
+DTSTAMP:20250303T134829Z
+DTSTART:20221127
+DTEND:20221127
+TRANSP:TRANSPARENT
+SUMMARY:Miyu Ottavia Graduation
+DESCRIPTION:Miyu Ottavia Graduation\n\n==========\n【Miyu Ottavia】\nYouTube: https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

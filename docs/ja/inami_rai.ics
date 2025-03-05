@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:伊波ライ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
+DTSTAMP:20250304T013659Z
+DTSTART:20250830T090000Z
+DTEND:20250830T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 神戸公演
+LOCATION:神戸国際会館
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【シェリン・バーガンディ】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7012023
+DTSTAMP:20250303T183523Z
+DTSTART:20231023
+DTEND:20231023
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 誕生日
+DESCRIPTION:伊波ライ 誕生日\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022023
+DTSTAMP:20250303T183523Z
+DTSTART:20230426T030400Z
+DTEND:20230426T033400Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 活動開始
+DESCRIPTION:伊波ライ 活動開始\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022024
+DTSTAMP:20250303T183523Z
+DTSTART:20240426T030400Z
+DTEND:20240426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 1周年
+DESCRIPTION:伊波ライ 1周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022025
+DTSTAMP:20250303T183523Z
+DTSTART:20250426T030400Z
+DTEND:20250426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 2周年
+DESCRIPTION:伊波ライ 2周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022026
+DTSTAMP:20250303T183523Z
+DTSTART:20260426T030400Z
+DTEND:20260426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 3周年
+DESCRIPTION:伊波ライ 3周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022027
+DTSTAMP:20250303T183523Z
+DTSTART:20270426T030400Z
+DTEND:20270426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 4周年
+DESCRIPTION:伊波ライ 4周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022028
+DTSTAMP:20250303T183523Z
+DTSTART:20280426T030400Z
+DTEND:20280426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 5周年
+DESCRIPTION:伊波ライ 5周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022029
+DTSTAMP:20250303T183523Z
+DTSTART:20290426T030400Z
+DTEND:20290426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 6周年
+DESCRIPTION:伊波ライ 6周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022030
+DTSTAMP:20250303T183523Z
+DTSTART:20300426T030400Z
+DTEND:20300426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 7周年
+DESCRIPTION:伊波ライ 7周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022031
+DTSTAMP:20250303T183523Z
+DTSTART:20310426T030400Z
+DTEND:20310426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 8周年
+DESCRIPTION:伊波ライ 8周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022032
+DTSTAMP:20250303T183523Z
+DTSTART:20320426T030400Z
+DTEND:20320426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 9周年
+DESCRIPTION:伊波ライ 9周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022033
+DTSTAMP:20250303T183523Z
+DTSTART:20330426T030400Z
+DTEND:20330426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 10周年
+DESCRIPTION:伊波ライ 10周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022034
+DTSTAMP:20250303T183523Z
+DTSTART:20340426T030400Z
+DTEND:20340426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 11周年
+DESCRIPTION:伊波ライ 11周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022035
+DTSTAMP:20250303T183523Z
+DTSTART:20350426T030400Z
+DTEND:20350426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:伊波ライ 12周年
+DESCRIPTION:伊波ライ 12周年\n\n初ツイート：2023/04/26 12:04 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

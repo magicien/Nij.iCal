@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:鈴原るる
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30012019
+DTSTAMP:20250303T182827Z
+DTSTART:20190624
+DTEND:20190624
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:鈴原るる 誕生日
+DESCRIPTION:鈴原るる 誕生日\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30022019
+DTSTAMP:20250303T182827Z
+DTSTART:20190429T070800Z
+DTEND:20190429T073800Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴原るる 活動開始
+DESCRIPTION:鈴原るる 活動開始\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30022020
+DTSTAMP:20250303T182827Z
+DTSTART:20200429T070800Z
+DTEND:20200429T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴原るる 1周年
+DESCRIPTION:鈴原るる 1周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30022021
+DTSTAMP:20250303T182827Z
+DTSTART:20210429T070800Z
+DTEND:20210429T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴原るる 2周年
+DESCRIPTION:鈴原るる 2周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30992021
+DTSTAMP:20250303T182827Z
+DTSTART:20210630
+DTEND:20210630
+TRANSP:TRANSPARENT
+SUMMARY:鈴原るる 卒業
+DESCRIPTION:鈴原るる 卒業\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

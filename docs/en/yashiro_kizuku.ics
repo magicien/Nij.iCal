@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Yashiro Kizuku
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:40275588-0052-4ba0-a2f2-a11cce6671e8
+DTSTAMP:20250304T013652Z
+DTSTART:20250721T090000Z
+DTEND:20250721T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama
+LOCATION:K-Arena Yokohama
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c012018
+DTSTAMP:20250303T184309Z
+DTSTART:20181123
+DTEND:20181123
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku Birthday
+DESCRIPTION:Yashiro Kizuku Birthday\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022018
+DTSTAMP:20250303T184309Z
+DTSTART:20180603T102200Z
+DTEND:20180603T105200Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku Debut
+DESCRIPTION:Yashiro Kizuku Debut\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022019
+DTSTAMP:20250303T184309Z
+DTSTART:20190603T102200Z
+DTEND:20190603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 1st Anniversary
+DESCRIPTION:Yashiro Kizuku 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022020
+DTSTAMP:20250303T184309Z
+DTSTART:20200603T102200Z
+DTEND:20200603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 2nd Anniversary
+DESCRIPTION:Yashiro Kizuku 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022021
+DTSTAMP:20250303T184309Z
+DTSTART:20210603T102200Z
+DTEND:20210603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 3rd Anniversary
+DESCRIPTION:Yashiro Kizuku 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022022
+DTSTAMP:20250303T184309Z
+DTSTART:20220603T102200Z
+DTEND:20220603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 4th Anniversary
+DESCRIPTION:Yashiro Kizuku 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022023
+DTSTAMP:20250303T184309Z
+DTSTART:20230603T102200Z
+DTEND:20230603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 5th Anniversary
+DESCRIPTION:Yashiro Kizuku 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022024
+DTSTAMP:20250303T184309Z
+DTSTART:20240603T102200Z
+DTEND:20240603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 6th Anniversary
+DESCRIPTION:Yashiro Kizuku 6th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022025
+DTSTAMP:20250303T184309Z
+DTSTART:20250603T102200Z
+DTEND:20250603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 7th Anniversary
+DESCRIPTION:Yashiro Kizuku 7th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022026
+DTSTAMP:20250303T184309Z
+DTSTART:20260603T102200Z
+DTEND:20260603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 8th Anniversary
+DESCRIPTION:Yashiro Kizuku 8th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022027
+DTSTAMP:20250303T184309Z
+DTSTART:20270603T102200Z
+DTEND:20270603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 9th Anniversary
+DESCRIPTION:Yashiro Kizuku 9th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022028
+DTSTAMP:20250303T184309Z
+DTSTART:20280603T102200Z
+DTEND:20280603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 10th Anniversary
+DESCRIPTION:Yashiro Kizuku 10th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022029
+DTSTAMP:20250303T184309Z
+DTSTART:20290603T102200Z
+DTEND:20290603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 11th Anniversary
+DESCRIPTION:Yashiro Kizuku 11th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022030
+DTSTAMP:20250303T184309Z
+DTSTART:20300603T102200Z
+DTEND:20300603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 12th Anniversary
+DESCRIPTION:Yashiro Kizuku 12th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022031
+DTSTAMP:20250303T184309Z
+DTSTART:20310603T102200Z
+DTEND:20310603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 13th Anniversary
+DESCRIPTION:Yashiro Kizuku 13th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022032
+DTSTAMP:20250303T184309Z
+DTSTART:20320603T102200Z
+DTEND:20320603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 14th Anniversary
+DESCRIPTION:Yashiro Kizuku 14th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022033
+DTSTAMP:20250303T184309Z
+DTSTART:20330603T102200Z
+DTEND:20330603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 15th Anniversary
+DESCRIPTION:Yashiro Kizuku 15th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022034
+DTSTAMP:20250303T184309Z
+DTSTART:20340603T102200Z
+DTEND:20340603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 16th Anniversary
+DESCRIPTION:Yashiro Kizuku 16th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c022035
+DTSTAMP:20250303T184309Z
+DTSTART:20350603T102200Z
+DTEND:20350603T102201Z
+TRANSP:TRANSPARENT
+SUMMARY:Yashiro Kizuku 17th Anniversary
+DESCRIPTION:Yashiro Kizuku 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 19:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:アズラ セシリア
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:0c504922-2644-4d7b-afd7-d649cf012020
+DTSTAMP:20250303T183226Z
+DTSTART:20200720
+DTEND:20200720
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:アズラ セシリア 誕生日
+DESCRIPTION:アズラ セシリア 誕生日\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
+END:VEVENT
+BEGIN:VEVENT
+UID:0c504922-2644-4d7b-afd7-d649cf022020
+DTSTAMP:20250303T183226Z
+DTSTART:20200313T103200Z
+DTEND:20200313T110200Z
+TRANSP:TRANSPARENT
+SUMMARY:アズラ セシリア 活動開始
+DESCRIPTION:アズラ セシリア 活動開始\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
+END:VEVENT
+BEGIN:VEVENT
+UID:0c504922-2644-4d7b-afd7-d649cf022021
+DTSTAMP:20250303T183226Z
+DTSTART:20210313T103200Z
+DTEND:20210313T103201Z
+TRANSP:TRANSPARENT
+SUMMARY:アズラ セシリア 1周年
+DESCRIPTION:アズラ セシリア 1周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
+END:VEVENT
+BEGIN:VEVENT
+UID:0c504922-2644-4d7b-afd7-d649cf022022
+DTSTAMP:20250303T183226Z
+DTSTART:20220313T103200Z
+DTEND:20220313T103201Z
+TRANSP:TRANSPARENT
+SUMMARY:アズラ セシリア 2周年
+DESCRIPTION:アズラ セシリア 2周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
+END:VEVENT
+BEGIN:VEVENT
+UID:0c504922-2644-4d7b-afd7-d649cf022023
+DTSTAMP:20250303T183226Z
+DTSTART:20230313T103200Z
+DTEND:20230313T103201Z
+TRANSP:TRANSPARENT
+SUMMARY:アズラ セシリア 3周年
+DESCRIPTION:アズラ セシリア 3周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
+END:VEVENT
+BEGIN:VEVENT
+UID:0c504922-2644-4d7b-afd7-d649cf992023
+DTSTAMP:20250303T183226Z
+DTSTART:20230820
+DTEND:20230820
+TRANSP:TRANSPARENT
+SUMMARY:アズラ セシリア 卒業
+DESCRIPTION:アズラ セシリア 卒業\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Debidebi Debiru
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad012018
+DTSTAMP:20250303T182717Z
+DTSTART:20181218
+DTEND:20181218
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru Birthday
+DESCRIPTION:Debidebi Debiru Birthday\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022018
+DTSTAMP:20250303T182717Z
+DTSTART:20180831T070000Z
+DTEND:20180831T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru Debut
+DESCRIPTION:Debidebi Debiru Debut\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022019
+DTSTAMP:20250303T182717Z
+DTSTART:20190831T070000Z
+DTEND:20190831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 1st Anniversary
+DESCRIPTION:Debidebi Debiru 1st Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022020
+DTSTAMP:20250303T182717Z
+DTSTART:20200831T070000Z
+DTEND:20200831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 2nd Anniversary
+DESCRIPTION:Debidebi Debiru 2nd Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022021
+DTSTAMP:20250303T182717Z
+DTSTART:20210831T070000Z
+DTEND:20210831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 3rd Anniversary
+DESCRIPTION:Debidebi Debiru 3rd Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022022
+DTSTAMP:20250303T182717Z
+DTSTART:20220831T070000Z
+DTEND:20220831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 4th Anniversary
+DESCRIPTION:Debidebi Debiru 4th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022023
+DTSTAMP:20250303T182717Z
+DTSTART:20230831T070000Z
+DTEND:20230831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 5th Anniversary
+DESCRIPTION:Debidebi Debiru 5th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022024
+DTSTAMP:20250303T182717Z
+DTSTART:20240831T070000Z
+DTEND:20240831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 6th Anniversary
+DESCRIPTION:Debidebi Debiru 6th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022025
+DTSTAMP:20250303T182717Z
+DTSTART:20250831T070000Z
+DTEND:20250831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 7th Anniversary
+DESCRIPTION:Debidebi Debiru 7th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022026
+DTSTAMP:20250303T182717Z
+DTSTART:20260831T070000Z
+DTEND:20260831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 8th Anniversary
+DESCRIPTION:Debidebi Debiru 8th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022027
+DTSTAMP:20250303T182717Z
+DTSTART:20270831T070000Z
+DTEND:20270831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 9th Anniversary
+DESCRIPTION:Debidebi Debiru 9th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022028
+DTSTAMP:20250303T182717Z
+DTSTART:20280831T070000Z
+DTEND:20280831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 10th Anniversary
+DESCRIPTION:Debidebi Debiru 10th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022029
+DTSTAMP:20250303T182717Z
+DTSTART:20290831T070000Z
+DTEND:20290831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 11th Anniversary
+DESCRIPTION:Debidebi Debiru 11th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022030
+DTSTAMP:20250303T182717Z
+DTSTART:20300831T070000Z
+DTEND:20300831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 12th Anniversary
+DESCRIPTION:Debidebi Debiru 12th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022031
+DTSTAMP:20250303T182717Z
+DTSTART:20310831T070000Z
+DTEND:20310831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 13th Anniversary
+DESCRIPTION:Debidebi Debiru 13th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022032
+DTSTAMP:20250303T182717Z
+DTSTART:20320831T070000Z
+DTEND:20320831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 14th Anniversary
+DESCRIPTION:Debidebi Debiru 14th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022033
+DTSTAMP:20250303T182717Z
+DTSTART:20330831T070000Z
+DTEND:20330831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 15th Anniversary
+DESCRIPTION:Debidebi Debiru 15th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022034
+DTSTAMP:20250303T182717Z
+DTSTART:20340831T070000Z
+DTEND:20340831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 16th Anniversary
+DESCRIPTION:Debidebi Debiru 16th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022035
+DTSTAMP:20250303T182717Z
+DTSTART:20350831T070000Z
+DTEND:20350831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Debidebi Debiru 17th Anniversary
+DESCRIPTION:Debidebi Debiru 17th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 4, 2018 (JST)\n\n\n==========\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

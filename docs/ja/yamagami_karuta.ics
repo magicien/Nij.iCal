@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:山神カルタ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ee24af-8fec-45c0-8695-14171d44bfc5
+DTSTAMP:20250304T013647Z
+DTSTART:20250510T090000Z
+DTEND:20250510T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演
+LOCATION:仙台サンプラザホール
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f012020
+DTSTAMP:20250303T182912Z
+DTSTART:20200811
+DTEND:20200811
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 誕生日
+DESCRIPTION:山神カルタ 誕生日\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022019
+DTSTAMP:20250303T182912Z
+DTSTART:20191017T070800Z
+DTEND:20191017T073800Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 活動開始
+DESCRIPTION:山神カルタ 活動開始\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022020
+DTSTAMP:20250303T182912Z
+DTSTART:20201017T070800Z
+DTEND:20201017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 1周年
+DESCRIPTION:山神カルタ 1周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022021
+DTSTAMP:20250303T182912Z
+DTSTART:20211017T070800Z
+DTEND:20211017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 2周年
+DESCRIPTION:山神カルタ 2周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022022
+DTSTAMP:20250303T182912Z
+DTSTART:20221017T070800Z
+DTEND:20221017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 3周年
+DESCRIPTION:山神カルタ 3周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022023
+DTSTAMP:20250303T182912Z
+DTSTART:20231017T070800Z
+DTEND:20231017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 4周年
+DESCRIPTION:山神カルタ 4周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022024
+DTSTAMP:20250303T182912Z
+DTSTART:20241017T070800Z
+DTEND:20241017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 5周年
+DESCRIPTION:山神カルタ 5周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022025
+DTSTAMP:20250303T182912Z
+DTSTART:20251017T070800Z
+DTEND:20251017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 6周年
+DESCRIPTION:山神カルタ 6周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022026
+DTSTAMP:20250303T182912Z
+DTSTART:20261017T070800Z
+DTEND:20261017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 7周年
+DESCRIPTION:山神カルタ 7周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022027
+DTSTAMP:20250303T182912Z
+DTSTART:20271017T070800Z
+DTEND:20271017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 8周年
+DESCRIPTION:山神カルタ 8周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022028
+DTSTAMP:20250303T182912Z
+DTSTART:20281017T070800Z
+DTEND:20281017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 9周年
+DESCRIPTION:山神カルタ 9周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022029
+DTSTAMP:20250303T182912Z
+DTSTART:20291017T070800Z
+DTEND:20291017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 10周年
+DESCRIPTION:山神カルタ 10周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022030
+DTSTAMP:20250303T182912Z
+DTSTART:20301017T070800Z
+DTEND:20301017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 11周年
+DESCRIPTION:山神カルタ 11周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022031
+DTSTAMP:20250303T182912Z
+DTSTART:20311017T070800Z
+DTEND:20311017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 12周年
+DESCRIPTION:山神カルタ 12周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022032
+DTSTAMP:20250303T182912Z
+DTSTART:20321017T070800Z
+DTEND:20321017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 13周年
+DESCRIPTION:山神カルタ 13周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022033
+DTSTAMP:20250303T182912Z
+DTSTART:20331017T070800Z
+DTEND:20331017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 14周年
+DESCRIPTION:山神カルタ 14周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022034
+DTSTAMP:20250303T182912Z
+DTSTART:20341017T070800Z
+DTEND:20341017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 15周年
+DESCRIPTION:山神カルタ 15周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f022035
+DTSTAMP:20250303T182912Z
+DTSTART:20351017T070800Z
+DTEND:20351017T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:山神カルタ 16周年
+DESCRIPTION:山神カルタ 16周年\n\n初ツイート：2019/10/17 16:08 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

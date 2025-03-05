@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:月見しずく
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:da044c51-5ba0-443b-bf9a-5d3140012019
+DTSTAMP:20250303T182722Z
+DTSTART:20190815
+DTEND:20190815
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:月見しずく 誕生日
+DESCRIPTION:月見しずく 誕生日\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
+END:VEVENT
+BEGIN:VEVENT
+UID:da044c51-5ba0-443b-bf9a-5d3140022018
+DTSTAMP:20250303T182722Z
+DTSTART:20180831T092300Z
+DTEND:20180831T095300Z
+TRANSP:TRANSPARENT
+SUMMARY:月見しずく 活動開始
+DESCRIPTION:月見しずく 活動開始\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
+END:VEVENT
+BEGIN:VEVENT
+UID:da044c51-5ba0-443b-bf9a-5d3140022019
+DTSTAMP:20250303T182722Z
+DTSTART:20190831T092300Z
+DTEND:20190831T092301Z
+TRANSP:TRANSPARENT
+SUMMARY:月見しずく 1周年
+DESCRIPTION:月見しずく 1周年\n\n初ツイート：2018/08/31 18:23 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
+END:VEVENT
+BEGIN:VEVENT
+UID:da044c51-5ba0-443b-bf9a-5d3140992020
+DTSTAMP:20250303T182722Z
+DTSTART:20200113
+DTEND:20200113
+TRANSP:TRANSPARENT
+SUMMARY:月見しずく 卒業
+DESCRIPTION:月見しずく 卒業\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

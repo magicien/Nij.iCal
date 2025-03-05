@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kuroi Shiba
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93012019
+DTSTAMP:20250303T182746Z
+DTSTART:20190111
+DTEND:20190111
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba Birthday
+DESCRIPTION:Kuroi Shiba Birthday\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022018
+DTSTAMP:20250303T182746Z
+DTSTART:20180925T070300Z
+DTEND:20180925T073300Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba Debut
+DESCRIPTION:Kuroi Shiba Debut\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022019
+DTSTAMP:20250303T182746Z
+DTSTART:20190925T070300Z
+DTEND:20190925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 1st Anniversary
+DESCRIPTION:Kuroi Shiba 1st Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022020
+DTSTAMP:20250303T182746Z
+DTSTART:20200925T070300Z
+DTEND:20200925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 2nd Anniversary
+DESCRIPTION:Kuroi Shiba 2nd Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022021
+DTSTAMP:20250303T182746Z
+DTSTART:20210925T070300Z
+DTEND:20210925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 3rd Anniversary
+DESCRIPTION:Kuroi Shiba 3rd Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022022
+DTSTAMP:20250303T182746Z
+DTSTART:20220925T070300Z
+DTEND:20220925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 4th Anniversary
+DESCRIPTION:Kuroi Shiba 4th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022023
+DTSTAMP:20250303T182746Z
+DTSTART:20230925T070300Z
+DTEND:20230925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 5th Anniversary
+DESCRIPTION:Kuroi Shiba 5th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022024
+DTSTAMP:20250303T182746Z
+DTSTART:20240925T070300Z
+DTEND:20240925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 6th Anniversary
+DESCRIPTION:Kuroi Shiba 6th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022025
+DTSTAMP:20250303T182746Z
+DTSTART:20250925T070300Z
+DTEND:20250925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 7th Anniversary
+DESCRIPTION:Kuroi Shiba 7th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022026
+DTSTAMP:20250303T182746Z
+DTSTART:20260925T070300Z
+DTEND:20260925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 8th Anniversary
+DESCRIPTION:Kuroi Shiba 8th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022027
+DTSTAMP:20250303T182746Z
+DTSTART:20270925T070300Z
+DTEND:20270925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 9th Anniversary
+DESCRIPTION:Kuroi Shiba 9th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022028
+DTSTAMP:20250303T182746Z
+DTSTART:20280925T070300Z
+DTEND:20280925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 10th Anniversary
+DESCRIPTION:Kuroi Shiba 10th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022029
+DTSTAMP:20250303T182746Z
+DTSTART:20290925T070300Z
+DTEND:20290925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 11th Anniversary
+DESCRIPTION:Kuroi Shiba 11th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022030
+DTSTAMP:20250303T182746Z
+DTSTART:20300925T070300Z
+DTEND:20300925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 12th Anniversary
+DESCRIPTION:Kuroi Shiba 12th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022031
+DTSTAMP:20250303T182746Z
+DTSTART:20310925T070300Z
+DTEND:20310925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 13th Anniversary
+DESCRIPTION:Kuroi Shiba 13th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022032
+DTSTAMP:20250303T182746Z
+DTSTART:20320925T070300Z
+DTEND:20320925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 14th Anniversary
+DESCRIPTION:Kuroi Shiba 14th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022033
+DTSTAMP:20250303T182746Z
+DTSTART:20330925T070300Z
+DTEND:20330925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 15th Anniversary
+DESCRIPTION:Kuroi Shiba 15th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022034
+DTSTAMP:20250303T182746Z
+DTSTART:20340925T070300Z
+DTEND:20340925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 16th Anniversary
+DESCRIPTION:Kuroi Shiba 16th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:096dfe06-ff7e-41c7-bac4-5acb93022035
+DTSTAMP:20250303T182746Z
+DTSTART:20350925T070300Z
+DTEND:20350925T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuroi Shiba 17th Anniversary
+DESCRIPTION:Kuroi Shiba 17th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Kuroi Shiba】\nYouTube: https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg\nX: https://twitter.com/blackshiba_chan\n\n
+URL:https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

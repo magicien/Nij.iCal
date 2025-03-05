@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Wiffy
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:63aa2714-a636-4822-9be2-b04d54012020
+DTSTAMP:20250303T183349Z
+DTSTART:20201111
+DTEND:20201111
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Wiffy Birthday
+DESCRIPTION:Wiffy Birthday\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://twitter.com/Wiffy2434\n\n
+URL:https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w
+END:VEVENT
+BEGIN:VEVENT
+UID:63aa2714-a636-4822-9be2-b04d54022020
+DTSTAMP:20250303T183349Z
+DTSTART:20200123T054200Z
+DTEND:20200123T061200Z
+TRANSP:TRANSPARENT
+SUMMARY:Wiffy Debut
+DESCRIPTION:Wiffy Debut\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://twitter.com/Wiffy2434\n\n
+URL:https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w
+END:VEVENT
+BEGIN:VEVENT
+UID:63aa2714-a636-4822-9be2-b04d54992020
+DTSTAMP:20250303T183349Z
+DTSTART:20201115
+DTEND:20201115
+TRANSP:TRANSPARENT
+SUMMARY:Wiffy Graduation
+DESCRIPTION:Wiffy Graduation\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://twitter.com/Wiffy2434\n\n
+URL:https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

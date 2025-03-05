@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ドーラ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:40275588-0052-4ba0-a2f2-a11cce6671e8
+DTSTAMP:20250304T013652Z
+DTSTART:20250721T090000Z
+DTEND:20250721T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演
+LOCATION:Kアリーナ横浜
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b012018
+DTSTAMP:20250303T184302Z
+DTSTART:20180819
+DTEND:20180819
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 誕生日
+DESCRIPTION:ドーラ 誕生日\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022018
+DTSTAMP:20250303T184302Z
+DTSTART:20180603T053100Z
+DTEND:20180603T060100Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 活動開始
+DESCRIPTION:ドーラ 活動開始\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022019
+DTSTAMP:20250303T184302Z
+DTSTART:20190603T053100Z
+DTEND:20190603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 1周年
+DESCRIPTION:ドーラ 1周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022020
+DTSTAMP:20250303T184302Z
+DTSTART:20200603T053100Z
+DTEND:20200603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 2周年
+DESCRIPTION:ドーラ 2周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022021
+DTSTAMP:20250303T184302Z
+DTSTART:20210603T053100Z
+DTEND:20210603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 3周年
+DESCRIPTION:ドーラ 3周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022022
+DTSTAMP:20250303T184302Z
+DTSTART:20220603T053100Z
+DTEND:20220603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 4周年
+DESCRIPTION:ドーラ 4周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022023
+DTSTAMP:20250303T184302Z
+DTSTART:20230603T053100Z
+DTEND:20230603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 5周年
+DESCRIPTION:ドーラ 5周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022024
+DTSTAMP:20250303T184302Z
+DTSTART:20240603T053100Z
+DTEND:20240603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 6周年
+DESCRIPTION:ドーラ 6周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022025
+DTSTAMP:20250303T184302Z
+DTSTART:20250603T053100Z
+DTEND:20250603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 7周年
+DESCRIPTION:ドーラ 7周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022026
+DTSTAMP:20250303T184302Z
+DTSTART:20260603T053100Z
+DTEND:20260603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 8周年
+DESCRIPTION:ドーラ 8周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022027
+DTSTAMP:20250303T184302Z
+DTSTART:20270603T053100Z
+DTEND:20270603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 9周年
+DESCRIPTION:ドーラ 9周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022028
+DTSTAMP:20250303T184302Z
+DTSTART:20280603T053100Z
+DTEND:20280603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 10周年
+DESCRIPTION:ドーラ 10周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022029
+DTSTAMP:20250303T184302Z
+DTSTART:20290603T053100Z
+DTEND:20290603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 11周年
+DESCRIPTION:ドーラ 11周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022030
+DTSTAMP:20250303T184302Z
+DTSTART:20300603T053100Z
+DTEND:20300603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 12周年
+DESCRIPTION:ドーラ 12周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022031
+DTSTAMP:20250303T184302Z
+DTSTART:20310603T053100Z
+DTEND:20310603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 13周年
+DESCRIPTION:ドーラ 13周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022032
+DTSTAMP:20250303T184302Z
+DTSTART:20320603T053100Z
+DTEND:20320603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 14周年
+DESCRIPTION:ドーラ 14周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022033
+DTSTAMP:20250303T184302Z
+DTSTART:20330603T053100Z
+DTEND:20330603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 15周年
+DESCRIPTION:ドーラ 15周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022034
+DTSTAMP:20250303T184302Z
+DTSTART:20340603T053100Z
+DTEND:20340603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 16周年
+DESCRIPTION:ドーラ 16周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:3677a936-8aad-4d95-a996-862e9b022035
+DTSTAMP:20250303T184302Z
+DTSTART:20350603T053100Z
+DTEND:20350603T053101Z
+TRANSP:TRANSPARENT
+SUMMARY:ドーラ 17周年
+DESCRIPTION:ドーラ 17周年\n\n初ツイート：2018/06/03 14:31 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n
+URL:https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

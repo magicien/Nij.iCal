@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:甲斐田晴
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:d6142773-050f-4c99-86c6-fb9f8cfcc9ce
+DTSTAMP:20250304T014151Z
+DTSTART:20250720T090000Z
+DTEND:20250720T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:ROF-MAO 2nd LIVE - Limitless
+LOCATION:Kアリーナ横浜
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/rof-mao_2ndlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
+DTSTAMP:20250304T013659Z
+DTSTART:20250830T090000Z
+DTEND:20250830T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 神戸公演
+LOCATION:神戸国際会館
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【シェリン・バーガンディ】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5012020
+DTSTAMP:20250303T182932Z
+DTSTART:20201025
+DTEND:20201025
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 誕生日
+DESCRIPTION:甲斐田晴 誕生日\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022020
+DTSTAMP:20250303T182932Z
+DTSTART:20200402T070000Z
+DTEND:20200402T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 活動開始
+DESCRIPTION:甲斐田晴 活動開始\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022021
+DTSTAMP:20250303T182932Z
+DTSTART:20210402T070000Z
+DTEND:20210402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 1周年
+DESCRIPTION:甲斐田晴 1周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022022
+DTSTAMP:20250303T182932Z
+DTSTART:20220402T070000Z
+DTEND:20220402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 2周年
+DESCRIPTION:甲斐田晴 2周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022023
+DTSTAMP:20250303T182932Z
+DTSTART:20230402T070000Z
+DTEND:20230402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 3周年
+DESCRIPTION:甲斐田晴 3周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022024
+DTSTAMP:20250303T182932Z
+DTSTART:20240402T070000Z
+DTEND:20240402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 4周年
+DESCRIPTION:甲斐田晴 4周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022025
+DTSTAMP:20250303T182932Z
+DTSTART:20250402T070000Z
+DTEND:20250402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 5周年
+DESCRIPTION:甲斐田晴 5周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022026
+DTSTAMP:20250303T182932Z
+DTSTART:20260402T070000Z
+DTEND:20260402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 6周年
+DESCRIPTION:甲斐田晴 6周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022027
+DTSTAMP:20250303T182932Z
+DTSTART:20270402T070000Z
+DTEND:20270402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 7周年
+DESCRIPTION:甲斐田晴 7周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022028
+DTSTAMP:20250303T182932Z
+DTSTART:20280402T070000Z
+DTEND:20280402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 8周年
+DESCRIPTION:甲斐田晴 8周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022029
+DTSTAMP:20250303T182932Z
+DTSTART:20290402T070000Z
+DTEND:20290402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 9周年
+DESCRIPTION:甲斐田晴 9周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022030
+DTSTAMP:20250303T182932Z
+DTSTART:20300402T070000Z
+DTEND:20300402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 10周年
+DESCRIPTION:甲斐田晴 10周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022031
+DTSTAMP:20250303T182932Z
+DTSTART:20310402T070000Z
+DTEND:20310402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 11周年
+DESCRIPTION:甲斐田晴 11周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022032
+DTSTAMP:20250303T182932Z
+DTSTART:20320402T070000Z
+DTEND:20320402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 12周年
+DESCRIPTION:甲斐田晴 12周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022033
+DTSTAMP:20250303T182932Z
+DTSTART:20330402T070000Z
+DTEND:20330402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 13周年
+DESCRIPTION:甲斐田晴 13周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022034
+DTSTAMP:20250303T182932Z
+DTSTART:20340402T070000Z
+DTEND:20340402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 14周年
+DESCRIPTION:甲斐田晴 14周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5022035
+DTSTAMP:20250303T182932Z
+DTSTART:20350402T070000Z
+DTEND:20350402T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 15周年
+DESCRIPTION:甲斐田晴 15周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

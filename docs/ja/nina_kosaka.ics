@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:狐坂ニナ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e012021
+DTSTAMP:20250303T183632Z
+DTSTART:20211122
+DTEND:20211122
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:狐坂ニナ 誕生日
+DESCRIPTION:狐坂ニナ 誕生日\n\n==========\n【狐坂ニナ】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e022021
+DTSTAMP:20250303T183632Z
+DTSTART:20211006T020000Z
+DTEND:20211006T023000Z
+TRANSP:TRANSPARENT
+SUMMARY:狐坂ニナ 活動開始
+DESCRIPTION:狐坂ニナ 活動開始\n\n==========\n【狐坂ニナ】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e022022
+DTSTAMP:20250303T183632Z
+DTSTART:20221006T020000Z
+DTEND:20221006T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:狐坂ニナ 1周年
+DESCRIPTION:狐坂ニナ 1周年\n\n初ツイート：2021/10/06 11:00 （日本時間）\n初配信：2021/10/09 （日本時間）\n\n\n==========\n【狐坂ニナ】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e992023
+DTSTAMP:20250303T183632Z
+DTSTART:20230708
+DTEND:20230708
+TRANSP:TRANSPARENT
+SUMMARY:狐坂ニナ 卒業
+DESCRIPTION:狐坂ニナ 卒業\n\n==========\n【狐坂ニナ】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

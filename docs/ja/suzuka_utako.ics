@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:鈴鹿詩子
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f012019
+DTSTAMP:20250304T004417Z
+DTSTART:20190224
+DTEND:20190224
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 誕生日
+DESCRIPTION:鈴鹿詩子 誕生日\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f022018
+DTSTAMP:20250304T004417Z
+DTSTART:20180307T134600Z
+DTEND:20180307T141600Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 活動開始
+DESCRIPTION:鈴鹿詩子 活動開始\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f022019
+DTSTAMP:20250304T004417Z
+DTSTART:20190307T134600Z
+DTEND:20190307T134601Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 1周年
+DESCRIPTION:鈴鹿詩子 1周年\n\n初ツイート：2018/03/07 22:46 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f022020
+DTSTAMP:20250304T004417Z
+DTSTART:20200307T134600Z
+DTEND:20200307T134601Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 2周年
+DESCRIPTION:鈴鹿詩子 2周年\n\n初ツイート：2018/03/07 22:46 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f022021
+DTSTAMP:20250304T004417Z
+DTSTART:20210307T134600Z
+DTEND:20210307T134601Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 3周年
+DESCRIPTION:鈴鹿詩子 3周年\n\n初ツイート：2018/03/07 22:46 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f022022
+DTSTAMP:20250304T004417Z
+DTSTART:20220307T134600Z
+DTEND:20220307T134601Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 4周年
+DESCRIPTION:鈴鹿詩子 4周年\n\n初ツイート：2018/03/07 22:46 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f022023
+DTSTAMP:20250304T004417Z
+DTSTART:20230307T134600Z
+DTEND:20230307T134601Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 5周年
+DESCRIPTION:鈴鹿詩子 5周年\n\n初ツイート：2018/03/07 22:46 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f022024
+DTSTAMP:20250304T004417Z
+DTSTART:20240307T134600Z
+DTEND:20240307T134601Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 6周年
+DESCRIPTION:鈴鹿詩子 6周年\n\n初ツイート：2018/03/07 22:46 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f992024
+DTSTAMP:20250304T004417Z
+DTSTART:20240612
+DTEND:20240612
+TRANSP:TRANSPARENT
+SUMMARY:鈴鹿詩子 卒業
+DESCRIPTION:鈴鹿詩子 卒業\n\n==========\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:浮奇・ヴィオレタ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc012022
+DTSTAMP:20250303T183730Z
+DTSTART:20220717
+DTEND:20220717
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 誕生日
+DESCRIPTION:浮奇・ヴィオレタ 誕生日\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022022
+DTSTAMP:20250303T183730Z
+DTSTART:20220222T020000Z
+DTEND:20220222T023000Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 活動開始
+DESCRIPTION:浮奇・ヴィオレタ 活動開始\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022023
+DTSTAMP:20250303T183730Z
+DTSTART:20230222T020000Z
+DTEND:20230222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 1周年
+DESCRIPTION:浮奇・ヴィオレタ 1周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022024
+DTSTAMP:20250303T183730Z
+DTSTART:20240222T020000Z
+DTEND:20240222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 2周年
+DESCRIPTION:浮奇・ヴィオレタ 2周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022025
+DTSTAMP:20250303T183730Z
+DTSTART:20250222T020000Z
+DTEND:20250222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 3周年
+DESCRIPTION:浮奇・ヴィオレタ 3周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022026
+DTSTAMP:20250303T183730Z
+DTSTART:20260222T020000Z
+DTEND:20260222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 4周年
+DESCRIPTION:浮奇・ヴィオレタ 4周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022027
+DTSTAMP:20250303T183730Z
+DTSTART:20270222T020000Z
+DTEND:20270222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 5周年
+DESCRIPTION:浮奇・ヴィオレタ 5周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022028
+DTSTAMP:20250303T183730Z
+DTSTART:20280222T020000Z
+DTEND:20280222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 6周年
+DESCRIPTION:浮奇・ヴィオレタ 6周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022029
+DTSTAMP:20250303T183730Z
+DTSTART:20290222T020000Z
+DTEND:20290222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 7周年
+DESCRIPTION:浮奇・ヴィオレタ 7周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022030
+DTSTAMP:20250303T183730Z
+DTSTART:20300222T020000Z
+DTEND:20300222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 8周年
+DESCRIPTION:浮奇・ヴィオレタ 8周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022031
+DTSTAMP:20250303T183730Z
+DTSTART:20310222T020000Z
+DTEND:20310222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 9周年
+DESCRIPTION:浮奇・ヴィオレタ 9周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022032
+DTSTAMP:20250303T183730Z
+DTSTART:20320222T020000Z
+DTEND:20320222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 10周年
+DESCRIPTION:浮奇・ヴィオレタ 10周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022033
+DTSTAMP:20250303T183730Z
+DTSTART:20330222T020000Z
+DTEND:20330222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 11周年
+DESCRIPTION:浮奇・ヴィオレタ 11周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022034
+DTSTAMP:20250303T183730Z
+DTSTART:20340222T020000Z
+DTEND:20340222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 12周年
+DESCRIPTION:浮奇・ヴィオレタ 12周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc022035
+DTSTAMP:20250303T183730Z
+DTSTART:20350222T020000Z
+DTEND:20350222T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:浮奇・ヴィオレタ 13周年
+DESCRIPTION:浮奇・ヴィオレタ 13周年\n\n初ツイート：2022/02/22 11:00 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

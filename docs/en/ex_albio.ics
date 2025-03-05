@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Ex Albio
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2012019
+DTSTAMP:20250303T182830Z
+DTSTART:20190801
+DTEND:20190801
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio Birthday
+DESCRIPTION:Ex Albio Birthday\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022019
+DTSTAMP:20250303T182830Z
+DTSTART:20190517T070000Z
+DTEND:20190517T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio Debut
+DESCRIPTION:Ex Albio Debut\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022020
+DTSTAMP:20250303T182830Z
+DTSTART:20200517T070000Z
+DTEND:20200517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 1st Anniversary
+DESCRIPTION:Ex Albio 1st Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022021
+DTSTAMP:20250303T182830Z
+DTSTART:20210517T070000Z
+DTEND:20210517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 2nd Anniversary
+DESCRIPTION:Ex Albio 2nd Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022022
+DTSTAMP:20250303T182830Z
+DTSTART:20220517T070000Z
+DTEND:20220517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 3rd Anniversary
+DESCRIPTION:Ex Albio 3rd Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022023
+DTSTAMP:20250303T182830Z
+DTSTART:20230517T070000Z
+DTEND:20230517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 4th Anniversary
+DESCRIPTION:Ex Albio 4th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022024
+DTSTAMP:20250303T182830Z
+DTSTART:20240517T070000Z
+DTEND:20240517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 5th Anniversary
+DESCRIPTION:Ex Albio 5th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022025
+DTSTAMP:20250303T182830Z
+DTSTART:20250517T070000Z
+DTEND:20250517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 6th Anniversary
+DESCRIPTION:Ex Albio 6th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022026
+DTSTAMP:20250303T182830Z
+DTSTART:20260517T070000Z
+DTEND:20260517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 7th Anniversary
+DESCRIPTION:Ex Albio 7th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022027
+DTSTAMP:20250303T182830Z
+DTSTART:20270517T070000Z
+DTEND:20270517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 8th Anniversary
+DESCRIPTION:Ex Albio 8th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022028
+DTSTAMP:20250303T182830Z
+DTSTART:20280517T070000Z
+DTEND:20280517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 9th Anniversary
+DESCRIPTION:Ex Albio 9th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022029
+DTSTAMP:20250303T182830Z
+DTSTART:20290517T070000Z
+DTEND:20290517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 10th Anniversary
+DESCRIPTION:Ex Albio 10th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022030
+DTSTAMP:20250303T182830Z
+DTSTART:20300517T070000Z
+DTEND:20300517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 11th Anniversary
+DESCRIPTION:Ex Albio 11th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022031
+DTSTAMP:20250303T182830Z
+DTSTART:20310517T070000Z
+DTEND:20310517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 12th Anniversary
+DESCRIPTION:Ex Albio 12th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022032
+DTSTAMP:20250303T182830Z
+DTSTART:20320517T070000Z
+DTEND:20320517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 13th Anniversary
+DESCRIPTION:Ex Albio 13th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022033
+DTSTAMP:20250303T182830Z
+DTSTART:20330517T070000Z
+DTEND:20330517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 14th Anniversary
+DESCRIPTION:Ex Albio 14th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022034
+DTSTAMP:20250303T182830Z
+DTSTART:20340517T070000Z
+DTEND:20340517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 15th Anniversary
+DESCRIPTION:Ex Albio 15th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2022035
+DTSTAMP:20250303T182830Z
+DTSTART:20350517T070000Z
+DTEND:20350517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Ex Albio 16th Anniversary
+DESCRIPTION:Ex Albio 16th Anniversary\n\nFirst tweet: May 17, 2019, 16:05 (JST)\nFirst stream: May 21, 2019 (JST)\n\n\n==========\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

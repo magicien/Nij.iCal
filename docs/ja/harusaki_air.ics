@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:春崎エアル
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105012019
+DTSTAMP:20250303T182710Z
+DTSTART:20190403
+DTEND:20190403
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 誕生日
+DESCRIPTION:春崎エアル 誕生日\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022018
+DTSTAMP:20250303T182710Z
+DTSTART:20180608T093300Z
+DTEND:20180608T100300Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 活動開始
+DESCRIPTION:春崎エアル 活動開始\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022019
+DTSTAMP:20250303T182710Z
+DTSTART:20190608T093300Z
+DTEND:20190608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 1周年
+DESCRIPTION:春崎エアル 1周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022020
+DTSTAMP:20250303T182710Z
+DTSTART:20200608T093300Z
+DTEND:20200608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 2周年
+DESCRIPTION:春崎エアル 2周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022021
+DTSTAMP:20250303T182710Z
+DTSTART:20210608T093300Z
+DTEND:20210608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 3周年
+DESCRIPTION:春崎エアル 3周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022022
+DTSTAMP:20250303T182710Z
+DTSTART:20220608T093300Z
+DTEND:20220608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 4周年
+DESCRIPTION:春崎エアル 4周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022023
+DTSTAMP:20250303T182710Z
+DTSTART:20230608T093300Z
+DTEND:20230608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 5周年
+DESCRIPTION:春崎エアル 5周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022024
+DTSTAMP:20250303T182710Z
+DTSTART:20240608T093300Z
+DTEND:20240608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 6周年
+DESCRIPTION:春崎エアル 6周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022025
+DTSTAMP:20250303T182710Z
+DTSTART:20250608T093300Z
+DTEND:20250608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 7周年
+DESCRIPTION:春崎エアル 7周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022026
+DTSTAMP:20250303T182710Z
+DTSTART:20260608T093300Z
+DTEND:20260608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 8周年
+DESCRIPTION:春崎エアル 8周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022027
+DTSTAMP:20250303T182710Z
+DTSTART:20270608T093300Z
+DTEND:20270608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 9周年
+DESCRIPTION:春崎エアル 9周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022028
+DTSTAMP:20250303T182710Z
+DTSTART:20280608T093300Z
+DTEND:20280608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 10周年
+DESCRIPTION:春崎エアル 10周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022029
+DTSTAMP:20250303T182710Z
+DTSTART:20290608T093300Z
+DTEND:20290608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 11周年
+DESCRIPTION:春崎エアル 11周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022030
+DTSTAMP:20250303T182710Z
+DTSTART:20300608T093300Z
+DTEND:20300608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 12周年
+DESCRIPTION:春崎エアル 12周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022031
+DTSTAMP:20250303T182710Z
+DTSTART:20310608T093300Z
+DTEND:20310608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 13周年
+DESCRIPTION:春崎エアル 13周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022032
+DTSTAMP:20250303T182710Z
+DTSTART:20320608T093300Z
+DTEND:20320608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 14周年
+DESCRIPTION:春崎エアル 14周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022033
+DTSTAMP:20250303T182710Z
+DTSTART:20330608T093300Z
+DTEND:20330608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 15周年
+DESCRIPTION:春崎エアル 15周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022034
+DTSTAMP:20250303T182710Z
+DTSTART:20340608T093300Z
+DTEND:20340608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 16周年
+DESCRIPTION:春崎エアル 16周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022035
+DTSTAMP:20250303T182710Z
+DTSTART:20350608T093300Z
+DTEND:20350608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:春崎エアル 17周年
+DESCRIPTION:春崎エアル 17周年\n\n初ツイート：2018/06/08 18:33 （日本時間）\n初配信：2018/06/10 （日本時間）\n\n\n==========\n【春崎エアル】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

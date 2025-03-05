@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Saegusa Akina
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0012019
+DTSTAMP:20250303T182824Z
+DTSTART:20190901
+DTEND:20190901
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina Birthday
+DESCRIPTION:Saegusa Akina Birthday\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022019
+DTSTAMP:20250303T182824Z
+DTSTART:20190402T070700Z
+DTEND:20190402T073700Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina Debut
+DESCRIPTION:Saegusa Akina Debut\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022020
+DTSTAMP:20250303T182824Z
+DTSTART:20200402T070700Z
+DTEND:20200402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 1st Anniversary
+DESCRIPTION:Saegusa Akina 1st Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022021
+DTSTAMP:20250303T182824Z
+DTSTART:20210402T070700Z
+DTEND:20210402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 2nd Anniversary
+DESCRIPTION:Saegusa Akina 2nd Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022022
+DTSTAMP:20250303T182824Z
+DTSTART:20220402T070700Z
+DTEND:20220402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 3rd Anniversary
+DESCRIPTION:Saegusa Akina 3rd Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022023
+DTSTAMP:20250303T182824Z
+DTSTART:20230402T070700Z
+DTEND:20230402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 4th Anniversary
+DESCRIPTION:Saegusa Akina 4th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022024
+DTSTAMP:20250303T182824Z
+DTSTART:20240402T070700Z
+DTEND:20240402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 5th Anniversary
+DESCRIPTION:Saegusa Akina 5th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022025
+DTSTAMP:20250303T182824Z
+DTSTART:20250402T070700Z
+DTEND:20250402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 6th Anniversary
+DESCRIPTION:Saegusa Akina 6th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022026
+DTSTAMP:20250303T182824Z
+DTSTART:20260402T070700Z
+DTEND:20260402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 7th Anniversary
+DESCRIPTION:Saegusa Akina 7th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022027
+DTSTAMP:20250303T182824Z
+DTSTART:20270402T070700Z
+DTEND:20270402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 8th Anniversary
+DESCRIPTION:Saegusa Akina 8th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022028
+DTSTAMP:20250303T182824Z
+DTSTART:20280402T070700Z
+DTEND:20280402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 9th Anniversary
+DESCRIPTION:Saegusa Akina 9th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022029
+DTSTAMP:20250303T182824Z
+DTSTART:20290402T070700Z
+DTEND:20290402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 10th Anniversary
+DESCRIPTION:Saegusa Akina 10th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022030
+DTSTAMP:20250303T182824Z
+DTSTART:20300402T070700Z
+DTEND:20300402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 11th Anniversary
+DESCRIPTION:Saegusa Akina 11th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022031
+DTSTAMP:20250303T182824Z
+DTSTART:20310402T070700Z
+DTEND:20310402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 12th Anniversary
+DESCRIPTION:Saegusa Akina 12th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022032
+DTSTAMP:20250303T182824Z
+DTSTART:20320402T070700Z
+DTEND:20320402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 13th Anniversary
+DESCRIPTION:Saegusa Akina 13th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022033
+DTSTAMP:20250303T182824Z
+DTSTART:20330402T070700Z
+DTEND:20330402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 14th Anniversary
+DESCRIPTION:Saegusa Akina 14th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022034
+DTSTAMP:20250303T182824Z
+DTSTART:20340402T070700Z
+DTEND:20340402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 15th Anniversary
+DESCRIPTION:Saegusa Akina 15th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:f37571c5-553c-4553-a090-f109e0022035
+DTSTAMP:20250303T182824Z
+DTSTART:20350402T070700Z
+DTEND:20350402T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Saegusa Akina 16th Anniversary
+DESCRIPTION:Saegusa Akina 16th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

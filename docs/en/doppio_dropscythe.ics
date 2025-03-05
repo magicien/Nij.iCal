@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Doppio Dropscythe
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6012023
+DTSTAMP:20250303T183929Z
+DTSTART:20230131
+DTEND:20230131
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe Birthday
+DESCRIPTION:Doppio Dropscythe Birthday\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022022
+DTSTAMP:20250303T183929Z
+DTSTART:20221206T000300Z
+DTEND:20221206T003300Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe Debut
+DESCRIPTION:Doppio Dropscythe Debut\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022023
+DTSTAMP:20250303T183929Z
+DTSTART:20231206T000300Z
+DTEND:20231206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 1st Anniversary
+DESCRIPTION:Doppio Dropscythe 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022024
+DTSTAMP:20250303T183929Z
+DTSTART:20241206T000300Z
+DTEND:20241206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 2nd Anniversary
+DESCRIPTION:Doppio Dropscythe 2nd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022025
+DTSTAMP:20250303T183929Z
+DTSTART:20251206T000300Z
+DTEND:20251206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 3rd Anniversary
+DESCRIPTION:Doppio Dropscythe 3rd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022026
+DTSTAMP:20250303T183929Z
+DTSTART:20261206T000300Z
+DTEND:20261206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 4th Anniversary
+DESCRIPTION:Doppio Dropscythe 4th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022027
+DTSTAMP:20250303T183929Z
+DTSTART:20271206T000300Z
+DTEND:20271206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 5th Anniversary
+DESCRIPTION:Doppio Dropscythe 5th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022028
+DTSTAMP:20250303T183929Z
+DTSTART:20281206T000300Z
+DTEND:20281206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 6th Anniversary
+DESCRIPTION:Doppio Dropscythe 6th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022029
+DTSTAMP:20250303T183929Z
+DTSTART:20291206T000300Z
+DTEND:20291206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 7th Anniversary
+DESCRIPTION:Doppio Dropscythe 7th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022030
+DTSTAMP:20250303T183929Z
+DTSTART:20301206T000300Z
+DTEND:20301206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 8th Anniversary
+DESCRIPTION:Doppio Dropscythe 8th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022031
+DTSTAMP:20250303T183929Z
+DTSTART:20311206T000300Z
+DTEND:20311206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 9th Anniversary
+DESCRIPTION:Doppio Dropscythe 9th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022032
+DTSTAMP:20250303T183929Z
+DTSTART:20321206T000300Z
+DTEND:20321206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 10th Anniversary
+DESCRIPTION:Doppio Dropscythe 10th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022033
+DTSTAMP:20250303T183929Z
+DTSTART:20331206T000300Z
+DTEND:20331206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 11th Anniversary
+DESCRIPTION:Doppio Dropscythe 11th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022034
+DTSTAMP:20250303T183929Z
+DTSTART:20341206T000300Z
+DTEND:20341206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 12th Anniversary
+DESCRIPTION:Doppio Dropscythe 12th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022035
+DTSTAMP:20250303T183929Z
+DTSTART:20351206T000300Z
+DTEND:20351206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 13th Anniversary
+DESCRIPTION:Doppio Dropscythe 13th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://twitter.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

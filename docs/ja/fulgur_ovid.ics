@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ファルガー・オーヴィド
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4012022
+DTSTAMP:20250303T183728Z
+DTSTART:20220326
+DTEND:20220326
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 誕生日
+DESCRIPTION:ファルガー・オーヴィド 誕生日\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022022
+DTSTAMP:20250303T183728Z
+DTSTART:20220222T020400Z
+DTEND:20220222T023400Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 活動開始
+DESCRIPTION:ファルガー・オーヴィド 活動開始\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022023
+DTSTAMP:20250303T183728Z
+DTSTART:20230222T020400Z
+DTEND:20230222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 1周年
+DESCRIPTION:ファルガー・オーヴィド 1周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022024
+DTSTAMP:20250303T183728Z
+DTSTART:20240222T020400Z
+DTEND:20240222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 2周年
+DESCRIPTION:ファルガー・オーヴィド 2周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022025
+DTSTAMP:20250303T183728Z
+DTSTART:20250222T020400Z
+DTEND:20250222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 3周年
+DESCRIPTION:ファルガー・オーヴィド 3周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022026
+DTSTAMP:20250303T183728Z
+DTSTART:20260222T020400Z
+DTEND:20260222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 4周年
+DESCRIPTION:ファルガー・オーヴィド 4周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022027
+DTSTAMP:20250303T183728Z
+DTSTART:20270222T020400Z
+DTEND:20270222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 5周年
+DESCRIPTION:ファルガー・オーヴィド 5周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022028
+DTSTAMP:20250303T183728Z
+DTSTART:20280222T020400Z
+DTEND:20280222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 6周年
+DESCRIPTION:ファルガー・オーヴィド 6周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022029
+DTSTAMP:20250303T183728Z
+DTSTART:20290222T020400Z
+DTEND:20290222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 7周年
+DESCRIPTION:ファルガー・オーヴィド 7周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022030
+DTSTAMP:20250303T183728Z
+DTSTART:20300222T020400Z
+DTEND:20300222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 8周年
+DESCRIPTION:ファルガー・オーヴィド 8周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022031
+DTSTAMP:20250303T183728Z
+DTSTART:20310222T020400Z
+DTEND:20310222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 9周年
+DESCRIPTION:ファルガー・オーヴィド 9周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022032
+DTSTAMP:20250303T183728Z
+DTSTART:20320222T020400Z
+DTEND:20320222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 10周年
+DESCRIPTION:ファルガー・オーヴィド 10周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022033
+DTSTAMP:20250303T183728Z
+DTSTART:20330222T020400Z
+DTEND:20330222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 11周年
+DESCRIPTION:ファルガー・オーヴィド 11周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022034
+DTSTAMP:20250303T183728Z
+DTSTART:20340222T020400Z
+DTEND:20340222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 12周年
+DESCRIPTION:ファルガー・オーヴィド 12周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4022035
+DTSTAMP:20250303T183728Z
+DTSTART:20350222T020400Z
+DTEND:20350222T020401Z
+TRANSP:TRANSPARENT
+SUMMARY:ファルガー・オーヴィド 13周年
+DESCRIPTION:ファルガー・オーヴィド 13周年\n\n初ツイート：2022/02/22 11:04 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Nina Kosaka
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e012021
+DTSTAMP:20250303T183632Z
+DTSTART:20211122
+DTEND:20211122
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nina Kosaka Birthday
+DESCRIPTION:Nina Kosaka Birthday\n\n==========\n【Nina Kosaka】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e022021
+DTSTAMP:20250303T183632Z
+DTSTART:20211006T020000Z
+DTEND:20211006T023000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nina Kosaka Debut
+DESCRIPTION:Nina Kosaka Debut\n\n==========\n【Nina Kosaka】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e022022
+DTSTAMP:20250303T183632Z
+DTSTART:20221006T020000Z
+DTEND:20221006T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Nina Kosaka 1st Anniversary
+DESCRIPTION:Nina Kosaka 1st Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Nina Kosaka】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:9d539d56-ea04-46bd-9afd-6b422e992023
+DTSTAMP:20250303T183632Z
+DTSTART:20230708
+DTEND:20230708
+TRANSP:TRANSPARENT
+SUMMARY:Nina Kosaka Graduation
+DESCRIPTION:Nina Kosaka Graduation\n\n==========\n【Nina Kosaka】\nYouTube: https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w\nX: https://twitter.com/NinaKosaka\n\n
+URL:https://www.youtube.com/channel/UCkieJGn3pgJikVW8gmMXE2w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

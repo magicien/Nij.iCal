@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Nun Bora
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:71126895-dd40-4cb8-89e0-f0ad5c012021
+DTSTAMP:20250303T183441Z
+DTSTART:20210105
+DTEND:20210105
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nun Bora Birthday
+DESCRIPTION:Nun Bora Birthday\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
+END:VEVENT
+BEGIN:VEVENT
+UID:71126895-dd40-4cb8-89e0-f0ad5c022020
+DTSTAMP:20250303T183441Z
+DTSTART:20200731T101000Z
+DTEND:20200731T104000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nun Bora Debut
+DESCRIPTION:Nun Bora Debut\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
+END:VEVENT
+BEGIN:VEVENT
+UID:71126895-dd40-4cb8-89e0-f0ad5c022021
+DTSTAMP:20250303T183441Z
+DTSTART:20210731T101000Z
+DTEND:20210731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Nun Bora 1st Anniversary
+DESCRIPTION:Nun Bora 1st Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 8, 2020 (JST)\n\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
+END:VEVENT
+BEGIN:VEVENT
+UID:71126895-dd40-4cb8-89e0-f0ad5c992021
+DTSTAMP:20250303T183441Z
+DTSTART:20211130
+DTEND:20211130
+TRANSP:TRANSPARENT
+SUMMARY:Nun Bora Graduation
+DESCRIPTION:Nun Bora Graduation\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

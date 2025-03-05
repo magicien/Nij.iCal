@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Honma Himawari
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:40275588-0052-4ba0-a2f2-a11cce6671e8
+DTSTAMP:20250304T013652Z
+DTSTART:20250721T090000Z
+DTEND:20250721T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama
+LOCATION:K-Arena Yokohama
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729012018
+DTSTAMP:20250303T184249Z
+DTSTART:20180810
+DTEND:20180810
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari Birthday
+DESCRIPTION:Honma Himawari Birthday\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022018
+DTSTAMP:20250303T184249Z
+DTSTART:20180706T072300Z
+DTEND:20180706T075300Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari Debut
+DESCRIPTION:Honma Himawari Debut\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022019
+DTSTAMP:20250303T184249Z
+DTSTART:20190706T072300Z
+DTEND:20190706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 1st Anniversary
+DESCRIPTION:Honma Himawari 1st Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022020
+DTSTAMP:20250303T184249Z
+DTSTART:20200706T072300Z
+DTEND:20200706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 2nd Anniversary
+DESCRIPTION:Honma Himawari 2nd Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022021
+DTSTAMP:20250303T184249Z
+DTSTART:20210706T072300Z
+DTEND:20210706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 3rd Anniversary
+DESCRIPTION:Honma Himawari 3rd Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022022
+DTSTAMP:20250303T184249Z
+DTSTART:20220706T072300Z
+DTEND:20220706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 4th Anniversary
+DESCRIPTION:Honma Himawari 4th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022023
+DTSTAMP:20250303T184249Z
+DTSTART:20230706T072300Z
+DTEND:20230706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 5th Anniversary
+DESCRIPTION:Honma Himawari 5th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022024
+DTSTAMP:20250303T184249Z
+DTSTART:20240706T072300Z
+DTEND:20240706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 6th Anniversary
+DESCRIPTION:Honma Himawari 6th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022025
+DTSTAMP:20250303T184249Z
+DTSTART:20250706T072300Z
+DTEND:20250706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 7th Anniversary
+DESCRIPTION:Honma Himawari 7th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022026
+DTSTAMP:20250303T184249Z
+DTSTART:20260706T072300Z
+DTEND:20260706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 8th Anniversary
+DESCRIPTION:Honma Himawari 8th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022027
+DTSTAMP:20250303T184249Z
+DTSTART:20270706T072300Z
+DTEND:20270706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 9th Anniversary
+DESCRIPTION:Honma Himawari 9th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022028
+DTSTAMP:20250303T184249Z
+DTSTART:20280706T072300Z
+DTEND:20280706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 10th Anniversary
+DESCRIPTION:Honma Himawari 10th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022029
+DTSTAMP:20250303T184249Z
+DTSTART:20290706T072300Z
+DTEND:20290706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 11th Anniversary
+DESCRIPTION:Honma Himawari 11th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022030
+DTSTAMP:20250303T184249Z
+DTSTART:20300706T072300Z
+DTEND:20300706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 12th Anniversary
+DESCRIPTION:Honma Himawari 12th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022031
+DTSTAMP:20250303T184249Z
+DTSTART:20310706T072300Z
+DTEND:20310706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 13th Anniversary
+DESCRIPTION:Honma Himawari 13th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022032
+DTSTAMP:20250303T184249Z
+DTSTART:20320706T072300Z
+DTEND:20320706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 14th Anniversary
+DESCRIPTION:Honma Himawari 14th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022033
+DTSTAMP:20250303T184249Z
+DTSTART:20330706T072300Z
+DTEND:20330706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 15th Anniversary
+DESCRIPTION:Honma Himawari 15th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022034
+DTSTAMP:20250303T184249Z
+DTSTART:20340706T072300Z
+DTEND:20340706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 16th Anniversary
+DESCRIPTION:Honma Himawari 16th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:52ed0705-f9e0-4c15-a8bf-6c5729022035
+DTSTAMP:20250303T184249Z
+DTSTART:20350706T072300Z
+DTEND:20350706T072301Z
+TRANSP:TRANSPARENT
+SUMMARY:Honma Himawari 17th Anniversary
+DESCRIPTION:Honma Himawari 17th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 11, 2018 (JST)\n\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n
+URL:https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

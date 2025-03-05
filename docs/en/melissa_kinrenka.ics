@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Melissa Kinrenka
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c65c5037-8873-467a-a489-77a151012020
+DTSTAMP:20250303T134635Z
+DTSTART:20200511
+DTEND:20200511
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Melissa Kinrenka Birthday
+DESCRIPTION:Melissa Kinrenka Birthday\n\n==========\n【Melissa Kinrenka】\nYouTube: https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g
+END:VEVENT
+BEGIN:VEVENT
+UID:c65c5037-8873-467a-a489-77a151022020
+DTSTAMP:20250303T134635Z
+DTSTART:20200130T071300Z
+DTEND:20200130T074300Z
+TRANSP:TRANSPARENT
+SUMMARY:Melissa Kinrenka Debut
+DESCRIPTION:Melissa Kinrenka Debut\n\n==========\n【Melissa Kinrenka】\nYouTube: https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g
+END:VEVENT
+BEGIN:VEVENT
+UID:c65c5037-8873-467a-a489-77a151022021
+DTSTAMP:20250303T134635Z
+DTSTART:20210130T071300Z
+DTEND:20210130T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Melissa Kinrenka 1st Anniversary
+DESCRIPTION:Melissa Kinrenka 1st Anniversary\n\nFirst tweet: Jan 30, 2020, 16:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Melissa Kinrenka】\nYouTube: https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g
+END:VEVENT
+BEGIN:VEVENT
+UID:c65c5037-8873-467a-a489-77a151022022
+DTSTAMP:20250303T134635Z
+DTSTART:20220130T071300Z
+DTEND:20220130T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Melissa Kinrenka 2nd Anniversary
+DESCRIPTION:Melissa Kinrenka 2nd Anniversary\n\nFirst tweet: Jan 30, 2020, 16:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Melissa Kinrenka】\nYouTube: https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g
+END:VEVENT
+BEGIN:VEVENT
+UID:c65c5037-8873-467a-a489-77a151992022
+DTSTAMP:20250303T134635Z
+DTSTART:20220531
+DTEND:20220531
+TRANSP:TRANSPARENT
+SUMMARY:Melissa Kinrenka Graduation
+DESCRIPTION:Melissa Kinrenka Graduation\n\n==========\n【Melissa Kinrenka】\nYouTube: https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

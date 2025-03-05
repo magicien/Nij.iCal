@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Koyanagi Rou
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4012023
+DTSTAMP:20250303T183520Z
+DTSTART:20231125
+DTEND:20231125
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou Birthday
+DESCRIPTION:Koyanagi Rou Birthday\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022023
+DTSTAMP:20250303T183520Z
+DTSTART:20230426T030500Z
+DTEND:20230426T033500Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou Debut
+DESCRIPTION:Koyanagi Rou Debut\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022024
+DTSTAMP:20250303T183520Z
+DTSTART:20240426T030500Z
+DTEND:20240426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 1st Anniversary
+DESCRIPTION:Koyanagi Rou 1st Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022025
+DTSTAMP:20250303T183520Z
+DTSTART:20250426T030500Z
+DTEND:20250426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 2nd Anniversary
+DESCRIPTION:Koyanagi Rou 2nd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022026
+DTSTAMP:20250303T183520Z
+DTSTART:20260426T030500Z
+DTEND:20260426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 3rd Anniversary
+DESCRIPTION:Koyanagi Rou 3rd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022027
+DTSTAMP:20250303T183520Z
+DTSTART:20270426T030500Z
+DTEND:20270426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 4th Anniversary
+DESCRIPTION:Koyanagi Rou 4th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022028
+DTSTAMP:20250303T183520Z
+DTSTART:20280426T030500Z
+DTEND:20280426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 5th Anniversary
+DESCRIPTION:Koyanagi Rou 5th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022029
+DTSTAMP:20250303T183520Z
+DTSTART:20290426T030500Z
+DTEND:20290426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 6th Anniversary
+DESCRIPTION:Koyanagi Rou 6th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022030
+DTSTAMP:20250303T183520Z
+DTSTART:20300426T030500Z
+DTEND:20300426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 7th Anniversary
+DESCRIPTION:Koyanagi Rou 7th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022031
+DTSTAMP:20250303T183520Z
+DTSTART:20310426T030500Z
+DTEND:20310426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 8th Anniversary
+DESCRIPTION:Koyanagi Rou 8th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022032
+DTSTAMP:20250303T183520Z
+DTSTART:20320426T030500Z
+DTEND:20320426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 9th Anniversary
+DESCRIPTION:Koyanagi Rou 9th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022033
+DTSTAMP:20250303T183520Z
+DTSTART:20330426T030500Z
+DTEND:20330426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 10th Anniversary
+DESCRIPTION:Koyanagi Rou 10th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022034
+DTSTAMP:20250303T183520Z
+DTSTART:20340426T030500Z
+DTEND:20340426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 11th Anniversary
+DESCRIPTION:Koyanagi Rou 11th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:2348d7f0-7343-4c7d-9a9f-fb32a4022035
+DTSTAMP:20250303T183520Z
+DTSTART:20350426T030500Z
+DTEND:20350426T030501Z
+TRANSP:TRANSPARENT
+SUMMARY:Koyanagi Rou 12th Anniversary
+DESCRIPTION:Koyanagi Rou 12th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n
+URL:https://www.youtube.com/@KoyanagiRou
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

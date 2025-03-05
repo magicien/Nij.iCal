@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Sister Claire
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b012018
+DTSTAMP:20250303T184307Z
+DTSTART:20181004
+DTEND:20181004
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire Birthday
+DESCRIPTION:Sister Claire Birthday\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022018
+DTSTAMP:20250303T184307Z
+DTSTART:20180603T060000Z
+DTEND:20180603T063000Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire Debut
+DESCRIPTION:Sister Claire Debut\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022019
+DTSTAMP:20250303T184307Z
+DTSTART:20190603T060000Z
+DTEND:20190603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 1st Anniversary
+DESCRIPTION:Sister Claire 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022020
+DTSTAMP:20250303T184307Z
+DTSTART:20200603T060000Z
+DTEND:20200603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 2nd Anniversary
+DESCRIPTION:Sister Claire 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022021
+DTSTAMP:20250303T184307Z
+DTSTART:20210603T060000Z
+DTEND:20210603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 3rd Anniversary
+DESCRIPTION:Sister Claire 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022022
+DTSTAMP:20250303T184307Z
+DTSTART:20220603T060000Z
+DTEND:20220603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 4th Anniversary
+DESCRIPTION:Sister Claire 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022023
+DTSTAMP:20250303T184307Z
+DTSTART:20230603T060000Z
+DTEND:20230603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 5th Anniversary
+DESCRIPTION:Sister Claire 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022024
+DTSTAMP:20250303T184307Z
+DTSTART:20240603T060000Z
+DTEND:20240603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 6th Anniversary
+DESCRIPTION:Sister Claire 6th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022025
+DTSTAMP:20250303T184307Z
+DTSTART:20250603T060000Z
+DTEND:20250603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 7th Anniversary
+DESCRIPTION:Sister Claire 7th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022026
+DTSTAMP:20250303T184307Z
+DTSTART:20260603T060000Z
+DTEND:20260603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 8th Anniversary
+DESCRIPTION:Sister Claire 8th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022027
+DTSTAMP:20250303T184307Z
+DTSTART:20270603T060000Z
+DTEND:20270603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 9th Anniversary
+DESCRIPTION:Sister Claire 9th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022028
+DTSTAMP:20250303T184307Z
+DTSTART:20280603T060000Z
+DTEND:20280603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 10th Anniversary
+DESCRIPTION:Sister Claire 10th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022029
+DTSTAMP:20250303T184307Z
+DTSTART:20290603T060000Z
+DTEND:20290603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 11th Anniversary
+DESCRIPTION:Sister Claire 11th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022030
+DTSTAMP:20250303T184307Z
+DTSTART:20300603T060000Z
+DTEND:20300603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 12th Anniversary
+DESCRIPTION:Sister Claire 12th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022031
+DTSTAMP:20250303T184307Z
+DTSTART:20310603T060000Z
+DTEND:20310603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 13th Anniversary
+DESCRIPTION:Sister Claire 13th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022032
+DTSTAMP:20250303T184307Z
+DTSTART:20320603T060000Z
+DTEND:20320603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 14th Anniversary
+DESCRIPTION:Sister Claire 14th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022033
+DTSTAMP:20250303T184307Z
+DTSTART:20330603T060000Z
+DTEND:20330603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 15th Anniversary
+DESCRIPTION:Sister Claire 15th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022034
+DTSTAMP:20250303T184307Z
+DTSTART:20340603T060000Z
+DTEND:20340603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 16th Anniversary
+DESCRIPTION:Sister Claire 16th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022035
+DTSTAMP:20250303T184307Z
+DTSTART:20350603T060000Z
+DTEND:20350603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sister Claire 17th Anniversary
+DESCRIPTION:Sister Claire 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 5, 2018 (JST)\n\n\n==========\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

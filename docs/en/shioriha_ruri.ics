@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shioriha Ruri
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:60681f23-b184-4de9-84c2-2dedc25147e0
+DTSTAMP:20250304T013703Z
+DTSTART:20251018T090000Z
+DTEND:20251018T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima
+LOCATION:Hiroshima Bunka Gakuen HGB Hall
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87012024
+DTSTAMP:20250303T183526Z
+DTSTART:20240920
+DTEND:20240920
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri Birthday
+DESCRIPTION:Shioriha Ruri Birthday\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022023
+DTSTAMP:20250303T183526Z
+DTSTART:20231121T030200Z
+DTEND:20231121T033200Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri Debut
+DESCRIPTION:Shioriha Ruri Debut\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022024
+DTSTAMP:20250303T183526Z
+DTSTART:20241121T030200Z
+DTEND:20241121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 1st Anniversary
+DESCRIPTION:Shioriha Ruri 1st Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022025
+DTSTAMP:20250303T183526Z
+DTSTART:20251121T030200Z
+DTEND:20251121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 2nd Anniversary
+DESCRIPTION:Shioriha Ruri 2nd Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022026
+DTSTAMP:20250303T183526Z
+DTSTART:20261121T030200Z
+DTEND:20261121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 3rd Anniversary
+DESCRIPTION:Shioriha Ruri 3rd Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022027
+DTSTAMP:20250303T183526Z
+DTSTART:20271121T030200Z
+DTEND:20271121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 4th Anniversary
+DESCRIPTION:Shioriha Ruri 4th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022028
+DTSTAMP:20250303T183526Z
+DTSTART:20281121T030200Z
+DTEND:20281121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 5th Anniversary
+DESCRIPTION:Shioriha Ruri 5th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022029
+DTSTAMP:20250303T183526Z
+DTSTART:20291121T030200Z
+DTEND:20291121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 6th Anniversary
+DESCRIPTION:Shioriha Ruri 6th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022030
+DTSTAMP:20250303T183526Z
+DTSTART:20301121T030200Z
+DTEND:20301121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 7th Anniversary
+DESCRIPTION:Shioriha Ruri 7th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022031
+DTSTAMP:20250303T183526Z
+DTSTART:20311121T030200Z
+DTEND:20311121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 8th Anniversary
+DESCRIPTION:Shioriha Ruri 8th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022032
+DTSTAMP:20250303T183526Z
+DTSTART:20321121T030200Z
+DTEND:20321121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 9th Anniversary
+DESCRIPTION:Shioriha Ruri 9th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022033
+DTSTAMP:20250303T183526Z
+DTSTART:20331121T030200Z
+DTEND:20331121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 10th Anniversary
+DESCRIPTION:Shioriha Ruri 10th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022034
+DTSTAMP:20250303T183526Z
+DTSTART:20341121T030200Z
+DTEND:20341121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 11th Anniversary
+DESCRIPTION:Shioriha Ruri 11th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022035
+DTSTAMP:20250303T183526Z
+DTSTART:20351121T030200Z
+DTEND:20351121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 12th Anniversary
+DESCRIPTION:Shioriha Ruri 12th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

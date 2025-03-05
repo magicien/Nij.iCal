@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kuzuha
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ff42d3-eb2e-4033-af59-9063f379f809
+DTSTAMP:20250304T022928Z
+DTSTART:20250519T090000Z
+DTEND:20250519T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:ChroNoiR Does Something at Budokan
+LOCATION:Nippon Budokan
+DESCRIPTION:Article of the event\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+URL:https://www.nijisanji.jp/news/037_t8f6sg
+END:VEVENT
+BEGIN:VEVENT
+UID:40275588-0052-4ba0-a2f2-a11cce6671e8
+DTSTAMP:20250304T013652Z
+DTSTART:20250721T090000Z
+DTEND:20250721T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama
+LOCATION:K-Arena Yokohama
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147012018
+DTSTAMP:20250303T184258Z
+DTSTART:20181110
+DTEND:20181110
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha Birthday
+DESCRIPTION:Kuzuha Birthday\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022018
+DTSTAMP:20250303T184258Z
+DTSTART:20180730T030400Z
+DTEND:20180730T033400Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha Debut
+DESCRIPTION:Kuzuha Debut\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022019
+DTSTAMP:20250303T184258Z
+DTSTART:20190730T030400Z
+DTEND:20190730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 1st Anniversary
+DESCRIPTION:Kuzuha 1st Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022020
+DTSTAMP:20250303T184258Z
+DTSTART:20200730T030400Z
+DTEND:20200730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 2nd Anniversary
+DESCRIPTION:Kuzuha 2nd Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022021
+DTSTAMP:20250303T184258Z
+DTSTART:20210730T030400Z
+DTEND:20210730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 3rd Anniversary
+DESCRIPTION:Kuzuha 3rd Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022022
+DTSTAMP:20250303T184258Z
+DTSTART:20220730T030400Z
+DTEND:20220730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 4th Anniversary
+DESCRIPTION:Kuzuha 4th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022023
+DTSTAMP:20250303T184258Z
+DTSTART:20230730T030400Z
+DTEND:20230730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 5th Anniversary
+DESCRIPTION:Kuzuha 5th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022024
+DTSTAMP:20250303T184258Z
+DTSTART:20240730T030400Z
+DTEND:20240730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 6th Anniversary
+DESCRIPTION:Kuzuha 6th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022025
+DTSTAMP:20250303T184258Z
+DTSTART:20250730T030400Z
+DTEND:20250730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 7th Anniversary
+DESCRIPTION:Kuzuha 7th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022026
+DTSTAMP:20250303T184258Z
+DTSTART:20260730T030400Z
+DTEND:20260730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 8th Anniversary
+DESCRIPTION:Kuzuha 8th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022027
+DTSTAMP:20250303T184258Z
+DTSTART:20270730T030400Z
+DTEND:20270730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 9th Anniversary
+DESCRIPTION:Kuzuha 9th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022028
+DTSTAMP:20250303T184258Z
+DTSTART:20280730T030400Z
+DTEND:20280730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 10th Anniversary
+DESCRIPTION:Kuzuha 10th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022029
+DTSTAMP:20250303T184258Z
+DTSTART:20290730T030400Z
+DTEND:20290730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 11th Anniversary
+DESCRIPTION:Kuzuha 11th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022030
+DTSTAMP:20250303T184258Z
+DTSTART:20300730T030400Z
+DTEND:20300730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 12th Anniversary
+DESCRIPTION:Kuzuha 12th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022031
+DTSTAMP:20250303T184258Z
+DTSTART:20310730T030400Z
+DTEND:20310730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 13th Anniversary
+DESCRIPTION:Kuzuha 13th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022032
+DTSTAMP:20250303T184258Z
+DTSTART:20320730T030400Z
+DTEND:20320730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 14th Anniversary
+DESCRIPTION:Kuzuha 14th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022033
+DTSTAMP:20250303T184258Z
+DTSTART:20330730T030400Z
+DTEND:20330730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 15th Anniversary
+DESCRIPTION:Kuzuha 15th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022034
+DTSTAMP:20250303T184258Z
+DTSTART:20340730T030400Z
+DTEND:20340730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 16th Anniversary
+DESCRIPTION:Kuzuha 16th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147022035
+DTSTAMP:20250303T184258Z
+DTSTART:20350730T030400Z
+DTEND:20350730T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha 17th Anniversary
+DESCRIPTION:Kuzuha 17th Anniversary\n\nFirst tweet: Jul 30, 2018, 12:07 (JST)\nFirst stream: Jul 30, 2018 (JST)\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

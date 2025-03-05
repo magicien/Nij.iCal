@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ニュイ・ソシエール
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5012019
+DTSTAMP:20250303T182836Z
+DTSTART:20191031
+DTEND:20191031
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 誕生日
+DESCRIPTION:ニュイ・ソシエール 誕生日\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022019
+DTSTAMP:20250303T182836Z
+DTSTART:20190619T070500Z
+DTEND:20190619T073500Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 活動開始
+DESCRIPTION:ニュイ・ソシエール 活動開始\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022020
+DTSTAMP:20250303T182836Z
+DTSTART:20200619T070500Z
+DTEND:20200619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 1周年
+DESCRIPTION:ニュイ・ソシエール 1周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022021
+DTSTAMP:20250303T182836Z
+DTSTART:20210619T070500Z
+DTEND:20210619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 2周年
+DESCRIPTION:ニュイ・ソシエール 2周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022022
+DTSTAMP:20250303T182836Z
+DTSTART:20220619T070500Z
+DTEND:20220619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 3周年
+DESCRIPTION:ニュイ・ソシエール 3周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022023
+DTSTAMP:20250303T182836Z
+DTSTART:20230619T070500Z
+DTEND:20230619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 4周年
+DESCRIPTION:ニュイ・ソシエール 4周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022024
+DTSTAMP:20250303T182836Z
+DTSTART:20240619T070500Z
+DTEND:20240619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 5周年
+DESCRIPTION:ニュイ・ソシエール 5周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022025
+DTSTAMP:20250303T182836Z
+DTSTART:20250619T070500Z
+DTEND:20250619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 6周年
+DESCRIPTION:ニュイ・ソシエール 6周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022026
+DTSTAMP:20250303T182836Z
+DTSTART:20260619T070500Z
+DTEND:20260619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 7周年
+DESCRIPTION:ニュイ・ソシエール 7周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022027
+DTSTAMP:20250303T182836Z
+DTSTART:20270619T070500Z
+DTEND:20270619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 8周年
+DESCRIPTION:ニュイ・ソシエール 8周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022028
+DTSTAMP:20250303T182836Z
+DTSTART:20280619T070500Z
+DTEND:20280619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 9周年
+DESCRIPTION:ニュイ・ソシエール 9周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022029
+DTSTAMP:20250303T182836Z
+DTSTART:20290619T070500Z
+DTEND:20290619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 10周年
+DESCRIPTION:ニュイ・ソシエール 10周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022030
+DTSTAMP:20250303T182836Z
+DTSTART:20300619T070500Z
+DTEND:20300619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 11周年
+DESCRIPTION:ニュイ・ソシエール 11周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022031
+DTSTAMP:20250303T182836Z
+DTSTART:20310619T070500Z
+DTEND:20310619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 12周年
+DESCRIPTION:ニュイ・ソシエール 12周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022032
+DTSTAMP:20250303T182836Z
+DTSTART:20320619T070500Z
+DTEND:20320619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 13周年
+DESCRIPTION:ニュイ・ソシエール 13周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022033
+DTSTAMP:20250303T182836Z
+DTSTART:20330619T070500Z
+DTEND:20330619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 14周年
+DESCRIPTION:ニュイ・ソシエール 14周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022034
+DTSTAMP:20250303T182836Z
+DTSTART:20340619T070500Z
+DTEND:20340619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 15周年
+DESCRIPTION:ニュイ・ソシエール 15周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:f05863c2-7133-4b1c-ac82-6fe4f5022035
+DTSTAMP:20250303T182836Z
+DTSTART:20350619T070500Z
+DTEND:20350619T070501Z
+TRANSP:TRANSPARENT
+SUMMARY:ニュイ・ソシエール 16周年
+DESCRIPTION:ニュイ・ソシエール 16周年\n\n初ツイート：2019/06/19 16:05 （日本時間）\n初配信：2019/06/25 （日本時間）\n\n\n==========\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n
+URL:https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

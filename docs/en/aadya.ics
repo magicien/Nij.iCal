@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Aadya
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509012020
+DTSTAMP:20250303T184411Z
+DTSTART:20201031
+DTEND:20201031
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Aadya Birthday
+DESCRIPTION:Aadya Birthday\n\n==========\n【Aadya】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509022020
+DTSTAMP:20250303T184411Z
+DTSTART:20200123T092900Z
+DTEND:20200123T095900Z
+TRANSP:TRANSPARENT
+SUMMARY:Aadya Debut
+DESCRIPTION:Aadya Debut\n\n==========\n【Aadya】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509022021
+DTSTAMP:20250303T184411Z
+DTSTART:20210123T092900Z
+DTEND:20210123T092901Z
+TRANSP:TRANSPARENT
+SUMMARY:Aadya 1st Anniversary
+DESCRIPTION:Aadya 1st Anniversary\n\nFirst tweet: Jan 23, 2020, 18:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Aadya】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509992021
+DTSTAMP:20250303T184411Z
+DTSTART:20210430
+DTEND:20210430
+TRANSP:TRANSPARENT
+SUMMARY:Aadya Graduation
+DESCRIPTION:Aadya Graduation\n\n==========\n【Aadya】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

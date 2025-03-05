@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ソ ナギ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9012020
+DTSTAMP:20250303T183437Z
+DTSTART:20201113
+DTEND:20201113
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 誕生日
+DESCRIPTION:ソ ナギ 誕生日\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022020
+DTSTAMP:20250303T183437Z
+DTSTART:20200520T062500Z
+DTEND:20200520T065500Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 活動開始
+DESCRIPTION:ソ ナギ 活動開始\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022021
+DTSTAMP:20250303T183437Z
+DTSTART:20210520T062500Z
+DTEND:20210520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 1周年
+DESCRIPTION:ソ ナギ 1周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022022
+DTSTAMP:20250303T183437Z
+DTSTART:20220520T062500Z
+DTEND:20220520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 2周年
+DESCRIPTION:ソ ナギ 2周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022023
+DTSTAMP:20250303T183437Z
+DTSTART:20230520T062500Z
+DTEND:20230520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 3周年
+DESCRIPTION:ソ ナギ 3周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022024
+DTSTAMP:20250303T183437Z
+DTSTART:20240520T062500Z
+DTEND:20240520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 4周年
+DESCRIPTION:ソ ナギ 4周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022025
+DTSTAMP:20250303T183437Z
+DTSTART:20250520T062500Z
+DTEND:20250520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 5周年
+DESCRIPTION:ソ ナギ 5周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022026
+DTSTAMP:20250303T183437Z
+DTSTART:20260520T062500Z
+DTEND:20260520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 6周年
+DESCRIPTION:ソ ナギ 6周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022027
+DTSTAMP:20250303T183437Z
+DTSTART:20270520T062500Z
+DTEND:20270520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 7周年
+DESCRIPTION:ソ ナギ 7周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022028
+DTSTAMP:20250303T183437Z
+DTSTART:20280520T062500Z
+DTEND:20280520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 8周年
+DESCRIPTION:ソ ナギ 8周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022029
+DTSTAMP:20250303T183437Z
+DTSTART:20290520T062500Z
+DTEND:20290520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 9周年
+DESCRIPTION:ソ ナギ 9周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022030
+DTSTAMP:20250303T183437Z
+DTSTART:20300520T062500Z
+DTEND:20300520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 10周年
+DESCRIPTION:ソ ナギ 10周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022031
+DTSTAMP:20250303T183437Z
+DTSTART:20310520T062500Z
+DTEND:20310520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 11周年
+DESCRIPTION:ソ ナギ 11周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022032
+DTSTAMP:20250303T183437Z
+DTSTART:20320520T062500Z
+DTEND:20320520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 12周年
+DESCRIPTION:ソ ナギ 12周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022033
+DTSTAMP:20250303T183437Z
+DTSTART:20330520T062500Z
+DTEND:20330520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 13周年
+DESCRIPTION:ソ ナギ 13周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022034
+DTSTAMP:20250303T183437Z
+DTSTART:20340520T062500Z
+DTEND:20340520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 14周年
+DESCRIPTION:ソ ナギ 14周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:17620c14-eb2e-4641-ad6f-d2a7f9022035
+DTSTAMP:20250303T183437Z
+DTSTART:20350520T062500Z
+DTEND:20350520T062501Z
+TRANSP:TRANSPARENT
+SUMMARY:ソ ナギ 15周年
+DESCRIPTION:ソ ナギ 15周年\n\n初ツイート：2020/05/20 15:25 （日本時間）\n初配信：2020/05/22 （日本時間）\n\n\n==========\n【ソ ナギ】\nYouTube: https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw\nX: https://twitter.com/NagiSo2434\n\n
+URL:https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:レザ アファンルナ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7012020
+DTSTAMP:20250303T183327Z
+DTSTART:20200229
+DTEND:20200229
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:レザ アファンルナ 誕生日
+DESCRIPTION:レザ アファンルナ 誕生日\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7022020
+DTSTAMP:20250303T183327Z
+DTSTART:20201111T074000Z
+DTEND:20201111T081000Z
+TRANSP:TRANSPARENT
+SUMMARY:レザ アファンルナ 活動開始
+DESCRIPTION:レザ アファンルナ 活動開始\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7022021
+DTSTAMP:20250303T183327Z
+DTSTART:20211111T074000Z
+DTEND:20211111T074001Z
+TRANSP:TRANSPARENT
+SUMMARY:レザ アファンルナ 1周年
+DESCRIPTION:レザ アファンルナ 1周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7022022
+DTSTAMP:20250303T183327Z
+DTSTART:20221111T074000Z
+DTEND:20221111T074001Z
+TRANSP:TRANSPARENT
+SUMMARY:レザ アファンルナ 2周年
+DESCRIPTION:レザ アファンルナ 2周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7992023
+DTSTAMP:20250303T183327Z
+DTSTART:20230930
+DTEND:20230930
+TRANSP:TRANSPARENT
+SUMMARY:レザ アファンルナ 卒業
+DESCRIPTION:レザ アファンルナ 卒業\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

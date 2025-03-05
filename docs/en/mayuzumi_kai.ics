@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Mayuzumi Kai
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ee2082-9ad5-44d1-8d2a-8339df012019
+DTSTAMP:20250303T182850Z
+DTSTART:20190928
+DTEND:20190928
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Mayuzumi Kai Birthday
+DESCRIPTION:Mayuzumi Kai Birthday\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+URL:https://www.youtube.com/c/MayuzumiX
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ee2082-9ad5-44d1-8d2a-8339df022019
+DTSTAMP:20250303T182850Z
+DTSTART:20190724T080000Z
+DTEND:20190724T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Mayuzumi Kai Debut
+DESCRIPTION:Mayuzumi Kai Debut\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+URL:https://www.youtube.com/c/MayuzumiX
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ee2082-9ad5-44d1-8d2a-8339df022020
+DTSTAMP:20250303T182850Z
+DTSTART:20200724T080000Z
+DTEND:20200724T080001Z
+TRANSP:TRANSPARENT
+SUMMARY:Mayuzumi Kai 1st Anniversary
+DESCRIPTION:Mayuzumi Kai 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+URL:https://www.youtube.com/c/MayuzumiX
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ee2082-9ad5-44d1-8d2a-8339df022021
+DTSTAMP:20250303T182850Z
+DTSTART:20210724T080000Z
+DTEND:20210724T080001Z
+TRANSP:TRANSPARENT
+SUMMARY:Mayuzumi Kai 2nd Anniversary
+DESCRIPTION:Mayuzumi Kai 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+URL:https://www.youtube.com/c/MayuzumiX
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ee2082-9ad5-44d1-8d2a-8339df022022
+DTSTAMP:20250303T182850Z
+DTSTART:20220724T080000Z
+DTEND:20220724T080001Z
+TRANSP:TRANSPARENT
+SUMMARY:Mayuzumi Kai 3rd Anniversary
+DESCRIPTION:Mayuzumi Kai 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+URL:https://www.youtube.com/c/MayuzumiX
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ee2082-9ad5-44d1-8d2a-8339df992022
+DTSTAMP:20250303T182850Z
+DTSTART:20220728
+DTEND:20220728
+TRANSP:TRANSPARENT
+SUMMARY:Mayuzumi Kai Graduation
+DESCRIPTION:Mayuzumi Kai Graduation\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+URL:https://www.youtube.com/c/MayuzumiX
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shu Yamino
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa012022
+DTSTAMP:20250303T183724Z
+DTSTART:20220502
+DTEND:20220502
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino Birthday
+DESCRIPTION:Shu Yamino Birthday\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022021
+DTSTAMP:20250303T183724Z
+DTSTART:20211217T000100Z
+DTEND:20211217T003100Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino Debut
+DESCRIPTION:Shu Yamino Debut\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022022
+DTSTAMP:20250303T183724Z
+DTSTART:20221217T000100Z
+DTEND:20221217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 1st Anniversary
+DESCRIPTION:Shu Yamino 1st Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022023
+DTSTAMP:20250303T183724Z
+DTSTART:20231217T000100Z
+DTEND:20231217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 2nd Anniversary
+DESCRIPTION:Shu Yamino 2nd Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022024
+DTSTAMP:20250303T183724Z
+DTSTART:20241217T000100Z
+DTEND:20241217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 3rd Anniversary
+DESCRIPTION:Shu Yamino 3rd Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022025
+DTSTAMP:20250303T183724Z
+DTSTART:20251217T000100Z
+DTEND:20251217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 4th Anniversary
+DESCRIPTION:Shu Yamino 4th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022026
+DTSTAMP:20250303T183724Z
+DTSTART:20261217T000100Z
+DTEND:20261217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 5th Anniversary
+DESCRIPTION:Shu Yamino 5th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022027
+DTSTAMP:20250303T183724Z
+DTSTART:20271217T000100Z
+DTEND:20271217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 6th Anniversary
+DESCRIPTION:Shu Yamino 6th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022028
+DTSTAMP:20250303T183724Z
+DTSTART:20281217T000100Z
+DTEND:20281217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 7th Anniversary
+DESCRIPTION:Shu Yamino 7th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022029
+DTSTAMP:20250303T183724Z
+DTSTART:20291217T000100Z
+DTEND:20291217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 8th Anniversary
+DESCRIPTION:Shu Yamino 8th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022030
+DTSTAMP:20250303T183724Z
+DTSTART:20301217T000100Z
+DTEND:20301217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 9th Anniversary
+DESCRIPTION:Shu Yamino 9th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022031
+DTSTAMP:20250303T183724Z
+DTSTART:20311217T000100Z
+DTEND:20311217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 10th Anniversary
+DESCRIPTION:Shu Yamino 10th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022032
+DTSTAMP:20250303T183724Z
+DTSTART:20321217T000100Z
+DTEND:20321217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 11th Anniversary
+DESCRIPTION:Shu Yamino 11th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022033
+DTSTAMP:20250303T183724Z
+DTSTART:20331217T000100Z
+DTEND:20331217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 12th Anniversary
+DESCRIPTION:Shu Yamino 12th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022034
+DTSTAMP:20250303T183724Z
+DTSTART:20341217T000100Z
+DTEND:20341217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 13th Anniversary
+DESCRIPTION:Shu Yamino 13th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:541262b5-2b94-4e6a-8bfb-783dfa022035
+DTSTAMP:20250303T183724Z
+DTSTART:20351217T000100Z
+DTEND:20351217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:Shu Yamino 14th Anniversary
+DESCRIPTION:Shu Yamino 14th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n
+URL:https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Gwelu Os Gar
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3012020
+DTSTAMP:20250303T182921Z
+DTSTART:20200422
+DTEND:20200422
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar Birthday
+DESCRIPTION:Gwelu Os Gar Birthday\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022019
+DTSTAMP:20250303T182921Z
+DTSTART:20191128T070000Z
+DTEND:20191128T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar Debut
+DESCRIPTION:Gwelu Os Gar Debut\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022020
+DTSTAMP:20250303T182921Z
+DTSTART:20201128T070000Z
+DTEND:20201128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 1st Anniversary
+DESCRIPTION:Gwelu Os Gar 1st Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022021
+DTSTAMP:20250303T182921Z
+DTSTART:20211128T070000Z
+DTEND:20211128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 2nd Anniversary
+DESCRIPTION:Gwelu Os Gar 2nd Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022022
+DTSTAMP:20250303T182921Z
+DTSTART:20221128T070000Z
+DTEND:20221128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 3rd Anniversary
+DESCRIPTION:Gwelu Os Gar 3rd Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022023
+DTSTAMP:20250303T182921Z
+DTSTART:20231128T070000Z
+DTEND:20231128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 4th Anniversary
+DESCRIPTION:Gwelu Os Gar 4th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022024
+DTSTAMP:20250303T182921Z
+DTSTART:20241128T070000Z
+DTEND:20241128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 5th Anniversary
+DESCRIPTION:Gwelu Os Gar 5th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022025
+DTSTAMP:20250303T182921Z
+DTSTART:20251128T070000Z
+DTEND:20251128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 6th Anniversary
+DESCRIPTION:Gwelu Os Gar 6th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022026
+DTSTAMP:20250303T182921Z
+DTSTART:20261128T070000Z
+DTEND:20261128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 7th Anniversary
+DESCRIPTION:Gwelu Os Gar 7th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022027
+DTSTAMP:20250303T182921Z
+DTSTART:20271128T070000Z
+DTEND:20271128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 8th Anniversary
+DESCRIPTION:Gwelu Os Gar 8th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022028
+DTSTAMP:20250303T182921Z
+DTSTART:20281128T070000Z
+DTEND:20281128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 9th Anniversary
+DESCRIPTION:Gwelu Os Gar 9th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022029
+DTSTAMP:20250303T182921Z
+DTSTART:20291128T070000Z
+DTEND:20291128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 10th Anniversary
+DESCRIPTION:Gwelu Os Gar 10th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022030
+DTSTAMP:20250303T182921Z
+DTSTART:20301128T070000Z
+DTEND:20301128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 11th Anniversary
+DESCRIPTION:Gwelu Os Gar 11th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022031
+DTSTAMP:20250303T182921Z
+DTSTART:20311128T070000Z
+DTEND:20311128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 12th Anniversary
+DESCRIPTION:Gwelu Os Gar 12th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022032
+DTSTAMP:20250303T182921Z
+DTSTART:20321128T070000Z
+DTEND:20321128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 13th Anniversary
+DESCRIPTION:Gwelu Os Gar 13th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022033
+DTSTAMP:20250303T182921Z
+DTSTART:20331128T070000Z
+DTEND:20331128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 14th Anniversary
+DESCRIPTION:Gwelu Os Gar 14th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022034
+DTSTAMP:20250303T182921Z
+DTSTART:20341128T070000Z
+DTEND:20341128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 15th Anniversary
+DESCRIPTION:Gwelu Os Gar 15th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:9d162f8d-d200-4370-a257-e613e3022035
+DTSTAMP:20250303T182921Z
+DTSTART:20351128T070000Z
+DTEND:20351128T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Gwelu Os Gar 16th Anniversary
+DESCRIPTION:Gwelu Os Gar 16th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:11 (JST)\nFirst stream: Nov 30, 2019 (JST)\n\n\n==========\n【Gwelu Os Gar】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

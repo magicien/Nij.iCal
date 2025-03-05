@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:花畑チャイカ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:40275588-0052-4ba0-a2f2-a11cce6671e8
+DTSTAMP:20250304T013652Z
+DTSTART:20250721T090000Z
+DTEND:20250721T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演
+LOCATION:Kアリーナ横浜
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093012018
+DTSTAMP:20250303T184310Z
+DTSTART:20180627
+DTEND:20180627
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 誕生日
+DESCRIPTION:花畑チャイカ 誕生日\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022018
+DTSTAMP:20250303T184310Z
+DTSTART:20180603T042600Z
+DTEND:20180603T045600Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 活動開始
+DESCRIPTION:花畑チャイカ 活動開始\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022019
+DTSTAMP:20250303T184310Z
+DTSTART:20190603T042600Z
+DTEND:20190603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 1周年
+DESCRIPTION:花畑チャイカ 1周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022020
+DTSTAMP:20250303T184310Z
+DTSTART:20200603T042600Z
+DTEND:20200603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 2周年
+DESCRIPTION:花畑チャイカ 2周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022021
+DTSTAMP:20250303T184310Z
+DTSTART:20210603T042600Z
+DTEND:20210603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 3周年
+DESCRIPTION:花畑チャイカ 3周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022022
+DTSTAMP:20250303T184310Z
+DTSTART:20220603T042600Z
+DTEND:20220603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 4周年
+DESCRIPTION:花畑チャイカ 4周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022023
+DTSTAMP:20250303T184310Z
+DTSTART:20230603T042600Z
+DTEND:20230603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 5周年
+DESCRIPTION:花畑チャイカ 5周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022024
+DTSTAMP:20250303T184310Z
+DTSTART:20240603T042600Z
+DTEND:20240603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 6周年
+DESCRIPTION:花畑チャイカ 6周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022025
+DTSTAMP:20250303T184310Z
+DTSTART:20250603T042600Z
+DTEND:20250603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 7周年
+DESCRIPTION:花畑チャイカ 7周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022026
+DTSTAMP:20250303T184310Z
+DTSTART:20260603T042600Z
+DTEND:20260603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 8周年
+DESCRIPTION:花畑チャイカ 8周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022027
+DTSTAMP:20250303T184310Z
+DTSTART:20270603T042600Z
+DTEND:20270603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 9周年
+DESCRIPTION:花畑チャイカ 9周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022028
+DTSTAMP:20250303T184310Z
+DTSTART:20280603T042600Z
+DTEND:20280603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 10周年
+DESCRIPTION:花畑チャイカ 10周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022029
+DTSTAMP:20250303T184310Z
+DTSTART:20290603T042600Z
+DTEND:20290603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 11周年
+DESCRIPTION:花畑チャイカ 11周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022030
+DTSTAMP:20250303T184310Z
+DTSTART:20300603T042600Z
+DTEND:20300603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 12周年
+DESCRIPTION:花畑チャイカ 12周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022031
+DTSTAMP:20250303T184310Z
+DTSTART:20310603T042600Z
+DTEND:20310603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 13周年
+DESCRIPTION:花畑チャイカ 13周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022032
+DTSTAMP:20250303T184310Z
+DTSTART:20320603T042600Z
+DTEND:20320603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 14周年
+DESCRIPTION:花畑チャイカ 14周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022033
+DTSTAMP:20250303T184310Z
+DTSTART:20330603T042600Z
+DTEND:20330603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 15周年
+DESCRIPTION:花畑チャイカ 15周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022034
+DTSTAMP:20250303T184310Z
+DTSTART:20340603T042600Z
+DTEND:20340603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 16周年
+DESCRIPTION:花畑チャイカ 16周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022035
+DTSTAMP:20250303T184310Z
+DTSTART:20350603T042600Z
+DTEND:20350603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 17周年
+DESCRIPTION:花畑チャイカ 17周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:出雲霞
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a07f6f5-cb5d-48ce-bb56-55516a012018
+DTSTAMP:20250303T184305Z
+DTSTART:20181013
+DTEND:20181013
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:出雲霞 誕生日
+DESCRIPTION:出雲霞 誕生日\n\n==========\n【出雲霞】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7a07f6f5-cb5d-48ce-bb56-55516a022018
+DTSTAMP:20250303T184305Z
+DTSTART:20180603T035900Z
+DTEND:20180603T042900Z
+TRANSP:TRANSPARENT
+SUMMARY:出雲霞 活動開始
+DESCRIPTION:出雲霞 活動開始\n\n==========\n【出雲霞】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7a07f6f5-cb5d-48ce-bb56-55516a022019
+DTSTAMP:20250303T184305Z
+DTSTART:20190603T035900Z
+DTEND:20190603T035901Z
+TRANSP:TRANSPARENT
+SUMMARY:出雲霞 1周年
+DESCRIPTION:出雲霞 1周年\n\n初ツイート：2018/06/03 12:59 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【出雲霞】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7a07f6f5-cb5d-48ce-bb56-55516a022020
+DTSTAMP:20250303T184305Z
+DTSTART:20200603T035900Z
+DTEND:20200603T035901Z
+TRANSP:TRANSPARENT
+SUMMARY:出雲霞 2周年
+DESCRIPTION:出雲霞 2周年\n\n初ツイート：2018/06/03 12:59 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【出雲霞】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7a07f6f5-cb5d-48ce-bb56-55516a992020
+DTSTAMP:20250303T184305Z
+DTSTART:20201031
+DTEND:20201031
+TRANSP:TRANSPARENT
+SUMMARY:出雲霞 卒業
+DESCRIPTION:出雲霞 卒業\n\n==========\n【出雲霞】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

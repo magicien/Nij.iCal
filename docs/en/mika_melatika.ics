@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Mika Melatika
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1012022
+DTSTAMP:20250303T183347Z
+DTSTART:20220401
+DTEND:20220401
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Mika Melatika Birthday
+DESCRIPTION:Mika Melatika Birthday\n\n==========\n【Mika Melatika】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1022021
+DTSTAMP:20250303T183347Z
+DTSTART:20210728T094900Z
+DTEND:20210728T101900Z
+TRANSP:TRANSPARENT
+SUMMARY:Mika Melatika Debut
+DESCRIPTION:Mika Melatika Debut\n\n==========\n【Mika Melatika】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1022022
+DTSTAMP:20250303T183347Z
+DTSTART:20220728T094900Z
+DTEND:20220728T094901Z
+TRANSP:TRANSPARENT
+SUMMARY:Mika Melatika 1st Anniversary
+DESCRIPTION:Mika Melatika 1st Anniversary\n\nFirst tweet: Jul 28, 2021, 18:07 (JST)\nFirst stream: Jul 31, 2021 (JST)\n\n\n==========\n【Mika Melatika】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1022023
+DTSTAMP:20250303T183347Z
+DTSTART:20230728T094900Z
+DTEND:20230728T094901Z
+TRANSP:TRANSPARENT
+SUMMARY:Mika Melatika 2nd Anniversary
+DESCRIPTION:Mika Melatika 2nd Anniversary\n\nFirst tweet: Jul 28, 2021, 18:07 (JST)\nFirst stream: Jul 31, 2021 (JST)\n\n\n==========\n【Mika Melatika】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1992023
+DTSTAMP:20250303T183347Z
+DTSTART:20231228
+DTEND:20231228
+TRANSP:TRANSPARENT
+SUMMARY:Mika Melatika Graduation
+DESCRIPTION:Mika Melatika Graduation\n\n==========\n【Mika Melatika】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

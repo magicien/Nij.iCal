@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Gaon
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186012020
+DTSTAMP:20250303T183405Z
+DTSTART:20200222
+DTEND:20200222
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Gaon Birthday
+DESCRIPTION:Gaon Birthday\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022020
+DTSTAMP:20250303T183405Z
+DTSTART:20200125T133200Z
+DTEND:20200125T140200Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon Debut
+DESCRIPTION:Gaon Debut\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022021
+DTSTAMP:20250303T183405Z
+DTSTART:20210125T133200Z
+DTEND:20210125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 1st Anniversary
+DESCRIPTION:Gaon 1st Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022022
+DTSTAMP:20250303T183405Z
+DTSTART:20220125T133200Z
+DTEND:20220125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 2nd Anniversary
+DESCRIPTION:Gaon 2nd Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022023
+DTSTAMP:20250303T183405Z
+DTSTART:20230125T133200Z
+DTEND:20230125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 3rd Anniversary
+DESCRIPTION:Gaon 3rd Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022024
+DTSTAMP:20250303T183405Z
+DTSTART:20240125T133200Z
+DTEND:20240125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 4th Anniversary
+DESCRIPTION:Gaon 4th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022025
+DTSTAMP:20250303T183405Z
+DTSTART:20250125T133200Z
+DTEND:20250125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 5th Anniversary
+DESCRIPTION:Gaon 5th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022026
+DTSTAMP:20250303T183405Z
+DTSTART:20260125T133200Z
+DTEND:20260125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 6th Anniversary
+DESCRIPTION:Gaon 6th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022027
+DTSTAMP:20250303T183405Z
+DTSTART:20270125T133200Z
+DTEND:20270125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 7th Anniversary
+DESCRIPTION:Gaon 7th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022028
+DTSTAMP:20250303T183405Z
+DTSTART:20280125T133200Z
+DTEND:20280125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 8th Anniversary
+DESCRIPTION:Gaon 8th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022029
+DTSTAMP:20250303T183405Z
+DTSTART:20290125T133200Z
+DTEND:20290125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 9th Anniversary
+DESCRIPTION:Gaon 9th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022030
+DTSTAMP:20250303T183405Z
+DTSTART:20300125T133200Z
+DTEND:20300125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 10th Anniversary
+DESCRIPTION:Gaon 10th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022031
+DTSTAMP:20250303T183405Z
+DTSTART:20310125T133200Z
+DTEND:20310125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 11th Anniversary
+DESCRIPTION:Gaon 11th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022032
+DTSTAMP:20250303T183405Z
+DTSTART:20320125T133200Z
+DTEND:20320125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 12th Anniversary
+DESCRIPTION:Gaon 12th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022033
+DTSTAMP:20250303T183405Z
+DTSTART:20330125T133200Z
+DTEND:20330125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 13th Anniversary
+DESCRIPTION:Gaon 13th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022034
+DTSTAMP:20250303T183405Z
+DTSTART:20340125T133200Z
+DTEND:20340125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 14th Anniversary
+DESCRIPTION:Gaon 14th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:710d4445-7619-4255-b4a6-470186022035
+DTSTAMP:20250303T183405Z
+DTSTART:20350125T133200Z
+DTEND:20350125T133201Z
+TRANSP:TRANSPARENT
+SUMMARY:Gaon 15th Anniversary
+DESCRIPTION:Gaon 15th Anniversary\n\nFirst tweet: Jan 25, 2020, 22:01 (JST)\nFirst stream: Jan 28, 2020 (JST)\n\n\n==========\n【Gaon】\nYouTube: https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw\nX: https://twitter.com/Gaon2434\n\n
+URL:https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

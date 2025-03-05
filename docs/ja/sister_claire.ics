@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:シスター・クレア
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b012018
+DTSTAMP:20250303T184307Z
+DTSTART:20181004
+DTEND:20181004
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 誕生日
+DESCRIPTION:シスター・クレア 誕生日\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022018
+DTSTAMP:20250303T184307Z
+DTSTART:20180603T060000Z
+DTEND:20180603T063000Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 活動開始
+DESCRIPTION:シスター・クレア 活動開始\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022019
+DTSTAMP:20250303T184307Z
+DTSTART:20190603T060000Z
+DTEND:20190603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 1周年
+DESCRIPTION:シスター・クレア 1周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022020
+DTSTAMP:20250303T184307Z
+DTSTART:20200603T060000Z
+DTEND:20200603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 2周年
+DESCRIPTION:シスター・クレア 2周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022021
+DTSTAMP:20250303T184307Z
+DTSTART:20210603T060000Z
+DTEND:20210603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 3周年
+DESCRIPTION:シスター・クレア 3周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022022
+DTSTAMP:20250303T184307Z
+DTSTART:20220603T060000Z
+DTEND:20220603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 4周年
+DESCRIPTION:シスター・クレア 4周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022023
+DTSTAMP:20250303T184307Z
+DTSTART:20230603T060000Z
+DTEND:20230603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 5周年
+DESCRIPTION:シスター・クレア 5周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022024
+DTSTAMP:20250303T184307Z
+DTSTART:20240603T060000Z
+DTEND:20240603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 6周年
+DESCRIPTION:シスター・クレア 6周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022025
+DTSTAMP:20250303T184307Z
+DTSTART:20250603T060000Z
+DTEND:20250603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 7周年
+DESCRIPTION:シスター・クレア 7周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022026
+DTSTAMP:20250303T184307Z
+DTSTART:20260603T060000Z
+DTEND:20260603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 8周年
+DESCRIPTION:シスター・クレア 8周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022027
+DTSTAMP:20250303T184307Z
+DTSTART:20270603T060000Z
+DTEND:20270603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 9周年
+DESCRIPTION:シスター・クレア 9周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022028
+DTSTAMP:20250303T184307Z
+DTSTART:20280603T060000Z
+DTEND:20280603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 10周年
+DESCRIPTION:シスター・クレア 10周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022029
+DTSTAMP:20250303T184307Z
+DTSTART:20290603T060000Z
+DTEND:20290603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 11周年
+DESCRIPTION:シスター・クレア 11周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022030
+DTSTAMP:20250303T184307Z
+DTSTART:20300603T060000Z
+DTEND:20300603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 12周年
+DESCRIPTION:シスター・クレア 12周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022031
+DTSTAMP:20250303T184307Z
+DTSTART:20310603T060000Z
+DTEND:20310603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 13周年
+DESCRIPTION:シスター・クレア 13周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022032
+DTSTAMP:20250303T184307Z
+DTSTART:20320603T060000Z
+DTEND:20320603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 14周年
+DESCRIPTION:シスター・クレア 14周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022033
+DTSTAMP:20250303T184307Z
+DTSTART:20330603T060000Z
+DTEND:20330603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 15周年
+DESCRIPTION:シスター・クレア 15周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022034
+DTSTAMP:20250303T184307Z
+DTSTART:20340603T060000Z
+DTEND:20340603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 16周年
+DESCRIPTION:シスター・クレア 16周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:50f8b99d-1234-47c9-9242-24c72b022035
+DTSTAMP:20250303T184307Z
+DTSTART:20350603T060000Z
+DTEND:20350603T060001Z
+TRANSP:TRANSPARENT
+SUMMARY:シスター・クレア 17周年
+DESCRIPTION:シスター・クレア 17周年\n\n初ツイート：2018/06/03 15:00 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

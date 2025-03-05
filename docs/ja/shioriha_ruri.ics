@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:栞葉るり
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:60681f23-b184-4de9-84c2-2dedc25147e0
+DTSTAMP:20250304T013703Z
+DTSTART:20251018T090000Z
+DTEND:20251018T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演
+LOCATION:広島文化学園HBGホール
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87012024
+DTSTAMP:20250303T183526Z
+DTSTART:20240920
+DTEND:20240920
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 誕生日
+DESCRIPTION:栞葉るり 誕生日\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022023
+DTSTAMP:20250303T183526Z
+DTSTART:20231121T030200Z
+DTEND:20231121T033200Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 活動開始
+DESCRIPTION:栞葉るり 活動開始\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022024
+DTSTAMP:20250303T183526Z
+DTSTART:20241121T030200Z
+DTEND:20241121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 1周年
+DESCRIPTION:栞葉るり 1周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022025
+DTSTAMP:20250303T183526Z
+DTSTART:20251121T030200Z
+DTEND:20251121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 2周年
+DESCRIPTION:栞葉るり 2周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022026
+DTSTAMP:20250303T183526Z
+DTSTART:20261121T030200Z
+DTEND:20261121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 3周年
+DESCRIPTION:栞葉るり 3周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022027
+DTSTAMP:20250303T183526Z
+DTSTART:20271121T030200Z
+DTEND:20271121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 4周年
+DESCRIPTION:栞葉るり 4周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022028
+DTSTAMP:20250303T183526Z
+DTSTART:20281121T030200Z
+DTEND:20281121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 5周年
+DESCRIPTION:栞葉るり 5周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022029
+DTSTAMP:20250303T183526Z
+DTSTART:20291121T030200Z
+DTEND:20291121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 6周年
+DESCRIPTION:栞葉るり 6周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022030
+DTSTAMP:20250303T183526Z
+DTSTART:20301121T030200Z
+DTEND:20301121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 7周年
+DESCRIPTION:栞葉るり 7周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022031
+DTSTAMP:20250303T183526Z
+DTSTART:20311121T030200Z
+DTEND:20311121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 8周年
+DESCRIPTION:栞葉るり 8周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022032
+DTSTAMP:20250303T183526Z
+DTSTART:20321121T030200Z
+DTEND:20321121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 9周年
+DESCRIPTION:栞葉るり 9周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022033
+DTSTAMP:20250303T183526Z
+DTSTART:20331121T030200Z
+DTEND:20331121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 10周年
+DESCRIPTION:栞葉るり 10周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022034
+DTSTAMP:20250303T183526Z
+DTSTART:20341121T030200Z
+DTEND:20341121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 11周年
+DESCRIPTION:栞葉るり 11周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022035
+DTSTAMP:20250303T183526Z
+DTSTART:20351121T030200Z
+DTEND:20351121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:栞葉るり 12周年
+DESCRIPTION:栞葉るり 12周年\n\n初ツイート：2023/11/21 12:02 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

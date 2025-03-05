@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Azuchi Momo
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf012019
+DTSTAMP:20250303T184311Z
+DTSTART:20190303
+DTEND:20190303
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo Birthday
+DESCRIPTION:Azuchi Momo Birthday\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf022018
+DTSTAMP:20250303T184311Z
+DTSTART:20180603T065300Z
+DTEND:20180603T072300Z
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo Debut
+DESCRIPTION:Azuchi Momo Debut\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf022019
+DTSTAMP:20250303T184311Z
+DTSTART:20190603T065300Z
+DTEND:20190603T065301Z
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo 1st Anniversary
+DESCRIPTION:Azuchi Momo 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf022020
+DTSTAMP:20250303T184311Z
+DTSTART:20200603T065300Z
+DTEND:20200603T065301Z
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo 2nd Anniversary
+DESCRIPTION:Azuchi Momo 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf022021
+DTSTAMP:20250303T184311Z
+DTSTART:20210603T065300Z
+DTEND:20210603T065301Z
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo 3rd Anniversary
+DESCRIPTION:Azuchi Momo 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf022022
+DTSTAMP:20250303T184311Z
+DTSTART:20220603T065300Z
+DTEND:20220603T065301Z
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo 4th Anniversary
+DESCRIPTION:Azuchi Momo 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf022023
+DTSTAMP:20250303T184311Z
+DTSTART:20230603T065300Z
+DTEND:20230603T065301Z
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo 5th Anniversary
+DESCRIPTION:Azuchi Momo 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf992024
+DTSTAMP:20250303T184311Z
+DTSTART:20240131
+DTEND:20240131
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo Graduation
+DESCRIPTION:Azuchi Momo Graduation\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

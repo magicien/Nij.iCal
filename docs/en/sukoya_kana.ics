@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Sukoya Kana
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e012020
+DTSTAMP:20250303T182907Z
+DTSTART:20200514
+DTEND:20200514
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana Birthday
+DESCRIPTION:Sukoya Kana Birthday\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022019
+DTSTAMP:20250303T182907Z
+DTSTART:20190919T070000Z
+DTEND:20190919T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana Debut
+DESCRIPTION:Sukoya Kana Debut\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022020
+DTSTAMP:20250303T182907Z
+DTSTART:20200919T070000Z
+DTEND:20200919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 1st Anniversary
+DESCRIPTION:Sukoya Kana 1st Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022021
+DTSTAMP:20250303T182907Z
+DTSTART:20210919T070000Z
+DTEND:20210919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 2nd Anniversary
+DESCRIPTION:Sukoya Kana 2nd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022022
+DTSTAMP:20250303T182907Z
+DTSTART:20220919T070000Z
+DTEND:20220919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 3rd Anniversary
+DESCRIPTION:Sukoya Kana 3rd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022023
+DTSTAMP:20250303T182907Z
+DTSTART:20230919T070000Z
+DTEND:20230919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 4th Anniversary
+DESCRIPTION:Sukoya Kana 4th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022024
+DTSTAMP:20250303T182907Z
+DTSTART:20240919T070000Z
+DTEND:20240919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 5th Anniversary
+DESCRIPTION:Sukoya Kana 5th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022025
+DTSTAMP:20250303T182907Z
+DTSTART:20250919T070000Z
+DTEND:20250919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 6th Anniversary
+DESCRIPTION:Sukoya Kana 6th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022026
+DTSTAMP:20250303T182907Z
+DTSTART:20260919T070000Z
+DTEND:20260919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 7th Anniversary
+DESCRIPTION:Sukoya Kana 7th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022027
+DTSTAMP:20250303T182907Z
+DTSTART:20270919T070000Z
+DTEND:20270919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 8th Anniversary
+DESCRIPTION:Sukoya Kana 8th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022028
+DTSTAMP:20250303T182907Z
+DTSTART:20280919T070000Z
+DTEND:20280919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 9th Anniversary
+DESCRIPTION:Sukoya Kana 9th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022029
+DTSTAMP:20250303T182907Z
+DTSTART:20290919T070000Z
+DTEND:20290919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 10th Anniversary
+DESCRIPTION:Sukoya Kana 10th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022030
+DTSTAMP:20250303T182907Z
+DTSTART:20300919T070000Z
+DTEND:20300919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 11th Anniversary
+DESCRIPTION:Sukoya Kana 11th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022031
+DTSTAMP:20250303T182907Z
+DTSTART:20310919T070000Z
+DTEND:20310919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 12th Anniversary
+DESCRIPTION:Sukoya Kana 12th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022032
+DTSTAMP:20250303T182907Z
+DTSTART:20320919T070000Z
+DTEND:20320919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 13th Anniversary
+DESCRIPTION:Sukoya Kana 13th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022033
+DTSTAMP:20250303T182907Z
+DTSTART:20330919T070000Z
+DTEND:20330919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 14th Anniversary
+DESCRIPTION:Sukoya Kana 14th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022034
+DTSTAMP:20250303T182907Z
+DTSTART:20340919T070000Z
+DTEND:20340919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 15th Anniversary
+DESCRIPTION:Sukoya Kana 15th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc6cf4e-cb77-4929-9756-55cf8e022035
+DTSTAMP:20250303T182907Z
+DTSTART:20350919T070000Z
+DTEND:20350919T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sukoya Kana 16th Anniversary
+DESCRIPTION:Sukoya Kana 16th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n
+URL:https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

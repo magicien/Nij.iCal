@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Amagase Muyu
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229012022
+DTSTAMP:20250303T183129Z
+DTSTART:20220911
+DTEND:20220911
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu Birthday
+DESCRIPTION:Amagase Muyu Birthday\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022022
+DTSTAMP:20250303T183129Z
+DTSTART:20220316T032700Z
+DTEND:20220316T035700Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu Debut
+DESCRIPTION:Amagase Muyu Debut\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022023
+DTSTAMP:20250303T183129Z
+DTSTART:20230316T032700Z
+DTEND:20230316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 1st Anniversary
+DESCRIPTION:Amagase Muyu 1st Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022024
+DTSTAMP:20250303T183129Z
+DTSTART:20240316T032700Z
+DTEND:20240316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 2nd Anniversary
+DESCRIPTION:Amagase Muyu 2nd Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022025
+DTSTAMP:20250303T183129Z
+DTSTART:20250316T032700Z
+DTEND:20250316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 3rd Anniversary
+DESCRIPTION:Amagase Muyu 3rd Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022026
+DTSTAMP:20250303T183129Z
+DTSTART:20260316T032700Z
+DTEND:20260316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 4th Anniversary
+DESCRIPTION:Amagase Muyu 4th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022027
+DTSTAMP:20250303T183129Z
+DTSTART:20270316T032700Z
+DTEND:20270316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 5th Anniversary
+DESCRIPTION:Amagase Muyu 5th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022028
+DTSTAMP:20250303T183129Z
+DTSTART:20280316T032700Z
+DTEND:20280316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 6th Anniversary
+DESCRIPTION:Amagase Muyu 6th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022029
+DTSTAMP:20250303T183129Z
+DTSTART:20290316T032700Z
+DTEND:20290316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 7th Anniversary
+DESCRIPTION:Amagase Muyu 7th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022030
+DTSTAMP:20250303T183129Z
+DTSTART:20300316T032700Z
+DTEND:20300316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 8th Anniversary
+DESCRIPTION:Amagase Muyu 8th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022031
+DTSTAMP:20250303T183129Z
+DTSTART:20310316T032700Z
+DTEND:20310316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 9th Anniversary
+DESCRIPTION:Amagase Muyu 9th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022032
+DTSTAMP:20250303T183129Z
+DTSTART:20320316T032700Z
+DTEND:20320316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 10th Anniversary
+DESCRIPTION:Amagase Muyu 10th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022033
+DTSTAMP:20250303T183129Z
+DTSTART:20330316T032700Z
+DTEND:20330316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 11th Anniversary
+DESCRIPTION:Amagase Muyu 11th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022034
+DTSTAMP:20250303T183129Z
+DTSTART:20340316T032700Z
+DTEND:20340316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 12th Anniversary
+DESCRIPTION:Amagase Muyu 12th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9090b-4cde-4a9b-a524-ec5229022035
+DTSTAMP:20250303T183129Z
+DTSTART:20350316T032700Z
+DTEND:20350316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Amagase Muyu 13th Anniversary
+DESCRIPTION:Amagase Muyu 13th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Amagase Muyu】\nYouTube: https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ\nX: https://twitter.com/Muyu_Amagase\n\n
+URL:https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

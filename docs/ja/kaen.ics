@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:カエン
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ceb0e14-f969-4ddf-ab53-8e2227012020
+DTSTAMP:20250303T183407Z
+DTSTART:20200902
+DTEND:20200902
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:カエン 誕生日
+DESCRIPTION:カエン 誕生日\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
+END:VEVENT
+BEGIN:VEVENT
+UID:6ceb0e14-f969-4ddf-ab53-8e2227022020
+DTSTAMP:20250303T183407Z
+DTSTART:20200125T151800Z
+DTEND:20200125T154800Z
+TRANSP:TRANSPARENT
+SUMMARY:カエン 活動開始
+DESCRIPTION:カエン 活動開始\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
+END:VEVENT
+BEGIN:VEVENT
+UID:6ceb0e14-f969-4ddf-ab53-8e2227992020
+DTSTAMP:20250303T183407Z
+DTSTART:20200717
+DTEND:20200717
+TRANSP:TRANSPARENT
+SUMMARY:カエン 卒業
+DESCRIPTION:カエン 卒業\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

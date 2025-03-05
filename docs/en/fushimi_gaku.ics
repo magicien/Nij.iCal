@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Fushimi Gaku
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
+DTSTAMP:20250304T013705Z
+DTSTART:20260118T090000Z
+DTEND:20260118T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo
+LOCATION:TOYOTA ARENA TOKYO
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e012018
+DTSTAMP:20250303T184241Z
+DTSTART:20181005
+DTEND:20181005
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku Birthday
+DESCRIPTION:Fushimi Gaku Birthday\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022018
+DTSTAMP:20250303T184241Z
+DTSTART:20180305T165400Z
+DTEND:20180305T172400Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku Debut
+DESCRIPTION:Fushimi Gaku Debut\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022019
+DTSTAMP:20250303T184241Z
+DTSTART:20190305T165400Z
+DTEND:20190305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 1st Anniversary
+DESCRIPTION:Fushimi Gaku 1st Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022020
+DTSTAMP:20250303T184241Z
+DTSTART:20200305T165400Z
+DTEND:20200305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 2nd Anniversary
+DESCRIPTION:Fushimi Gaku 2nd Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022021
+DTSTAMP:20250303T184241Z
+DTSTART:20210305T165400Z
+DTEND:20210305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 3rd Anniversary
+DESCRIPTION:Fushimi Gaku 3rd Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022022
+DTSTAMP:20250303T184241Z
+DTSTART:20220305T165400Z
+DTEND:20220305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 4th Anniversary
+DESCRIPTION:Fushimi Gaku 4th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022023
+DTSTAMP:20250303T184241Z
+DTSTART:20230305T165400Z
+DTEND:20230305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 5th Anniversary
+DESCRIPTION:Fushimi Gaku 5th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022024
+DTSTAMP:20250303T184241Z
+DTSTART:20240305T165400Z
+DTEND:20240305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 6th Anniversary
+DESCRIPTION:Fushimi Gaku 6th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022025
+DTSTAMP:20250303T184241Z
+DTSTART:20250305T165400Z
+DTEND:20250305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 7th Anniversary
+DESCRIPTION:Fushimi Gaku 7th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022026
+DTSTAMP:20250303T184241Z
+DTSTART:20260305T165400Z
+DTEND:20260305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 8th Anniversary
+DESCRIPTION:Fushimi Gaku 8th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022027
+DTSTAMP:20250303T184241Z
+DTSTART:20270305T165400Z
+DTEND:20270305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 9th Anniversary
+DESCRIPTION:Fushimi Gaku 9th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022028
+DTSTAMP:20250303T184241Z
+DTSTART:20280305T165400Z
+DTEND:20280305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 10th Anniversary
+DESCRIPTION:Fushimi Gaku 10th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022029
+DTSTAMP:20250303T184241Z
+DTSTART:20290305T165400Z
+DTEND:20290305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 11th Anniversary
+DESCRIPTION:Fushimi Gaku 11th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022030
+DTSTAMP:20250303T184241Z
+DTSTART:20300305T165400Z
+DTEND:20300305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 12th Anniversary
+DESCRIPTION:Fushimi Gaku 12th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022031
+DTSTAMP:20250303T184241Z
+DTSTART:20310305T165400Z
+DTEND:20310305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 13th Anniversary
+DESCRIPTION:Fushimi Gaku 13th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022032
+DTSTAMP:20250303T184241Z
+DTSTART:20320305T165400Z
+DTEND:20320305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 14th Anniversary
+DESCRIPTION:Fushimi Gaku 14th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022033
+DTSTAMP:20250303T184241Z
+DTSTART:20330305T165400Z
+DTEND:20330305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 15th Anniversary
+DESCRIPTION:Fushimi Gaku 15th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022034
+DTSTAMP:20250303T184241Z
+DTSTART:20340305T165400Z
+DTEND:20340305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 16th Anniversary
+DESCRIPTION:Fushimi Gaku 16th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:91b26b30-6431-45eb-817d-0e479e022035
+DTSTAMP:20250303T184241Z
+DTSTART:20350305T165400Z
+DTEND:20350305T165401Z
+TRANSP:TRANSPARENT
+SUMMARY:Fushimi Gaku 17th Anniversary
+DESCRIPTION:Fushimi Gaku 17th Anniversary\n\nFirst tweet: Mar 6, 2018, 1:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n
+URL:https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

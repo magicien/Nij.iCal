@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ベルモンド・バンデラス
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035012018
+DTSTAMP:20250303T182743Z
+DTSTART:20181103
+DTEND:20181103
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 誕生日
+DESCRIPTION:ベルモンド・バンデラス 誕生日\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022018
+DTSTAMP:20250303T182743Z
+DTSTART:20180925T070200Z
+DTEND:20180925T073200Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 活動開始
+DESCRIPTION:ベルモンド・バンデラス 活動開始\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022019
+DTSTAMP:20250303T182743Z
+DTSTART:20190925T070200Z
+DTEND:20190925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 1周年
+DESCRIPTION:ベルモンド・バンデラス 1周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022020
+DTSTAMP:20250303T182743Z
+DTSTART:20200925T070200Z
+DTEND:20200925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 2周年
+DESCRIPTION:ベルモンド・バンデラス 2周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022021
+DTSTAMP:20250303T182743Z
+DTSTART:20210925T070200Z
+DTEND:20210925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 3周年
+DESCRIPTION:ベルモンド・バンデラス 3周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022022
+DTSTAMP:20250303T182743Z
+DTSTART:20220925T070200Z
+DTEND:20220925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 4周年
+DESCRIPTION:ベルモンド・バンデラス 4周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022023
+DTSTAMP:20250303T182743Z
+DTSTART:20230925T070200Z
+DTEND:20230925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 5周年
+DESCRIPTION:ベルモンド・バンデラス 5周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022024
+DTSTAMP:20250303T182743Z
+DTSTART:20240925T070200Z
+DTEND:20240925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 6周年
+DESCRIPTION:ベルモンド・バンデラス 6周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022025
+DTSTAMP:20250303T182743Z
+DTSTART:20250925T070200Z
+DTEND:20250925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 7周年
+DESCRIPTION:ベルモンド・バンデラス 7周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022026
+DTSTAMP:20250303T182743Z
+DTSTART:20260925T070200Z
+DTEND:20260925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 8周年
+DESCRIPTION:ベルモンド・バンデラス 8周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022027
+DTSTAMP:20250303T182743Z
+DTSTART:20270925T070200Z
+DTEND:20270925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 9周年
+DESCRIPTION:ベルモンド・バンデラス 9周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022028
+DTSTAMP:20250303T182743Z
+DTSTART:20280925T070200Z
+DTEND:20280925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 10周年
+DESCRIPTION:ベルモンド・バンデラス 10周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022029
+DTSTAMP:20250303T182743Z
+DTSTART:20290925T070200Z
+DTEND:20290925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 11周年
+DESCRIPTION:ベルモンド・バンデラス 11周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022030
+DTSTAMP:20250303T182743Z
+DTSTART:20300925T070200Z
+DTEND:20300925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 12周年
+DESCRIPTION:ベルモンド・バンデラス 12周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022031
+DTSTAMP:20250303T182743Z
+DTSTART:20310925T070200Z
+DTEND:20310925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 13周年
+DESCRIPTION:ベルモンド・バンデラス 13周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022032
+DTSTAMP:20250303T182743Z
+DTSTART:20320925T070200Z
+DTEND:20320925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 14周年
+DESCRIPTION:ベルモンド・バンデラス 14周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022033
+DTSTAMP:20250303T182743Z
+DTSTART:20330925T070200Z
+DTEND:20330925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 15周年
+DESCRIPTION:ベルモンド・バンデラス 15周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022034
+DTSTAMP:20250303T182743Z
+DTSTART:20340925T070200Z
+DTEND:20340925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 16周年
+DESCRIPTION:ベルモンド・バンデラス 16周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022035
+DTSTAMP:20250303T182743Z
+DTSTART:20350925T070200Z
+DTEND:20350925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:ベルモンド・バンデラス 17周年
+DESCRIPTION:ベルモンド・バンデラス 17周年\n\n初ツイート：2018/09/25 16:02 （日本時間）\n初配信：2018/09/30 （日本時間）\n\n\n==========\n【ベルモンド・バンデラス】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

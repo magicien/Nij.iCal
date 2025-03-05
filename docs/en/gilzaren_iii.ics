@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Gilzaren III
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c012018
+DTSTAMP:20250303T184242Z
+DTSTART:20180606
+DTEND:20180606
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III Birthday
+DESCRIPTION:Gilzaren III Birthday\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022018
+DTSTAMP:20250303T184242Z
+DTSTART:20180307T163900Z
+DTEND:20180307T170900Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III Debut
+DESCRIPTION:Gilzaren III Debut\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022019
+DTSTAMP:20250303T184242Z
+DTSTART:20190307T163900Z
+DTEND:20190307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 1st Anniversary
+DESCRIPTION:Gilzaren III 1st Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022020
+DTSTAMP:20250303T184242Z
+DTSTART:20200307T163900Z
+DTEND:20200307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 2nd Anniversary
+DESCRIPTION:Gilzaren III 2nd Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022021
+DTSTAMP:20250303T184242Z
+DTSTART:20210307T163900Z
+DTEND:20210307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 3rd Anniversary
+DESCRIPTION:Gilzaren III 3rd Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022022
+DTSTAMP:20250303T184242Z
+DTSTART:20220307T163900Z
+DTEND:20220307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 4th Anniversary
+DESCRIPTION:Gilzaren III 4th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022023
+DTSTAMP:20250303T184242Z
+DTSTART:20230307T163900Z
+DTEND:20230307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 5th Anniversary
+DESCRIPTION:Gilzaren III 5th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022024
+DTSTAMP:20250303T184242Z
+DTSTART:20240307T163900Z
+DTEND:20240307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 6th Anniversary
+DESCRIPTION:Gilzaren III 6th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022025
+DTSTAMP:20250303T184242Z
+DTSTART:20250307T163900Z
+DTEND:20250307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 7th Anniversary
+DESCRIPTION:Gilzaren III 7th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022026
+DTSTAMP:20250303T184242Z
+DTSTART:20260307T163900Z
+DTEND:20260307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 8th Anniversary
+DESCRIPTION:Gilzaren III 8th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022027
+DTSTAMP:20250303T184242Z
+DTSTART:20270307T163900Z
+DTEND:20270307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 9th Anniversary
+DESCRIPTION:Gilzaren III 9th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022028
+DTSTAMP:20250303T184242Z
+DTSTART:20280307T163900Z
+DTEND:20280307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 10th Anniversary
+DESCRIPTION:Gilzaren III 10th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022029
+DTSTAMP:20250303T184242Z
+DTSTART:20290307T163900Z
+DTEND:20290307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 11th Anniversary
+DESCRIPTION:Gilzaren III 11th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022030
+DTSTAMP:20250303T184242Z
+DTSTART:20300307T163900Z
+DTEND:20300307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 12th Anniversary
+DESCRIPTION:Gilzaren III 12th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022031
+DTSTAMP:20250303T184242Z
+DTSTART:20310307T163900Z
+DTEND:20310307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 13th Anniversary
+DESCRIPTION:Gilzaren III 13th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022032
+DTSTAMP:20250303T184242Z
+DTSTART:20320307T163900Z
+DTEND:20320307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 14th Anniversary
+DESCRIPTION:Gilzaren III 14th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022033
+DTSTAMP:20250303T184242Z
+DTSTART:20330307T163900Z
+DTEND:20330307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 15th Anniversary
+DESCRIPTION:Gilzaren III 15th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022034
+DTSTAMP:20250303T184242Z
+DTSTART:20340307T163900Z
+DTEND:20340307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 16th Anniversary
+DESCRIPTION:Gilzaren III 16th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad61fa5-6371-42e3-bcdf-5bf02c022035
+DTSTAMP:20250303T184242Z
+DTSTART:20350307T163900Z
+DTEND:20350307T163901Z
+TRANSP:TRANSPARENT
+SUMMARY:Gilzaren III 17th Anniversary
+DESCRIPTION:Gilzaren III 17th Anniversary\n\nFirst tweet: Mar 8, 2018, 1:03 (JST)\nFirst stream: Mar 12, 2018 (JST)\n\n\n==========\n【Gilzaren III】\nYouTube: https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw\nX: https://twitter.com/gilzaren_iii\n\n
+URL:https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

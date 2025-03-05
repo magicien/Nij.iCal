@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Inami Rai
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
+DTSTAMP:20250304T013659Z
+DTSTART:20250830T090000Z
+DTEND:20250830T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Kobe
+LOCATION:Kobe International House
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7012023
+DTSTAMP:20250303T183523Z
+DTSTART:20231023
+DTEND:20231023
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai Birthday
+DESCRIPTION:Inami Rai Birthday\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022023
+DTSTAMP:20250303T183523Z
+DTSTART:20230426T030400Z
+DTEND:20230426T033400Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai Debut
+DESCRIPTION:Inami Rai Debut\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022024
+DTSTAMP:20250303T183523Z
+DTSTART:20240426T030400Z
+DTEND:20240426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 1st Anniversary
+DESCRIPTION:Inami Rai 1st Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022025
+DTSTAMP:20250303T183523Z
+DTSTART:20250426T030400Z
+DTEND:20250426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 2nd Anniversary
+DESCRIPTION:Inami Rai 2nd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022026
+DTSTAMP:20250303T183523Z
+DTSTART:20260426T030400Z
+DTEND:20260426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 3rd Anniversary
+DESCRIPTION:Inami Rai 3rd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022027
+DTSTAMP:20250303T183523Z
+DTSTART:20270426T030400Z
+DTEND:20270426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 4th Anniversary
+DESCRIPTION:Inami Rai 4th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022028
+DTSTAMP:20250303T183523Z
+DTSTART:20280426T030400Z
+DTEND:20280426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 5th Anniversary
+DESCRIPTION:Inami Rai 5th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022029
+DTSTAMP:20250303T183523Z
+DTSTART:20290426T030400Z
+DTEND:20290426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 6th Anniversary
+DESCRIPTION:Inami Rai 6th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022030
+DTSTAMP:20250303T183523Z
+DTSTART:20300426T030400Z
+DTEND:20300426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 7th Anniversary
+DESCRIPTION:Inami Rai 7th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022031
+DTSTAMP:20250303T183523Z
+DTSTART:20310426T030400Z
+DTEND:20310426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 8th Anniversary
+DESCRIPTION:Inami Rai 8th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022032
+DTSTAMP:20250303T183523Z
+DTSTART:20320426T030400Z
+DTEND:20320426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 9th Anniversary
+DESCRIPTION:Inami Rai 9th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022033
+DTSTAMP:20250303T183523Z
+DTSTART:20330426T030400Z
+DTEND:20330426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 10th Anniversary
+DESCRIPTION:Inami Rai 10th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022034
+DTSTAMP:20250303T183523Z
+DTSTART:20340426T030400Z
+DTEND:20340426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 11th Anniversary
+DESCRIPTION:Inami Rai 11th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:d6329697-a011-46ba-ac50-8920f7022035
+DTSTAMP:20250303T183523Z
+DTSTART:20350426T030400Z
+DTEND:20350426T030401Z
+TRANSP:TRANSPARENT
+SUMMARY:Inami Rai 12th Anniversary
+DESCRIPTION:Inami Rai 12th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.youtube.com/@InamiRai
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

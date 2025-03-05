@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Uzuki Kou
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ee24af-8fec-45c0-8695-14171d44bfc5
+DTSTAMP:20250304T013647Z
+DTSTART:20250510T090000Z
+DTEND:20250510T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai
+LOCATION:Sendai Sunplaza Hall
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5012019
+DTSTAMP:20250303T184314Z
+DTSTART:20190202
+DTEND:20190202
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou Birthday
+DESCRIPTION:Uzuki Kou Birthday\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022018
+DTSTAMP:20250303T184314Z
+DTSTART:20180603T074800Z
+DTEND:20180603T081800Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou Debut
+DESCRIPTION:Uzuki Kou Debut\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022019
+DTSTAMP:20250303T184314Z
+DTSTART:20190603T074800Z
+DTEND:20190603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 1st Anniversary
+DESCRIPTION:Uzuki Kou 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022020
+DTSTAMP:20250303T184314Z
+DTSTART:20200603T074800Z
+DTEND:20200603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 2nd Anniversary
+DESCRIPTION:Uzuki Kou 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022021
+DTSTAMP:20250303T184314Z
+DTSTART:20210603T074800Z
+DTEND:20210603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 3rd Anniversary
+DESCRIPTION:Uzuki Kou 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022022
+DTSTAMP:20250303T184314Z
+DTSTART:20220603T074800Z
+DTEND:20220603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 4th Anniversary
+DESCRIPTION:Uzuki Kou 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022023
+DTSTAMP:20250303T184314Z
+DTSTART:20230603T074800Z
+DTEND:20230603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 5th Anniversary
+DESCRIPTION:Uzuki Kou 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022024
+DTSTAMP:20250303T184314Z
+DTSTART:20240603T074800Z
+DTEND:20240603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 6th Anniversary
+DESCRIPTION:Uzuki Kou 6th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022025
+DTSTAMP:20250303T184314Z
+DTSTART:20250603T074800Z
+DTEND:20250603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 7th Anniversary
+DESCRIPTION:Uzuki Kou 7th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022026
+DTSTAMP:20250303T184314Z
+DTSTART:20260603T074800Z
+DTEND:20260603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 8th Anniversary
+DESCRIPTION:Uzuki Kou 8th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022027
+DTSTAMP:20250303T184314Z
+DTSTART:20270603T074800Z
+DTEND:20270603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 9th Anniversary
+DESCRIPTION:Uzuki Kou 9th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022028
+DTSTAMP:20250303T184314Z
+DTSTART:20280603T074800Z
+DTEND:20280603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 10th Anniversary
+DESCRIPTION:Uzuki Kou 10th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022029
+DTSTAMP:20250303T184314Z
+DTSTART:20290603T074800Z
+DTEND:20290603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 11th Anniversary
+DESCRIPTION:Uzuki Kou 11th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022030
+DTSTAMP:20250303T184314Z
+DTSTART:20300603T074800Z
+DTEND:20300603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 12th Anniversary
+DESCRIPTION:Uzuki Kou 12th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022031
+DTSTAMP:20250303T184314Z
+DTSTART:20310603T074800Z
+DTEND:20310603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 13th Anniversary
+DESCRIPTION:Uzuki Kou 13th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022032
+DTSTAMP:20250303T184314Z
+DTSTART:20320603T074800Z
+DTEND:20320603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 14th Anniversary
+DESCRIPTION:Uzuki Kou 14th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022033
+DTSTAMP:20250303T184314Z
+DTSTART:20330603T074800Z
+DTEND:20330603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 15th Anniversary
+DESCRIPTION:Uzuki Kou 15th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022034
+DTSTAMP:20250303T184314Z
+DTSTART:20340603T074800Z
+DTEND:20340603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 16th Anniversary
+DESCRIPTION:Uzuki Kou 16th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:dbadd646-fb83-4eed-b5a1-fa8ec5022035
+DTSTAMP:20250303T184314Z
+DTSTART:20350603T074800Z
+DTEND:20350603T074801Z
+TRANSP:TRANSPARENT
+SUMMARY:Uzuki Kou 17th Anniversary
+DESCRIPTION:Uzuki Kou 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n
+URL:https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

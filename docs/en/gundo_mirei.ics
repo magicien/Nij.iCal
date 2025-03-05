@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Gundo Mirei
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601012019
+DTSTAMP:20250303T182807Z
+DTSTART:20190614
+DTEND:20190614
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Gundo Mirei Birthday
+DESCRIPTION:Gundo Mirei Birthday\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601022019
+DTSTAMP:20250303T182807Z
+DTSTART:20190118T070400Z
+DTEND:20190118T073400Z
+TRANSP:TRANSPARENT
+SUMMARY:Gundo Mirei Debut
+DESCRIPTION:Gundo Mirei Debut\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601022020
+DTSTAMP:20250303T182807Z
+DTSTART:20200118T070400Z
+DTEND:20200118T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Gundo Mirei 1st Anniversary
+DESCRIPTION:Gundo Mirei 1st Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601022021
+DTSTAMP:20250303T182807Z
+DTSTART:20210118T070400Z
+DTEND:20210118T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Gundo Mirei 2nd Anniversary
+DESCRIPTION:Gundo Mirei 2nd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601022022
+DTSTAMP:20250303T182807Z
+DTSTART:20220118T070400Z
+DTEND:20220118T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Gundo Mirei 3rd Anniversary
+DESCRIPTION:Gundo Mirei 3rd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601022023
+DTSTAMP:20250303T182807Z
+DTSTART:20230118T070400Z
+DTEND:20230118T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Gundo Mirei 4th Anniversary
+DESCRIPTION:Gundo Mirei 4th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:01 (JST)\nFirst stream: Jan 20, 2019 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601992023
+DTSTAMP:20250303T182807Z
+DTSTART:20230621
+DTEND:20230621
+TRANSP:TRANSPARENT
+SUMMARY:Gundo Mirei Graduation
+DESCRIPTION:Gundo Mirei Graduation\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

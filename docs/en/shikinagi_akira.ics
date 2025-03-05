@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shikinagi Akira
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053012022
+DTSTAMP:20250303T183138Z
+DTSTART:20221212
+DTEND:20221212
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira Birthday
+DESCRIPTION:Shikinagi Akira Birthday\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022022
+DTSTAMP:20250303T183138Z
+DTSTART:20220712T150400Z
+DTEND:20220712T153400Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira Debut
+DESCRIPTION:Shikinagi Akira Debut\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022023
+DTSTAMP:20250303T183138Z
+DTSTART:20230712T150400Z
+DTEND:20230712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 1st Anniversary
+DESCRIPTION:Shikinagi Akira 1st Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022024
+DTSTAMP:20250303T183138Z
+DTSTART:20240712T150400Z
+DTEND:20240712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 2nd Anniversary
+DESCRIPTION:Shikinagi Akira 2nd Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022025
+DTSTAMP:20250303T183138Z
+DTSTART:20250712T150400Z
+DTEND:20250712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 3rd Anniversary
+DESCRIPTION:Shikinagi Akira 3rd Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022026
+DTSTAMP:20250303T183138Z
+DTSTART:20260712T150400Z
+DTEND:20260712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 4th Anniversary
+DESCRIPTION:Shikinagi Akira 4th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022027
+DTSTAMP:20250303T183138Z
+DTSTART:20270712T150400Z
+DTEND:20270712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 5th Anniversary
+DESCRIPTION:Shikinagi Akira 5th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022028
+DTSTAMP:20250303T183138Z
+DTSTART:20280712T150400Z
+DTEND:20280712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 6th Anniversary
+DESCRIPTION:Shikinagi Akira 6th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022029
+DTSTAMP:20250303T183138Z
+DTSTART:20290712T150400Z
+DTEND:20290712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 7th Anniversary
+DESCRIPTION:Shikinagi Akira 7th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022030
+DTSTAMP:20250303T183138Z
+DTSTART:20300712T150400Z
+DTEND:20300712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 8th Anniversary
+DESCRIPTION:Shikinagi Akira 8th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022031
+DTSTAMP:20250303T183138Z
+DTSTART:20310712T150400Z
+DTEND:20310712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 9th Anniversary
+DESCRIPTION:Shikinagi Akira 9th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022032
+DTSTAMP:20250303T183138Z
+DTSTART:20320712T150400Z
+DTEND:20320712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 10th Anniversary
+DESCRIPTION:Shikinagi Akira 10th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022033
+DTSTAMP:20250303T183138Z
+DTSTART:20330712T150400Z
+DTEND:20330712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 11th Anniversary
+DESCRIPTION:Shikinagi Akira 11th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022034
+DTSTAMP:20250303T183138Z
+DTSTART:20340712T150400Z
+DTEND:20340712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 12th Anniversary
+DESCRIPTION:Shikinagi Akira 12th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022035
+DTSTAMP:20250303T183138Z
+DTSTART:20350712T150400Z
+DTEND:20350712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 13th Anniversary
+DESCRIPTION:Shikinagi Akira 13th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

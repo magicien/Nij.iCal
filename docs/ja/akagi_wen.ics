@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:赤城ウェン
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077012023
+DTSTAMP:20250303T183514Z
+DTSTART:20231206
+DTEND:20231206
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 誕生日
+DESCRIPTION:赤城ウェン 誕生日\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022023
+DTSTAMP:20250303T183514Z
+DTSTART:20230330T030800Z
+DTEND:20230330T033800Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 活動開始
+DESCRIPTION:赤城ウェン 活動開始\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022024
+DTSTAMP:20250303T183514Z
+DTSTART:20240330T030800Z
+DTEND:20240330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 1周年
+DESCRIPTION:赤城ウェン 1周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022025
+DTSTAMP:20250303T183514Z
+DTSTART:20250330T030800Z
+DTEND:20250330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 2周年
+DESCRIPTION:赤城ウェン 2周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022026
+DTSTAMP:20250303T183514Z
+DTSTART:20260330T030800Z
+DTEND:20260330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 3周年
+DESCRIPTION:赤城ウェン 3周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022027
+DTSTAMP:20250303T183514Z
+DTSTART:20270330T030800Z
+DTEND:20270330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 4周年
+DESCRIPTION:赤城ウェン 4周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022028
+DTSTAMP:20250303T183514Z
+DTSTART:20280330T030800Z
+DTEND:20280330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 5周年
+DESCRIPTION:赤城ウェン 5周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022029
+DTSTAMP:20250303T183514Z
+DTSTART:20290330T030800Z
+DTEND:20290330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 6周年
+DESCRIPTION:赤城ウェン 6周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022030
+DTSTAMP:20250303T183514Z
+DTSTART:20300330T030800Z
+DTEND:20300330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 7周年
+DESCRIPTION:赤城ウェン 7周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022031
+DTSTAMP:20250303T183514Z
+DTSTART:20310330T030800Z
+DTEND:20310330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 8周年
+DESCRIPTION:赤城ウェン 8周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022032
+DTSTAMP:20250303T183514Z
+DTSTART:20320330T030800Z
+DTEND:20320330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 9周年
+DESCRIPTION:赤城ウェン 9周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022033
+DTSTAMP:20250303T183514Z
+DTSTART:20330330T030800Z
+DTEND:20330330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 10周年
+DESCRIPTION:赤城ウェン 10周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022034
+DTSTAMP:20250303T183514Z
+DTSTART:20340330T030800Z
+DTEND:20340330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 11周年
+DESCRIPTION:赤城ウェン 11周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022035
+DTSTAMP:20250303T183514Z
+DTSTART:20350330T030800Z
+DTEND:20350330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 12周年
+DESCRIPTION:赤城ウェン 12周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

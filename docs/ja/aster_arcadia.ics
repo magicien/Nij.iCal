@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:アスター アルカディア
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645012022
+DTSTAMP:20250303T183909Z
+DTSTART:20220925
+DTEND:20220925
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 誕生日
+DESCRIPTION:アスター アルカディア 誕生日\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022022
+DTSTAMP:20250303T183909Z
+DTSTART:20220720T000000Z
+DTEND:20220720T003000Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 活動開始
+DESCRIPTION:アスター アルカディア 活動開始\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022023
+DTSTAMP:20250303T183909Z
+DTSTART:20230720T000000Z
+DTEND:20230720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 1周年
+DESCRIPTION:アスター アルカディア 1周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022024
+DTSTAMP:20250303T183909Z
+DTSTART:20240720T000000Z
+DTEND:20240720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 2周年
+DESCRIPTION:アスター アルカディア 2周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022025
+DTSTAMP:20250303T183909Z
+DTSTART:20250720T000000Z
+DTEND:20250720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 3周年
+DESCRIPTION:アスター アルカディア 3周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022026
+DTSTAMP:20250303T183909Z
+DTSTART:20260720T000000Z
+DTEND:20260720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 4周年
+DESCRIPTION:アスター アルカディア 4周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022027
+DTSTAMP:20250303T183909Z
+DTSTART:20270720T000000Z
+DTEND:20270720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 5周年
+DESCRIPTION:アスター アルカディア 5周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022028
+DTSTAMP:20250303T183909Z
+DTSTART:20280720T000000Z
+DTEND:20280720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 6周年
+DESCRIPTION:アスター アルカディア 6周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022029
+DTSTAMP:20250303T183909Z
+DTSTART:20290720T000000Z
+DTEND:20290720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 7周年
+DESCRIPTION:アスター アルカディア 7周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022030
+DTSTAMP:20250303T183909Z
+DTSTART:20300720T000000Z
+DTEND:20300720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 8周年
+DESCRIPTION:アスター アルカディア 8周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022031
+DTSTAMP:20250303T183909Z
+DTSTART:20310720T000000Z
+DTEND:20310720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 9周年
+DESCRIPTION:アスター アルカディア 9周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022032
+DTSTAMP:20250303T183909Z
+DTSTART:20320720T000000Z
+DTEND:20320720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 10周年
+DESCRIPTION:アスター アルカディア 10周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022033
+DTSTAMP:20250303T183909Z
+DTSTART:20330720T000000Z
+DTEND:20330720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 11周年
+DESCRIPTION:アスター アルカディア 11周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022034
+DTSTAMP:20250303T183909Z
+DTSTART:20340720T000000Z
+DTEND:20340720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 12周年
+DESCRIPTION:アスター アルカディア 12周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022035
+DTSTAMP:20250303T183909Z
+DTSTART:20350720T000000Z
+DTEND:20350720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 13周年
+DESCRIPTION:アスター アルカディア 13周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

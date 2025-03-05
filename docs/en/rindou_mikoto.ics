@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Rindou Mikoto
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
+DTSTAMP:20250304T013659Z
+DTSTART:20250830T090000Z
+DTEND:20250830T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Kobe
+LOCATION:Kobe International House
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d012018
+DTSTAMP:20250303T182716Z
+DTSTART:20181020
+DTEND:20181020
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto Birthday
+DESCRIPTION:Rindou Mikoto Birthday\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022018
+DTSTAMP:20250303T182716Z
+DTSTART:20180831T070000Z
+DTEND:20180831T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto Debut
+DESCRIPTION:Rindou Mikoto Debut\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022019
+DTSTAMP:20250303T182716Z
+DTSTART:20190831T070000Z
+DTEND:20190831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 1st Anniversary
+DESCRIPTION:Rindou Mikoto 1st Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022020
+DTSTAMP:20250303T182716Z
+DTSTART:20200831T070000Z
+DTEND:20200831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 2nd Anniversary
+DESCRIPTION:Rindou Mikoto 2nd Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022021
+DTSTAMP:20250303T182716Z
+DTSTART:20210831T070000Z
+DTEND:20210831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 3rd Anniversary
+DESCRIPTION:Rindou Mikoto 3rd Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022022
+DTSTAMP:20250303T182716Z
+DTSTART:20220831T070000Z
+DTEND:20220831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 4th Anniversary
+DESCRIPTION:Rindou Mikoto 4th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022023
+DTSTAMP:20250303T182716Z
+DTSTART:20230831T070000Z
+DTEND:20230831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 5th Anniversary
+DESCRIPTION:Rindou Mikoto 5th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022024
+DTSTAMP:20250303T182716Z
+DTSTART:20240831T070000Z
+DTEND:20240831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 6th Anniversary
+DESCRIPTION:Rindou Mikoto 6th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022025
+DTSTAMP:20250303T182716Z
+DTSTART:20250831T070000Z
+DTEND:20250831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 7th Anniversary
+DESCRIPTION:Rindou Mikoto 7th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022026
+DTSTAMP:20250303T182716Z
+DTSTART:20260831T070000Z
+DTEND:20260831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 8th Anniversary
+DESCRIPTION:Rindou Mikoto 8th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022027
+DTSTAMP:20250303T182716Z
+DTSTART:20270831T070000Z
+DTEND:20270831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 9th Anniversary
+DESCRIPTION:Rindou Mikoto 9th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022028
+DTSTAMP:20250303T182716Z
+DTSTART:20280831T070000Z
+DTEND:20280831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 10th Anniversary
+DESCRIPTION:Rindou Mikoto 10th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022029
+DTSTAMP:20250303T182716Z
+DTSTART:20290831T070000Z
+DTEND:20290831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 11th Anniversary
+DESCRIPTION:Rindou Mikoto 11th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022030
+DTSTAMP:20250303T182716Z
+DTSTART:20300831T070000Z
+DTEND:20300831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 12th Anniversary
+DESCRIPTION:Rindou Mikoto 12th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022031
+DTSTAMP:20250303T182716Z
+DTSTART:20310831T070000Z
+DTEND:20310831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 13th Anniversary
+DESCRIPTION:Rindou Mikoto 13th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022032
+DTSTAMP:20250303T182716Z
+DTSTART:20320831T070000Z
+DTEND:20320831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 14th Anniversary
+DESCRIPTION:Rindou Mikoto 14th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022033
+DTSTAMP:20250303T182716Z
+DTSTART:20330831T070000Z
+DTEND:20330831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 15th Anniversary
+DESCRIPTION:Rindou Mikoto 15th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022034
+DTSTAMP:20250303T182716Z
+DTSTART:20340831T070000Z
+DTEND:20340831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 16th Anniversary
+DESCRIPTION:Rindou Mikoto 16th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022035
+DTSTAMP:20250303T182716Z
+DTSTART:20350831T070000Z
+DTEND:20350831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rindou Mikoto 17th Anniversary
+DESCRIPTION:Rindou Mikoto 17th Anniversary\n\nFirst tweet: Aug 31, 2018, 16:08 (JST)\nFirst stream: Sep 8, 2018 (JST)\n\n\n==========\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

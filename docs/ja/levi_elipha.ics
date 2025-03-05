@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:レヴィ・エリファ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
+DTSTAMP:20250304T013659Z
+DTSTART:20250830T090000Z
+DTEND:20250830T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 神戸公演
+LOCATION:神戸国際会館
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【シェリン・バーガンディ】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617012019
+DTSTAMP:20250303T182831Z
+DTSTART:20190818
+DTEND:20190818
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 誕生日
+DESCRIPTION:レヴィ・エリファ 誕生日\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022019
+DTSTAMP:20250303T182831Z
+DTSTART:20190517T070000Z
+DTEND:20190517T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 活動開始
+DESCRIPTION:レヴィ・エリファ 活動開始\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022020
+DTSTAMP:20250303T182831Z
+DTSTART:20200517T070000Z
+DTEND:20200517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 1周年
+DESCRIPTION:レヴィ・エリファ 1周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022021
+DTSTAMP:20250303T182831Z
+DTSTART:20210517T070000Z
+DTEND:20210517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 2周年
+DESCRIPTION:レヴィ・エリファ 2周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022022
+DTSTAMP:20250303T182831Z
+DTSTART:20220517T070000Z
+DTEND:20220517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 3周年
+DESCRIPTION:レヴィ・エリファ 3周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022023
+DTSTAMP:20250303T182831Z
+DTSTART:20230517T070000Z
+DTEND:20230517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 4周年
+DESCRIPTION:レヴィ・エリファ 4周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022024
+DTSTAMP:20250303T182831Z
+DTSTART:20240517T070000Z
+DTEND:20240517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 5周年
+DESCRIPTION:レヴィ・エリファ 5周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022025
+DTSTAMP:20250303T182831Z
+DTSTART:20250517T070000Z
+DTEND:20250517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 6周年
+DESCRIPTION:レヴィ・エリファ 6周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022026
+DTSTAMP:20250303T182831Z
+DTSTART:20260517T070000Z
+DTEND:20260517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 7周年
+DESCRIPTION:レヴィ・エリファ 7周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022027
+DTSTAMP:20250303T182831Z
+DTSTART:20270517T070000Z
+DTEND:20270517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 8周年
+DESCRIPTION:レヴィ・エリファ 8周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022028
+DTSTAMP:20250303T182831Z
+DTSTART:20280517T070000Z
+DTEND:20280517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 9周年
+DESCRIPTION:レヴィ・エリファ 9周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022029
+DTSTAMP:20250303T182831Z
+DTSTART:20290517T070000Z
+DTEND:20290517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 10周年
+DESCRIPTION:レヴィ・エリファ 10周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022030
+DTSTAMP:20250303T182831Z
+DTSTART:20300517T070000Z
+DTEND:20300517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 11周年
+DESCRIPTION:レヴィ・エリファ 11周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022031
+DTSTAMP:20250303T182831Z
+DTSTART:20310517T070000Z
+DTEND:20310517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 12周年
+DESCRIPTION:レヴィ・エリファ 12周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022032
+DTSTAMP:20250303T182831Z
+DTSTART:20320517T070000Z
+DTEND:20320517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 13周年
+DESCRIPTION:レヴィ・エリファ 13周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022033
+DTSTAMP:20250303T182831Z
+DTSTART:20330517T070000Z
+DTEND:20330517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 14周年
+DESCRIPTION:レヴィ・エリファ 14周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022034
+DTSTAMP:20250303T182831Z
+DTSTART:20340517T070000Z
+DTEND:20340517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 15周年
+DESCRIPTION:レヴィ・エリファ 15周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:641a5487-61da-4e5a-b278-bff617022035
+DTSTAMP:20250303T182831Z
+DTSTART:20350517T070000Z
+DTEND:20350517T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:レヴィ・エリファ 16周年
+DESCRIPTION:レヴィ・エリファ 16周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n
+URL:https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

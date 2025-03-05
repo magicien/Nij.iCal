@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Seffyna
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd012021
+DTSTAMP:20250303T183452Z
+DTSTART:20210802
+DTEND:20210802
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna Birthday
+DESCRIPTION:Seffyna Birthday\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022021
+DTSTAMP:20250303T183452Z
+DTSTART:20210423T073700Z
+DTEND:20210423T080700Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna Debut
+DESCRIPTION:Seffyna Debut\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022022
+DTSTAMP:20250303T183452Z
+DTSTART:20220423T073700Z
+DTEND:20220423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 1st Anniversary
+DESCRIPTION:Seffyna 1st Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022023
+DTSTAMP:20250303T183452Z
+DTSTART:20230423T073700Z
+DTEND:20230423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 2nd Anniversary
+DESCRIPTION:Seffyna 2nd Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022024
+DTSTAMP:20250303T183452Z
+DTSTART:20240423T073700Z
+DTEND:20240423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 3rd Anniversary
+DESCRIPTION:Seffyna 3rd Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022025
+DTSTAMP:20250303T183452Z
+DTSTART:20250423T073700Z
+DTEND:20250423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 4th Anniversary
+DESCRIPTION:Seffyna 4th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022026
+DTSTAMP:20250303T183452Z
+DTSTART:20260423T073700Z
+DTEND:20260423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 5th Anniversary
+DESCRIPTION:Seffyna 5th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022027
+DTSTAMP:20250303T183452Z
+DTSTART:20270423T073700Z
+DTEND:20270423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 6th Anniversary
+DESCRIPTION:Seffyna 6th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022028
+DTSTAMP:20250303T183452Z
+DTSTART:20280423T073700Z
+DTEND:20280423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 7th Anniversary
+DESCRIPTION:Seffyna 7th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022029
+DTSTAMP:20250303T183452Z
+DTSTART:20290423T073700Z
+DTEND:20290423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 8th Anniversary
+DESCRIPTION:Seffyna 8th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022030
+DTSTAMP:20250303T183452Z
+DTSTART:20300423T073700Z
+DTEND:20300423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 9th Anniversary
+DESCRIPTION:Seffyna 9th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022031
+DTSTAMP:20250303T183452Z
+DTSTART:20310423T073700Z
+DTEND:20310423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 10th Anniversary
+DESCRIPTION:Seffyna 10th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022032
+DTSTAMP:20250303T183452Z
+DTSTART:20320423T073700Z
+DTEND:20320423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 11th Anniversary
+DESCRIPTION:Seffyna 11th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022033
+DTSTAMP:20250303T183452Z
+DTSTART:20330423T073700Z
+DTEND:20330423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 12th Anniversary
+DESCRIPTION:Seffyna 12th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022034
+DTSTAMP:20250303T183452Z
+DTSTART:20340423T073700Z
+DTEND:20340423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 13th Anniversary
+DESCRIPTION:Seffyna 13th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022035
+DTSTAMP:20250303T183452Z
+DTSTART:20350423T073700Z
+DTEND:20350423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 14th Anniversary
+DESCRIPTION:Seffyna 14th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:04 (JST)\nFirst stream: Apr 30, 2021 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

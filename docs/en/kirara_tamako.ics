@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kirara Tamako
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e012025
+DTSTAMP:20250303T183549Z
+DTSTART:20250522
+DTEND:20250522
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako Birthday
+DESCRIPTION:Kirara Tamako Birthday\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022024
+DTSTAMP:20250303T183549Z
+DTSTART:20240813T090600Z
+DTEND:20240813T093600Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako Debut
+DESCRIPTION:Kirara Tamako Debut\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022025
+DTSTAMP:20250303T183549Z
+DTSTART:20250813T090600Z
+DTEND:20250813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 1st Anniversary
+DESCRIPTION:Kirara Tamako 1st Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022026
+DTSTAMP:20250303T183549Z
+DTSTART:20260813T090600Z
+DTEND:20260813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 2nd Anniversary
+DESCRIPTION:Kirara Tamako 2nd Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022027
+DTSTAMP:20250303T183549Z
+DTSTART:20270813T090600Z
+DTEND:20270813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 3rd Anniversary
+DESCRIPTION:Kirara Tamako 3rd Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022028
+DTSTAMP:20250303T183549Z
+DTSTART:20280813T090600Z
+DTEND:20280813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 4th Anniversary
+DESCRIPTION:Kirara Tamako 4th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022029
+DTSTAMP:20250303T183549Z
+DTSTART:20290813T090600Z
+DTEND:20290813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 5th Anniversary
+DESCRIPTION:Kirara Tamako 5th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022030
+DTSTAMP:20250303T183549Z
+DTSTART:20300813T090600Z
+DTEND:20300813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 6th Anniversary
+DESCRIPTION:Kirara Tamako 6th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022031
+DTSTAMP:20250303T183549Z
+DTSTART:20310813T090600Z
+DTEND:20310813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 7th Anniversary
+DESCRIPTION:Kirara Tamako 7th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022032
+DTSTAMP:20250303T183549Z
+DTSTART:20320813T090600Z
+DTEND:20320813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 8th Anniversary
+DESCRIPTION:Kirara Tamako 8th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022033
+DTSTAMP:20250303T183549Z
+DTSTART:20330813T090600Z
+DTEND:20330813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 9th Anniversary
+DESCRIPTION:Kirara Tamako 9th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022034
+DTSTAMP:20250303T183549Z
+DTSTART:20340813T090600Z
+DTEND:20340813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 10th Anniversary
+DESCRIPTION:Kirara Tamako 10th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:e336608d-92e0-4c39-a5be-56b49e022035
+DTSTAMP:20250303T183549Z
+DTSTART:20350813T090600Z
+DTEND:20350813T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Kirara Tamako 11th Anniversary
+DESCRIPTION:Kirara Tamako 11th Anniversary\n\nFirst tweet: Aug 13, 2024, 18:08 (JST)\nFirst stream: Aug 16, 2024 (JST)\n\n\n==========\n【Kirara Tamako】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://twitter.com/kirara_tamako\n\n
+URL:https://www.youtube.com/@KiraraTamako
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

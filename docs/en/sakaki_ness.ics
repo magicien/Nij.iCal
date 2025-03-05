@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Sakaki Ness
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d012024
+DTSTAMP:20250303T183532Z
+DTSTART:20241101
+DTEND:20241101
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness Birthday
+DESCRIPTION:Sakaki Ness Birthday\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022024
+DTSTAMP:20250303T183532Z
+DTSTART:20240312T091000Z
+DTEND:20240312T094000Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness Debut
+DESCRIPTION:Sakaki Ness Debut\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022025
+DTSTAMP:20250303T183532Z
+DTSTART:20250312T091000Z
+DTEND:20250312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 1st Anniversary
+DESCRIPTION:Sakaki Ness 1st Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022026
+DTSTAMP:20250303T183532Z
+DTSTART:20260312T091000Z
+DTEND:20260312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 2nd Anniversary
+DESCRIPTION:Sakaki Ness 2nd Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022027
+DTSTAMP:20250303T183532Z
+DTSTART:20270312T091000Z
+DTEND:20270312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 3rd Anniversary
+DESCRIPTION:Sakaki Ness 3rd Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022028
+DTSTAMP:20250303T183532Z
+DTSTART:20280312T091000Z
+DTEND:20280312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 4th Anniversary
+DESCRIPTION:Sakaki Ness 4th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022029
+DTSTAMP:20250303T183532Z
+DTSTART:20290312T091000Z
+DTEND:20290312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 5th Anniversary
+DESCRIPTION:Sakaki Ness 5th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022030
+DTSTAMP:20250303T183532Z
+DTSTART:20300312T091000Z
+DTEND:20300312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 6th Anniversary
+DESCRIPTION:Sakaki Ness 6th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022031
+DTSTAMP:20250303T183532Z
+DTSTART:20310312T091000Z
+DTEND:20310312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 7th Anniversary
+DESCRIPTION:Sakaki Ness 7th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022032
+DTSTAMP:20250303T183532Z
+DTSTART:20320312T091000Z
+DTEND:20320312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 8th Anniversary
+DESCRIPTION:Sakaki Ness 8th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022033
+DTSTAMP:20250303T183532Z
+DTSTART:20330312T091000Z
+DTEND:20330312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 9th Anniversary
+DESCRIPTION:Sakaki Ness 9th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022034
+DTSTAMP:20250303T183532Z
+DTSTART:20340312T091000Z
+DTEND:20340312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 10th Anniversary
+DESCRIPTION:Sakaki Ness 10th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d022035
+DTSTAMP:20250303T183532Z
+DTSTART:20350312T091000Z
+DTEND:20350312T091001Z
+TRANSP:TRANSPARENT
+SUMMARY:Sakaki Ness 11th Anniversary
+DESCRIPTION:Sakaki Ness 11th Anniversary\n\nFirst tweet: Mar 12, 2024, 18:03 (JST)\nFirst stream: Mar 15, 2024 (JST)\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

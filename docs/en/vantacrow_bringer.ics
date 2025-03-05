@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Vantacrow Bringer
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914012024
+DTSTAMP:20250303T183946Z
+DTSTART:20240206
+DTEND:20240206
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer Birthday
+DESCRIPTION:Vantacrow Bringer Birthday\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022023
+DTSTAMP:20250303T183946Z
+DTSTART:20230622T001300Z
+DTEND:20230622T004300Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer Debut
+DESCRIPTION:Vantacrow Bringer Debut\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022024
+DTSTAMP:20250303T183946Z
+DTSTART:20240622T001300Z
+DTEND:20240622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 1st Anniversary
+DESCRIPTION:Vantacrow Bringer 1st Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022025
+DTSTAMP:20250303T183946Z
+DTSTART:20250622T001300Z
+DTEND:20250622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 2nd Anniversary
+DESCRIPTION:Vantacrow Bringer 2nd Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022026
+DTSTAMP:20250303T183946Z
+DTSTART:20260622T001300Z
+DTEND:20260622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 3rd Anniversary
+DESCRIPTION:Vantacrow Bringer 3rd Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022027
+DTSTAMP:20250303T183946Z
+DTSTART:20270622T001300Z
+DTEND:20270622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 4th Anniversary
+DESCRIPTION:Vantacrow Bringer 4th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022028
+DTSTAMP:20250303T183946Z
+DTSTART:20280622T001300Z
+DTEND:20280622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 5th Anniversary
+DESCRIPTION:Vantacrow Bringer 5th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022029
+DTSTAMP:20250303T183946Z
+DTSTART:20290622T001300Z
+DTEND:20290622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 6th Anniversary
+DESCRIPTION:Vantacrow Bringer 6th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022030
+DTSTAMP:20250303T183946Z
+DTSTART:20300622T001300Z
+DTEND:20300622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 7th Anniversary
+DESCRIPTION:Vantacrow Bringer 7th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022031
+DTSTAMP:20250303T183946Z
+DTSTART:20310622T001300Z
+DTEND:20310622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 8th Anniversary
+DESCRIPTION:Vantacrow Bringer 8th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022032
+DTSTAMP:20250303T183946Z
+DTSTART:20320622T001300Z
+DTEND:20320622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 9th Anniversary
+DESCRIPTION:Vantacrow Bringer 9th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022033
+DTSTAMP:20250303T183946Z
+DTSTART:20330622T001300Z
+DTEND:20330622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 10th Anniversary
+DESCRIPTION:Vantacrow Bringer 10th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022034
+DTSTAMP:20250303T183946Z
+DTSTART:20340622T001300Z
+DTEND:20340622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 11th Anniversary
+DESCRIPTION:Vantacrow Bringer 11th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:eec093ec-ea39-49d7-a962-e5d914022035
+DTSTAMP:20250303T183946Z
+DTSTART:20350622T001300Z
+DTEND:20350622T001301Z
+TRANSP:TRANSPARENT
+SUMMARY:Vantacrow Bringer 12th Anniversary
+DESCRIPTION:Vantacrow Bringer 12th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vantacrow Bringer】\nYouTube: https://www.youtube.com/@VantacrowBringer\nX: https://twitter.com/Tyrant_Vanta\n\n
+URL:https://www.youtube.com/@VantacrowBringer
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

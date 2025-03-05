@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Setsuna
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532012018
+DTSTAMP:20250303T184300Z
+DTSTART:20181223
+DTEND:20181223
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Setsuna Birthday
+DESCRIPTION:Setsuna Birthday\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532022018
+DTSTAMP:20250303T184300Z
+DTSTART:20180730T120600Z
+DTEND:20180730T123600Z
+TRANSP:TRANSPARENT
+SUMMARY:Setsuna Debut
+DESCRIPTION:Setsuna Debut\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532022019
+DTSTAMP:20250303T184300Z
+DTSTART:20190730T120600Z
+DTEND:20190730T120601Z
+TRANSP:TRANSPARENT
+SUMMARY:Setsuna 1st Anniversary
+DESCRIPTION:Setsuna 1st Anniversary\n\nFirst tweet: Jul 30, 2018, 21:07 (JST)\nFirst stream: Aug 30, 2018 (JST)\n\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532992019
+DTSTAMP:20250303T184300Z
+DTSTART:20191030
+DTEND:20191030
+TRANSP:TRANSPARENT
+SUMMARY:Setsuna Graduation
+DESCRIPTION:Setsuna Graduation\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

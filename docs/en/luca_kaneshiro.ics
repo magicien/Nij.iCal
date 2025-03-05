@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Luca Kaneshiro
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321012022
+DTSTAMP:20250303T183723Z
+DTSTART:20220410
+DTEND:20220410
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro Birthday
+DESCRIPTION:Luca Kaneshiro Birthday\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022021
+DTSTAMP:20250303T183723Z
+DTSTART:20211217T001000Z
+DTEND:20211217T004000Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro Debut
+DESCRIPTION:Luca Kaneshiro Debut\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022022
+DTSTAMP:20250303T183723Z
+DTSTART:20221217T001000Z
+DTEND:20221217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 1st Anniversary
+DESCRIPTION:Luca Kaneshiro 1st Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022023
+DTSTAMP:20250303T183723Z
+DTSTART:20231217T001000Z
+DTEND:20231217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 2nd Anniversary
+DESCRIPTION:Luca Kaneshiro 2nd Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022024
+DTSTAMP:20250303T183723Z
+DTSTART:20241217T001000Z
+DTEND:20241217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 3rd Anniversary
+DESCRIPTION:Luca Kaneshiro 3rd Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022025
+DTSTAMP:20250303T183723Z
+DTSTART:20251217T001000Z
+DTEND:20251217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 4th Anniversary
+DESCRIPTION:Luca Kaneshiro 4th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022026
+DTSTAMP:20250303T183723Z
+DTSTART:20261217T001000Z
+DTEND:20261217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 5th Anniversary
+DESCRIPTION:Luca Kaneshiro 5th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022027
+DTSTAMP:20250303T183723Z
+DTSTART:20271217T001000Z
+DTEND:20271217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 6th Anniversary
+DESCRIPTION:Luca Kaneshiro 6th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022028
+DTSTAMP:20250303T183723Z
+DTSTART:20281217T001000Z
+DTEND:20281217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 7th Anniversary
+DESCRIPTION:Luca Kaneshiro 7th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022029
+DTSTAMP:20250303T183723Z
+DTSTART:20291217T001000Z
+DTEND:20291217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 8th Anniversary
+DESCRIPTION:Luca Kaneshiro 8th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022030
+DTSTAMP:20250303T183723Z
+DTSTART:20301217T001000Z
+DTEND:20301217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 9th Anniversary
+DESCRIPTION:Luca Kaneshiro 9th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022031
+DTSTAMP:20250303T183723Z
+DTSTART:20311217T001000Z
+DTEND:20311217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 10th Anniversary
+DESCRIPTION:Luca Kaneshiro 10th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022032
+DTSTAMP:20250303T183723Z
+DTSTART:20321217T001000Z
+DTEND:20321217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 11th Anniversary
+DESCRIPTION:Luca Kaneshiro 11th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022033
+DTSTAMP:20250303T183723Z
+DTSTART:20331217T001000Z
+DTEND:20331217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 12th Anniversary
+DESCRIPTION:Luca Kaneshiro 12th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022034
+DTSTAMP:20250303T183723Z
+DTSTART:20341217T001000Z
+DTEND:20341217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 13th Anniversary
+DESCRIPTION:Luca Kaneshiro 13th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:25c46543-888d-469c-9953-22c321022035
+DTSTAMP:20250303T183723Z
+DTSTART:20351217T001000Z
+DTEND:20351217T001001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luca Kaneshiro 14th Anniversary
+DESCRIPTION:Luca Kaneshiro 14th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:12 (JST)\nFirst stream: Dec 20, 2021 (JST)\n\n\n==========\n【Luca Kaneshiro】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n
+URL:https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

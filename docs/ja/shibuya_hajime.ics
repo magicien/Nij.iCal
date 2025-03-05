@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:渋谷ハジメ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138012018
+DTSTAMP:20250303T184231Z
+DTSTART:20180505
+DTEND:20180505
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 誕生日
+DESCRIPTION:渋谷ハジメ 誕生日\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022018
+DTSTAMP:20250303T184231Z
+DTSTART:20180131T135200Z
+DTEND:20180131T142200Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 活動開始
+DESCRIPTION:渋谷ハジメ 活動開始\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022019
+DTSTAMP:20250303T184231Z
+DTSTART:20190131T135200Z
+DTEND:20190131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 1周年
+DESCRIPTION:渋谷ハジメ 1周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022020
+DTSTAMP:20250303T184231Z
+DTSTART:20200131T135200Z
+DTEND:20200131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 2周年
+DESCRIPTION:渋谷ハジメ 2周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022021
+DTSTAMP:20250303T184231Z
+DTSTART:20210131T135200Z
+DTEND:20210131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 3周年
+DESCRIPTION:渋谷ハジメ 3周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022022
+DTSTAMP:20250303T184231Z
+DTSTART:20220131T135200Z
+DTEND:20220131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 4周年
+DESCRIPTION:渋谷ハジメ 4周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022023
+DTSTAMP:20250303T184231Z
+DTSTART:20230131T135200Z
+DTEND:20230131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 5周年
+DESCRIPTION:渋谷ハジメ 5周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022024
+DTSTAMP:20250303T184231Z
+DTSTART:20240131T135200Z
+DTEND:20240131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 6周年
+DESCRIPTION:渋谷ハジメ 6周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022025
+DTSTAMP:20250303T184231Z
+DTSTART:20250131T135200Z
+DTEND:20250131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 7周年
+DESCRIPTION:渋谷ハジメ 7周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022026
+DTSTAMP:20250303T184231Z
+DTSTART:20260131T135200Z
+DTEND:20260131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 8周年
+DESCRIPTION:渋谷ハジメ 8周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022027
+DTSTAMP:20250303T184231Z
+DTSTART:20270131T135200Z
+DTEND:20270131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 9周年
+DESCRIPTION:渋谷ハジメ 9周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022028
+DTSTAMP:20250303T184231Z
+DTSTART:20280131T135200Z
+DTEND:20280131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 10周年
+DESCRIPTION:渋谷ハジメ 10周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022029
+DTSTAMP:20250303T184231Z
+DTSTART:20290131T135200Z
+DTEND:20290131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 11周年
+DESCRIPTION:渋谷ハジメ 11周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022030
+DTSTAMP:20250303T184231Z
+DTSTART:20300131T135200Z
+DTEND:20300131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 12周年
+DESCRIPTION:渋谷ハジメ 12周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022031
+DTSTAMP:20250303T184231Z
+DTSTART:20310131T135200Z
+DTEND:20310131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 13周年
+DESCRIPTION:渋谷ハジメ 13周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022032
+DTSTAMP:20250303T184231Z
+DTSTART:20320131T135200Z
+DTEND:20320131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 14周年
+DESCRIPTION:渋谷ハジメ 14周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022033
+DTSTAMP:20250303T184231Z
+DTSTART:20330131T135200Z
+DTEND:20330131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 15周年
+DESCRIPTION:渋谷ハジメ 15周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022034
+DTSTAMP:20250303T184231Z
+DTSTART:20340131T135200Z
+DTEND:20340131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 16周年
+DESCRIPTION:渋谷ハジメ 16周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022035
+DTSTAMP:20250303T184231Z
+DTSTART:20350131T135200Z
+DTEND:20350131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:渋谷ハジメ 17周年
+DESCRIPTION:渋谷ハジメ 17周年\n\n初ツイート：2018/01/31 22:52 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【渋谷ハジメ】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

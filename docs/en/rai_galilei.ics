@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Rai Galilei
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863012020
+DTSTAMP:20250303T183206Z
+DTSTART:20200921
+DTEND:20200921
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei Birthday
+DESCRIPTION:Rai Galilei Birthday\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022019
+DTSTAMP:20250303T183206Z
+DTSTART:20191218T122600Z
+DTEND:20191218T125600Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei Debut
+DESCRIPTION:Rai Galilei Debut\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022020
+DTSTAMP:20250303T183206Z
+DTSTART:20201218T122600Z
+DTEND:20201218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 1st Anniversary
+DESCRIPTION:Rai Galilei 1st Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022021
+DTSTAMP:20250303T183206Z
+DTSTART:20211218T122600Z
+DTEND:20211218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 2nd Anniversary
+DESCRIPTION:Rai Galilei 2nd Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022022
+DTSTAMP:20250303T183206Z
+DTSTART:20221218T122600Z
+DTEND:20221218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 3rd Anniversary
+DESCRIPTION:Rai Galilei 3rd Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022023
+DTSTAMP:20250303T183206Z
+DTSTART:20231218T122600Z
+DTEND:20231218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 4th Anniversary
+DESCRIPTION:Rai Galilei 4th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022024
+DTSTAMP:20250303T183206Z
+DTSTART:20241218T122600Z
+DTEND:20241218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 5th Anniversary
+DESCRIPTION:Rai Galilei 5th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022025
+DTSTAMP:20250303T183206Z
+DTSTART:20251218T122600Z
+DTEND:20251218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 6th Anniversary
+DESCRIPTION:Rai Galilei 6th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022026
+DTSTAMP:20250303T183206Z
+DTSTART:20261218T122600Z
+DTEND:20261218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 7th Anniversary
+DESCRIPTION:Rai Galilei 7th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022027
+DTSTAMP:20250303T183206Z
+DTSTART:20271218T122600Z
+DTEND:20271218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 8th Anniversary
+DESCRIPTION:Rai Galilei 8th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022028
+DTSTAMP:20250303T183206Z
+DTSTART:20281218T122600Z
+DTEND:20281218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 9th Anniversary
+DESCRIPTION:Rai Galilei 9th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022029
+DTSTAMP:20250303T183206Z
+DTSTART:20291218T122600Z
+DTEND:20291218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 10th Anniversary
+DESCRIPTION:Rai Galilei 10th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022030
+DTSTAMP:20250303T183206Z
+DTSTART:20301218T122600Z
+DTEND:20301218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 11th Anniversary
+DESCRIPTION:Rai Galilei 11th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022031
+DTSTAMP:20250303T183206Z
+DTSTART:20311218T122600Z
+DTEND:20311218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 12th Anniversary
+DESCRIPTION:Rai Galilei 12th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022032
+DTSTAMP:20250303T183206Z
+DTSTART:20321218T122600Z
+DTEND:20321218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 13th Anniversary
+DESCRIPTION:Rai Galilei 13th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022033
+DTSTAMP:20250303T183206Z
+DTSTART:20331218T122600Z
+DTEND:20331218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 14th Anniversary
+DESCRIPTION:Rai Galilei 14th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022034
+DTSTAMP:20250303T183206Z
+DTSTART:20341218T122600Z
+DTEND:20341218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 15th Anniversary
+DESCRIPTION:Rai Galilei 15th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022035
+DTSTAMP:20250303T183206Z
+DTSTART:20351218T122600Z
+DTEND:20351218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 16th Anniversary
+DESCRIPTION:Rai Galilei 16th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:12 (JST)\nFirst stream: Dec 20, 2019 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

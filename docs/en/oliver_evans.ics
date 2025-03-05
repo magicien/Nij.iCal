@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Oliver Evans
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:72460880-d374-4b14-a7fd-cb391d793a0b
+DTSTAMP:20250304T013701Z
+DTSTART:20250913T090000Z
+DTEND:20250913T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Fukuoka
+LOCATION:Fukuoka Sunpalace Hotel & Hall
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116012022
+DTSTAMP:20250303T183126Z
+DTSTART:20220221
+DTEND:20220221
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans Birthday
+DESCRIPTION:Oliver Evans Birthday\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022021
+DTSTAMP:20250303T183126Z
+DTSTART:20210719T070000Z
+DTEND:20210719T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans Debut
+DESCRIPTION:Oliver Evans Debut\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022022
+DTSTAMP:20250303T183126Z
+DTSTART:20220719T070000Z
+DTEND:20220719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 1st Anniversary
+DESCRIPTION:Oliver Evans 1st Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022023
+DTSTAMP:20250303T183126Z
+DTSTART:20230719T070000Z
+DTEND:20230719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 2nd Anniversary
+DESCRIPTION:Oliver Evans 2nd Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022024
+DTSTAMP:20250303T183126Z
+DTSTART:20240719T070000Z
+DTEND:20240719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 3rd Anniversary
+DESCRIPTION:Oliver Evans 3rd Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022025
+DTSTAMP:20250303T183126Z
+DTSTART:20250719T070000Z
+DTEND:20250719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 4th Anniversary
+DESCRIPTION:Oliver Evans 4th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022026
+DTSTAMP:20250303T183126Z
+DTSTART:20260719T070000Z
+DTEND:20260719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 5th Anniversary
+DESCRIPTION:Oliver Evans 5th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022027
+DTSTAMP:20250303T183126Z
+DTSTART:20270719T070000Z
+DTEND:20270719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 6th Anniversary
+DESCRIPTION:Oliver Evans 6th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022028
+DTSTAMP:20250303T183126Z
+DTSTART:20280719T070000Z
+DTEND:20280719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 7th Anniversary
+DESCRIPTION:Oliver Evans 7th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022029
+DTSTAMP:20250303T183126Z
+DTSTART:20290719T070000Z
+DTEND:20290719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 8th Anniversary
+DESCRIPTION:Oliver Evans 8th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022030
+DTSTAMP:20250303T183126Z
+DTSTART:20300719T070000Z
+DTEND:20300719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 9th Anniversary
+DESCRIPTION:Oliver Evans 9th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022031
+DTSTAMP:20250303T183126Z
+DTSTART:20310719T070000Z
+DTEND:20310719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 10th Anniversary
+DESCRIPTION:Oliver Evans 10th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022032
+DTSTAMP:20250303T183126Z
+DTSTART:20320719T070000Z
+DTEND:20320719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 11th Anniversary
+DESCRIPTION:Oliver Evans 11th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022033
+DTSTAMP:20250303T183126Z
+DTSTART:20330719T070000Z
+DTEND:20330719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 12th Anniversary
+DESCRIPTION:Oliver Evans 12th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022034
+DTSTAMP:20250303T183126Z
+DTSTART:20340719T070000Z
+DTEND:20340719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 13th Anniversary
+DESCRIPTION:Oliver Evans 13th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116022035
+DTSTAMP:20250303T183126Z
+DTSTART:20350719T070000Z
+DTEND:20350719T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Oliver Evans 14th Anniversary
+DESCRIPTION:Oliver Evans 14th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

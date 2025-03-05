@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Yugo Asuma
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1754be-6dd9-42c9-9e3d-33ca68012022
+DTSTAMP:20250303T183727Z
+DTSTART:20220604
+DTEND:20220604
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Yugo Asuma Birthday
+DESCRIPTION:Yugo Asuma Birthday\n\n==========\n【Yugo Asuma】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://twitter.com/Yugo_Asuma\n\n
+URL:https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1754be-6dd9-42c9-9e3d-33ca68022022
+DTSTAMP:20250303T183727Z
+DTSTART:20220222T020300Z
+DTEND:20220222T023300Z
+TRANSP:TRANSPARENT
+SUMMARY:Yugo Asuma Debut
+DESCRIPTION:Yugo Asuma Debut\n\n==========\n【Yugo Asuma】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://twitter.com/Yugo_Asuma\n\n
+URL:https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1754be-6dd9-42c9-9e3d-33ca68992022
+DTSTAMP:20250303T183727Z
+DTSTART:20221214
+DTEND:20221214
+TRANSP:TRANSPARENT
+SUMMARY:Yugo Asuma Graduation
+DESCRIPTION:Yugo Asuma Graduation\n\n==========\n【Yugo Asuma】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://twitter.com/Yugo_Asuma\n\n
+URL:https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

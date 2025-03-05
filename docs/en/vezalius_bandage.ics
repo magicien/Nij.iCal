@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Vezalius Bandage
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21012023
+DTSTAMP:20250303T183948Z
+DTSTART:20231117
+DTEND:20231117
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage Birthday
+DESCRIPTION:Vezalius Bandage Birthday\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022023
+DTSTAMP:20250303T183948Z
+DTSTART:20230622T000200Z
+DTEND:20230622T003200Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage Debut
+DESCRIPTION:Vezalius Bandage Debut\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022024
+DTSTAMP:20250303T183948Z
+DTSTART:20240622T000200Z
+DTEND:20240622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 1st Anniversary
+DESCRIPTION:Vezalius Bandage 1st Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022025
+DTSTAMP:20250303T183948Z
+DTSTART:20250622T000200Z
+DTEND:20250622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 2nd Anniversary
+DESCRIPTION:Vezalius Bandage 2nd Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022026
+DTSTAMP:20250303T183948Z
+DTSTART:20260622T000200Z
+DTEND:20260622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 3rd Anniversary
+DESCRIPTION:Vezalius Bandage 3rd Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022027
+DTSTAMP:20250303T183948Z
+DTSTART:20270622T000200Z
+DTEND:20270622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 4th Anniversary
+DESCRIPTION:Vezalius Bandage 4th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022028
+DTSTAMP:20250303T183948Z
+DTSTART:20280622T000200Z
+DTEND:20280622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 5th Anniversary
+DESCRIPTION:Vezalius Bandage 5th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022029
+DTSTAMP:20250303T183948Z
+DTSTART:20290622T000200Z
+DTEND:20290622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 6th Anniversary
+DESCRIPTION:Vezalius Bandage 6th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022030
+DTSTAMP:20250303T183948Z
+DTSTART:20300622T000200Z
+DTEND:20300622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 7th Anniversary
+DESCRIPTION:Vezalius Bandage 7th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022031
+DTSTAMP:20250303T183948Z
+DTSTART:20310622T000200Z
+DTEND:20310622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 8th Anniversary
+DESCRIPTION:Vezalius Bandage 8th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022032
+DTSTAMP:20250303T183948Z
+DTSTART:20320622T000200Z
+DTEND:20320622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 9th Anniversary
+DESCRIPTION:Vezalius Bandage 9th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022033
+DTSTAMP:20250303T183948Z
+DTSTART:20330622T000200Z
+DTEND:20330622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 10th Anniversary
+DESCRIPTION:Vezalius Bandage 10th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022034
+DTSTAMP:20250303T183948Z
+DTSTART:20340622T000200Z
+DTEND:20340622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 11th Anniversary
+DESCRIPTION:Vezalius Bandage 11th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022035
+DTSTAMP:20250303T183948Z
+DTSTART:20350622T000200Z
+DTEND:20350622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 12th Anniversary
+DESCRIPTION:Vezalius Bandage 12th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

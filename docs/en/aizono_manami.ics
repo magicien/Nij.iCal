@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Aizono Manami
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443012019
+DTSTAMP:20250303T182826Z
+DTSTART:20191108
+DTEND:20191108
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami Birthday
+DESCRIPTION:Aizono Manami Birthday\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022019
+DTSTAMP:20250303T182826Z
+DTSTART:20190402T070100Z
+DTEND:20190402T073100Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami Debut
+DESCRIPTION:Aizono Manami Debut\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022020
+DTSTAMP:20250303T182826Z
+DTSTART:20200402T070100Z
+DTEND:20200402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 1st Anniversary
+DESCRIPTION:Aizono Manami 1st Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022021
+DTSTAMP:20250303T182826Z
+DTSTART:20210402T070100Z
+DTEND:20210402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 2nd Anniversary
+DESCRIPTION:Aizono Manami 2nd Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022022
+DTSTAMP:20250303T182826Z
+DTSTART:20220402T070100Z
+DTEND:20220402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 3rd Anniversary
+DESCRIPTION:Aizono Manami 3rd Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022023
+DTSTAMP:20250303T182826Z
+DTSTART:20230402T070100Z
+DTEND:20230402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 4th Anniversary
+DESCRIPTION:Aizono Manami 4th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022024
+DTSTAMP:20250303T182826Z
+DTSTART:20240402T070100Z
+DTEND:20240402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 5th Anniversary
+DESCRIPTION:Aizono Manami 5th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022025
+DTSTAMP:20250303T182826Z
+DTSTART:20250402T070100Z
+DTEND:20250402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 6th Anniversary
+DESCRIPTION:Aizono Manami 6th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022026
+DTSTAMP:20250303T182826Z
+DTSTART:20260402T070100Z
+DTEND:20260402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 7th Anniversary
+DESCRIPTION:Aizono Manami 7th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022027
+DTSTAMP:20250303T182826Z
+DTSTART:20270402T070100Z
+DTEND:20270402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 8th Anniversary
+DESCRIPTION:Aizono Manami 8th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022028
+DTSTAMP:20250303T182826Z
+DTSTART:20280402T070100Z
+DTEND:20280402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 9th Anniversary
+DESCRIPTION:Aizono Manami 9th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022029
+DTSTAMP:20250303T182826Z
+DTSTART:20290402T070100Z
+DTEND:20290402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 10th Anniversary
+DESCRIPTION:Aizono Manami 10th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022030
+DTSTAMP:20250303T182826Z
+DTSTART:20300402T070100Z
+DTEND:20300402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 11th Anniversary
+DESCRIPTION:Aizono Manami 11th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022031
+DTSTAMP:20250303T182826Z
+DTSTART:20310402T070100Z
+DTEND:20310402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 12th Anniversary
+DESCRIPTION:Aizono Manami 12th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022032
+DTSTAMP:20250303T182826Z
+DTSTART:20320402T070100Z
+DTEND:20320402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 13th Anniversary
+DESCRIPTION:Aizono Manami 13th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022033
+DTSTAMP:20250303T182826Z
+DTSTART:20330402T070100Z
+DTEND:20330402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 14th Anniversary
+DESCRIPTION:Aizono Manami 14th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022034
+DTSTAMP:20250303T182826Z
+DTSTART:20340402T070100Z
+DTEND:20340402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 15th Anniversary
+DESCRIPTION:Aizono Manami 15th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022035
+DTSTAMP:20250303T182826Z
+DTSTART:20350402T070100Z
+DTEND:20350402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Aizono Manami 16th Anniversary
+DESCRIPTION:Aizono Manami 16th Anniversary\n\nFirst tweet: Apr 2, 2019, 16:04 (JST)\nFirst stream: Apr 7, 2019 (JST)\n\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

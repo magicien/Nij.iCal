@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shizuka Rin
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66012018
+DTSTAMP:20250303T184230Z
+DTSTART:20180828
+DTEND:20180828
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin Birthday
+DESCRIPTION:Shizuka Rin Birthday\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022018
+DTSTAMP:20250303T184230Z
+DTSTART:20180201T050200Z
+DTEND:20180201T053200Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin Debut
+DESCRIPTION:Shizuka Rin Debut\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022019
+DTSTAMP:20250303T184230Z
+DTSTART:20190201T050200Z
+DTEND:20190201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 1st Anniversary
+DESCRIPTION:Shizuka Rin 1st Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022020
+DTSTAMP:20250303T184230Z
+DTSTART:20200201T050200Z
+DTEND:20200201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 2nd Anniversary
+DESCRIPTION:Shizuka Rin 2nd Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022021
+DTSTAMP:20250303T184230Z
+DTSTART:20210201T050200Z
+DTEND:20210201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 3rd Anniversary
+DESCRIPTION:Shizuka Rin 3rd Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022022
+DTSTAMP:20250303T184230Z
+DTSTART:20220201T050200Z
+DTEND:20220201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 4th Anniversary
+DESCRIPTION:Shizuka Rin 4th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022023
+DTSTAMP:20250303T184230Z
+DTSTART:20230201T050200Z
+DTEND:20230201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 5th Anniversary
+DESCRIPTION:Shizuka Rin 5th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022024
+DTSTAMP:20250303T184230Z
+DTSTART:20240201T050200Z
+DTEND:20240201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 6th Anniversary
+DESCRIPTION:Shizuka Rin 6th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022025
+DTSTAMP:20250303T184230Z
+DTSTART:20250201T050200Z
+DTEND:20250201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 7th Anniversary
+DESCRIPTION:Shizuka Rin 7th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022026
+DTSTAMP:20250303T184230Z
+DTSTART:20260201T050200Z
+DTEND:20260201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 8th Anniversary
+DESCRIPTION:Shizuka Rin 8th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022027
+DTSTAMP:20250303T184230Z
+DTSTART:20270201T050200Z
+DTEND:20270201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 9th Anniversary
+DESCRIPTION:Shizuka Rin 9th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022028
+DTSTAMP:20250303T184230Z
+DTSTART:20280201T050200Z
+DTEND:20280201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 10th Anniversary
+DESCRIPTION:Shizuka Rin 10th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022029
+DTSTAMP:20250303T184230Z
+DTSTART:20290201T050200Z
+DTEND:20290201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 11th Anniversary
+DESCRIPTION:Shizuka Rin 11th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022030
+DTSTAMP:20250303T184230Z
+DTSTART:20300201T050200Z
+DTEND:20300201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 12th Anniversary
+DESCRIPTION:Shizuka Rin 12th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022031
+DTSTAMP:20250303T184230Z
+DTSTART:20310201T050200Z
+DTEND:20310201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 13th Anniversary
+DESCRIPTION:Shizuka Rin 13th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022032
+DTSTAMP:20250303T184230Z
+DTSTART:20320201T050200Z
+DTEND:20320201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 14th Anniversary
+DESCRIPTION:Shizuka Rin 14th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022033
+DTSTAMP:20250303T184230Z
+DTSTART:20330201T050200Z
+DTEND:20330201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 15th Anniversary
+DESCRIPTION:Shizuka Rin 15th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022034
+DTSTAMP:20250303T184230Z
+DTSTART:20340201T050200Z
+DTEND:20340201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 16th Anniversary
+DESCRIPTION:Shizuka Rin 16th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022035
+DTSTAMP:20250303T184230Z
+DTSTART:20350201T050200Z
+DTEND:20350201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shizuka Rin 17th Anniversary
+DESCRIPTION:Shizuka Rin 17th Anniversary\n\nFirst tweet: Feb 1, 2018, 14:02 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

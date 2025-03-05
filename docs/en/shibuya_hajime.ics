@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shibuya Hajime
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138012018
+DTSTAMP:20250303T184231Z
+DTSTART:20180505
+DTEND:20180505
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime Birthday
+DESCRIPTION:Shibuya Hajime Birthday\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022018
+DTSTAMP:20250303T184231Z
+DTSTART:20180131T135200Z
+DTEND:20180131T142200Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime Debut
+DESCRIPTION:Shibuya Hajime Debut\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022019
+DTSTAMP:20250303T184231Z
+DTSTART:20190131T135200Z
+DTEND:20190131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 1st Anniversary
+DESCRIPTION:Shibuya Hajime 1st Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022020
+DTSTAMP:20250303T184231Z
+DTSTART:20200131T135200Z
+DTEND:20200131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 2nd Anniversary
+DESCRIPTION:Shibuya Hajime 2nd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022021
+DTSTAMP:20250303T184231Z
+DTSTART:20210131T135200Z
+DTEND:20210131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 3rd Anniversary
+DESCRIPTION:Shibuya Hajime 3rd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022022
+DTSTAMP:20250303T184231Z
+DTSTART:20220131T135200Z
+DTEND:20220131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 4th Anniversary
+DESCRIPTION:Shibuya Hajime 4th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022023
+DTSTAMP:20250303T184231Z
+DTSTART:20230131T135200Z
+DTEND:20230131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 5th Anniversary
+DESCRIPTION:Shibuya Hajime 5th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022024
+DTSTAMP:20250303T184231Z
+DTSTART:20240131T135200Z
+DTEND:20240131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 6th Anniversary
+DESCRIPTION:Shibuya Hajime 6th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022025
+DTSTAMP:20250303T184231Z
+DTSTART:20250131T135200Z
+DTEND:20250131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 7th Anniversary
+DESCRIPTION:Shibuya Hajime 7th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022026
+DTSTAMP:20250303T184231Z
+DTSTART:20260131T135200Z
+DTEND:20260131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 8th Anniversary
+DESCRIPTION:Shibuya Hajime 8th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022027
+DTSTAMP:20250303T184231Z
+DTSTART:20270131T135200Z
+DTEND:20270131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 9th Anniversary
+DESCRIPTION:Shibuya Hajime 9th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022028
+DTSTAMP:20250303T184231Z
+DTSTART:20280131T135200Z
+DTEND:20280131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 10th Anniversary
+DESCRIPTION:Shibuya Hajime 10th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022029
+DTSTAMP:20250303T184231Z
+DTSTART:20290131T135200Z
+DTEND:20290131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 11th Anniversary
+DESCRIPTION:Shibuya Hajime 11th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022030
+DTSTAMP:20250303T184231Z
+DTSTART:20300131T135200Z
+DTEND:20300131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 12th Anniversary
+DESCRIPTION:Shibuya Hajime 12th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022031
+DTSTAMP:20250303T184231Z
+DTSTART:20310131T135200Z
+DTEND:20310131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 13th Anniversary
+DESCRIPTION:Shibuya Hajime 13th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022032
+DTSTAMP:20250303T184231Z
+DTSTART:20320131T135200Z
+DTEND:20320131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 14th Anniversary
+DESCRIPTION:Shibuya Hajime 14th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022033
+DTSTAMP:20250303T184231Z
+DTSTART:20330131T135200Z
+DTEND:20330131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 15th Anniversary
+DESCRIPTION:Shibuya Hajime 15th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022034
+DTSTAMP:20250303T184231Z
+DTSTART:20340131T135200Z
+DTEND:20340131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 16th Anniversary
+DESCRIPTION:Shibuya Hajime 16th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:c605ff95-bf72-4954-90ea-9a4138022035
+DTSTAMP:20250303T184231Z
+DTSTART:20350131T135200Z
+DTEND:20350131T135201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Hajime 17th Anniversary
+DESCRIPTION:Shibuya Hajime 17th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Shibuya Hajime】\nYouTube: https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ\nX: https://twitter.com/sibuya_hajime\n\n
+URL:https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

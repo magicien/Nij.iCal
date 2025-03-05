@@ -1,0 +1,37 @@
+name: Update Calendars
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-calendars:
+    permissions:
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python and Poetry
+        uses: ./.github/actions/setup_python
+
+      - name: Download data files
+        env:
+          EVENT_DATA_URL: ${{ secrets.EVENT_DATA_URL }}
+          TALENT_DATA_URL: ${{ secrets.TALENT_DATA_URL }}
+        run: |
+          wget -O data/events.csv "${EVENT_DATA_URL}"
+          wget -O data/talents.csv "${TALENT_DATA_URL}"
+
+      - name: Generate calendars
+        run: ./run.sh
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: update-calendar
+          commit-message: Update calendars
+          delete-branch: true
+          title: Update calendars
+

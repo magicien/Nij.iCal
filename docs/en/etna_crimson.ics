@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Etna Crimson
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742012020
+DTSTAMP:20250303T183305Z
+DTSTART:20201110
+DTEND:20201110
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson Birthday
+DESCRIPTION:Etna Crimson Birthday\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022020
+DTSTAMP:20250303T183305Z
+DTSTART:20200811T010100Z
+DTEND:20200811T013100Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson Debut
+DESCRIPTION:Etna Crimson Debut\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022021
+DTSTAMP:20250303T183305Z
+DTSTART:20210811T010100Z
+DTEND:20210811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 1st Anniversary
+DESCRIPTION:Etna Crimson 1st Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022022
+DTSTAMP:20250303T183305Z
+DTSTART:20220811T010100Z
+DTEND:20220811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 2nd Anniversary
+DESCRIPTION:Etna Crimson 2nd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022023
+DTSTAMP:20250303T183305Z
+DTSTART:20230811T010100Z
+DTEND:20230811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 3rd Anniversary
+DESCRIPTION:Etna Crimson 3rd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022024
+DTSTAMP:20250303T183305Z
+DTSTART:20240811T010100Z
+DTEND:20240811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 4th Anniversary
+DESCRIPTION:Etna Crimson 4th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022025
+DTSTAMP:20250303T183305Z
+DTSTART:20250811T010100Z
+DTEND:20250811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 5th Anniversary
+DESCRIPTION:Etna Crimson 5th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022026
+DTSTAMP:20250303T183305Z
+DTSTART:20260811T010100Z
+DTEND:20260811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 6th Anniversary
+DESCRIPTION:Etna Crimson 6th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022027
+DTSTAMP:20250303T183305Z
+DTSTART:20270811T010100Z
+DTEND:20270811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 7th Anniversary
+DESCRIPTION:Etna Crimson 7th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022028
+DTSTAMP:20250303T183305Z
+DTSTART:20280811T010100Z
+DTEND:20280811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 8th Anniversary
+DESCRIPTION:Etna Crimson 8th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022029
+DTSTAMP:20250303T183305Z
+DTSTART:20290811T010100Z
+DTEND:20290811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 9th Anniversary
+DESCRIPTION:Etna Crimson 9th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022030
+DTSTAMP:20250303T183305Z
+DTSTART:20300811T010100Z
+DTEND:20300811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 10th Anniversary
+DESCRIPTION:Etna Crimson 10th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022031
+DTSTAMP:20250303T183305Z
+DTSTART:20310811T010100Z
+DTEND:20310811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 11th Anniversary
+DESCRIPTION:Etna Crimson 11th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022032
+DTSTAMP:20250303T183305Z
+DTSTART:20320811T010100Z
+DTEND:20320811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 12th Anniversary
+DESCRIPTION:Etna Crimson 12th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022033
+DTSTAMP:20250303T183305Z
+DTSTART:20330811T010100Z
+DTEND:20330811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 13th Anniversary
+DESCRIPTION:Etna Crimson 13th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022034
+DTSTAMP:20250303T183305Z
+DTSTART:20340811T010100Z
+DTEND:20340811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 14th Anniversary
+DESCRIPTION:Etna Crimson 14th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022035
+DTSTAMP:20250303T183305Z
+DTSTART:20350811T010100Z
+DTEND:20350811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:Etna Crimson 15th Anniversary
+DESCRIPTION:Etna Crimson 15th Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Etna Crimson】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

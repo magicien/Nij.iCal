@@ -1,0 +1,31 @@
+name: Tweet today's events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 22 * * *' # 7:00 JST
+
+jobs:
+  update-calendars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python and Poetry
+        uses: ./.github/actions/setup_python
+
+      - name: Tweet events
+        env:
+          JA_BEARER_TOKEN: ${{ secrets.JA_BEARER_TOKEN }}
+          JA_CONSUMER_KEY: ${{ secrets.JA_CONSUMER_KEY }}
+          JA_CONSUMER_SECRET: ${{ secrets.JA_CONSUMER_SECRET }}
+          JA_ACCESS_TOKEN: ${{ secrets.JA_ACCESS_TOKEN }}
+          JA_ACCESS_TOKEN_SECRET: ${{ secrets.JA_ACCESS_TOKEN_SECRET }}
+          EN_BEARER_TOKEN: ${{ secrets.EN_BEARER_TOKEN }}
+          EN_CONSUMER_KEY: ${{ secrets.EN_CONSUMER_KEY }}
+          EN_CONSUMER_SECRET: ${{ secrets.EN_CONSUMER_SECRET }}
+          EN_ACCESS_TOKEN: ${{ secrets.EN_ACCESS_TOKEN }}
+          EN_ACCESS_TOKEN_SECRET: ${{ secrets.EN_ACCESS_TOKEN_SECRET }}
+        run: ./tweet.sh
+

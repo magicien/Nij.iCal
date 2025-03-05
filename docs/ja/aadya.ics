@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:アディア
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509012020
+DTSTAMP:20250303T184411Z
+DTSTART:20201031
+DTEND:20201031
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:アディア 誕生日
+DESCRIPTION:アディア 誕生日\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509022020
+DTSTAMP:20250303T184411Z
+DTSTART:20200123T092900Z
+DTEND:20200123T095900Z
+TRANSP:TRANSPARENT
+SUMMARY:アディア 活動開始
+DESCRIPTION:アディア 活動開始\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509022021
+DTSTAMP:20250303T184411Z
+DTSTART:20210123T092900Z
+DTEND:20210123T092901Z
+TRANSP:TRANSPARENT
+SUMMARY:アディア 1周年
+DESCRIPTION:アディア 1周年\n\n初ツイート：2020/01/23 18:29 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:318b71a9-81f3-4dc1-b87f-8c8509992021
+DTSTAMP:20250303T184411Z
+DTSTART:20210430
+DTEND:20210430
+TRANSP:TRANSPARENT
+SUMMARY:アディア 卒業
+DESCRIPTION:アディア 卒業\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Amemori Sayo
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d012019
+DTSTAMP:20250303T182712Z
+DTSTART:20190611
+DTEND:20190611
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo Birthday
+DESCRIPTION:Amemori Sayo Birthday\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022018
+DTSTAMP:20250303T182712Z
+DTSTART:20180809T103800Z
+DTEND:20180809T110800Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo Debut
+DESCRIPTION:Amemori Sayo Debut\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022019
+DTSTAMP:20250303T182712Z
+DTSTART:20190809T103800Z
+DTEND:20190809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 1st Anniversary
+DESCRIPTION:Amemori Sayo 1st Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022020
+DTSTAMP:20250303T182712Z
+DTSTART:20200809T103800Z
+DTEND:20200809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 2nd Anniversary
+DESCRIPTION:Amemori Sayo 2nd Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022021
+DTSTAMP:20250303T182712Z
+DTSTART:20210809T103800Z
+DTEND:20210809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 3rd Anniversary
+DESCRIPTION:Amemori Sayo 3rd Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022022
+DTSTAMP:20250303T182712Z
+DTSTART:20220809T103800Z
+DTEND:20220809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 4th Anniversary
+DESCRIPTION:Amemori Sayo 4th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022023
+DTSTAMP:20250303T182712Z
+DTSTART:20230809T103800Z
+DTEND:20230809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 5th Anniversary
+DESCRIPTION:Amemori Sayo 5th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022024
+DTSTAMP:20250303T182712Z
+DTSTART:20240809T103800Z
+DTEND:20240809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 6th Anniversary
+DESCRIPTION:Amemori Sayo 6th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022025
+DTSTAMP:20250303T182712Z
+DTSTART:20250809T103800Z
+DTEND:20250809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 7th Anniversary
+DESCRIPTION:Amemori Sayo 7th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022026
+DTSTAMP:20250303T182712Z
+DTSTART:20260809T103800Z
+DTEND:20260809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 8th Anniversary
+DESCRIPTION:Amemori Sayo 8th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022027
+DTSTAMP:20250303T182712Z
+DTSTART:20270809T103800Z
+DTEND:20270809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 9th Anniversary
+DESCRIPTION:Amemori Sayo 9th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022028
+DTSTAMP:20250303T182712Z
+DTSTART:20280809T103800Z
+DTEND:20280809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 10th Anniversary
+DESCRIPTION:Amemori Sayo 10th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022029
+DTSTAMP:20250303T182712Z
+DTSTART:20290809T103800Z
+DTEND:20290809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 11th Anniversary
+DESCRIPTION:Amemori Sayo 11th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022030
+DTSTAMP:20250303T182712Z
+DTSTART:20300809T103800Z
+DTEND:20300809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 12th Anniversary
+DESCRIPTION:Amemori Sayo 12th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022031
+DTSTAMP:20250303T182712Z
+DTSTART:20310809T103800Z
+DTEND:20310809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 13th Anniversary
+DESCRIPTION:Amemori Sayo 13th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022032
+DTSTAMP:20250303T182712Z
+DTSTART:20320809T103800Z
+DTEND:20320809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 14th Anniversary
+DESCRIPTION:Amemori Sayo 14th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022033
+DTSTAMP:20250303T182712Z
+DTSTART:20330809T103800Z
+DTEND:20330809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 15th Anniversary
+DESCRIPTION:Amemori Sayo 15th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022034
+DTSTAMP:20250303T182712Z
+DTSTART:20340809T103800Z
+DTEND:20340809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 16th Anniversary
+DESCRIPTION:Amemori Sayo 16th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022035
+DTSTAMP:20250303T182712Z
+DTSTART:20350809T103800Z
+DTEND:20350809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 17th Anniversary
+DESCRIPTION:Amemori Sayo 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:08 (JST)\nFirst stream: Aug 29, 2018 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://twitter.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

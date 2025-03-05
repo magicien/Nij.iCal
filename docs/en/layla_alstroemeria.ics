@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Layla Alstroemeria
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475012020
+DTSTAMP:20250303T183254Z
+DTSTART:20200926
+DTEND:20200926
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria Birthday
+DESCRIPTION:Layla Alstroemeria Birthday\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022020
+DTSTAMP:20250303T183254Z
+DTSTART:20200313T105300Z
+DTEND:20200313T112300Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria Debut
+DESCRIPTION:Layla Alstroemeria Debut\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022021
+DTSTAMP:20250303T183254Z
+DTSTART:20210313T105300Z
+DTEND:20210313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 1st Anniversary
+DESCRIPTION:Layla Alstroemeria 1st Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022022
+DTSTAMP:20250303T183254Z
+DTSTART:20220313T105300Z
+DTEND:20220313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 2nd Anniversary
+DESCRIPTION:Layla Alstroemeria 2nd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022023
+DTSTAMP:20250303T183254Z
+DTSTART:20230313T105300Z
+DTEND:20230313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 3rd Anniversary
+DESCRIPTION:Layla Alstroemeria 3rd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022024
+DTSTAMP:20250303T183254Z
+DTSTART:20240313T105300Z
+DTEND:20240313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 4th Anniversary
+DESCRIPTION:Layla Alstroemeria 4th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022025
+DTSTAMP:20250303T183254Z
+DTSTART:20250313T105300Z
+DTEND:20250313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 5th Anniversary
+DESCRIPTION:Layla Alstroemeria 5th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022026
+DTSTAMP:20250303T183254Z
+DTSTART:20260313T105300Z
+DTEND:20260313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 6th Anniversary
+DESCRIPTION:Layla Alstroemeria 6th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022027
+DTSTAMP:20250303T183254Z
+DTSTART:20270313T105300Z
+DTEND:20270313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 7th Anniversary
+DESCRIPTION:Layla Alstroemeria 7th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022028
+DTSTAMP:20250303T183254Z
+DTSTART:20280313T105300Z
+DTEND:20280313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 8th Anniversary
+DESCRIPTION:Layla Alstroemeria 8th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022029
+DTSTAMP:20250303T183254Z
+DTSTART:20290313T105300Z
+DTEND:20290313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 9th Anniversary
+DESCRIPTION:Layla Alstroemeria 9th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022030
+DTSTAMP:20250303T183254Z
+DTSTART:20300313T105300Z
+DTEND:20300313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 10th Anniversary
+DESCRIPTION:Layla Alstroemeria 10th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022031
+DTSTAMP:20250303T183254Z
+DTSTART:20310313T105300Z
+DTEND:20310313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 11th Anniversary
+DESCRIPTION:Layla Alstroemeria 11th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022032
+DTSTAMP:20250303T183254Z
+DTSTART:20320313T105300Z
+DTEND:20320313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 12th Anniversary
+DESCRIPTION:Layla Alstroemeria 12th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022033
+DTSTAMP:20250303T183254Z
+DTSTART:20330313T105300Z
+DTEND:20330313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 13th Anniversary
+DESCRIPTION:Layla Alstroemeria 13th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022034
+DTSTAMP:20250303T183254Z
+DTSTART:20340313T105300Z
+DTEND:20340313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 14th Anniversary
+DESCRIPTION:Layla Alstroemeria 14th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022035
+DTSTAMP:20250303T183254Z
+DTSTART:20350313T105300Z
+DTEND:20350313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 15th Anniversary
+DESCRIPTION:Layla Alstroemeria 15th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://twitter.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

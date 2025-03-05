@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Ponto Nei
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:727b81ad-7a6e-4f09-9f29-459af03f593d
+DTSTAMP:20250304T013649Z
+DTSTART:20250622T090000Z
+DTEND:20250622T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya
+LOCATION:Aichi Prefectural Art Theater
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19012022
+DTSTAMP:20250303T183131Z
+DTSTART:20220821
+DTEND:20220821
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei Birthday
+DESCRIPTION:Ponto Nei Birthday\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022022
+DTSTAMP:20250303T183131Z
+DTSTART:20220316T032200Z
+DTEND:20220316T035200Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei Debut
+DESCRIPTION:Ponto Nei Debut\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022023
+DTSTAMP:20250303T183131Z
+DTSTART:20230316T032200Z
+DTEND:20230316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 1st Anniversary
+DESCRIPTION:Ponto Nei 1st Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022024
+DTSTAMP:20250303T183131Z
+DTSTART:20240316T032200Z
+DTEND:20240316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 2nd Anniversary
+DESCRIPTION:Ponto Nei 2nd Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022025
+DTSTAMP:20250303T183131Z
+DTSTART:20250316T032200Z
+DTEND:20250316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 3rd Anniversary
+DESCRIPTION:Ponto Nei 3rd Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022026
+DTSTAMP:20250303T183131Z
+DTSTART:20260316T032200Z
+DTEND:20260316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 4th Anniversary
+DESCRIPTION:Ponto Nei 4th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022027
+DTSTAMP:20250303T183131Z
+DTSTART:20270316T032200Z
+DTEND:20270316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 5th Anniversary
+DESCRIPTION:Ponto Nei 5th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022028
+DTSTAMP:20250303T183131Z
+DTSTART:20280316T032200Z
+DTEND:20280316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 6th Anniversary
+DESCRIPTION:Ponto Nei 6th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022029
+DTSTAMP:20250303T183131Z
+DTSTART:20290316T032200Z
+DTEND:20290316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 7th Anniversary
+DESCRIPTION:Ponto Nei 7th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022030
+DTSTAMP:20250303T183131Z
+DTSTART:20300316T032200Z
+DTEND:20300316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 8th Anniversary
+DESCRIPTION:Ponto Nei 8th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022031
+DTSTAMP:20250303T183131Z
+DTSTART:20310316T032200Z
+DTEND:20310316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 9th Anniversary
+DESCRIPTION:Ponto Nei 9th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022032
+DTSTAMP:20250303T183131Z
+DTSTART:20320316T032200Z
+DTEND:20320316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 10th Anniversary
+DESCRIPTION:Ponto Nei 10th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022033
+DTSTAMP:20250303T183131Z
+DTSTART:20330316T032200Z
+DTEND:20330316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 11th Anniversary
+DESCRIPTION:Ponto Nei 11th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022034
+DTSTAMP:20250303T183131Z
+DTSTART:20340316T032200Z
+DTEND:20340316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 12th Anniversary
+DESCRIPTION:Ponto Nei 12th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:bd072c5a-387a-4423-bab6-86ce19022035
+DTSTAMP:20250303T183131Z
+DTSTART:20350316T032200Z
+DTEND:20350316T032201Z
+TRANSP:TRANSPARENT
+SUMMARY:Ponto Nei 13th Anniversary
+DESCRIPTION:Ponto Nei 13th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n
+URL:https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

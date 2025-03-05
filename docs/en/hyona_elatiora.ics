@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Hyona Elatiora
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa19839-dcb3-4c55-940a-8e46ea012021
+DTSTAMP:20250303T183342Z
+DTSTART:20211024
+DTEND:20211024
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Hyona Elatiora Birthday
+DESCRIPTION:Hyona Elatiora Birthday\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa19839-dcb3-4c55-940a-8e46ea022021
+DTSTAMP:20250303T183342Z
+DTSTART:20210728T093400Z
+DTEND:20210728T100400Z
+TRANSP:TRANSPARENT
+SUMMARY:Hyona Elatiora Debut
+DESCRIPTION:Hyona Elatiora Debut\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa19839-dcb3-4c55-940a-8e46ea022022
+DTSTAMP:20250303T183342Z
+DTSTART:20220728T093400Z
+DTEND:20220728T093401Z
+TRANSP:TRANSPARENT
+SUMMARY:Hyona Elatiora 1st Anniversary
+DESCRIPTION:Hyona Elatiora 1st Anniversary\n\nFirst tweet: Jul 28, 2021, 18:07 (JST)\nFirst stream: Jul 31, 2021 (JST)\n\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa19839-dcb3-4c55-940a-8e46ea022023
+DTSTAMP:20250303T183342Z
+DTSTART:20230728T093400Z
+DTEND:20230728T093401Z
+TRANSP:TRANSPARENT
+SUMMARY:Hyona Elatiora 2nd Anniversary
+DESCRIPTION:Hyona Elatiora 2nd Anniversary\n\nFirst tweet: Jul 28, 2021, 18:07 (JST)\nFirst stream: Jul 31, 2021 (JST)\n\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa19839-dcb3-4c55-940a-8e46ea992023
+DTSTAMP:20250303T183342Z
+DTSTART:20231029
+DTEND:20231029
+TRANSP:TRANSPARENT
+SUMMARY:Hyona Elatiora Graduation
+DESCRIPTION:Hyona Elatiora Graduation\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

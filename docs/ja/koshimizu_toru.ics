@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:小清水透
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:727b81ad-7a6e-4f09-9f29-459af03f593d
+DTSTAMP:20250304T013649Z
+DTSTART:20250622T090000Z
+DTEND:20250622T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 名古屋公演
+LOCATION:愛知県芸術劇場
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【先斗寧】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e012023
+DTSTAMP:20250303T184221Z
+DTSTART:20230603
+DTEND:20230603
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 誕生日
+DESCRIPTION:小清水透 誕生日\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022023
+DTSTAMP:20250303T184221Z
+DTSTART:20230116T033000Z
+DTEND:20230116T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 活動開始
+DESCRIPTION:小清水透 活動開始\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022024
+DTSTAMP:20250303T184221Z
+DTSTART:20240116T033000Z
+DTEND:20240116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 1周年
+DESCRIPTION:小清水透 1周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022025
+DTSTAMP:20250303T184221Z
+DTSTART:20250116T033000Z
+DTEND:20250116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 2周年
+DESCRIPTION:小清水透 2周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022026
+DTSTAMP:20250303T184221Z
+DTSTART:20260116T033000Z
+DTEND:20260116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 3周年
+DESCRIPTION:小清水透 3周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022027
+DTSTAMP:20250303T184221Z
+DTSTART:20270116T033000Z
+DTEND:20270116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 4周年
+DESCRIPTION:小清水透 4周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022028
+DTSTAMP:20250303T184221Z
+DTSTART:20280116T033000Z
+DTEND:20280116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 5周年
+DESCRIPTION:小清水透 5周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022029
+DTSTAMP:20250303T184221Z
+DTSTART:20290116T033000Z
+DTEND:20290116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 6周年
+DESCRIPTION:小清水透 6周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022030
+DTSTAMP:20250303T184221Z
+DTSTART:20300116T033000Z
+DTEND:20300116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 7周年
+DESCRIPTION:小清水透 7周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022031
+DTSTAMP:20250303T184221Z
+DTSTART:20310116T033000Z
+DTEND:20310116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 8周年
+DESCRIPTION:小清水透 8周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022032
+DTSTAMP:20250303T184221Z
+DTSTART:20320116T033000Z
+DTEND:20320116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 9周年
+DESCRIPTION:小清水透 9周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022033
+DTSTAMP:20250303T184221Z
+DTSTART:20330116T033000Z
+DTEND:20330116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 10周年
+DESCRIPTION:小清水透 10周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022034
+DTSTAMP:20250303T184221Z
+DTSTART:20340116T033000Z
+DTEND:20340116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 11周年
+DESCRIPTION:小清水透 11周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:2333619c-c6e9-4592-91d0-ba641e022035
+DTSTAMP:20250303T184221Z
+DTSTART:20350116T033000Z
+DTEND:20350116T033001Z
+TRANSP:TRANSPARENT
+SUMMARY:小清水透 12周年
+DESCRIPTION:小清水透 12周年\n\n初ツイート：2023/01/16 12:30 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

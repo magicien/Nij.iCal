@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:闇夜乃モルル
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9fa191-9b8d-47a4-89da-8214dd012018
+DTSTAMP:20250303T184248Z
+DTSTART:20180711
+DTEND:20180711
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:闇夜乃モルル 誕生日
+DESCRIPTION:闇夜乃モルル 誕生日\n\n==========\n【闇夜乃モルル】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://twitter.com/_rnrrdark\n\n
+URL:https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9fa191-9b8d-47a4-89da-8214dd022018
+DTSTAMP:20250303T184248Z
+DTSTART:20180706T134500Z
+DTEND:20180706T141500Z
+TRANSP:TRANSPARENT
+SUMMARY:闇夜乃モルル 活動開始
+DESCRIPTION:闇夜乃モルル 活動開始\n\n==========\n【闇夜乃モルル】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://twitter.com/_rnrrdark\n\n
+URL:https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9fa191-9b8d-47a4-89da-8214dd992019
+DTSTAMP:20250303T184248Z
+DTSTART:20190627
+DTEND:20190627
+TRANSP:TRANSPARENT
+SUMMARY:闇夜乃モルル 卒業
+DESCRIPTION:闇夜乃モルル 卒業\n\n==========\n【闇夜乃モルル】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://twitter.com/_rnrrdark\n\n
+URL:https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

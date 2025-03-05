@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:加賀美ハヤト
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ee24af-8fec-45c0-8695-14171d44bfc5
+DTSTAMP:20250304T013647Z
+DTSTART:20250510T090000Z
+DTEND:20250510T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演
+LOCATION:仙台サンプラザホール
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:d6142773-050f-4c99-86c6-fb9f8cfcc9ce
+DTSTAMP:20250304T014151Z
+DTSTART:20250720T090000Z
+DTEND:20250720T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:ROF-MAO 2nd LIVE - Limitless
+LOCATION:Kアリーナ横浜
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/rof-mao_2ndlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea012019
+DTSTAMP:20250303T182838Z
+DTSTART:20191202
+DTEND:20191202
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 誕生日
+DESCRIPTION:加賀美ハヤト 誕生日\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022019
+DTSTAMP:20250303T182838Z
+DTSTART:20190703T072000Z
+DTEND:20190703T075000Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 活動開始
+DESCRIPTION:加賀美ハヤト 活動開始\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022020
+DTSTAMP:20250303T182838Z
+DTSTART:20200703T072000Z
+DTEND:20200703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 1周年
+DESCRIPTION:加賀美ハヤト 1周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022021
+DTSTAMP:20250303T182838Z
+DTSTART:20210703T072000Z
+DTEND:20210703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 2周年
+DESCRIPTION:加賀美ハヤト 2周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022022
+DTSTAMP:20250303T182838Z
+DTSTART:20220703T072000Z
+DTEND:20220703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 3周年
+DESCRIPTION:加賀美ハヤト 3周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022023
+DTSTAMP:20250303T182838Z
+DTSTART:20230703T072000Z
+DTEND:20230703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 4周年
+DESCRIPTION:加賀美ハヤト 4周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022024
+DTSTAMP:20250303T182838Z
+DTSTART:20240703T072000Z
+DTEND:20240703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 5周年
+DESCRIPTION:加賀美ハヤト 5周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022025
+DTSTAMP:20250303T182838Z
+DTSTART:20250703T072000Z
+DTEND:20250703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 6周年
+DESCRIPTION:加賀美ハヤト 6周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022026
+DTSTAMP:20250303T182838Z
+DTSTART:20260703T072000Z
+DTEND:20260703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 7周年
+DESCRIPTION:加賀美ハヤト 7周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022027
+DTSTAMP:20250303T182838Z
+DTSTART:20270703T072000Z
+DTEND:20270703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 8周年
+DESCRIPTION:加賀美ハヤト 8周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022028
+DTSTAMP:20250303T182838Z
+DTSTART:20280703T072000Z
+DTEND:20280703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 9周年
+DESCRIPTION:加賀美ハヤト 9周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022029
+DTSTAMP:20250303T182838Z
+DTSTART:20290703T072000Z
+DTEND:20290703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 10周年
+DESCRIPTION:加賀美ハヤト 10周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022030
+DTSTAMP:20250303T182838Z
+DTSTART:20300703T072000Z
+DTEND:20300703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 11周年
+DESCRIPTION:加賀美ハヤト 11周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022031
+DTSTAMP:20250303T182838Z
+DTSTART:20310703T072000Z
+DTEND:20310703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 12周年
+DESCRIPTION:加賀美ハヤト 12周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022032
+DTSTAMP:20250303T182838Z
+DTSTART:20320703T072000Z
+DTEND:20320703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 13周年
+DESCRIPTION:加賀美ハヤト 13周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022033
+DTSTAMP:20250303T182838Z
+DTSTART:20330703T072000Z
+DTEND:20330703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 14周年
+DESCRIPTION:加賀美ハヤト 14周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022034
+DTSTAMP:20250303T182838Z
+DTSTART:20340703T072000Z
+DTEND:20340703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 15周年
+DESCRIPTION:加賀美ハヤト 15周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea022035
+DTSTAMP:20250303T182838Z
+DTSTART:20350703T072000Z
+DTEND:20350703T072001Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 16周年
+DESCRIPTION:加賀美ハヤト 16周年\n\n初ツイート：2019/07/03 16:20 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

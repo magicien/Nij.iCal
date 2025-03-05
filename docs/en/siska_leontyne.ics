@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Siska Leontyne
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb3603e-8ab0-47cb-a051-055367012021
+DTSTAMP:20250303T183321Z
+DTSTART:20210214
+DTEND:20210214
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Siska Leontyne Birthday
+DESCRIPTION:Siska Leontyne Birthday\n\n==========\n【Siska Leontyne】\nYouTube: https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w\nX: https://twitter.com/SiskaLeontyne\n\n
+URL:https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb3603e-8ab0-47cb-a051-055367022020
+DTSTAMP:20250303T183321Z
+DTSTART:20200807T111500Z
+DTEND:20200807T114500Z
+TRANSP:TRANSPARENT
+SUMMARY:Siska Leontyne Debut
+DESCRIPTION:Siska Leontyne Debut\n\n==========\n【Siska Leontyne】\nYouTube: https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w\nX: https://twitter.com/SiskaLeontyne\n\n
+URL:https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb3603e-8ab0-47cb-a051-055367022021
+DTSTAMP:20250303T183321Z
+DTSTART:20210807T111500Z
+DTEND:20210807T111501Z
+TRANSP:TRANSPARENT
+SUMMARY:Siska Leontyne 1st Anniversary
+DESCRIPTION:Siska Leontyne 1st Anniversary\n\nFirst tweet: Aug 7, 2020, 20:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Siska Leontyne】\nYouTube: https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w\nX: https://twitter.com/SiskaLeontyne\n\n
+URL:https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb3603e-8ab0-47cb-a051-055367022022
+DTSTAMP:20250303T183321Z
+DTSTART:20220807T111500Z
+DTEND:20220807T111501Z
+TRANSP:TRANSPARENT
+SUMMARY:Siska Leontyne 2nd Anniversary
+DESCRIPTION:Siska Leontyne 2nd Anniversary\n\nFirst tweet: Aug 7, 2020, 20:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Siska Leontyne】\nYouTube: https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w\nX: https://twitter.com/SiskaLeontyne\n\n
+URL:https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb3603e-8ab0-47cb-a051-055367992023
+DTSTAMP:20250303T183321Z
+DTSTART:20230615
+DTEND:20230615
+TRANSP:TRANSPARENT
+SUMMARY:Siska Leontyne Graduation
+DESCRIPTION:Siska Leontyne Graduation\n\n==========\n【Siska Leontyne】\nYouTube: https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w\nX: https://twitter.com/SiskaLeontyne\n\n
+URL:https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Harusaki Air
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105012019
+DTSTAMP:20250303T182710Z
+DTSTART:20190403
+DTEND:20190403
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air Birthday
+DESCRIPTION:Harusaki Air Birthday\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022018
+DTSTAMP:20250303T182710Z
+DTSTART:20180608T093300Z
+DTEND:20180608T100300Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air Debut
+DESCRIPTION:Harusaki Air Debut\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022019
+DTSTAMP:20250303T182710Z
+DTSTART:20190608T093300Z
+DTEND:20190608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 1st Anniversary
+DESCRIPTION:Harusaki Air 1st Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022020
+DTSTAMP:20250303T182710Z
+DTSTART:20200608T093300Z
+DTEND:20200608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 2nd Anniversary
+DESCRIPTION:Harusaki Air 2nd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022021
+DTSTAMP:20250303T182710Z
+DTSTART:20210608T093300Z
+DTEND:20210608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 3rd Anniversary
+DESCRIPTION:Harusaki Air 3rd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022022
+DTSTAMP:20250303T182710Z
+DTSTART:20220608T093300Z
+DTEND:20220608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 4th Anniversary
+DESCRIPTION:Harusaki Air 4th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022023
+DTSTAMP:20250303T182710Z
+DTSTART:20230608T093300Z
+DTEND:20230608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 5th Anniversary
+DESCRIPTION:Harusaki Air 5th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022024
+DTSTAMP:20250303T182710Z
+DTSTART:20240608T093300Z
+DTEND:20240608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 6th Anniversary
+DESCRIPTION:Harusaki Air 6th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022025
+DTSTAMP:20250303T182710Z
+DTSTART:20250608T093300Z
+DTEND:20250608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 7th Anniversary
+DESCRIPTION:Harusaki Air 7th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022026
+DTSTAMP:20250303T182710Z
+DTSTART:20260608T093300Z
+DTEND:20260608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 8th Anniversary
+DESCRIPTION:Harusaki Air 8th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022027
+DTSTAMP:20250303T182710Z
+DTSTART:20270608T093300Z
+DTEND:20270608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 9th Anniversary
+DESCRIPTION:Harusaki Air 9th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022028
+DTSTAMP:20250303T182710Z
+DTSTART:20280608T093300Z
+DTEND:20280608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 10th Anniversary
+DESCRIPTION:Harusaki Air 10th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022029
+DTSTAMP:20250303T182710Z
+DTSTART:20290608T093300Z
+DTEND:20290608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 11th Anniversary
+DESCRIPTION:Harusaki Air 11th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022030
+DTSTAMP:20250303T182710Z
+DTSTART:20300608T093300Z
+DTEND:20300608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 12th Anniversary
+DESCRIPTION:Harusaki Air 12th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022031
+DTSTAMP:20250303T182710Z
+DTSTART:20310608T093300Z
+DTEND:20310608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 13th Anniversary
+DESCRIPTION:Harusaki Air 13th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022032
+DTSTAMP:20250303T182710Z
+DTSTART:20320608T093300Z
+DTEND:20320608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 14th Anniversary
+DESCRIPTION:Harusaki Air 14th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022033
+DTSTAMP:20250303T182710Z
+DTSTART:20330608T093300Z
+DTEND:20330608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 15th Anniversary
+DESCRIPTION:Harusaki Air 15th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022034
+DTSTAMP:20250303T182710Z
+DTSTART:20340608T093300Z
+DTEND:20340608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 16th Anniversary
+DESCRIPTION:Harusaki Air 16th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14f74f-b9d6-4318-8e40-c2c105022035
+DTSTAMP:20250303T182710Z
+DTSTART:20350608T093300Z
+DTEND:20350608T093301Z
+TRANSP:TRANSPARENT
+SUMMARY:Harusaki Air 17th Anniversary
+DESCRIPTION:Harusaki Air 17th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 10, 2018 (JST)\n\n\n==========\n【Harusaki Air】\nYouTube: https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg\nX: https://twitter.com/harusakiair2434\n\n
+URL:https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Yuhi Riri
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
+DTSTAMP:20250304T013705Z
+DTSTART:20260118T090000Z
+DTEND:20260118T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo
+LOCATION:TOYOTA ARENA TOKYO
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013012019
+DTSTAMP:20250303T184238Z
+DTSTART:20190121
+DTEND:20190121
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri Birthday
+DESCRIPTION:Yuhi Riri Birthday\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022018
+DTSTAMP:20250303T184238Z
+DTSTART:20180305T135300Z
+DTEND:20180305T142300Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri Debut
+DESCRIPTION:Yuhi Riri Debut\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022019
+DTSTAMP:20250303T184238Z
+DTSTART:20190305T135300Z
+DTEND:20190305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 1st Anniversary
+DESCRIPTION:Yuhi Riri 1st Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022020
+DTSTAMP:20250303T184238Z
+DTSTART:20200305T135300Z
+DTEND:20200305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 2nd Anniversary
+DESCRIPTION:Yuhi Riri 2nd Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022021
+DTSTAMP:20250303T184238Z
+DTSTART:20210305T135300Z
+DTEND:20210305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 3rd Anniversary
+DESCRIPTION:Yuhi Riri 3rd Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022022
+DTSTAMP:20250303T184238Z
+DTSTART:20220305T135300Z
+DTEND:20220305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 4th Anniversary
+DESCRIPTION:Yuhi Riri 4th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022023
+DTSTAMP:20250303T184238Z
+DTSTART:20230305T135300Z
+DTEND:20230305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 5th Anniversary
+DESCRIPTION:Yuhi Riri 5th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022024
+DTSTAMP:20250303T184238Z
+DTSTART:20240305T135300Z
+DTEND:20240305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 6th Anniversary
+DESCRIPTION:Yuhi Riri 6th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022025
+DTSTAMP:20250303T184238Z
+DTSTART:20250305T135300Z
+DTEND:20250305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 7th Anniversary
+DESCRIPTION:Yuhi Riri 7th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022026
+DTSTAMP:20250303T184238Z
+DTSTART:20260305T135300Z
+DTEND:20260305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 8th Anniversary
+DESCRIPTION:Yuhi Riri 8th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022027
+DTSTAMP:20250303T184238Z
+DTSTART:20270305T135300Z
+DTEND:20270305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 9th Anniversary
+DESCRIPTION:Yuhi Riri 9th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022028
+DTSTAMP:20250303T184238Z
+DTSTART:20280305T135300Z
+DTEND:20280305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 10th Anniversary
+DESCRIPTION:Yuhi Riri 10th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022029
+DTSTAMP:20250303T184238Z
+DTSTART:20290305T135300Z
+DTEND:20290305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 11th Anniversary
+DESCRIPTION:Yuhi Riri 11th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022030
+DTSTAMP:20250303T184238Z
+DTSTART:20300305T135300Z
+DTEND:20300305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 12th Anniversary
+DESCRIPTION:Yuhi Riri 12th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022031
+DTSTAMP:20250303T184238Z
+DTSTART:20310305T135300Z
+DTEND:20310305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 13th Anniversary
+DESCRIPTION:Yuhi Riri 13th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022032
+DTSTAMP:20250303T184238Z
+DTSTART:20320305T135300Z
+DTEND:20320305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 14th Anniversary
+DESCRIPTION:Yuhi Riri 14th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022033
+DTSTAMP:20250303T184238Z
+DTSTART:20330305T135300Z
+DTEND:20330305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 15th Anniversary
+DESCRIPTION:Yuhi Riri 15th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022034
+DTSTAMP:20250303T184238Z
+DTSTART:20340305T135300Z
+DTEND:20340305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 16th Anniversary
+DESCRIPTION:Yuhi Riri 16th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:ac155015-a354-4930-9d2a-17a013022035
+DTSTAMP:20250303T184238Z
+DTSTART:20350305T135300Z
+DTEND:20350305T135301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yuhi Riri 17th Anniversary
+DESCRIPTION:Yuhi Riri 17th Anniversary\n\nFirst tweet: Mar 5, 2018, 22:03 (JST)\nFirst stream: Mar 17, 2018 (JST)\n\n\n==========\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n
+URL:https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

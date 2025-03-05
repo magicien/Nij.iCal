@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Naraka
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154012020
+DTSTAMP:20250303T182923Z
+DTSTART:20200710
+DTEND:20200710
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Naraka Birthday
+DESCRIPTION:Naraka Birthday\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022019
+DTSTAMP:20250303T182923Z
+DTSTART:20191226T070000Z
+DTEND:20191226T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka Debut
+DESCRIPTION:Naraka Debut\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022020
+DTSTAMP:20250303T182923Z
+DTSTART:20201226T070000Z
+DTEND:20201226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 1st Anniversary
+DESCRIPTION:Naraka 1st Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022021
+DTSTAMP:20250303T182923Z
+DTSTART:20211226T070000Z
+DTEND:20211226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 2nd Anniversary
+DESCRIPTION:Naraka 2nd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022022
+DTSTAMP:20250303T182923Z
+DTSTART:20221226T070000Z
+DTEND:20221226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 3rd Anniversary
+DESCRIPTION:Naraka 3rd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022023
+DTSTAMP:20250303T182923Z
+DTSTART:20231226T070000Z
+DTEND:20231226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 4th Anniversary
+DESCRIPTION:Naraka 4th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022024
+DTSTAMP:20250303T182923Z
+DTSTART:20241226T070000Z
+DTEND:20241226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 5th Anniversary
+DESCRIPTION:Naraka 5th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022025
+DTSTAMP:20250303T182923Z
+DTSTART:20251226T070000Z
+DTEND:20251226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 6th Anniversary
+DESCRIPTION:Naraka 6th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022026
+DTSTAMP:20250303T182923Z
+DTSTART:20261226T070000Z
+DTEND:20261226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 7th Anniversary
+DESCRIPTION:Naraka 7th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022027
+DTSTAMP:20250303T182923Z
+DTSTART:20271226T070000Z
+DTEND:20271226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 8th Anniversary
+DESCRIPTION:Naraka 8th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022028
+DTSTAMP:20250303T182923Z
+DTSTART:20281226T070000Z
+DTEND:20281226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 9th Anniversary
+DESCRIPTION:Naraka 9th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022029
+DTSTAMP:20250303T182923Z
+DTSTART:20291226T070000Z
+DTEND:20291226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 10th Anniversary
+DESCRIPTION:Naraka 10th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022030
+DTSTAMP:20250303T182923Z
+DTSTART:20301226T070000Z
+DTEND:20301226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 11th Anniversary
+DESCRIPTION:Naraka 11th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022031
+DTSTAMP:20250303T182923Z
+DTSTART:20311226T070000Z
+DTEND:20311226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 12th Anniversary
+DESCRIPTION:Naraka 12th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022032
+DTSTAMP:20250303T182923Z
+DTSTART:20321226T070000Z
+DTEND:20321226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 13th Anniversary
+DESCRIPTION:Naraka 13th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022033
+DTSTAMP:20250303T182923Z
+DTSTART:20331226T070000Z
+DTEND:20331226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 14th Anniversary
+DESCRIPTION:Naraka 14th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022034
+DTSTAMP:20250303T182923Z
+DTSTART:20341226T070000Z
+DTEND:20341226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 15th Anniversary
+DESCRIPTION:Naraka 15th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbc06c3-1b8a-474d-92fe-91a154022035
+DTSTAMP:20250303T182923Z
+DTSTART:20351226T070000Z
+DTEND:20351226T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Naraka 16th Anniversary
+DESCRIPTION:Naraka 16th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Naraka】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

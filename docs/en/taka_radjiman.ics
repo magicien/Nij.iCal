@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Taka Radjiman
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd8caf6-cc14-447e-8392-289dbd012020
+DTSTAMP:20250303T183151Z
+DTSTART:20200314
+DTEND:20200314
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Taka Radjiman Birthday
+DESCRIPTION:Taka Radjiman Birthday\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd8caf6-cc14-447e-8392-289dbd022019
+DTSTAMP:20250303T183151Z
+DTSTART:20190913T065800Z
+DTEND:20190913T072800Z
+TRANSP:TRANSPARENT
+SUMMARY:Taka Radjiman Debut
+DESCRIPTION:Taka Radjiman Debut\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd8caf6-cc14-447e-8392-289dbd022020
+DTSTAMP:20250303T183151Z
+DTSTART:20200913T065800Z
+DTEND:20200913T065801Z
+TRANSP:TRANSPARENT
+SUMMARY:Taka Radjiman 1st Anniversary
+DESCRIPTION:Taka Radjiman 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 15:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd8caf6-cc14-447e-8392-289dbd022021
+DTSTAMP:20250303T183151Z
+DTSTART:20210913T065800Z
+DTEND:20210913T065801Z
+TRANSP:TRANSPARENT
+SUMMARY:Taka Radjiman 2nd Anniversary
+DESCRIPTION:Taka Radjiman 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd8caf6-cc14-447e-8392-289dbd022022
+DTSTAMP:20250303T183151Z
+DTSTART:20220913T065800Z
+DTEND:20220913T065801Z
+TRANSP:TRANSPARENT
+SUMMARY:Taka Radjiman 3rd Anniversary
+DESCRIPTION:Taka Radjiman 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd8caf6-cc14-447e-8392-289dbd992023
+DTSTAMP:20250303T183151Z
+DTSTART:20230528
+DTEND:20230528
+TRANSP:TRANSPARENT
+SUMMARY:Taka Radjiman Graduation
+DESCRIPTION:Taka Radjiman Graduation\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

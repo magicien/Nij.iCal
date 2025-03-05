@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Hana Macchia
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882012020
+DTSTAMP:20250303T183201Z
+DTSTART:20200311
+DTEND:20200311
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia Birthday
+DESCRIPTION:Hana Macchia Birthday\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022019
+DTSTAMP:20250303T183201Z
+DTSTART:20190913T071100Z
+DTEND:20190913T074100Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia Debut
+DESCRIPTION:Hana Macchia Debut\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022020
+DTSTAMP:20250303T183201Z
+DTSTART:20200913T071100Z
+DTEND:20200913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 1st Anniversary
+DESCRIPTION:Hana Macchia 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022021
+DTSTAMP:20250303T183201Z
+DTSTART:20210913T071100Z
+DTEND:20210913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 2nd Anniversary
+DESCRIPTION:Hana Macchia 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022022
+DTSTAMP:20250303T183201Z
+DTSTART:20220913T071100Z
+DTEND:20220913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 3rd Anniversary
+DESCRIPTION:Hana Macchia 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022023
+DTSTAMP:20250303T183201Z
+DTSTART:20230913T071100Z
+DTEND:20230913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 4th Anniversary
+DESCRIPTION:Hana Macchia 4th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022024
+DTSTAMP:20250303T183201Z
+DTSTART:20240913T071100Z
+DTEND:20240913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 5th Anniversary
+DESCRIPTION:Hana Macchia 5th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022025
+DTSTAMP:20250303T183201Z
+DTSTART:20250913T071100Z
+DTEND:20250913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 6th Anniversary
+DESCRIPTION:Hana Macchia 6th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022026
+DTSTAMP:20250303T183201Z
+DTSTART:20260913T071100Z
+DTEND:20260913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 7th Anniversary
+DESCRIPTION:Hana Macchia 7th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022027
+DTSTAMP:20250303T183201Z
+DTSTART:20270913T071100Z
+DTEND:20270913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 8th Anniversary
+DESCRIPTION:Hana Macchia 8th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022028
+DTSTAMP:20250303T183201Z
+DTSTART:20280913T071100Z
+DTEND:20280913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 9th Anniversary
+DESCRIPTION:Hana Macchia 9th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022029
+DTSTAMP:20250303T183201Z
+DTSTART:20290913T071100Z
+DTEND:20290913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 10th Anniversary
+DESCRIPTION:Hana Macchia 10th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022030
+DTSTAMP:20250303T183201Z
+DTSTART:20300913T071100Z
+DTEND:20300913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 11th Anniversary
+DESCRIPTION:Hana Macchia 11th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022031
+DTSTAMP:20250303T183201Z
+DTSTART:20310913T071100Z
+DTEND:20310913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 12th Anniversary
+DESCRIPTION:Hana Macchia 12th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022032
+DTSTAMP:20250303T183201Z
+DTSTART:20320913T071100Z
+DTEND:20320913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 13th Anniversary
+DESCRIPTION:Hana Macchia 13th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022033
+DTSTAMP:20250303T183201Z
+DTSTART:20330913T071100Z
+DTEND:20330913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 14th Anniversary
+DESCRIPTION:Hana Macchia 14th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022034
+DTSTAMP:20250303T183201Z
+DTSTART:20340913T071100Z
+DTEND:20340913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 15th Anniversary
+DESCRIPTION:Hana Macchia 15th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb9e9a8-681b-417c-9a31-e13882022035
+DTSTAMP:20250303T183201Z
+DTSTART:20350913T071100Z
+DTEND:20350913T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Hana Macchia 16th Anniversary
+DESCRIPTION:Hana Macchia 16th Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Hana Macchia】\nYouTube: https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w\nX: https://twitter.com/Hana_Macchia\n\n
+URL:https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

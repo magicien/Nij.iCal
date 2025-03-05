@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Shellin Burgundy
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
+DTSTAMP:20250304T013659Z
+DTSTART:20250830T090000Z
+DTEND:20250830T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Kobe
+LOCATION:Kobe International House
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26012020
+DTSTAMP:20250303T182909Z
+DTSTART:20200106
+DTEND:20200106
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy Birthday
+DESCRIPTION:Shellin Burgundy Birthday\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022019
+DTSTAMP:20250303T182909Z
+DTSTART:20190919T070400Z
+DTEND:20190919T073400Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy Debut
+DESCRIPTION:Shellin Burgundy Debut\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022020
+DTSTAMP:20250303T182909Z
+DTSTART:20200919T070400Z
+DTEND:20200919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 1st Anniversary
+DESCRIPTION:Shellin Burgundy 1st Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022021
+DTSTAMP:20250303T182909Z
+DTSTART:20210919T070400Z
+DTEND:20210919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 2nd Anniversary
+DESCRIPTION:Shellin Burgundy 2nd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022022
+DTSTAMP:20250303T182909Z
+DTSTART:20220919T070400Z
+DTEND:20220919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 3rd Anniversary
+DESCRIPTION:Shellin Burgundy 3rd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022023
+DTSTAMP:20250303T182909Z
+DTSTART:20230919T070400Z
+DTEND:20230919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 4th Anniversary
+DESCRIPTION:Shellin Burgundy 4th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022024
+DTSTAMP:20250303T182909Z
+DTSTART:20240919T070400Z
+DTEND:20240919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 5th Anniversary
+DESCRIPTION:Shellin Burgundy 5th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022025
+DTSTAMP:20250303T182909Z
+DTSTART:20250919T070400Z
+DTEND:20250919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 6th Anniversary
+DESCRIPTION:Shellin Burgundy 6th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022026
+DTSTAMP:20250303T182909Z
+DTSTART:20260919T070400Z
+DTEND:20260919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 7th Anniversary
+DESCRIPTION:Shellin Burgundy 7th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022027
+DTSTAMP:20250303T182909Z
+DTSTART:20270919T070400Z
+DTEND:20270919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 8th Anniversary
+DESCRIPTION:Shellin Burgundy 8th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022028
+DTSTAMP:20250303T182909Z
+DTSTART:20280919T070400Z
+DTEND:20280919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 9th Anniversary
+DESCRIPTION:Shellin Burgundy 9th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022029
+DTSTAMP:20250303T182909Z
+DTSTART:20290919T070400Z
+DTEND:20290919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 10th Anniversary
+DESCRIPTION:Shellin Burgundy 10th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022030
+DTSTAMP:20250303T182909Z
+DTSTART:20300919T070400Z
+DTEND:20300919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 11th Anniversary
+DESCRIPTION:Shellin Burgundy 11th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022031
+DTSTAMP:20250303T182909Z
+DTSTART:20310919T070400Z
+DTEND:20310919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 12th Anniversary
+DESCRIPTION:Shellin Burgundy 12th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022032
+DTSTAMP:20250303T182909Z
+DTSTART:20320919T070400Z
+DTEND:20320919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 13th Anniversary
+DESCRIPTION:Shellin Burgundy 13th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022033
+DTSTAMP:20250303T182909Z
+DTSTART:20330919T070400Z
+DTEND:20330919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 14th Anniversary
+DESCRIPTION:Shellin Burgundy 14th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022034
+DTSTAMP:20250303T182909Z
+DTSTART:20340919T070400Z
+DTEND:20340919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 15th Anniversary
+DESCRIPTION:Shellin Burgundy 15th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:bb84c9c0-938c-4457-b492-999c26022035
+DTSTAMP:20250303T182909Z
+DTSTART:20350919T070400Z
+DTEND:20350919T070401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shellin Burgundy 16th Anniversary
+DESCRIPTION:Shellin Burgundy 16th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n
+URL:https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

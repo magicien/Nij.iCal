@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:童田明治
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:9377734b-8c37-43e1-9fdf-abd5df012019
+DTSTAMP:20250303T134259Z
+DTSTART:20190504
+DTEND:20190504
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:童田明治 誕生日
+DESCRIPTION:童田明治 誕生日\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
+END:VEVENT
+BEGIN:VEVENT
+UID:9377734b-8c37-43e1-9fdf-abd5df022019
+DTSTAMP:20250303T134259Z
+DTSTART:20190108T070200Z
+DTEND:20190108T073200Z
+TRANSP:TRANSPARENT
+SUMMARY:童田明治 活動開始
+DESCRIPTION:童田明治 活動開始\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
+END:VEVENT
+BEGIN:VEVENT
+UID:9377734b-8c37-43e1-9fdf-abd5df022020
+DTSTAMP:20250303T134259Z
+DTSTART:20200108T070200Z
+DTEND:20200108T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:童田明治 1周年
+DESCRIPTION:童田明治 1周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
+END:VEVENT
+BEGIN:VEVENT
+UID:9377734b-8c37-43e1-9fdf-abd5df022021
+DTSTAMP:20250303T134259Z
+DTSTART:20210108T070200Z
+DTEND:20210108T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:童田明治 2周年
+DESCRIPTION:童田明治 2周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
+END:VEVENT
+BEGIN:VEVENT
+UID:9377734b-8c37-43e1-9fdf-abd5df022022
+DTSTAMP:20250303T134259Z
+DTSTART:20220108T070200Z
+DTEND:20220108T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:童田明治 3周年
+DESCRIPTION:童田明治 3周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
+END:VEVENT
+BEGIN:VEVENT
+UID:9377734b-8c37-43e1-9fdf-abd5df992022
+DTSTAMP:20250303T134259Z
+DTSTART:20220430
+DTEND:20220430
+TRANSP:TRANSPARENT
+SUMMARY:童田明治 卒業
+DESCRIPTION:童田明治 卒業\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kyo Kaneko
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:257ec755-9fdf-4018-9d2c-df889a012022
+DTSTAMP:20250303T183907Z
+DTSTART:20221229
+DTEND:20221229
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kyo Kaneko Birthday
+DESCRIPTION:Kyo Kaneko Birthday\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
+END:VEVENT
+BEGIN:VEVENT
+UID:257ec755-9fdf-4018-9d2c-df889a022022
+DTSTAMP:20250303T183907Z
+DTSTART:20220720T000000Z
+DTEND:20220720T003000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kyo Kaneko Debut
+DESCRIPTION:Kyo Kaneko Debut\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
+END:VEVENT
+BEGIN:VEVENT
+UID:257ec755-9fdf-4018-9d2c-df889a022023
+DTSTAMP:20250303T183907Z
+DTSTART:20230720T000000Z
+DTEND:20230720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kyo Kaneko 1st Anniversary
+DESCRIPTION:Kyo Kaneko 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
+END:VEVENT
+BEGIN:VEVENT
+UID:257ec755-9fdf-4018-9d2c-df889a992024
+DTSTAMP:20250303T183907Z
+DTSTART:20240217
+DTEND:20240217
+TRANSP:TRANSPARENT
+SUMMARY:Kyo Kaneko Graduation
+DESCRIPTION:Kyo Kaneko Graduation\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

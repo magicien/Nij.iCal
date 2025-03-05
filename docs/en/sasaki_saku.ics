@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Sasaki Saku
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
+DTSTAMP:20250304T013705Z
+DTSTART:20260118T090000Z
+DTEND:20260118T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo
+LOCATION:TOYOTA ARENA TOKYO
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3012018
+DTSTAMP:20250303T184247Z
+DTSTART:20181111
+DTEND:20181111
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku Birthday
+DESCRIPTION:Sasaki Saku Birthday\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022018
+DTSTAMP:20250303T184247Z
+DTSTART:20180706T071600Z
+DTEND:20180706T074600Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku Debut
+DESCRIPTION:Sasaki Saku Debut\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022019
+DTSTAMP:20250303T184247Z
+DTSTART:20190706T071600Z
+DTEND:20190706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 1st Anniversary
+DESCRIPTION:Sasaki Saku 1st Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022020
+DTSTAMP:20250303T184247Z
+DTSTART:20200706T071600Z
+DTEND:20200706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 2nd Anniversary
+DESCRIPTION:Sasaki Saku 2nd Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022021
+DTSTAMP:20250303T184247Z
+DTSTART:20210706T071600Z
+DTEND:20210706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 3rd Anniversary
+DESCRIPTION:Sasaki Saku 3rd Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022022
+DTSTAMP:20250303T184247Z
+DTSTART:20220706T071600Z
+DTEND:20220706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 4th Anniversary
+DESCRIPTION:Sasaki Saku 4th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022023
+DTSTAMP:20250303T184247Z
+DTSTART:20230706T071600Z
+DTEND:20230706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 5th Anniversary
+DESCRIPTION:Sasaki Saku 5th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022024
+DTSTAMP:20250303T184247Z
+DTSTART:20240706T071600Z
+DTEND:20240706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 6th Anniversary
+DESCRIPTION:Sasaki Saku 6th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022025
+DTSTAMP:20250303T184247Z
+DTSTART:20250706T071600Z
+DTEND:20250706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 7th Anniversary
+DESCRIPTION:Sasaki Saku 7th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022026
+DTSTAMP:20250303T184247Z
+DTSTART:20260706T071600Z
+DTEND:20260706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 8th Anniversary
+DESCRIPTION:Sasaki Saku 8th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022027
+DTSTAMP:20250303T184247Z
+DTSTART:20270706T071600Z
+DTEND:20270706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 9th Anniversary
+DESCRIPTION:Sasaki Saku 9th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022028
+DTSTAMP:20250303T184247Z
+DTSTART:20280706T071600Z
+DTEND:20280706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 10th Anniversary
+DESCRIPTION:Sasaki Saku 10th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022029
+DTSTAMP:20250303T184247Z
+DTSTART:20290706T071600Z
+DTEND:20290706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 11th Anniversary
+DESCRIPTION:Sasaki Saku 11th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022030
+DTSTAMP:20250303T184247Z
+DTSTART:20300706T071600Z
+DTEND:20300706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 12th Anniversary
+DESCRIPTION:Sasaki Saku 12th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022031
+DTSTAMP:20250303T184247Z
+DTSTART:20310706T071600Z
+DTEND:20310706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 13th Anniversary
+DESCRIPTION:Sasaki Saku 13th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022032
+DTSTAMP:20250303T184247Z
+DTSTART:20320706T071600Z
+DTEND:20320706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 14th Anniversary
+DESCRIPTION:Sasaki Saku 14th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022033
+DTSTAMP:20250303T184247Z
+DTSTART:20330706T071600Z
+DTEND:20330706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 15th Anniversary
+DESCRIPTION:Sasaki Saku 15th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022034
+DTSTAMP:20250303T184247Z
+DTSTART:20340706T071600Z
+DTEND:20340706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 16th Anniversary
+DESCRIPTION:Sasaki Saku 16th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cd8b63-e940-432a-aebc-5884e3022035
+DTSTAMP:20250303T184247Z
+DTSTART:20350706T071600Z
+DTEND:20350706T071601Z
+TRANSP:TRANSPARENT
+SUMMARY:Sasaki Saku 17th Anniversary
+DESCRIPTION:Sasaki Saku 17th Anniversary\n\nFirst tweet: Jul 6, 2018, 16:07 (JST)\nFirst stream: Jul 12, 2018 (JST)\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n
+URL:https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

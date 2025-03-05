@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:バン ハダ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899012021
+DTSTAMP:20250303T183458Z
+DTSTART:20210830
+DTEND:20210830
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 誕生日
+DESCRIPTION:バン ハダ 誕生日\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022021
+DTSTAMP:20250303T183458Z
+DTSTART:20210423T075100Z
+DTEND:20210423T082100Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 活動開始
+DESCRIPTION:バン ハダ 活動開始\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022022
+DTSTAMP:20250303T183458Z
+DTSTART:20220423T075100Z
+DTEND:20220423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 1周年
+DESCRIPTION:バン ハダ 1周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022023
+DTSTAMP:20250303T183458Z
+DTSTART:20230423T075100Z
+DTEND:20230423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 2周年
+DESCRIPTION:バン ハダ 2周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022024
+DTSTAMP:20250303T183458Z
+DTSTART:20240423T075100Z
+DTEND:20240423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 3周年
+DESCRIPTION:バン ハダ 3周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022025
+DTSTAMP:20250303T183458Z
+DTSTART:20250423T075100Z
+DTEND:20250423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 4周年
+DESCRIPTION:バン ハダ 4周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022026
+DTSTAMP:20250303T183458Z
+DTSTART:20260423T075100Z
+DTEND:20260423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 5周年
+DESCRIPTION:バン ハダ 5周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022027
+DTSTAMP:20250303T183458Z
+DTSTART:20270423T075100Z
+DTEND:20270423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 6周年
+DESCRIPTION:バン ハダ 6周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022028
+DTSTAMP:20250303T183458Z
+DTSTART:20280423T075100Z
+DTEND:20280423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 7周年
+DESCRIPTION:バン ハダ 7周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022029
+DTSTAMP:20250303T183458Z
+DTSTART:20290423T075100Z
+DTEND:20290423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 8周年
+DESCRIPTION:バン ハダ 8周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022030
+DTSTAMP:20250303T183458Z
+DTSTART:20300423T075100Z
+DTEND:20300423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 9周年
+DESCRIPTION:バン ハダ 9周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022031
+DTSTAMP:20250303T183458Z
+DTSTART:20310423T075100Z
+DTEND:20310423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 10周年
+DESCRIPTION:バン ハダ 10周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022032
+DTSTAMP:20250303T183458Z
+DTSTART:20320423T075100Z
+DTEND:20320423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 11周年
+DESCRIPTION:バン ハダ 11周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022033
+DTSTAMP:20250303T183458Z
+DTSTART:20330423T075100Z
+DTEND:20330423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 12周年
+DESCRIPTION:バン ハダ 12周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022034
+DTSTAMP:20250303T183458Z
+DTSTART:20340423T075100Z
+DTEND:20340423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 13周年
+DESCRIPTION:バン ハダ 13周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:57d618c7-b834-4ebe-9dc1-638899022035
+DTSTAMP:20250303T183458Z
+DTSTART:20350423T075100Z
+DTEND:20350423T075101Z
+TRANSP:TRANSPARENT
+SUMMARY:バン ハダ 14周年
+DESCRIPTION:バン ハダ 14周年\n\n初ツイート：2021/04/23 16:51 （日本時間）\n初配信：2021/04/30 （日本時間）\n\n\n==========\n【バン ハダ】\nYouTube: https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A\nX: https://twitter.com/BanHada2434\n\n
+URL:https://www.youtube.com/channel/UCLjx3lqIkYkPCBJop8czJ2A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Watarai Hibari
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:727b81ad-7a6e-4f09-9f29-459af03f593d
+DTSTAMP:20250304T013649Z
+DTSTART:20250622T090000Z
+DTEND:20250622T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya
+LOCATION:Aichi Prefectural Art Theater
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb012022
+DTSTAMP:20250303T183136Z
+DTSTART:20220923
+DTEND:20220923
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari Birthday
+DESCRIPTION:Watarai Hibari Birthday\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022022
+DTSTAMP:20250303T183136Z
+DTSTART:20220712T150400Z
+DTEND:20220712T153400Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari Debut
+DESCRIPTION:Watarai Hibari Debut\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022023
+DTSTAMP:20250303T183136Z
+DTSTART:20230712T150400Z
+DTEND:20230712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 1st Anniversary
+DESCRIPTION:Watarai Hibari 1st Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022024
+DTSTAMP:20250303T183136Z
+DTSTART:20240712T150400Z
+DTEND:20240712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 2nd Anniversary
+DESCRIPTION:Watarai Hibari 2nd Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022025
+DTSTAMP:20250303T183136Z
+DTSTART:20250712T150400Z
+DTEND:20250712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 3rd Anniversary
+DESCRIPTION:Watarai Hibari 3rd Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022026
+DTSTAMP:20250303T183136Z
+DTSTART:20260712T150400Z
+DTEND:20260712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 4th Anniversary
+DESCRIPTION:Watarai Hibari 4th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022027
+DTSTAMP:20250303T183136Z
+DTSTART:20270712T150400Z
+DTEND:20270712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 5th Anniversary
+DESCRIPTION:Watarai Hibari 5th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022028
+DTSTAMP:20250303T183136Z
+DTSTART:20280712T150400Z
+DTEND:20280712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 6th Anniversary
+DESCRIPTION:Watarai Hibari 6th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022029
+DTSTAMP:20250303T183136Z
+DTSTART:20290712T150400Z
+DTEND:20290712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 7th Anniversary
+DESCRIPTION:Watarai Hibari 7th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022030
+DTSTAMP:20250303T183136Z
+DTSTART:20300712T150400Z
+DTEND:20300712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 8th Anniversary
+DESCRIPTION:Watarai Hibari 8th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022031
+DTSTAMP:20250303T183136Z
+DTSTART:20310712T150400Z
+DTEND:20310712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 9th Anniversary
+DESCRIPTION:Watarai Hibari 9th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022032
+DTSTAMP:20250303T183136Z
+DTSTART:20320712T150400Z
+DTEND:20320712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 10th Anniversary
+DESCRIPTION:Watarai Hibari 10th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022033
+DTSTAMP:20250303T183136Z
+DTSTART:20330712T150400Z
+DTEND:20330712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 11th Anniversary
+DESCRIPTION:Watarai Hibari 11th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022034
+DTSTAMP:20250303T183136Z
+DTSTART:20340712T150400Z
+DTEND:20340712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 12th Anniversary
+DESCRIPTION:Watarai Hibari 12th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:009872e6-d68f-47a6-bdfd-9196eb022035
+DTSTAMP:20250303T183136Z
+DTSTART:20350712T150400Z
+DTEND:20350712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Watarai Hibari 13th Anniversary
+DESCRIPTION:Watarai Hibari 13th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:07 (JST)\nFirst stream: Jul 16, 2022 (JST)\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n
+URL:https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

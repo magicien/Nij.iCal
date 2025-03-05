@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Umise Yotsuha
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5012022
+DTSTAMP:20250303T183132Z
+DTSTART:20220617
+DTEND:20220617
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha Birthday
+DESCRIPTION:Umise Yotsuha Birthday\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022022
+DTSTAMP:20250303T183132Z
+DTSTART:20220316T032700Z
+DTEND:20220316T035700Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha Debut
+DESCRIPTION:Umise Yotsuha Debut\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022023
+DTSTAMP:20250303T183132Z
+DTSTART:20230316T032700Z
+DTEND:20230316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 1st Anniversary
+DESCRIPTION:Umise Yotsuha 1st Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022024
+DTSTAMP:20250303T183132Z
+DTSTART:20240316T032700Z
+DTEND:20240316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 2nd Anniversary
+DESCRIPTION:Umise Yotsuha 2nd Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022025
+DTSTAMP:20250303T183132Z
+DTSTART:20250316T032700Z
+DTEND:20250316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 3rd Anniversary
+DESCRIPTION:Umise Yotsuha 3rd Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022026
+DTSTAMP:20250303T183132Z
+DTSTART:20260316T032700Z
+DTEND:20260316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 4th Anniversary
+DESCRIPTION:Umise Yotsuha 4th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022027
+DTSTAMP:20250303T183132Z
+DTSTART:20270316T032700Z
+DTEND:20270316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 5th Anniversary
+DESCRIPTION:Umise Yotsuha 5th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022028
+DTSTAMP:20250303T183132Z
+DTSTART:20280316T032700Z
+DTEND:20280316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 6th Anniversary
+DESCRIPTION:Umise Yotsuha 6th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022029
+DTSTAMP:20250303T183132Z
+DTSTART:20290316T032700Z
+DTEND:20290316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 7th Anniversary
+DESCRIPTION:Umise Yotsuha 7th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022030
+DTSTAMP:20250303T183132Z
+DTSTART:20300316T032700Z
+DTEND:20300316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 8th Anniversary
+DESCRIPTION:Umise Yotsuha 8th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022031
+DTSTAMP:20250303T183132Z
+DTSTART:20310316T032700Z
+DTEND:20310316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 9th Anniversary
+DESCRIPTION:Umise Yotsuha 9th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022032
+DTSTAMP:20250303T183132Z
+DTSTART:20320316T032700Z
+DTEND:20320316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 10th Anniversary
+DESCRIPTION:Umise Yotsuha 10th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022033
+DTSTAMP:20250303T183132Z
+DTSTART:20330316T032700Z
+DTEND:20330316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 11th Anniversary
+DESCRIPTION:Umise Yotsuha 11th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022034
+DTSTAMP:20250303T183132Z
+DTSTART:20340316T032700Z
+DTEND:20340316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 12th Anniversary
+DESCRIPTION:Umise Yotsuha 12th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:55e7b8b7-da20-4026-8932-f0f2b5022035
+DTSTAMP:20250303T183132Z
+DTSTART:20350316T032700Z
+DTEND:20350316T032701Z
+TRANSP:TRANSPARENT
+SUMMARY:Umise Yotsuha 13th Anniversary
+DESCRIPTION:Umise Yotsuha 13th Anniversary\n\nFirst tweet: Mar 16, 2022, 12:03 (JST)\nFirst stream: Mar 20, 2022 (JST)\n\n\n==========\n【Umise Yotsuha】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n
+URL:https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

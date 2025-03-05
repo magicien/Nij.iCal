@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Reza Avanluna
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7012020
+DTSTAMP:20250303T183327Z
+DTSTART:20200229
+DTEND:20200229
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Reza Avanluna Birthday
+DESCRIPTION:Reza Avanluna Birthday\n\n==========\n【Reza Avanluna】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7022020
+DTSTAMP:20250303T183327Z
+DTSTART:20201111T074000Z
+DTEND:20201111T081000Z
+TRANSP:TRANSPARENT
+SUMMARY:Reza Avanluna Debut
+DESCRIPTION:Reza Avanluna Debut\n\n==========\n【Reza Avanluna】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7022021
+DTSTAMP:20250303T183327Z
+DTSTART:20211111T074000Z
+DTEND:20211111T074001Z
+TRANSP:TRANSPARENT
+SUMMARY:Reza Avanluna 1st Anniversary
+DESCRIPTION:Reza Avanluna 1st Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Reza Avanluna】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7022022
+DTSTAMP:20250303T183327Z
+DTSTART:20221111T074000Z
+DTEND:20221111T074001Z
+TRANSP:TRANSPARENT
+SUMMARY:Reza Avanluna 2nd Anniversary
+DESCRIPTION:Reza Avanluna 2nd Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Reza Avanluna】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7992023
+DTSTAMP:20250303T183327Z
+DTSTART:20230930
+DTEND:20230930
+TRANSP:TRANSPARENT
+SUMMARY:Reza Avanluna Graduation
+DESCRIPTION:Reza Avanluna Graduation\n\n==========\n【Reza Avanluna】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

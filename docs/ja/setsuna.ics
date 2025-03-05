@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:雪汝
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532012018
+DTSTAMP:20250303T184300Z
+DTSTART:20181223
+DTEND:20181223
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:雪汝 誕生日
+DESCRIPTION:雪汝 誕生日\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532022018
+DTSTAMP:20250303T184300Z
+DTSTART:20180730T120600Z
+DTEND:20180730T123600Z
+TRANSP:TRANSPARENT
+SUMMARY:雪汝 活動開始
+DESCRIPTION:雪汝 活動開始\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532022019
+DTSTAMP:20250303T184300Z
+DTSTART:20190730T120600Z
+DTEND:20190730T120601Z
+TRANSP:TRANSPARENT
+SUMMARY:雪汝 1周年
+DESCRIPTION:雪汝 1周年\n\n初ツイート：2018/07/30 21:06 （日本時間）\n初配信：2018/08/30 （日本時間）\n\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:c57415fd-77bf-43e5-9023-bf0532992019
+DTSTAMP:20250303T184300Z
+DTSTART:20191030
+DTEND:20191030
+TRANSP:TRANSPARENT
+SUMMARY:雪汝 卒業
+DESCRIPTION:雪汝 卒業\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

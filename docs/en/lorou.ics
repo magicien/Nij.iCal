@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Lorou
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e15cbde4-e33f-4af4-a1f1-7f77d2012020
+DTSTAMP:20250303T183419Z
+DTSTART:20201206
+DTEND:20201206
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Lorou Birthday
+DESCRIPTION:Lorou Birthday\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
+END:VEVENT
+BEGIN:VEVENT
+UID:e15cbde4-e33f-4af4-a1f1-7f77d2022020
+DTSTAMP:20250303T183419Z
+DTSTART:20200125T133500Z
+DTEND:20200125T140500Z
+TRANSP:TRANSPARENT
+SUMMARY:Lorou Debut
+DESCRIPTION:Lorou Debut\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
+END:VEVENT
+BEGIN:VEVENT
+UID:e15cbde4-e33f-4af4-a1f1-7f77d2992020
+DTSTAMP:20250303T183419Z
+DTSTART:20200717
+DTEND:20200717
+TRANSP:TRANSPARENT
+SUMMARY:Lorou Graduation
+DESCRIPTION:Lorou Graduation\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

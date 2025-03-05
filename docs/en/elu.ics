@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Elu
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:40275588-0052-4ba0-a2f2-a11cce6671e8
+DTSTAMP:20250304T013652Z
+DTSTART:20250721T090000Z
+DTEND:20250721T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama
+LOCATION:K-Arena Yokohama
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513012019
+DTSTAMP:20250303T184228Z
+DTSTART:20190124
+DTEND:20190124
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Elu Birthday
+DESCRIPTION:Elu Birthday\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022018
+DTSTAMP:20250303T184228Z
+DTSTART:20180201T125100Z
+DTEND:20180201T132100Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu Debut
+DESCRIPTION:Elu Debut\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022019
+DTSTAMP:20250303T184228Z
+DTSTART:20190201T125100Z
+DTEND:20190201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 1st Anniversary
+DESCRIPTION:Elu 1st Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022020
+DTSTAMP:20250303T184228Z
+DTSTART:20200201T125100Z
+DTEND:20200201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 2nd Anniversary
+DESCRIPTION:Elu 2nd Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022021
+DTSTAMP:20250303T184228Z
+DTSTART:20210201T125100Z
+DTEND:20210201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 3rd Anniversary
+DESCRIPTION:Elu 3rd Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022022
+DTSTAMP:20250303T184228Z
+DTSTART:20220201T125100Z
+DTEND:20220201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 4th Anniversary
+DESCRIPTION:Elu 4th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022023
+DTSTAMP:20250303T184228Z
+DTSTART:20230201T125100Z
+DTEND:20230201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 5th Anniversary
+DESCRIPTION:Elu 5th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022024
+DTSTAMP:20250303T184228Z
+DTSTART:20240201T125100Z
+DTEND:20240201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 6th Anniversary
+DESCRIPTION:Elu 6th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022025
+DTSTAMP:20250303T184228Z
+DTSTART:20250201T125100Z
+DTEND:20250201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 7th Anniversary
+DESCRIPTION:Elu 7th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022026
+DTSTAMP:20250303T184228Z
+DTSTART:20260201T125100Z
+DTEND:20260201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 8th Anniversary
+DESCRIPTION:Elu 8th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022027
+DTSTAMP:20250303T184228Z
+DTSTART:20270201T125100Z
+DTEND:20270201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 9th Anniversary
+DESCRIPTION:Elu 9th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022028
+DTSTAMP:20250303T184228Z
+DTSTART:20280201T125100Z
+DTEND:20280201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 10th Anniversary
+DESCRIPTION:Elu 10th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022029
+DTSTAMP:20250303T184228Z
+DTSTART:20290201T125100Z
+DTEND:20290201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 11th Anniversary
+DESCRIPTION:Elu 11th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022030
+DTSTAMP:20250303T184228Z
+DTSTART:20300201T125100Z
+DTEND:20300201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 12th Anniversary
+DESCRIPTION:Elu 12th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022031
+DTSTAMP:20250303T184228Z
+DTSTART:20310201T125100Z
+DTEND:20310201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 13th Anniversary
+DESCRIPTION:Elu 13th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022032
+DTSTAMP:20250303T184228Z
+DTSTART:20320201T125100Z
+DTEND:20320201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 14th Anniversary
+DESCRIPTION:Elu 14th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022033
+DTSTAMP:20250303T184228Z
+DTSTART:20330201T125100Z
+DTEND:20330201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 15th Anniversary
+DESCRIPTION:Elu 15th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022034
+DTSTAMP:20250303T184228Z
+DTSTART:20340201T125100Z
+DTEND:20340201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 16th Anniversary
+DESCRIPTION:Elu 16th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:c65f87f4-ce7e-456b-b229-dce513022035
+DTSTAMP:20250303T184228Z
+DTSTART:20350201T125100Z
+DTEND:20350201T125101Z
+TRANSP:TRANSPARENT
+SUMMARY:Elu 17th Anniversary
+DESCRIPTION:Elu 17th Anniversary\n\nFirst tweet: Feb 1, 2018, 21:02 (JST)\nFirst stream: Feb 9, 2018 (JST)\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

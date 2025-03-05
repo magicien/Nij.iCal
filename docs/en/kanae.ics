@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kanae
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:e04bb9ca-7055-4b89-95af-c1177ff13925
+DTSTAMP:20250304T014151Z
+DTSTART:20241129T120000Z
+DTEND:20241129T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Taipei
+LOCATION:Zepp New Taipei
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_514\n\nOpening part streaming for free\nhttps://www.youtube.com/live/OXZGx7Npxk8\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
+URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ff42d3-eb2e-4033-af59-9063f379f809
+DTSTAMP:20250304T022928Z
+DTSTART:20250519T090000Z
+DTEND:20250519T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:ChroNoiR Does Something at Budokan
+LOCATION:Nippon Budokan
+DESCRIPTION:Article of the event\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+URL:https://www.nijisanji.jp/news/037_t8f6sg
+END:VEVENT
+BEGIN:VEVENT
+UID:40275588-0052-4ba0-a2f2-a11cce6671e8
+DTSTAMP:20250304T013652Z
+DTSTART:20250721T090000Z
+DTEND:20250721T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama
+LOCATION:K-Arena Yokohama
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464012018
+DTSTAMP:20250303T184246Z
+DTSTART:20180707
+DTEND:20180707
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kanae Birthday
+DESCRIPTION:Kanae Birthday\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022018
+DTSTAMP:20250303T184246Z
+DTSTART:20180502T020000Z
+DTEND:20180502T023000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae Debut
+DESCRIPTION:Kanae Debut\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022019
+DTSTAMP:20250303T184246Z
+DTSTART:20190502T020000Z
+DTEND:20190502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 1st Anniversary
+DESCRIPTION:Kanae 1st Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022020
+DTSTAMP:20250303T184246Z
+DTSTART:20200502T020000Z
+DTEND:20200502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 2nd Anniversary
+DESCRIPTION:Kanae 2nd Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022021
+DTSTAMP:20250303T184246Z
+DTSTART:20210502T020000Z
+DTEND:20210502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 3rd Anniversary
+DESCRIPTION:Kanae 3rd Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022022
+DTSTAMP:20250303T184246Z
+DTSTART:20220502T020000Z
+DTEND:20220502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 4th Anniversary
+DESCRIPTION:Kanae 4th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022023
+DTSTAMP:20250303T184246Z
+DTSTART:20230502T020000Z
+DTEND:20230502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 5th Anniversary
+DESCRIPTION:Kanae 5th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022024
+DTSTAMP:20250303T184246Z
+DTSTART:20240502T020000Z
+DTEND:20240502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 6th Anniversary
+DESCRIPTION:Kanae 6th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022025
+DTSTAMP:20250303T184246Z
+DTSTART:20250502T020000Z
+DTEND:20250502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 7th Anniversary
+DESCRIPTION:Kanae 7th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022026
+DTSTAMP:20250303T184246Z
+DTSTART:20260502T020000Z
+DTEND:20260502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 8th Anniversary
+DESCRIPTION:Kanae 8th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022027
+DTSTAMP:20250303T184246Z
+DTSTART:20270502T020000Z
+DTEND:20270502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 9th Anniversary
+DESCRIPTION:Kanae 9th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022028
+DTSTAMP:20250303T184246Z
+DTSTART:20280502T020000Z
+DTEND:20280502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 10th Anniversary
+DESCRIPTION:Kanae 10th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022029
+DTSTAMP:20250303T184246Z
+DTSTART:20290502T020000Z
+DTEND:20290502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 11th Anniversary
+DESCRIPTION:Kanae 11th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022030
+DTSTAMP:20250303T184246Z
+DTSTART:20300502T020000Z
+DTEND:20300502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 12th Anniversary
+DESCRIPTION:Kanae 12th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022031
+DTSTAMP:20250303T184246Z
+DTSTART:20310502T020000Z
+DTEND:20310502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 13th Anniversary
+DESCRIPTION:Kanae 13th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022032
+DTSTAMP:20250303T184246Z
+DTSTART:20320502T020000Z
+DTEND:20320502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 14th Anniversary
+DESCRIPTION:Kanae 14th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022033
+DTSTAMP:20250303T184246Z
+DTSTART:20330502T020000Z
+DTEND:20330502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 15th Anniversary
+DESCRIPTION:Kanae 15th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022034
+DTSTAMP:20250303T184246Z
+DTSTART:20340502T020000Z
+DTEND:20340502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 16th Anniversary
+DESCRIPTION:Kanae 16th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb25f7-12cd-44e5-868a-a77464022035
+DTSTAMP:20250303T184246Z
+DTSTART:20350502T020000Z
+DTEND:20350502T020001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 17th Anniversary
+DESCRIPTION:Kanae 17th Anniversary\n\nFirst tweet: May 2, 2018, 11:05 (JST)\nFirst stream: May 12, 2018 (JST)\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+URL:https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Yu Q. Wilson
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3012023
+DTSTAMP:20250303T183945Z
+DTSTART:20230904
+DTEND:20230904
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson Birthday
+DESCRIPTION:Yu Q. Wilson Birthday\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022023
+DTSTAMP:20250303T183945Z
+DTSTART:20230622T000300Z
+DTEND:20230622T003300Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson Debut
+DESCRIPTION:Yu Q. Wilson Debut\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022024
+DTSTAMP:20250303T183945Z
+DTSTART:20240622T000300Z
+DTEND:20240622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 1st Anniversary
+DESCRIPTION:Yu Q. Wilson 1st Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022025
+DTSTAMP:20250303T183945Z
+DTSTART:20250622T000300Z
+DTEND:20250622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 2nd Anniversary
+DESCRIPTION:Yu Q. Wilson 2nd Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022026
+DTSTAMP:20250303T183945Z
+DTSTART:20260622T000300Z
+DTEND:20260622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 3rd Anniversary
+DESCRIPTION:Yu Q. Wilson 3rd Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022027
+DTSTAMP:20250303T183945Z
+DTSTART:20270622T000300Z
+DTEND:20270622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 4th Anniversary
+DESCRIPTION:Yu Q. Wilson 4th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022028
+DTSTAMP:20250303T183945Z
+DTSTART:20280622T000300Z
+DTEND:20280622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 5th Anniversary
+DESCRIPTION:Yu Q. Wilson 5th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022029
+DTSTAMP:20250303T183945Z
+DTSTART:20290622T000300Z
+DTEND:20290622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 6th Anniversary
+DESCRIPTION:Yu Q. Wilson 6th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022030
+DTSTAMP:20250303T183945Z
+DTSTART:20300622T000300Z
+DTEND:20300622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 7th Anniversary
+DESCRIPTION:Yu Q. Wilson 7th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022031
+DTSTAMP:20250303T183945Z
+DTSTART:20310622T000300Z
+DTEND:20310622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 8th Anniversary
+DESCRIPTION:Yu Q. Wilson 8th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022032
+DTSTAMP:20250303T183945Z
+DTSTART:20320622T000300Z
+DTEND:20320622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 9th Anniversary
+DESCRIPTION:Yu Q. Wilson 9th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022033
+DTSTAMP:20250303T183945Z
+DTSTART:20330622T000300Z
+DTEND:20330622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 10th Anniversary
+DESCRIPTION:Yu Q. Wilson 10th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022034
+DTSTAMP:20250303T183945Z
+DTSTART:20340622T000300Z
+DTEND:20340622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 11th Anniversary
+DESCRIPTION:Yu Q. Wilson 11th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3022035
+DTSTAMP:20250303T183945Z
+DTSTART:20350622T000300Z
+DTEND:20350622T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Yu Q. Wilson 12th Anniversary
+DESCRIPTION:Yu Q. Wilson 12th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:06 (JST)\nFirst stream: Jun 25, 2023 (JST)\n\n\n==========\n【Yu Q. Wilson】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

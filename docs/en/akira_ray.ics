@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Akira Ray
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c012021
+DTSTAMP:20250303T183443Z
+DTSTART:20210508
+DTEND:20210508
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray Birthday
+DESCRIPTION:Akira Ray Birthday\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022020
+DTSTAMP:20250303T183443Z
+DTSTART:20200731T101000Z
+DTEND:20200731T104000Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray Debut
+DESCRIPTION:Akira Ray Debut\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022021
+DTSTAMP:20250303T183443Z
+DTSTART:20210731T101000Z
+DTEND:20210731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 1st Anniversary
+DESCRIPTION:Akira Ray 1st Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022022
+DTSTAMP:20250303T183443Z
+DTSTART:20220731T101000Z
+DTEND:20220731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 2nd Anniversary
+DESCRIPTION:Akira Ray 2nd Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022023
+DTSTAMP:20250303T183443Z
+DTSTART:20230731T101000Z
+DTEND:20230731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 3rd Anniversary
+DESCRIPTION:Akira Ray 3rd Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022024
+DTSTAMP:20250303T183443Z
+DTSTART:20240731T101000Z
+DTEND:20240731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 4th Anniversary
+DESCRIPTION:Akira Ray 4th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022025
+DTSTAMP:20250303T183443Z
+DTSTART:20250731T101000Z
+DTEND:20250731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 5th Anniversary
+DESCRIPTION:Akira Ray 5th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022026
+DTSTAMP:20250303T183443Z
+DTSTART:20260731T101000Z
+DTEND:20260731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 6th Anniversary
+DESCRIPTION:Akira Ray 6th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022027
+DTSTAMP:20250303T183443Z
+DTSTART:20270731T101000Z
+DTEND:20270731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 7th Anniversary
+DESCRIPTION:Akira Ray 7th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022028
+DTSTAMP:20250303T183443Z
+DTSTART:20280731T101000Z
+DTEND:20280731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 8th Anniversary
+DESCRIPTION:Akira Ray 8th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022029
+DTSTAMP:20250303T183443Z
+DTSTART:20290731T101000Z
+DTEND:20290731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 9th Anniversary
+DESCRIPTION:Akira Ray 9th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022030
+DTSTAMP:20250303T183443Z
+DTSTART:20300731T101000Z
+DTEND:20300731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 10th Anniversary
+DESCRIPTION:Akira Ray 10th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022031
+DTSTAMP:20250303T183443Z
+DTSTART:20310731T101000Z
+DTEND:20310731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 11th Anniversary
+DESCRIPTION:Akira Ray 11th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022032
+DTSTAMP:20250303T183443Z
+DTSTART:20320731T101000Z
+DTEND:20320731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 12th Anniversary
+DESCRIPTION:Akira Ray 12th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022033
+DTSTAMP:20250303T183443Z
+DTSTART:20330731T101000Z
+DTEND:20330731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 13th Anniversary
+DESCRIPTION:Akira Ray 13th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022034
+DTSTAMP:20250303T183443Z
+DTSTART:20340731T101000Z
+DTEND:20340731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 14th Anniversary
+DESCRIPTION:Akira Ray 14th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c022035
+DTSTAMP:20250303T183443Z
+DTSTART:20350731T101000Z
+DTEND:20350731T101001Z
+TRANSP:TRANSPARENT
+SUMMARY:Akira Ray 15th Anniversary
+DESCRIPTION:Akira Ray 15th Anniversary\n\nFirst tweet: Jul 31, 2020, 19:07 (JST)\nFirst stream: Aug 7, 2020 (JST)\n\n\n==========\n【Akira Ray】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

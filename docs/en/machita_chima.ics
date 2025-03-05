@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Machita Chima
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:3cb37e73-63bb-4db7-87b3-7d2abf9393a8
+DTSTAMP:20250304T013623Z
+DTSTART:20250308T043000Z
+DTEND:20250308T063000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nornis Orchestra Live「Concerto di luce」Daytime
+LOCATION:Omiya Sonic City Hall - Large Hall
+DESCRIPTION:Special Site\nhttps://www.nornis.com/event/orchestralive_concertodiluce/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/QiGCs8REba\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_567\n\nOn-location Reporting\nhttps://live.nicovideo.jp/watch/lv346893846\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv346723913\n\n【Inui Toko Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv346723928\n\n【Machita Chima Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv346723957\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n
+URL:https://www.nornis.com/event/orchestralive_concertodiluce/
+END:VEVENT
+BEGIN:VEVENT
+UID:153e2a4f-94d2-4e3f-9ee2-04f4ab99277e
+DTSTAMP:20250304T013631Z
+DTSTART:20250308T100000Z
+DTEND:20250308T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nornis Orchestra Live「Concerto di luce」Nighttime
+LOCATION:Omiya Sonic City Hall - Large Hall
+DESCRIPTION:Special Site\nhttps://www.nornis.com/event/orchestralive_concertodiluce/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/QiGCs8REba\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_567\n\nOn-location Reporting\nhttps://live.nicovideo.jp/watch/lv346893846\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv346724057\n\n【Inui Toko Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv346724070\n\n【Machita Chima Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv346724084\n\nPost-Live Discussion\nhttps://live.nicovideo.jp/watch/lv346947557\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n
+URL:https://www.nornis.com/event/orchestralive_concertodiluce/
+END:VEVENT
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba012019
+DTSTAMP:20250303T182720Z
+DTSTART:20190805
+DTEND:20190805
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima Birthday
+DESCRIPTION:Machita Chima Birthday\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022018
+DTSTAMP:20250303T182720Z
+DTSTART:20180831T102400Z
+DTEND:20180831T105400Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima Debut
+DESCRIPTION:Machita Chima Debut\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022019
+DTSTAMP:20250303T182720Z
+DTSTART:20190831T102400Z
+DTEND:20190831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 1st Anniversary
+DESCRIPTION:Machita Chima 1st Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022020
+DTSTAMP:20250303T182720Z
+DTSTART:20200831T102400Z
+DTEND:20200831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 2nd Anniversary
+DESCRIPTION:Machita Chima 2nd Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022021
+DTSTAMP:20250303T182720Z
+DTSTART:20210831T102400Z
+DTEND:20210831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 3rd Anniversary
+DESCRIPTION:Machita Chima 3rd Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022022
+DTSTAMP:20250303T182720Z
+DTSTART:20220831T102400Z
+DTEND:20220831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 4th Anniversary
+DESCRIPTION:Machita Chima 4th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022023
+DTSTAMP:20250303T182720Z
+DTSTART:20230831T102400Z
+DTEND:20230831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 5th Anniversary
+DESCRIPTION:Machita Chima 5th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022024
+DTSTAMP:20250303T182720Z
+DTSTART:20240831T102400Z
+DTEND:20240831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 6th Anniversary
+DESCRIPTION:Machita Chima 6th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022025
+DTSTAMP:20250303T182720Z
+DTSTART:20250831T102400Z
+DTEND:20250831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 7th Anniversary
+DESCRIPTION:Machita Chima 7th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022026
+DTSTAMP:20250303T182720Z
+DTSTART:20260831T102400Z
+DTEND:20260831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 8th Anniversary
+DESCRIPTION:Machita Chima 8th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022027
+DTSTAMP:20250303T182720Z
+DTSTART:20270831T102400Z
+DTEND:20270831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 9th Anniversary
+DESCRIPTION:Machita Chima 9th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022028
+DTSTAMP:20250303T182720Z
+DTSTART:20280831T102400Z
+DTEND:20280831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 10th Anniversary
+DESCRIPTION:Machita Chima 10th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022029
+DTSTAMP:20250303T182720Z
+DTSTART:20290831T102400Z
+DTEND:20290831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 11th Anniversary
+DESCRIPTION:Machita Chima 11th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022030
+DTSTAMP:20250303T182720Z
+DTSTART:20300831T102400Z
+DTEND:20300831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 12th Anniversary
+DESCRIPTION:Machita Chima 12th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022031
+DTSTAMP:20250303T182720Z
+DTSTART:20310831T102400Z
+DTEND:20310831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 13th Anniversary
+DESCRIPTION:Machita Chima 13th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022032
+DTSTAMP:20250303T182720Z
+DTSTART:20320831T102400Z
+DTEND:20320831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 14th Anniversary
+DESCRIPTION:Machita Chima 14th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022033
+DTSTAMP:20250303T182720Z
+DTSTART:20330831T102400Z
+DTEND:20330831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 15th Anniversary
+DESCRIPTION:Machita Chima 15th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022034
+DTSTAMP:20250303T182720Z
+DTSTART:20340831T102400Z
+DTEND:20340831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 16th Anniversary
+DESCRIPTION:Machita Chima 16th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba022035
+DTSTAMP:20250303T182720Z
+DTSTART:20350831T102400Z
+DTEND:20350831T102401Z
+TRANSP:TRANSPARENT
+SUMMARY:Machita Chima 17th Anniversary
+DESCRIPTION:Machita Chima 17th Anniversary\n\nFirst tweet: Aug 31, 2018, 19:08 (JST)\nFirst stream: Sep 3, 2018 (JST)\n\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

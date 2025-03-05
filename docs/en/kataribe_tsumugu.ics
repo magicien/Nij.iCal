@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kataribe Tsumugu
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e012019
+DTSTAMP:20250303T182816Z
+DTSTART:20190815
+DTEND:20190815
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu Birthday
+DESCRIPTION:Kataribe Tsumugu Birthday\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022019
+DTSTAMP:20250303T182816Z
+DTSTART:20190128T100200Z
+DTEND:20190128T103200Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu Debut
+DESCRIPTION:Kataribe Tsumugu Debut\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022020
+DTSTAMP:20250303T182816Z
+DTSTART:20200128T100200Z
+DTEND:20200128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 1st Anniversary
+DESCRIPTION:Kataribe Tsumugu 1st Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022021
+DTSTAMP:20250303T182816Z
+DTSTART:20210128T100200Z
+DTEND:20210128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 2nd Anniversary
+DESCRIPTION:Kataribe Tsumugu 2nd Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022022
+DTSTAMP:20250303T182816Z
+DTSTART:20220128T100200Z
+DTEND:20220128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 3rd Anniversary
+DESCRIPTION:Kataribe Tsumugu 3rd Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022023
+DTSTAMP:20250303T182816Z
+DTSTART:20230128T100200Z
+DTEND:20230128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 4th Anniversary
+DESCRIPTION:Kataribe Tsumugu 4th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022024
+DTSTAMP:20250303T182816Z
+DTSTART:20240128T100200Z
+DTEND:20240128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 5th Anniversary
+DESCRIPTION:Kataribe Tsumugu 5th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022025
+DTSTAMP:20250303T182816Z
+DTSTART:20250128T100200Z
+DTEND:20250128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 6th Anniversary
+DESCRIPTION:Kataribe Tsumugu 6th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022026
+DTSTAMP:20250303T182816Z
+DTSTART:20260128T100200Z
+DTEND:20260128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 7th Anniversary
+DESCRIPTION:Kataribe Tsumugu 7th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022027
+DTSTAMP:20250303T182816Z
+DTSTART:20270128T100200Z
+DTEND:20270128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 8th Anniversary
+DESCRIPTION:Kataribe Tsumugu 8th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022028
+DTSTAMP:20250303T182816Z
+DTSTART:20280128T100200Z
+DTEND:20280128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 9th Anniversary
+DESCRIPTION:Kataribe Tsumugu 9th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022029
+DTSTAMP:20250303T182816Z
+DTSTART:20290128T100200Z
+DTEND:20290128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 10th Anniversary
+DESCRIPTION:Kataribe Tsumugu 10th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022030
+DTSTAMP:20250303T182816Z
+DTSTART:20300128T100200Z
+DTEND:20300128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 11th Anniversary
+DESCRIPTION:Kataribe Tsumugu 11th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022031
+DTSTAMP:20250303T182816Z
+DTSTART:20310128T100200Z
+DTEND:20310128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 12th Anniversary
+DESCRIPTION:Kataribe Tsumugu 12th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022032
+DTSTAMP:20250303T182816Z
+DTSTART:20320128T100200Z
+DTEND:20320128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 13th Anniversary
+DESCRIPTION:Kataribe Tsumugu 13th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022033
+DTSTAMP:20250303T182816Z
+DTSTART:20330128T100200Z
+DTEND:20330128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 14th Anniversary
+DESCRIPTION:Kataribe Tsumugu 14th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022034
+DTSTAMP:20250303T182816Z
+DTSTART:20340128T100200Z
+DTEND:20340128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 15th Anniversary
+DESCRIPTION:Kataribe Tsumugu 15th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:9171372c-c5ab-48e3-bcb1-17274e022035
+DTSTAMP:20250303T182816Z
+DTSTART:20350128T100200Z
+DTEND:20350128T100201Z
+TRANSP:TRANSPARENT
+SUMMARY:Kataribe Tsumugu 16th Anniversary
+DESCRIPTION:Kataribe Tsumugu 16th Anniversary\n\nFirst tweet: Jan 28, 2019, 19:01 (JST)\nFirst stream: Jan 30, 2019 (JST)\n\n\n==========\n【Kataribe Tsumugu】\nYouTube: https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ\nX: https://twitter.com/KataribeTsumugu\n\n
+URL:https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

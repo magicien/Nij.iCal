@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:渚トラウト
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e012025
+DTSTAMP:20250303T183553Z
+DTSTART:20250715
+DTEND:20250715
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 誕生日
+DESCRIPTION:渚トラウト 誕生日\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022024
+DTSTAMP:20250303T183553Z
+DTSTART:20240813T090500Z
+DTEND:20240813T093500Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 活動開始
+DESCRIPTION:渚トラウト 活動開始\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022025
+DTSTAMP:20250303T183553Z
+DTSTART:20250813T090500Z
+DTEND:20250813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 1周年
+DESCRIPTION:渚トラウト 1周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022026
+DTSTAMP:20250303T183553Z
+DTSTART:20260813T090500Z
+DTEND:20260813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 2周年
+DESCRIPTION:渚トラウト 2周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022027
+DTSTAMP:20250303T183553Z
+DTSTART:20270813T090500Z
+DTEND:20270813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 3周年
+DESCRIPTION:渚トラウト 3周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022028
+DTSTAMP:20250303T183553Z
+DTSTART:20280813T090500Z
+DTEND:20280813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 4周年
+DESCRIPTION:渚トラウト 4周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022029
+DTSTAMP:20250303T183553Z
+DTSTART:20290813T090500Z
+DTEND:20290813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 5周年
+DESCRIPTION:渚トラウト 5周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022030
+DTSTAMP:20250303T183553Z
+DTSTART:20300813T090500Z
+DTEND:20300813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 6周年
+DESCRIPTION:渚トラウト 6周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022031
+DTSTAMP:20250303T183553Z
+DTSTART:20310813T090500Z
+DTEND:20310813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 7周年
+DESCRIPTION:渚トラウト 7周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022032
+DTSTAMP:20250303T183553Z
+DTSTART:20320813T090500Z
+DTEND:20320813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 8周年
+DESCRIPTION:渚トラウト 8周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022033
+DTSTAMP:20250303T183553Z
+DTSTART:20330813T090500Z
+DTEND:20330813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 9周年
+DESCRIPTION:渚トラウト 9周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022034
+DTSTAMP:20250303T183553Z
+DTSTART:20340813T090500Z
+DTEND:20340813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 10周年
+DESCRIPTION:渚トラウト 10周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e022035
+DTSTAMP:20250303T183553Z
+DTSTART:20350813T090500Z
+DTEND:20350813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 11周年
+DESCRIPTION:渚トラウト 11周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

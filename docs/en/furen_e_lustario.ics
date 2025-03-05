@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Furen E Lustario
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ee24af-8fec-45c0-8695-14171d44bfc5
+DTSTAMP:20250304T013647Z
+DTSTART:20250510T090000Z
+DTEND:20250510T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai
+LOCATION:Sendai Sunplaza Hall
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41012020
+DTSTAMP:20250303T182926Z
+DTSTART:20200310
+DTEND:20200310
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario Birthday
+DESCRIPTION:Furen E Lustario Birthday\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022020
+DTSTAMP:20250303T182926Z
+DTSTART:20200130T082800Z
+DTEND:20200130T085800Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario Debut
+DESCRIPTION:Furen E Lustario Debut\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022021
+DTSTAMP:20250303T182926Z
+DTSTART:20210130T082800Z
+DTEND:20210130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 1st Anniversary
+DESCRIPTION:Furen E Lustario 1st Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022022
+DTSTAMP:20250303T182926Z
+DTSTART:20220130T082800Z
+DTEND:20220130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 2nd Anniversary
+DESCRIPTION:Furen E Lustario 2nd Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022023
+DTSTAMP:20250303T182926Z
+DTSTART:20230130T082800Z
+DTEND:20230130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 3rd Anniversary
+DESCRIPTION:Furen E Lustario 3rd Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022024
+DTSTAMP:20250303T182926Z
+DTSTART:20240130T082800Z
+DTEND:20240130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 4th Anniversary
+DESCRIPTION:Furen E Lustario 4th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022025
+DTSTAMP:20250303T182926Z
+DTSTART:20250130T082800Z
+DTEND:20250130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 5th Anniversary
+DESCRIPTION:Furen E Lustario 5th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022026
+DTSTAMP:20250303T182926Z
+DTSTART:20260130T082800Z
+DTEND:20260130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 6th Anniversary
+DESCRIPTION:Furen E Lustario 6th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022027
+DTSTAMP:20250303T182926Z
+DTSTART:20270130T082800Z
+DTEND:20270130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 7th Anniversary
+DESCRIPTION:Furen E Lustario 7th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022028
+DTSTAMP:20250303T182926Z
+DTSTART:20280130T082800Z
+DTEND:20280130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 8th Anniversary
+DESCRIPTION:Furen E Lustario 8th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022029
+DTSTAMP:20250303T182926Z
+DTSTART:20290130T082800Z
+DTEND:20290130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 9th Anniversary
+DESCRIPTION:Furen E Lustario 9th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022030
+DTSTAMP:20250303T182926Z
+DTSTART:20300130T082800Z
+DTEND:20300130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 10th Anniversary
+DESCRIPTION:Furen E Lustario 10th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022031
+DTSTAMP:20250303T182926Z
+DTSTART:20310130T082800Z
+DTEND:20310130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 11th Anniversary
+DESCRIPTION:Furen E Lustario 11th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022032
+DTSTAMP:20250303T182926Z
+DTSTART:20320130T082800Z
+DTEND:20320130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 12th Anniversary
+DESCRIPTION:Furen E Lustario 12th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022033
+DTSTAMP:20250303T182926Z
+DTSTART:20330130T082800Z
+DTEND:20330130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 13th Anniversary
+DESCRIPTION:Furen E Lustario 13th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022034
+DTSTAMP:20250303T182926Z
+DTSTART:20340130T082800Z
+DTEND:20340130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 14th Anniversary
+DESCRIPTION:Furen E Lustario 14th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:a354d803-8ef8-4ca2-9e0a-b95d41022035
+DTSTAMP:20250303T182926Z
+DTSTART:20350130T082800Z
+DTEND:20350130T082801Z
+TRANSP:TRANSPARENT
+SUMMARY:Furen E Lustario 15th Anniversary
+DESCRIPTION:Furen E Lustario 15th Anniversary\n\nFirst tweet: Jan 30, 2020, 17:01 (JST)\nFirst stream: Feb 1, 2020 (JST)\n\n\n==========\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

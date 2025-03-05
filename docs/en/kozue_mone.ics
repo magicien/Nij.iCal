@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kozue Mone
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026012025
+DTSTAMP:20250303T183541Z
+DTSTART:20250328
+DTEND:20250328
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone Birthday
+DESCRIPTION:Kozue Mone Birthday\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022024
+DTSTAMP:20250303T183541Z
+DTSTART:20240619T090500Z
+DTEND:20240619T093500Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone Debut
+DESCRIPTION:Kozue Mone Debut\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022025
+DTSTAMP:20250303T183541Z
+DTSTART:20250619T090500Z
+DTEND:20250619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 1st Anniversary
+DESCRIPTION:Kozue Mone 1st Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022026
+DTSTAMP:20250303T183541Z
+DTSTART:20260619T090500Z
+DTEND:20260619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 2nd Anniversary
+DESCRIPTION:Kozue Mone 2nd Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022027
+DTSTAMP:20250303T183541Z
+DTSTART:20270619T090500Z
+DTEND:20270619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 3rd Anniversary
+DESCRIPTION:Kozue Mone 3rd Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022028
+DTSTAMP:20250303T183541Z
+DTSTART:20280619T090500Z
+DTEND:20280619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 4th Anniversary
+DESCRIPTION:Kozue Mone 4th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022029
+DTSTAMP:20250303T183541Z
+DTSTART:20290619T090500Z
+DTEND:20290619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 5th Anniversary
+DESCRIPTION:Kozue Mone 5th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022030
+DTSTAMP:20250303T183541Z
+DTSTART:20300619T090500Z
+DTEND:20300619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 6th Anniversary
+DESCRIPTION:Kozue Mone 6th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022031
+DTSTAMP:20250303T183541Z
+DTSTART:20310619T090500Z
+DTEND:20310619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 7th Anniversary
+DESCRIPTION:Kozue Mone 7th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022032
+DTSTAMP:20250303T183541Z
+DTSTART:20320619T090500Z
+DTEND:20320619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 8th Anniversary
+DESCRIPTION:Kozue Mone 8th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022033
+DTSTAMP:20250303T183541Z
+DTSTART:20330619T090500Z
+DTEND:20330619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 9th Anniversary
+DESCRIPTION:Kozue Mone 9th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022034
+DTSTAMP:20250303T183541Z
+DTSTART:20340619T090500Z
+DTEND:20340619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 10th Anniversary
+DESCRIPTION:Kozue Mone 10th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:181ae2e9-48e1-4094-a4eb-983026022035
+DTSTAMP:20250303T183541Z
+DTSTART:20350619T090500Z
+DTEND:20350619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kozue Mone 11th Anniversary
+DESCRIPTION:Kozue Mone 11th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Kozue Mone】\nYouTube: https://www.youtube.com/@KozueMone\nX: https://twitter.com/KozueMone\n\n
+URL:https://www.youtube.com/@KozueMone
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

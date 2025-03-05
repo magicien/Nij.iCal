@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:フミ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6012020
+DTSTAMP:20250303T182910Z
+DTSTART:20201010
+DTEND:20201010
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:フミ 誕生日
+DESCRIPTION:フミ 誕生日\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022019
+DTSTAMP:20250303T182910Z
+DTSTART:20191017T070100Z
+DTEND:20191017T073100Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 活動開始
+DESCRIPTION:フミ 活動開始\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022020
+DTSTAMP:20250303T182910Z
+DTSTART:20201017T070100Z
+DTEND:20201017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 1周年
+DESCRIPTION:フミ 1周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022021
+DTSTAMP:20250303T182910Z
+DTSTART:20211017T070100Z
+DTEND:20211017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 2周年
+DESCRIPTION:フミ 2周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022022
+DTSTAMP:20250303T182910Z
+DTSTART:20221017T070100Z
+DTEND:20221017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 3周年
+DESCRIPTION:フミ 3周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022023
+DTSTAMP:20250303T182910Z
+DTSTART:20231017T070100Z
+DTEND:20231017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 4周年
+DESCRIPTION:フミ 4周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022024
+DTSTAMP:20250303T182910Z
+DTSTART:20241017T070100Z
+DTEND:20241017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 5周年
+DESCRIPTION:フミ 5周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022025
+DTSTAMP:20250303T182910Z
+DTSTART:20251017T070100Z
+DTEND:20251017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 6周年
+DESCRIPTION:フミ 6周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022026
+DTSTAMP:20250303T182910Z
+DTSTART:20261017T070100Z
+DTEND:20261017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 7周年
+DESCRIPTION:フミ 7周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022027
+DTSTAMP:20250303T182910Z
+DTSTART:20271017T070100Z
+DTEND:20271017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 8周年
+DESCRIPTION:フミ 8周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022028
+DTSTAMP:20250303T182910Z
+DTSTART:20281017T070100Z
+DTEND:20281017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 9周年
+DESCRIPTION:フミ 9周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022029
+DTSTAMP:20250303T182910Z
+DTSTART:20291017T070100Z
+DTEND:20291017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 10周年
+DESCRIPTION:フミ 10周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022030
+DTSTAMP:20250303T182910Z
+DTSTART:20301017T070100Z
+DTEND:20301017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 11周年
+DESCRIPTION:フミ 11周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022031
+DTSTAMP:20250303T182910Z
+DTSTART:20311017T070100Z
+DTEND:20311017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 12周年
+DESCRIPTION:フミ 12周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022032
+DTSTAMP:20250303T182910Z
+DTSTART:20321017T070100Z
+DTEND:20321017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 13周年
+DESCRIPTION:フミ 13周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022033
+DTSTAMP:20250303T182910Z
+DTSTART:20331017T070100Z
+DTEND:20331017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 14周年
+DESCRIPTION:フミ 14周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022034
+DTSTAMP:20250303T182910Z
+DTSTART:20341017T070100Z
+DTEND:20341017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 15周年
+DESCRIPTION:フミ 15周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6022035
+DTSTAMP:20250303T182910Z
+DTSTART:20351017T070100Z
+DTEND:20351017T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:フミ 16周年
+DESCRIPTION:フミ 16周年\n\n初ツイート：2019/10/17 16:01 （日本時間）\n初配信：2019/10/19 （日本時間）\n\n\n==========\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

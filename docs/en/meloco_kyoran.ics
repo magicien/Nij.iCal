@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Meloco Kyoran
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583012023
+DTSTAMP:20250303T183932Z
+DTSTART:20231029
+DTEND:20231029
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran Birthday
+DESCRIPTION:Meloco Kyoran Birthday\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022022
+DTSTAMP:20250303T183932Z
+DTSTART:20221206T000900Z
+DTEND:20221206T003900Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran Debut
+DESCRIPTION:Meloco Kyoran Debut\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022023
+DTSTAMP:20250303T183932Z
+DTSTART:20231206T000900Z
+DTEND:20231206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 1st Anniversary
+DESCRIPTION:Meloco Kyoran 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022024
+DTSTAMP:20250303T183932Z
+DTSTART:20241206T000900Z
+DTEND:20241206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 2nd Anniversary
+DESCRIPTION:Meloco Kyoran 2nd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022025
+DTSTAMP:20250303T183932Z
+DTSTART:20251206T000900Z
+DTEND:20251206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 3rd Anniversary
+DESCRIPTION:Meloco Kyoran 3rd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022026
+DTSTAMP:20250303T183932Z
+DTSTART:20261206T000900Z
+DTEND:20261206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 4th Anniversary
+DESCRIPTION:Meloco Kyoran 4th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022027
+DTSTAMP:20250303T183932Z
+DTSTART:20271206T000900Z
+DTEND:20271206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 5th Anniversary
+DESCRIPTION:Meloco Kyoran 5th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022028
+DTSTAMP:20250303T183932Z
+DTSTART:20281206T000900Z
+DTEND:20281206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 6th Anniversary
+DESCRIPTION:Meloco Kyoran 6th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022029
+DTSTAMP:20250303T183932Z
+DTSTART:20291206T000900Z
+DTEND:20291206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 7th Anniversary
+DESCRIPTION:Meloco Kyoran 7th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022030
+DTSTAMP:20250303T183932Z
+DTSTART:20301206T000900Z
+DTEND:20301206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 8th Anniversary
+DESCRIPTION:Meloco Kyoran 8th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022031
+DTSTAMP:20250303T183932Z
+DTSTART:20311206T000900Z
+DTEND:20311206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 9th Anniversary
+DESCRIPTION:Meloco Kyoran 9th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022032
+DTSTAMP:20250303T183932Z
+DTSTART:20321206T000900Z
+DTEND:20321206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 10th Anniversary
+DESCRIPTION:Meloco Kyoran 10th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022033
+DTSTAMP:20250303T183932Z
+DTSTART:20331206T000900Z
+DTEND:20331206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 11th Anniversary
+DESCRIPTION:Meloco Kyoran 11th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022034
+DTSTAMP:20250303T183932Z
+DTSTART:20341206T000900Z
+DTEND:20341206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 12th Anniversary
+DESCRIPTION:Meloco Kyoran 12th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06f83b-b560-454d-b51e-470583022035
+DTSTAMP:20250303T183932Z
+DTSTART:20351206T000900Z
+DTEND:20351206T000901Z
+TRANSP:TRANSPARENT
+SUMMARY:Meloco Kyoran 13th Anniversary
+DESCRIPTION:Meloco Kyoran 13th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://www.youtube.com/@MelocoKyoran
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

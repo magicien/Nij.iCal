@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:鈴谷アキ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c012018
+DTSTAMP:20250303T184233Z
+DTSTART:20181128
+DTEND:20181128
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 誕生日
+DESCRIPTION:鈴谷アキ 誕生日\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022018
+DTSTAMP:20250303T184233Z
+DTSTART:20180131T133800Z
+DTEND:20180131T140800Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 活動開始
+DESCRIPTION:鈴谷アキ 活動開始\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022019
+DTSTAMP:20250303T184233Z
+DTSTART:20190131T133800Z
+DTEND:20190131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 1周年
+DESCRIPTION:鈴谷アキ 1周年\n\n初ツイート：2018/01/31 22:38 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022020
+DTSTAMP:20250303T184233Z
+DTSTART:20200131T133800Z
+DTEND:20200131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 2周年
+DESCRIPTION:鈴谷アキ 2周年\n\n初ツイート：2018/01/31 22:38 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022021
+DTSTAMP:20250303T184233Z
+DTSTART:20210131T133800Z
+DTEND:20210131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 3周年
+DESCRIPTION:鈴谷アキ 3周年\n\n初ツイート：2018/01/31 22:38 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022022
+DTSTAMP:20250303T184233Z
+DTSTART:20220131T133800Z
+DTEND:20220131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 4周年
+DESCRIPTION:鈴谷アキ 4周年\n\n初ツイート：2018/01/31 22:38 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022023
+DTSTAMP:20250303T184233Z
+DTSTART:20230131T133800Z
+DTEND:20230131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 5周年
+DESCRIPTION:鈴谷アキ 5周年\n\n初ツイート：2018/01/31 22:38 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022024
+DTSTAMP:20250303T184233Z
+DTSTART:20240131T133800Z
+DTEND:20240131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 6周年
+DESCRIPTION:鈴谷アキ 6周年\n\n初ツイート：2018/01/31 22:38 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c992024
+DTSTAMP:20250303T184233Z
+DTSTART:20240831
+DTEND:20240831
+TRANSP:TRANSPARENT
+SUMMARY:鈴谷アキ 卒業
+DESCRIPTION:鈴谷アキ 卒業\n\n==========\n【鈴谷アキ】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

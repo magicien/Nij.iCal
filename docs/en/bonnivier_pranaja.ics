@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Bonnivier Pranaja
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:6793e115-13dc-448a-a745-e40051012020
+DTSTAMP:20250303T183315Z
+DTSTART:20200919
+DTEND:20200919
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Bonnivier Pranaja Birthday
+DESCRIPTION:Bonnivier Pranaja Birthday\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
+END:VEVENT
+BEGIN:VEVENT
+UID:6793e115-13dc-448a-a745-e40051022020
+DTSTAMP:20250303T183315Z
+DTSTART:20200811T010500Z
+DTEND:20200811T013500Z
+TRANSP:TRANSPARENT
+SUMMARY:Bonnivier Pranaja Debut
+DESCRIPTION:Bonnivier Pranaja Debut\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
+END:VEVENT
+BEGIN:VEVENT
+UID:6793e115-13dc-448a-a745-e40051022021
+DTSTAMP:20250303T183315Z
+DTSTART:20210811T010500Z
+DTEND:20210811T010501Z
+TRANSP:TRANSPARENT
+SUMMARY:Bonnivier Pranaja 1st Anniversary
+DESCRIPTION:Bonnivier Pranaja 1st Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
+END:VEVENT
+BEGIN:VEVENT
+UID:6793e115-13dc-448a-a745-e40051022022
+DTSTAMP:20250303T183315Z
+DTSTART:20220811T010500Z
+DTEND:20220811T010501Z
+TRANSP:TRANSPARENT
+SUMMARY:Bonnivier Pranaja 2nd Anniversary
+DESCRIPTION:Bonnivier Pranaja 2nd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
+END:VEVENT
+BEGIN:VEVENT
+UID:6793e115-13dc-448a-a745-e40051022023
+DTSTAMP:20250303T183315Z
+DTSTART:20230811T010500Z
+DTEND:20230811T010501Z
+TRANSP:TRANSPARENT
+SUMMARY:Bonnivier Pranaja 3rd Anniversary
+DESCRIPTION:Bonnivier Pranaja 3rd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
+END:VEVENT
+BEGIN:VEVENT
+UID:6793e115-13dc-448a-a745-e40051992024
+DTSTAMP:20250303T183315Z
+DTSTART:20240526
+DTEND:20240526
+TRANSP:TRANSPARENT
+SUMMARY:Bonnivier Pranaja Graduation
+DESCRIPTION:Bonnivier Pranaja Graduation\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

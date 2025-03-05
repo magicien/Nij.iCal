@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Yukishiro Mahiro
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4012019
+DTSTAMP:20250303T182832Z
+DTSTART:20190926
+DTEND:20190926
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro Birthday
+DESCRIPTION:Yukishiro Mahiro Birthday\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022019
+DTSTAMP:20250303T182832Z
+DTSTART:20190429T070700Z
+DTEND:20190429T073700Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro Debut
+DESCRIPTION:Yukishiro Mahiro Debut\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022020
+DTSTAMP:20250303T182832Z
+DTSTART:20200429T070700Z
+DTEND:20200429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 1st Anniversary
+DESCRIPTION:Yukishiro Mahiro 1st Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022021
+DTSTAMP:20250303T182832Z
+DTSTART:20210429T070700Z
+DTEND:20210429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 2nd Anniversary
+DESCRIPTION:Yukishiro Mahiro 2nd Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022022
+DTSTAMP:20250303T182832Z
+DTSTART:20220429T070700Z
+DTEND:20220429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 3rd Anniversary
+DESCRIPTION:Yukishiro Mahiro 3rd Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022023
+DTSTAMP:20250303T182832Z
+DTSTART:20230429T070700Z
+DTEND:20230429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 4th Anniversary
+DESCRIPTION:Yukishiro Mahiro 4th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022024
+DTSTAMP:20250303T182832Z
+DTSTART:20240429T070700Z
+DTEND:20240429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 5th Anniversary
+DESCRIPTION:Yukishiro Mahiro 5th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022025
+DTSTAMP:20250303T182832Z
+DTSTART:20250429T070700Z
+DTEND:20250429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 6th Anniversary
+DESCRIPTION:Yukishiro Mahiro 6th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022026
+DTSTAMP:20250303T182832Z
+DTSTART:20260429T070700Z
+DTEND:20260429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 7th Anniversary
+DESCRIPTION:Yukishiro Mahiro 7th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022027
+DTSTAMP:20250303T182832Z
+DTSTART:20270429T070700Z
+DTEND:20270429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 8th Anniversary
+DESCRIPTION:Yukishiro Mahiro 8th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022028
+DTSTAMP:20250303T182832Z
+DTSTART:20280429T070700Z
+DTEND:20280429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 9th Anniversary
+DESCRIPTION:Yukishiro Mahiro 9th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022029
+DTSTAMP:20250303T182832Z
+DTSTART:20290429T070700Z
+DTEND:20290429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 10th Anniversary
+DESCRIPTION:Yukishiro Mahiro 10th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022030
+DTSTAMP:20250303T182832Z
+DTSTART:20300429T070700Z
+DTEND:20300429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 11th Anniversary
+DESCRIPTION:Yukishiro Mahiro 11th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022031
+DTSTAMP:20250303T182832Z
+DTSTART:20310429T070700Z
+DTEND:20310429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 12th Anniversary
+DESCRIPTION:Yukishiro Mahiro 12th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022032
+DTSTAMP:20250303T182832Z
+DTSTART:20320429T070700Z
+DTEND:20320429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 13th Anniversary
+DESCRIPTION:Yukishiro Mahiro 13th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022033
+DTSTAMP:20250303T182832Z
+DTSTART:20330429T070700Z
+DTEND:20330429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 14th Anniversary
+DESCRIPTION:Yukishiro Mahiro 14th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022034
+DTSTAMP:20250303T182832Z
+DTSTART:20340429T070700Z
+DTEND:20340429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 15th Anniversary
+DESCRIPTION:Yukishiro Mahiro 15th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022035
+DTSTAMP:20250303T182832Z
+DTSTART:20350429T070700Z
+DTEND:20350429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 16th Anniversary
+DESCRIPTION:Yukishiro Mahiro 16th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

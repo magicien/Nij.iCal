@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Amamiya Kokoro
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71012020
+DTSTAMP:20250303T182902Z
+DTSTART:20200701
+DTEND:20200701
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro Birthday
+DESCRIPTION:Amamiya Kokoro Birthday\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022019
+DTSTAMP:20250303T182902Z
+DTSTART:20190808T070600Z
+DTEND:20190808T073600Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro Debut
+DESCRIPTION:Amamiya Kokoro Debut\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022020
+DTSTAMP:20250303T182902Z
+DTSTART:20200808T070600Z
+DTEND:20200808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 1st Anniversary
+DESCRIPTION:Amamiya Kokoro 1st Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022021
+DTSTAMP:20250303T182902Z
+DTSTART:20210808T070600Z
+DTEND:20210808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 2nd Anniversary
+DESCRIPTION:Amamiya Kokoro 2nd Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022022
+DTSTAMP:20250303T182902Z
+DTSTART:20220808T070600Z
+DTEND:20220808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 3rd Anniversary
+DESCRIPTION:Amamiya Kokoro 3rd Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022023
+DTSTAMP:20250303T182902Z
+DTSTART:20230808T070600Z
+DTEND:20230808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 4th Anniversary
+DESCRIPTION:Amamiya Kokoro 4th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022024
+DTSTAMP:20250303T182902Z
+DTSTART:20240808T070600Z
+DTEND:20240808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 5th Anniversary
+DESCRIPTION:Amamiya Kokoro 5th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022025
+DTSTAMP:20250303T182902Z
+DTSTART:20250808T070600Z
+DTEND:20250808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 6th Anniversary
+DESCRIPTION:Amamiya Kokoro 6th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022026
+DTSTAMP:20250303T182902Z
+DTSTART:20260808T070600Z
+DTEND:20260808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 7th Anniversary
+DESCRIPTION:Amamiya Kokoro 7th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022027
+DTSTAMP:20250303T182902Z
+DTSTART:20270808T070600Z
+DTEND:20270808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 8th Anniversary
+DESCRIPTION:Amamiya Kokoro 8th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022028
+DTSTAMP:20250303T182902Z
+DTSTART:20280808T070600Z
+DTEND:20280808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 9th Anniversary
+DESCRIPTION:Amamiya Kokoro 9th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022029
+DTSTAMP:20250303T182902Z
+DTSTART:20290808T070600Z
+DTEND:20290808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 10th Anniversary
+DESCRIPTION:Amamiya Kokoro 10th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022030
+DTSTAMP:20250303T182902Z
+DTSTART:20300808T070600Z
+DTEND:20300808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 11th Anniversary
+DESCRIPTION:Amamiya Kokoro 11th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022031
+DTSTAMP:20250303T182902Z
+DTSTART:20310808T070600Z
+DTEND:20310808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 12th Anniversary
+DESCRIPTION:Amamiya Kokoro 12th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022032
+DTSTAMP:20250303T182902Z
+DTSTART:20320808T070600Z
+DTEND:20320808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 13th Anniversary
+DESCRIPTION:Amamiya Kokoro 13th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022033
+DTSTAMP:20250303T182902Z
+DTSTART:20330808T070600Z
+DTEND:20330808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 14th Anniversary
+DESCRIPTION:Amamiya Kokoro 14th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022034
+DTSTAMP:20250303T182902Z
+DTSTART:20340808T070600Z
+DTEND:20340808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 15th Anniversary
+DESCRIPTION:Amamiya Kokoro 15th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022035
+DTSTAMP:20250303T182902Z
+DTSTART:20350808T070600Z
+DTEND:20350808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:Amamiya Kokoro 16th Anniversary
+DESCRIPTION:Amamiya Kokoro 16th Anniversary\n\nFirst tweet: Aug 8, 2019, 16:08 (JST)\nFirst stream: Aug 13, 2019 (JST)\n\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://twitter.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

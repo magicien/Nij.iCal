@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Belmond Banderas
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035012018
+DTSTAMP:20250303T182743Z
+DTSTART:20181103
+DTEND:20181103
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas Birthday
+DESCRIPTION:Belmond Banderas Birthday\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022018
+DTSTAMP:20250303T182743Z
+DTSTART:20180925T070200Z
+DTEND:20180925T073200Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas Debut
+DESCRIPTION:Belmond Banderas Debut\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022019
+DTSTAMP:20250303T182743Z
+DTSTART:20190925T070200Z
+DTEND:20190925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 1st Anniversary
+DESCRIPTION:Belmond Banderas 1st Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022020
+DTSTAMP:20250303T182743Z
+DTSTART:20200925T070200Z
+DTEND:20200925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 2nd Anniversary
+DESCRIPTION:Belmond Banderas 2nd Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022021
+DTSTAMP:20250303T182743Z
+DTSTART:20210925T070200Z
+DTEND:20210925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 3rd Anniversary
+DESCRIPTION:Belmond Banderas 3rd Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022022
+DTSTAMP:20250303T182743Z
+DTSTART:20220925T070200Z
+DTEND:20220925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 4th Anniversary
+DESCRIPTION:Belmond Banderas 4th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022023
+DTSTAMP:20250303T182743Z
+DTSTART:20230925T070200Z
+DTEND:20230925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 5th Anniversary
+DESCRIPTION:Belmond Banderas 5th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022024
+DTSTAMP:20250303T182743Z
+DTSTART:20240925T070200Z
+DTEND:20240925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 6th Anniversary
+DESCRIPTION:Belmond Banderas 6th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022025
+DTSTAMP:20250303T182743Z
+DTSTART:20250925T070200Z
+DTEND:20250925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 7th Anniversary
+DESCRIPTION:Belmond Banderas 7th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022026
+DTSTAMP:20250303T182743Z
+DTSTART:20260925T070200Z
+DTEND:20260925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 8th Anniversary
+DESCRIPTION:Belmond Banderas 8th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022027
+DTSTAMP:20250303T182743Z
+DTSTART:20270925T070200Z
+DTEND:20270925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 9th Anniversary
+DESCRIPTION:Belmond Banderas 9th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022028
+DTSTAMP:20250303T182743Z
+DTSTART:20280925T070200Z
+DTEND:20280925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 10th Anniversary
+DESCRIPTION:Belmond Banderas 10th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022029
+DTSTAMP:20250303T182743Z
+DTSTART:20290925T070200Z
+DTEND:20290925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 11th Anniversary
+DESCRIPTION:Belmond Banderas 11th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022030
+DTSTAMP:20250303T182743Z
+DTSTART:20300925T070200Z
+DTEND:20300925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 12th Anniversary
+DESCRIPTION:Belmond Banderas 12th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022031
+DTSTAMP:20250303T182743Z
+DTSTART:20310925T070200Z
+DTEND:20310925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 13th Anniversary
+DESCRIPTION:Belmond Banderas 13th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022032
+DTSTAMP:20250303T182743Z
+DTSTART:20320925T070200Z
+DTEND:20320925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 14th Anniversary
+DESCRIPTION:Belmond Banderas 14th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022033
+DTSTAMP:20250303T182743Z
+DTSTART:20330925T070200Z
+DTEND:20330925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 15th Anniversary
+DESCRIPTION:Belmond Banderas 15th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022034
+DTSTAMP:20250303T182743Z
+DTSTART:20340925T070200Z
+DTEND:20340925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 16th Anniversary
+DESCRIPTION:Belmond Banderas 16th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:095a155b-6454-4331-b440-471035022035
+DTSTAMP:20250303T182743Z
+DTSTART:20350925T070200Z
+DTEND:20350925T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Belmond Banderas 17th Anniversary
+DESCRIPTION:Belmond Banderas 17th Anniversary\n\nFirst tweet: Sep 25, 2018, 16:09 (JST)\nFirst stream: Sep 30, 2018 (JST)\n\n\n==========\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Hayama Marin
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971012020
+DTSTAMP:20250303T182835Z
+DTSTART:20200324
+DTEND:20200324
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin Birthday
+DESCRIPTION:Hayama Marin Birthday\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022019
+DTSTAMP:20250303T182835Z
+DTSTART:20190619T071300Z
+DTEND:20190619T074300Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin Debut
+DESCRIPTION:Hayama Marin Debut\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022020
+DTSTAMP:20250303T182835Z
+DTSTART:20200619T071300Z
+DTEND:20200619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 1st Anniversary
+DESCRIPTION:Hayama Marin 1st Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022021
+DTSTAMP:20250303T182835Z
+DTSTART:20210619T071300Z
+DTEND:20210619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 2nd Anniversary
+DESCRIPTION:Hayama Marin 2nd Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022022
+DTSTAMP:20250303T182835Z
+DTSTART:20220619T071300Z
+DTEND:20220619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 3rd Anniversary
+DESCRIPTION:Hayama Marin 3rd Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022023
+DTSTAMP:20250303T182835Z
+DTSTART:20230619T071300Z
+DTEND:20230619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 4th Anniversary
+DESCRIPTION:Hayama Marin 4th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022024
+DTSTAMP:20250303T182835Z
+DTSTART:20240619T071300Z
+DTEND:20240619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 5th Anniversary
+DESCRIPTION:Hayama Marin 5th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022025
+DTSTAMP:20250303T182835Z
+DTSTART:20250619T071300Z
+DTEND:20250619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 6th Anniversary
+DESCRIPTION:Hayama Marin 6th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022026
+DTSTAMP:20250303T182835Z
+DTSTART:20260619T071300Z
+DTEND:20260619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 7th Anniversary
+DESCRIPTION:Hayama Marin 7th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022027
+DTSTAMP:20250303T182835Z
+DTSTART:20270619T071300Z
+DTEND:20270619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 8th Anniversary
+DESCRIPTION:Hayama Marin 8th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022028
+DTSTAMP:20250303T182835Z
+DTSTART:20280619T071300Z
+DTEND:20280619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 9th Anniversary
+DESCRIPTION:Hayama Marin 9th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022029
+DTSTAMP:20250303T182835Z
+DTSTART:20290619T071300Z
+DTEND:20290619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 10th Anniversary
+DESCRIPTION:Hayama Marin 10th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022030
+DTSTAMP:20250303T182835Z
+DTSTART:20300619T071300Z
+DTEND:20300619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 11th Anniversary
+DESCRIPTION:Hayama Marin 11th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022031
+DTSTAMP:20250303T182835Z
+DTSTART:20310619T071300Z
+DTEND:20310619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 12th Anniversary
+DESCRIPTION:Hayama Marin 12th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022032
+DTSTAMP:20250303T182835Z
+DTSTART:20320619T071300Z
+DTEND:20320619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 13th Anniversary
+DESCRIPTION:Hayama Marin 13th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022033
+DTSTAMP:20250303T182835Z
+DTSTART:20330619T071300Z
+DTEND:20330619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 14th Anniversary
+DESCRIPTION:Hayama Marin 14th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022034
+DTSTAMP:20250303T182835Z
+DTSTART:20340619T071300Z
+DTEND:20340619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 15th Anniversary
+DESCRIPTION:Hayama Marin 15th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022035
+DTSTAMP:20250303T182835Z
+DTSTART:20350619T071300Z
+DTEND:20350619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 16th Anniversary
+DESCRIPTION:Hayama Marin 16th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:06 (JST)\nFirst stream: Jun 25, 2019 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

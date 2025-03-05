@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Suzuya Aki
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c012018
+DTSTAMP:20250303T184233Z
+DTSTART:20181128
+DTEND:20181128
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki Birthday
+DESCRIPTION:Suzuya Aki Birthday\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022018
+DTSTAMP:20250303T184233Z
+DTSTART:20180131T133800Z
+DTEND:20180131T140800Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki Debut
+DESCRIPTION:Suzuya Aki Debut\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022019
+DTSTAMP:20250303T184233Z
+DTSTART:20190131T133800Z
+DTEND:20190131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki 1st Anniversary
+DESCRIPTION:Suzuya Aki 1st Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022020
+DTSTAMP:20250303T184233Z
+DTSTART:20200131T133800Z
+DTEND:20200131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki 2nd Anniversary
+DESCRIPTION:Suzuya Aki 2nd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022021
+DTSTAMP:20250303T184233Z
+DTSTART:20210131T133800Z
+DTEND:20210131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki 3rd Anniversary
+DESCRIPTION:Suzuya Aki 3rd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022022
+DTSTAMP:20250303T184233Z
+DTSTART:20220131T133800Z
+DTEND:20220131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki 4th Anniversary
+DESCRIPTION:Suzuya Aki 4th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022023
+DTSTAMP:20250303T184233Z
+DTSTART:20230131T133800Z
+DTEND:20230131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki 5th Anniversary
+DESCRIPTION:Suzuya Aki 5th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c022024
+DTSTAMP:20250303T184233Z
+DTSTART:20240131T133800Z
+DTEND:20240131T133801Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki 6th Anniversary
+DESCRIPTION:Suzuya Aki 6th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c992024
+DTSTAMP:20250303T184233Z
+DTSTART:20240831
+DTEND:20240831
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki Graduation
+DESCRIPTION:Suzuya Aki Graduation\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ミカ メラティカ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1012022
+DTSTAMP:20250303T183347Z
+DTSTART:20220401
+DTEND:20220401
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ミカ メラティカ 誕生日
+DESCRIPTION:ミカ メラティカ 誕生日\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1022021
+DTSTAMP:20250303T183347Z
+DTSTART:20210728T094900Z
+DTEND:20210728T101900Z
+TRANSP:TRANSPARENT
+SUMMARY:ミカ メラティカ 活動開始
+DESCRIPTION:ミカ メラティカ 活動開始\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1022022
+DTSTAMP:20250303T183347Z
+DTSTART:20220728T094900Z
+DTEND:20220728T094901Z
+TRANSP:TRANSPARENT
+SUMMARY:ミカ メラティカ 1周年
+DESCRIPTION:ミカ メラティカ 1周年\n\n初ツイート：2021/07/28 18:49 （日本時間）\n初配信：2021/07/31 （日本時間）\n\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1022023
+DTSTAMP:20250303T183347Z
+DTSTART:20230728T094900Z
+DTEND:20230728T094901Z
+TRANSP:TRANSPARENT
+SUMMARY:ミカ メラティカ 2周年
+DESCRIPTION:ミカ メラティカ 2周年\n\n初ツイート：2021/07/28 18:49 （日本時間）\n初配信：2021/07/31 （日本時間）\n\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1992023
+DTSTAMP:20250303T183347Z
+DTSTART:20231228
+DTEND:20231228
+TRANSP:TRANSPARENT
+SUMMARY:ミカ メラティカ 卒業
+DESCRIPTION:ミカ メラティカ 卒業\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

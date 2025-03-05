@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Maimoto Keisuke
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838012018
+DTSTAMP:20250303T182715Z
+DTSTART:20181109
+DTEND:20181109
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke Birthday
+DESCRIPTION:Maimoto Keisuke Birthday\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022018
+DTSTAMP:20250303T182715Z
+DTSTART:20180809T071100Z
+DTEND:20180809T074100Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke Debut
+DESCRIPTION:Maimoto Keisuke Debut\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022019
+DTSTAMP:20250303T182715Z
+DTSTART:20190809T071100Z
+DTEND:20190809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 1st Anniversary
+DESCRIPTION:Maimoto Keisuke 1st Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022020
+DTSTAMP:20250303T182715Z
+DTSTART:20200809T071100Z
+DTEND:20200809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 2nd Anniversary
+DESCRIPTION:Maimoto Keisuke 2nd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022021
+DTSTAMP:20250303T182715Z
+DTSTART:20210809T071100Z
+DTEND:20210809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 3rd Anniversary
+DESCRIPTION:Maimoto Keisuke 3rd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022022
+DTSTAMP:20250303T182715Z
+DTSTART:20220809T071100Z
+DTEND:20220809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 4th Anniversary
+DESCRIPTION:Maimoto Keisuke 4th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022023
+DTSTAMP:20250303T182715Z
+DTSTART:20230809T071100Z
+DTEND:20230809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 5th Anniversary
+DESCRIPTION:Maimoto Keisuke 5th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022024
+DTSTAMP:20250303T182715Z
+DTSTART:20240809T071100Z
+DTEND:20240809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 6th Anniversary
+DESCRIPTION:Maimoto Keisuke 6th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022025
+DTSTAMP:20250303T182715Z
+DTSTART:20250809T071100Z
+DTEND:20250809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 7th Anniversary
+DESCRIPTION:Maimoto Keisuke 7th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022026
+DTSTAMP:20250303T182715Z
+DTSTART:20260809T071100Z
+DTEND:20260809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 8th Anniversary
+DESCRIPTION:Maimoto Keisuke 8th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022027
+DTSTAMP:20250303T182715Z
+DTSTART:20270809T071100Z
+DTEND:20270809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 9th Anniversary
+DESCRIPTION:Maimoto Keisuke 9th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022028
+DTSTAMP:20250303T182715Z
+DTSTART:20280809T071100Z
+DTEND:20280809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 10th Anniversary
+DESCRIPTION:Maimoto Keisuke 10th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022029
+DTSTAMP:20250303T182715Z
+DTSTART:20290809T071100Z
+DTEND:20290809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 11th Anniversary
+DESCRIPTION:Maimoto Keisuke 11th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022030
+DTSTAMP:20250303T182715Z
+DTSTART:20300809T071100Z
+DTEND:20300809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 12th Anniversary
+DESCRIPTION:Maimoto Keisuke 12th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022031
+DTSTAMP:20250303T182715Z
+DTSTART:20310809T071100Z
+DTEND:20310809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 13th Anniversary
+DESCRIPTION:Maimoto Keisuke 13th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022032
+DTSTAMP:20250303T182715Z
+DTSTART:20320809T071100Z
+DTEND:20320809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 14th Anniversary
+DESCRIPTION:Maimoto Keisuke 14th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022033
+DTSTAMP:20250303T182715Z
+DTSTART:20330809T071100Z
+DTEND:20330809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 15th Anniversary
+DESCRIPTION:Maimoto Keisuke 15th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022034
+DTSTAMP:20250303T182715Z
+DTSTART:20340809T071100Z
+DTEND:20340809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 16th Anniversary
+DESCRIPTION:Maimoto Keisuke 16th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:0e164559-ff24-420e-80e5-524838022035
+DTSTAMP:20250303T182715Z
+DTSTART:20350809T071100Z
+DTEND:20350809T071101Z
+TRANSP:TRANSPARENT
+SUMMARY:Maimoto Keisuke 17th Anniversary
+DESCRIPTION:Maimoto Keisuke 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 13, 2018 (JST)\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n
+URL:https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

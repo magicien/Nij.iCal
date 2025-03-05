@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Hibachi Mana
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2012023
+DTSTAMP:20250303T183517Z
+DTSTART:20230629
+DTEND:20230629
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana Birthday
+DESCRIPTION:Hibachi Mana Birthday\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022023
+DTSTAMP:20250303T183517Z
+DTSTART:20230330T030800Z
+DTEND:20230330T033800Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana Debut
+DESCRIPTION:Hibachi Mana Debut\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022024
+DTSTAMP:20250303T183517Z
+DTSTART:20240330T030800Z
+DTEND:20240330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 1st Anniversary
+DESCRIPTION:Hibachi Mana 1st Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022025
+DTSTAMP:20250303T183517Z
+DTSTART:20250330T030800Z
+DTEND:20250330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 2nd Anniversary
+DESCRIPTION:Hibachi Mana 2nd Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022026
+DTSTAMP:20250303T183517Z
+DTSTART:20260330T030800Z
+DTEND:20260330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 3rd Anniversary
+DESCRIPTION:Hibachi Mana 3rd Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022027
+DTSTAMP:20250303T183517Z
+DTSTART:20270330T030800Z
+DTEND:20270330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 4th Anniversary
+DESCRIPTION:Hibachi Mana 4th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022028
+DTSTAMP:20250303T183517Z
+DTSTART:20280330T030800Z
+DTEND:20280330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 5th Anniversary
+DESCRIPTION:Hibachi Mana 5th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022029
+DTSTAMP:20250303T183517Z
+DTSTART:20290330T030800Z
+DTEND:20290330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 6th Anniversary
+DESCRIPTION:Hibachi Mana 6th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022030
+DTSTAMP:20250303T183517Z
+DTSTART:20300330T030800Z
+DTEND:20300330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 7th Anniversary
+DESCRIPTION:Hibachi Mana 7th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022031
+DTSTAMP:20250303T183517Z
+DTSTART:20310330T030800Z
+DTEND:20310330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 8th Anniversary
+DESCRIPTION:Hibachi Mana 8th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022032
+DTSTAMP:20250303T183517Z
+DTSTART:20320330T030800Z
+DTEND:20320330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 9th Anniversary
+DESCRIPTION:Hibachi Mana 9th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022033
+DTSTAMP:20250303T183517Z
+DTSTART:20330330T030800Z
+DTEND:20330330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 10th Anniversary
+DESCRIPTION:Hibachi Mana 10th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022034
+DTSTAMP:20250303T183517Z
+DTSTART:20340330T030800Z
+DTEND:20340330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 11th Anniversary
+DESCRIPTION:Hibachi Mana 11th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:04255d81-3158-444d-ac8c-9b48e2022035
+DTSTAMP:20250303T183517Z
+DTSTART:20350330T030800Z
+DTEND:20350330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana 12th Anniversary
+DESCRIPTION:Hibachi Mana 12th Anniversary\n\nFirst tweet: Mar 30, 2023, 12:03 (JST)\nFirst stream: Apr 2, 2023 (JST)\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n
+URL:https://www.youtube.com/@HibachiMana
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

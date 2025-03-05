@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Otogibara Era
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa0b70-0726-412d-a5fe-4b24b0012019
+DTSTAMP:20250303T134501Z
+DTSTART:20190728
+DTEND:20190728
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Otogibara Era Birthday
+DESCRIPTION:Otogibara Era Birthday\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa0b70-0726-412d-a5fe-4b24b0022019
+DTSTAMP:20250303T134501Z
+DTSTART:20190308T070100Z
+DTEND:20190308T073100Z
+TRANSP:TRANSPARENT
+SUMMARY:Otogibara Era Debut
+DESCRIPTION:Otogibara Era Debut\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa0b70-0726-412d-a5fe-4b24b0022020
+DTSTAMP:20250303T134501Z
+DTSTART:20200308T070100Z
+DTEND:20200308T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Otogibara Era 1st Anniversary
+DESCRIPTION:Otogibara Era 1st Anniversary\n\nFirst tweet: Mar 8, 2019, 16:03 (JST)\nFirst stream: Mar 10, 2019 (JST)\n\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa0b70-0726-412d-a5fe-4b24b0022021
+DTSTAMP:20250303T134501Z
+DTSTART:20210308T070100Z
+DTEND:20210308T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Otogibara Era 2nd Anniversary
+DESCRIPTION:Otogibara Era 2nd Anniversary\n\nFirst tweet: Mar 8, 2019, 16:03 (JST)\nFirst stream: Mar 10, 2019 (JST)\n\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa0b70-0726-412d-a5fe-4b24b0992021
+DTSTAMP:20250303T134501Z
+DTSTART:20210310
+DTEND:20210310
+TRANSP:TRANSPARENT
+SUMMARY:Otogibara Era Graduation
+DESCRIPTION:Otogibara Era Graduation\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
+URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

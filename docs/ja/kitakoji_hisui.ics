@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:北小路ヒスイ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f012021
+DTSTAMP:20250303T183031Z
+DTSTART:20210413
+DTEND:20210413
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 誕生日
+DESCRIPTION:北小路ヒスイ 誕生日\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022020
+DTSTAMP:20250303T183031Z
+DTSTART:20200806T070000Z
+DTEND:20200806T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 活動開始
+DESCRIPTION:北小路ヒスイ 活動開始\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022021
+DTSTAMP:20250303T183031Z
+DTSTART:20210806T070000Z
+DTEND:20210806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 1周年
+DESCRIPTION:北小路ヒスイ 1周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022022
+DTSTAMP:20250303T183031Z
+DTSTART:20220806T070000Z
+DTEND:20220806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 2周年
+DESCRIPTION:北小路ヒスイ 2周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022023
+DTSTAMP:20250303T183031Z
+DTSTART:20230806T070000Z
+DTEND:20230806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 3周年
+DESCRIPTION:北小路ヒスイ 3周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022024
+DTSTAMP:20250303T183031Z
+DTSTART:20240806T070000Z
+DTEND:20240806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 4周年
+DESCRIPTION:北小路ヒスイ 4周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022025
+DTSTAMP:20250303T183031Z
+DTSTART:20250806T070000Z
+DTEND:20250806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 5周年
+DESCRIPTION:北小路ヒスイ 5周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022026
+DTSTAMP:20250303T183031Z
+DTSTART:20260806T070000Z
+DTEND:20260806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 6周年
+DESCRIPTION:北小路ヒスイ 6周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022027
+DTSTAMP:20250303T183031Z
+DTSTART:20270806T070000Z
+DTEND:20270806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 7周年
+DESCRIPTION:北小路ヒスイ 7周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022028
+DTSTAMP:20250303T183031Z
+DTSTART:20280806T070000Z
+DTEND:20280806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 8周年
+DESCRIPTION:北小路ヒスイ 8周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022029
+DTSTAMP:20250303T183031Z
+DTSTART:20290806T070000Z
+DTEND:20290806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 9周年
+DESCRIPTION:北小路ヒスイ 9周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022030
+DTSTAMP:20250303T183031Z
+DTSTART:20300806T070000Z
+DTEND:20300806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 10周年
+DESCRIPTION:北小路ヒスイ 10周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022031
+DTSTAMP:20250303T183031Z
+DTSTART:20310806T070000Z
+DTEND:20310806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 11周年
+DESCRIPTION:北小路ヒスイ 11周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022032
+DTSTAMP:20250303T183031Z
+DTSTART:20320806T070000Z
+DTEND:20320806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 12周年
+DESCRIPTION:北小路ヒスイ 12周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022033
+DTSTAMP:20250303T183031Z
+DTSTART:20330806T070000Z
+DTEND:20330806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 13周年
+DESCRIPTION:北小路ヒスイ 13周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022034
+DTSTAMP:20250303T183031Z
+DTSTART:20340806T070000Z
+DTEND:20340806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 14周年
+DESCRIPTION:北小路ヒスイ 14周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:90c26a16-7434-43b1-8d66-33d48f022035
+DTSTAMP:20250303T183031Z
+DTSTART:20350806T070000Z
+DTEND:20350806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:北小路ヒスイ 15周年
+DESCRIPTION:北小路ヒスイ 15周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n
+URL:https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

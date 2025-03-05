@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Suzuki Masaru
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247012018
+DTSTAMP:20250303T184312Z
+DTSTART:20180809
+DTEND:20180809
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru Birthday
+DESCRIPTION:Suzuki Masaru Birthday\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022018
+DTSTAMP:20250303T184312Z
+DTSTART:20180603T073400Z
+DTEND:20180603T080400Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru Debut
+DESCRIPTION:Suzuki Masaru Debut\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022019
+DTSTAMP:20250303T184312Z
+DTSTART:20190603T073400Z
+DTEND:20190603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 1st Anniversary
+DESCRIPTION:Suzuki Masaru 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022020
+DTSTAMP:20250303T184312Z
+DTSTART:20200603T073400Z
+DTEND:20200603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 2nd Anniversary
+DESCRIPTION:Suzuki Masaru 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022021
+DTSTAMP:20250303T184312Z
+DTSTART:20210603T073400Z
+DTEND:20210603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 3rd Anniversary
+DESCRIPTION:Suzuki Masaru 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022022
+DTSTAMP:20250303T184312Z
+DTSTART:20220603T073400Z
+DTEND:20220603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 4th Anniversary
+DESCRIPTION:Suzuki Masaru 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022023
+DTSTAMP:20250303T184312Z
+DTSTART:20230603T073400Z
+DTEND:20230603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 5th Anniversary
+DESCRIPTION:Suzuki Masaru 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022024
+DTSTAMP:20250303T184312Z
+DTSTART:20240603T073400Z
+DTEND:20240603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 6th Anniversary
+DESCRIPTION:Suzuki Masaru 6th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022025
+DTSTAMP:20250303T184312Z
+DTSTART:20250603T073400Z
+DTEND:20250603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 7th Anniversary
+DESCRIPTION:Suzuki Masaru 7th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022026
+DTSTAMP:20250303T184312Z
+DTSTART:20260603T073400Z
+DTEND:20260603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 8th Anniversary
+DESCRIPTION:Suzuki Masaru 8th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022027
+DTSTAMP:20250303T184312Z
+DTSTART:20270603T073400Z
+DTEND:20270603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 9th Anniversary
+DESCRIPTION:Suzuki Masaru 9th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022028
+DTSTAMP:20250303T184312Z
+DTSTART:20280603T073400Z
+DTEND:20280603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 10th Anniversary
+DESCRIPTION:Suzuki Masaru 10th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022029
+DTSTAMP:20250303T184312Z
+DTSTART:20290603T073400Z
+DTEND:20290603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 11th Anniversary
+DESCRIPTION:Suzuki Masaru 11th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022030
+DTSTAMP:20250303T184312Z
+DTSTART:20300603T073400Z
+DTEND:20300603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 12th Anniversary
+DESCRIPTION:Suzuki Masaru 12th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022031
+DTSTAMP:20250303T184312Z
+DTSTART:20310603T073400Z
+DTEND:20310603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 13th Anniversary
+DESCRIPTION:Suzuki Masaru 13th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022032
+DTSTAMP:20250303T184312Z
+DTSTART:20320603T073400Z
+DTEND:20320603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 14th Anniversary
+DESCRIPTION:Suzuki Masaru 14th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022033
+DTSTAMP:20250303T184312Z
+DTSTART:20330603T073400Z
+DTEND:20330603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 15th Anniversary
+DESCRIPTION:Suzuki Masaru 15th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022034
+DTSTAMP:20250303T184312Z
+DTSTART:20340603T073400Z
+DTEND:20340603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 16th Anniversary
+DESCRIPTION:Suzuki Masaru 16th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247022035
+DTSTAMP:20250303T184312Z
+DTSTART:20350603T073400Z
+DTEND:20350603T073401Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuki Masaru 17th Anniversary
+DESCRIPTION:Suzuki Masaru 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

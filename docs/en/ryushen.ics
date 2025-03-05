@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Ryushen
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:727b81ad-7a6e-4f09-9f29-459af03f593d
+DTSTAMP:20250304T013649Z
+DTSTART:20250622T090000Z
+DTEND:20250622T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya
+LOCATION:Aichi Prefectural Art Theater
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5012019
+DTSTAMP:20250303T184313Z
+DTSTART:20190416
+DTEND:20190416
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen Birthday
+DESCRIPTION:Ryushen Birthday\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022018
+DTSTAMP:20250303T184313Z
+DTSTART:20180603T060100Z
+DTEND:20180603T063100Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen Debut
+DESCRIPTION:Ryushen Debut\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022019
+DTSTAMP:20250303T184313Z
+DTSTART:20190603T060100Z
+DTEND:20190603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 1st Anniversary
+DESCRIPTION:Ryushen 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022020
+DTSTAMP:20250303T184313Z
+DTSTART:20200603T060100Z
+DTEND:20200603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 2nd Anniversary
+DESCRIPTION:Ryushen 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022021
+DTSTAMP:20250303T184313Z
+DTSTART:20210603T060100Z
+DTEND:20210603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 3rd Anniversary
+DESCRIPTION:Ryushen 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022022
+DTSTAMP:20250303T184313Z
+DTSTART:20220603T060100Z
+DTEND:20220603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 4th Anniversary
+DESCRIPTION:Ryushen 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022023
+DTSTAMP:20250303T184313Z
+DTSTART:20230603T060100Z
+DTEND:20230603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 5th Anniversary
+DESCRIPTION:Ryushen 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022024
+DTSTAMP:20250303T184313Z
+DTSTART:20240603T060100Z
+DTEND:20240603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 6th Anniversary
+DESCRIPTION:Ryushen 6th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022025
+DTSTAMP:20250303T184313Z
+DTSTART:20250603T060100Z
+DTEND:20250603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 7th Anniversary
+DESCRIPTION:Ryushen 7th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022026
+DTSTAMP:20250303T184313Z
+DTSTART:20260603T060100Z
+DTEND:20260603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 8th Anniversary
+DESCRIPTION:Ryushen 8th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022027
+DTSTAMP:20250303T184313Z
+DTSTART:20270603T060100Z
+DTEND:20270603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 9th Anniversary
+DESCRIPTION:Ryushen 9th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022028
+DTSTAMP:20250303T184313Z
+DTSTART:20280603T060100Z
+DTEND:20280603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 10th Anniversary
+DESCRIPTION:Ryushen 10th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022029
+DTSTAMP:20250303T184313Z
+DTSTART:20290603T060100Z
+DTEND:20290603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 11th Anniversary
+DESCRIPTION:Ryushen 11th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022030
+DTSTAMP:20250303T184313Z
+DTSTART:20300603T060100Z
+DTEND:20300603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 12th Anniversary
+DESCRIPTION:Ryushen 12th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022031
+DTSTAMP:20250303T184313Z
+DTSTART:20310603T060100Z
+DTEND:20310603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 13th Anniversary
+DESCRIPTION:Ryushen 13th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022032
+DTSTAMP:20250303T184313Z
+DTSTART:20320603T060100Z
+DTEND:20320603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 14th Anniversary
+DESCRIPTION:Ryushen 14th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022033
+DTSTAMP:20250303T184313Z
+DTSTART:20330603T060100Z
+DTEND:20330603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 15th Anniversary
+DESCRIPTION:Ryushen 15th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022034
+DTSTAMP:20250303T184313Z
+DTSTART:20340603T060100Z
+DTEND:20340603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 16th Anniversary
+DESCRIPTION:Ryushen 16th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022035
+DTSTAMP:20250303T184313Z
+DTSTART:20350603T060100Z
+DTEND:20350603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 17th Anniversary
+DESCRIPTION:Ryushen 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 8, 2018 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:アイク・イーヴランド
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e012022
+DTSTAMP:20250303T183719Z
+DTSTART:20220612
+DTEND:20220612
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 誕生日
+DESCRIPTION:アイク・イーヴランド 誕生日\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022021
+DTSTAMP:20250303T183719Z
+DTSTART:20211217T000100Z
+DTEND:20211217T003100Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 活動開始
+DESCRIPTION:アイク・イーヴランド 活動開始\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022022
+DTSTAMP:20250303T183719Z
+DTSTART:20221217T000100Z
+DTEND:20221217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 1周年
+DESCRIPTION:アイク・イーヴランド 1周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022023
+DTSTAMP:20250303T183719Z
+DTSTART:20231217T000100Z
+DTEND:20231217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 2周年
+DESCRIPTION:アイク・イーヴランド 2周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022024
+DTSTAMP:20250303T183719Z
+DTSTART:20241217T000100Z
+DTEND:20241217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 3周年
+DESCRIPTION:アイク・イーヴランド 3周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022025
+DTSTAMP:20250303T183719Z
+DTSTART:20251217T000100Z
+DTEND:20251217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 4周年
+DESCRIPTION:アイク・イーヴランド 4周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022026
+DTSTAMP:20250303T183719Z
+DTSTART:20261217T000100Z
+DTEND:20261217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 5周年
+DESCRIPTION:アイク・イーヴランド 5周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022027
+DTSTAMP:20250303T183719Z
+DTSTART:20271217T000100Z
+DTEND:20271217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 6周年
+DESCRIPTION:アイク・イーヴランド 6周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022028
+DTSTAMP:20250303T183719Z
+DTSTART:20281217T000100Z
+DTEND:20281217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 7周年
+DESCRIPTION:アイク・イーヴランド 7周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022029
+DTSTAMP:20250303T183719Z
+DTSTART:20291217T000100Z
+DTEND:20291217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 8周年
+DESCRIPTION:アイク・イーヴランド 8周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022030
+DTSTAMP:20250303T183719Z
+DTSTART:20301217T000100Z
+DTEND:20301217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 9周年
+DESCRIPTION:アイク・イーヴランド 9周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022031
+DTSTAMP:20250303T183719Z
+DTSTART:20311217T000100Z
+DTEND:20311217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 10周年
+DESCRIPTION:アイク・イーヴランド 10周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022032
+DTSTAMP:20250303T183719Z
+DTSTART:20321217T000100Z
+DTEND:20321217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 11周年
+DESCRIPTION:アイク・イーヴランド 11周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022033
+DTSTAMP:20250303T183719Z
+DTSTART:20331217T000100Z
+DTEND:20331217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 12周年
+DESCRIPTION:アイク・イーヴランド 12周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022034
+DTSTAMP:20250303T183719Z
+DTSTART:20341217T000100Z
+DTEND:20341217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 13周年
+DESCRIPTION:アイク・イーヴランド 13周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7d9049-8a64-451a-9b7f-32ba7e022035
+DTSTAMP:20250303T183719Z
+DTSTART:20351217T000100Z
+DTEND:20351217T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:アイク・イーヴランド 14周年
+DESCRIPTION:アイク・イーヴランド 14周年\n\n初ツイート：2021/12/17 09:01 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

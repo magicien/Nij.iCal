@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Sonny Brisko
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7012022
+DTSTAMP:20250303T183729Z
+DTSTART:20220406
+DTEND:20220406
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko Birthday
+DESCRIPTION:Sonny Brisko Birthday\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022022
+DTSTAMP:20250303T183729Z
+DTSTART:20220222T020300Z
+DTEND:20220222T023300Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko Debut
+DESCRIPTION:Sonny Brisko Debut\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022023
+DTSTAMP:20250303T183729Z
+DTSTART:20230222T020300Z
+DTEND:20230222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 1st Anniversary
+DESCRIPTION:Sonny Brisko 1st Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022024
+DTSTAMP:20250303T183729Z
+DTSTART:20240222T020300Z
+DTEND:20240222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 2nd Anniversary
+DESCRIPTION:Sonny Brisko 2nd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022025
+DTSTAMP:20250303T183729Z
+DTSTART:20250222T020300Z
+DTEND:20250222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 3rd Anniversary
+DESCRIPTION:Sonny Brisko 3rd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022026
+DTSTAMP:20250303T183729Z
+DTSTART:20260222T020300Z
+DTEND:20260222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 4th Anniversary
+DESCRIPTION:Sonny Brisko 4th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022027
+DTSTAMP:20250303T183729Z
+DTSTART:20270222T020300Z
+DTEND:20270222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 5th Anniversary
+DESCRIPTION:Sonny Brisko 5th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022028
+DTSTAMP:20250303T183729Z
+DTSTART:20280222T020300Z
+DTEND:20280222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 6th Anniversary
+DESCRIPTION:Sonny Brisko 6th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022029
+DTSTAMP:20250303T183729Z
+DTSTART:20290222T020300Z
+DTEND:20290222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 7th Anniversary
+DESCRIPTION:Sonny Brisko 7th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022030
+DTSTAMP:20250303T183729Z
+DTSTART:20300222T020300Z
+DTEND:20300222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 8th Anniversary
+DESCRIPTION:Sonny Brisko 8th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022031
+DTSTAMP:20250303T183729Z
+DTSTART:20310222T020300Z
+DTEND:20310222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 9th Anniversary
+DESCRIPTION:Sonny Brisko 9th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022032
+DTSTAMP:20250303T183729Z
+DTSTART:20320222T020300Z
+DTEND:20320222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 10th Anniversary
+DESCRIPTION:Sonny Brisko 10th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022033
+DTSTAMP:20250303T183729Z
+DTSTART:20330222T020300Z
+DTEND:20330222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 11th Anniversary
+DESCRIPTION:Sonny Brisko 11th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022034
+DTSTAMP:20250303T183729Z
+DTSTART:20340222T020300Z
+DTEND:20340222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 12th Anniversary
+DESCRIPTION:Sonny Brisko 12th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7022035
+DTSTAMP:20250303T183729Z
+DTSTART:20350222T020300Z
+DTEND:20350222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Sonny Brisko 13th Anniversary
+DESCRIPTION:Sonny Brisko 13th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Sonny Brisko】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

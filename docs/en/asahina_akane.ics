@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Asahina Akane
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a3800f-d910-47eb-8c53-be9315012020
+DTSTAMP:20250303T183025Z
+DTSTART:20201215
+DTEND:20201215
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Asahina Akane Birthday
+DESCRIPTION:Asahina Akane Birthday\n\n==========\n【Asahina Akane】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a3800f-d910-47eb-8c53-be9315022020
+DTSTAMP:20250303T183025Z
+DTSTART:20200806T070000Z
+DTEND:20200806T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:Asahina Akane Debut
+DESCRIPTION:Asahina Akane Debut\n\n==========\n【Asahina Akane】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a3800f-d910-47eb-8c53-be9315022021
+DTSTAMP:20250303T183025Z
+DTSTART:20210806T070000Z
+DTEND:20210806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Asahina Akane 1st Anniversary
+DESCRIPTION:Asahina Akane 1st Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Asahina Akane】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a3800f-d910-47eb-8c53-be9315022022
+DTSTAMP:20250303T183025Z
+DTSTART:20220806T070000Z
+DTEND:20220806T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Asahina Akane 2nd Anniversary
+DESCRIPTION:Asahina Akane 2nd Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Asahina Akane】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a3800f-d910-47eb-8c53-be9315992023
+DTSTAMP:20250303T183025Z
+DTSTART:20230524
+DTEND:20230524
+TRANSP:TRANSPARENT
+SUMMARY:Asahina Akane Graduation
+DESCRIPTION:Asahina Akane Graduation\n\n==========\n【Asahina Akane】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

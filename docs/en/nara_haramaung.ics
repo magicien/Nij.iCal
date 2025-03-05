@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Nara Haramaung
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6012020
+DTSTAMP:20250303T183252Z
+DTSTART:20200729
+DTEND:20200729
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nara Haramaung Birthday
+DESCRIPTION:Nara Haramaung Birthday\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6022020
+DTSTAMP:20250303T183252Z
+DTSTART:20200313T104000Z
+DTEND:20200313T111000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nara Haramaung Debut
+DESCRIPTION:Nara Haramaung Debut\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6022021
+DTSTAMP:20250303T183252Z
+DTSTART:20210313T104000Z
+DTEND:20210313T104001Z
+TRANSP:TRANSPARENT
+SUMMARY:Nara Haramaung 1st Anniversary
+DESCRIPTION:Nara Haramaung 1st Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6022022
+DTSTAMP:20250303T183252Z
+DTSTART:20220313T104000Z
+DTEND:20220313T104001Z
+TRANSP:TRANSPARENT
+SUMMARY:Nara Haramaung 2nd Anniversary
+DESCRIPTION:Nara Haramaung 2nd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6022023
+DTSTAMP:20250303T183252Z
+DTSTART:20230313T104000Z
+DTEND:20230313T104001Z
+TRANSP:TRANSPARENT
+SUMMARY:Nara Haramaung 3rd Anniversary
+DESCRIPTION:Nara Haramaung 3rd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6992023
+DTSTAMP:20250303T183252Z
+DTSTART:20230903
+DTEND:20230903
+TRANSP:TRANSPARENT
+SUMMARY:Nara Haramaung Graduation
+DESCRIPTION:Nara Haramaung Graduation\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

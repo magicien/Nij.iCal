@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Nagao Kei
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250304T015913Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:727b81ad-7a6e-4f09-9f29-459af03f593d
+DTSTAMP:20250304T013649Z
+DTSTART:20250622T090000Z
+DTEND:20250622T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya
+LOCATION:Aichi Prefectural Art Theater
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e012020
+DTSTAMP:20250303T182930Z
+DTSTART:20200724
+DTEND:20200724
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei Birthday
+DESCRIPTION:Nagao Kei Birthday\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022020
+DTSTAMP:20250303T182930Z
+DTSTART:20200402T070100Z
+DTEND:20200402T073100Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei Debut
+DESCRIPTION:Nagao Kei Debut\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022021
+DTSTAMP:20250303T182930Z
+DTSTART:20210402T070100Z
+DTEND:20210402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 1st Anniversary
+DESCRIPTION:Nagao Kei 1st Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022022
+DTSTAMP:20250303T182930Z
+DTSTART:20220402T070100Z
+DTEND:20220402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 2nd Anniversary
+DESCRIPTION:Nagao Kei 2nd Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022023
+DTSTAMP:20250303T182930Z
+DTSTART:20230402T070100Z
+DTEND:20230402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 3rd Anniversary
+DESCRIPTION:Nagao Kei 3rd Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022024
+DTSTAMP:20250303T182930Z
+DTSTART:20240402T070100Z
+DTEND:20240402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 4th Anniversary
+DESCRIPTION:Nagao Kei 4th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022025
+DTSTAMP:20250303T182930Z
+DTSTART:20250402T070100Z
+DTEND:20250402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 5th Anniversary
+DESCRIPTION:Nagao Kei 5th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022026
+DTSTAMP:20250303T182930Z
+DTSTART:20260402T070100Z
+DTEND:20260402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 6th Anniversary
+DESCRIPTION:Nagao Kei 6th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022027
+DTSTAMP:20250303T182930Z
+DTSTART:20270402T070100Z
+DTEND:20270402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 7th Anniversary
+DESCRIPTION:Nagao Kei 7th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022028
+DTSTAMP:20250303T182930Z
+DTSTART:20280402T070100Z
+DTEND:20280402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 8th Anniversary
+DESCRIPTION:Nagao Kei 8th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022029
+DTSTAMP:20250303T182930Z
+DTSTART:20290402T070100Z
+DTEND:20290402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 9th Anniversary
+DESCRIPTION:Nagao Kei 9th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022030
+DTSTAMP:20250303T182930Z
+DTSTART:20300402T070100Z
+DTEND:20300402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 10th Anniversary
+DESCRIPTION:Nagao Kei 10th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022031
+DTSTAMP:20250303T182930Z
+DTSTART:20310402T070100Z
+DTEND:20310402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 11th Anniversary
+DESCRIPTION:Nagao Kei 11th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022032
+DTSTAMP:20250303T182930Z
+DTSTART:20320402T070100Z
+DTEND:20320402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 12th Anniversary
+DESCRIPTION:Nagao Kei 12th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022033
+DTSTAMP:20250303T182930Z
+DTSTART:20330402T070100Z
+DTEND:20330402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 13th Anniversary
+DESCRIPTION:Nagao Kei 13th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022034
+DTSTAMP:20250303T182930Z
+DTSTART:20340402T070100Z
+DTEND:20340402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 14th Anniversary
+DESCRIPTION:Nagao Kei 14th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e022035
+DTSTAMP:20250303T182930Z
+DTSTART:20350402T070100Z
+DTEND:20350402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagao Kei 15th Anniversary
+DESCRIPTION:Nagao Kei 15th Anniversary\n\nFirst tweet: Apr 2, 2020, 16:04 (JST)\nFirst stream: Apr 4, 2020 (JST)\n\n\n==========\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR
