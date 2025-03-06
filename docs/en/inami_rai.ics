@@ -6,23 +6,25 @@ X-WR-CALNAME:Inami Rai
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250304T015913Z
+DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
 DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
-DTSTAMP:20250304T013659Z
+DTSTAMP:20250306T040005Z
 DTSTART:20250830T090000Z
 DTEND:20250830T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Kobe
 LOCATION:Kobe International House
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kobe International House":geo:34.692295,135.195742
 DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
