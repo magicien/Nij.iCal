@@ -7,3 +7,6 @@ show_downloads: false
 logo: /imgs/logo.png
 github:
   is_project_page: false
+twitter:
+  card: summary
+  username: "@nijical2434"
