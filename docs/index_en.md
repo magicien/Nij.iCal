@@ -1,6 +1,7 @@
 ---
 title: "Nij.iCal: Nijisanji Unofficial Calendar"
 site_name: "Nij.iCal: Nijisanji Unofficial Calendar"
+description: "Nij.iCal: Nijisanji Unofficial Calendar"
 lang: en_US
 image: /imgs/logo.png
 ---

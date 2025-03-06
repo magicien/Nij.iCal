@@ -1,6 +1,7 @@
 ---
 title: "Nij.iCal: にじさんじ非公式カレンダー"
 site_name: "Nij.iCal: にじさんじ非公式カレンダー"
+description: "Nij.iCal: にじさんじ非公式カレンダー"
 lang: ja_JP
 image: /imgs/logo.png
 ---
