@@ -6,45 +6,49 @@ X-WR-CALNAME:剣持刀也
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250304T015913Z
+DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ff42d3-eb2e-4033-af59-9063f379f809
-DTSTAMP:20250304T022928Z
+DTSTAMP:20250306T035936Z
 DTSTART:20250519T090000Z
 DTEND:20250519T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:くろのわーるが武道館でなんかやる
 LOCATION:日本武道館
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
 DESCRIPTION:ニュースページ\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.nijisanji.jp/news/037_t8f6sg
 END:VEVENT
 BEGIN:VEVENT
 UID:d6142773-050f-4c99-86c6-fb9f8cfcc9ce
-DTSTAMP:20250304T014151Z
+DTSTAMP:20250306T035953Z
 DTSTART:20250720T090000Z
 DTEND:20250720T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:ROF-MAO 2nd LIVE - Limitless
 LOCATION:Kアリーナ横浜
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/rof-mao_2ndlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250304T013705Z
+DTSTAMP:20250306T040032Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演
 LOCATION:TOYOTA ARENA TOKYO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT

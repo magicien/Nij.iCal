@@ -6,12 +6,13 @@ X-WR-CALNAME:クララ チャームウッド
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250304T015913Z
+DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT

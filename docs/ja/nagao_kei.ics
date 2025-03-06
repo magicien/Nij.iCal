@@ -6,23 +6,25 @@ X-WR-CALNAME:長尾景
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250304T015913Z
+DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:727b81ad-7a6e-4f09-9f29-459af03f593d
-DTSTAMP:20250304T013649Z
+DTSTAMP:20250306T035946Z
 DTSTART:20250622T090000Z
 DTEND:20250622T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 名古屋公演
 LOCATION:愛知県芸術劇場
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="愛知県芸術劇場":geo:35.170818,136.911154
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【先斗寧】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT

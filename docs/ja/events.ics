@@ -6,188 +6,205 @@ X-WR-CALNAME:にじさんじイベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:e04bb9ca-7055-4b89-95af-c1177ff13925
-DTSTAMP:20250304T014151Z
+DTSTAMP:20250306T040208Z
 DTSTART:20241129T120000Z
 DTEND:20241129T140000Z
 TRANSP:TRANSPARENT
 SUMMARY:Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 台北公演
 LOCATION:Zepp New Taipei
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp New Taipei":geo:25.059960,121.449464
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_514\n\n無料パート視聴ページ\nhttps://www.youtube.com/live/OXZGx7Npxk8\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n【遠藤霊夢】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
 URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:3cb37e73-63bb-4db7-87b3-7d2abf9393a8
-DTSTAMP:20250304T013623Z
+DTSTAMP:20250306T035913Z
 DTSTART:20250308T043000Z
 DTEND:20250308T063000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nornis Orchestra Live「Concerto di luce」昼公演
 LOCATION:大宮ソニックシティ 大ホール
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="大宮ソニックシティ 大ホール":geo:35.905259,139.619703
 DESCRIPTION:特設サイト\nhttps://www.nornis.com/event/orchestralive_concertodiluce/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/QiGCs8REba\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_567\n\n直前放送\nhttps://live.nicovideo.jp/watch/lv346893846\n\n本編視聴ページ\nhttps://live.nicovideo.jp/watch/lv346723913\n\n【戌亥とこライバーカメラ】視聴ページ\nhttps://live.nicovideo.jp/watch/lv346723928\n\n【町田ちまライバーカメラ】視聴ページ\nhttps://live.nicovideo.jp/watch/lv346723957\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n
 URL:https://www.nornis.com/event/orchestralive_concertodiluce/
 END:VEVENT
 BEGIN:VEVENT
 UID:153e2a4f-94d2-4e3f-9ee2-04f4ab99277e
-DTSTAMP:20250304T013631Z
+DTSTAMP:20250306T035912Z
 DTSTART:20250308T100000Z
 DTEND:20250308T120000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nornis Orchestra Live「Concerto di luce」夜公演
 LOCATION:大宮ソニックシティ 大ホール
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="大宮ソニックシティ 大ホール":geo:35.905259,139.619703
 DESCRIPTION:特設サイト\nhttps://www.nornis.com/event/orchestralive_concertodiluce/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/QiGCs8REba\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_567\n\n直前放送\nhttps://live.nicovideo.jp/watch/lv346893846\n\n本編視聴ページ\nhttps://live.nicovideo.jp/watch/lv346724057\n\n【戌亥とこライバーカメラ】視聴ページ\nhttps://live.nicovideo.jp/watch/lv346724070\n\n【町田ちまライバーカメラ】視聴ページ\nhttps://live.nicovideo.jp/watch/lv346724084\n\n最速感想放送\nhttps://live.nicovideo.jp/watch/lv346947557\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n
 URL:https://www.nornis.com/event/orchestralive_concertodiluce/
 END:VEVENT
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250304T015913Z
+DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:499a01fb-6742-4158-8a1c-f343859c1e47
-DTSTAMP:20250304T013636Z
+DTSTAMP:20250306T035804Z
 DTSTART:20250418T090000Z
 DTEND:20250418T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 2ndワンマンライブ\n『Paper Rabbit』
 LOCATION:J:COMホール八王子
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="J:COMホール八王子":geo:35.654300,139.337706
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/tsukino_paperrabbit/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.nijisanji.jp/events/tsukino_paperrabbit/
 END:VEVENT
 BEGIN:VEVENT
 UID:99562266-d3d3-4668-b0a9-d8cf4701e80f
-DTSTAMP:20250304T013644Z
+DTSTAMP:20250306T035805Z
 DTSTART:20250419T090000Z
 DTEND:20250419T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演
 LOCATION:J:COMホール八王子
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="J:COMホール八王子":geo:35.654300,139.337706
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/FAqflIJ9jk\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_514\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【エナー・アールウェット】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
 URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:cdebb070-7955-4a01-adc5-07ee77b36727
-DTSTAMP:20250304T014036Z
+DTSTAMP:20250306T035822Z
 DTSTART:20250503T040000Z
 DTEND:20250503T060000Z
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki's FAN Meeting ファンミーティングパート
 LOCATION:リーガロイヤルホテル東京
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="リーガロイヤルホテル東京":geo:35.710604,139.722628
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a672b4-286f-4473-bd18-f6cdcc7f82e3
-DTSTAMP:20250304T023708Z
+DTSTAMP:20250306T035824Z
 DTSTART:20250503T090000Z
 DTEND:20250503T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki's FAN Meeting ディナーショーパート
 LOCATION:リーガロイヤルホテル東京
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="リーガロイヤルホテル東京":geo:35.710604,139.722628
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\n※オンライン配信なし\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:c4ee24af-8fec-45c0-8695-14171d44bfc5
-DTSTAMP:20250304T013647Z
+DTSTAMP:20250306T035837Z
 DTSTART:20250510T090000Z
 DTEND:20250510T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演
 LOCATION:仙台サンプラザホール
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="仙台サンプラザホール":geo:38.257682,140.894160
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ff42d3-eb2e-4033-af59-9063f379f809
-DTSTAMP:20250304T022928Z
+DTSTAMP:20250306T035936Z
 DTSTART:20250519T090000Z
 DTEND:20250519T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:くろのわーるが武道館でなんかやる
 LOCATION:日本武道館
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
 DESCRIPTION:ニュースページ\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.nijisanji.jp/news/037_t8f6sg
 END:VEVENT
 BEGIN:VEVENT
 UID:727b81ad-7a6e-4f09-9f29-459af03f593d
-DTSTAMP:20250304T013649Z
+DTSTAMP:20250306T035946Z
 DTSTART:20250622T090000Z
 DTEND:20250622T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 名古屋公演
 LOCATION:愛知県芸術劇場
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="愛知県芸術劇場":geo:35.170818,136.911154
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【先斗寧】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:d6142773-050f-4c99-86c6-fb9f8cfcc9ce
-DTSTAMP:20250304T014151Z
+DTSTAMP:20250306T035953Z
 DTSTART:20250720T090000Z
 DTEND:20250720T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:ROF-MAO 2nd LIVE - Limitless
 LOCATION:Kアリーナ横浜
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/rof-mao_2ndlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:40275588-0052-4ba0-a2f2-a11cce6671e8
-DTSTAMP:20250304T013652Z
+DTSTAMP:20250306T035954Z
 DTSTART:20250721T090000Z
 DTEND:20250721T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演
 LOCATION:Kアリーナ横浜
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
-DTSTAMP:20250304T013659Z
+DTSTAMP:20250306T040005Z
 DTSTART:20250830T090000Z
 DTEND:20250830T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 神戸公演
 LOCATION:神戸国際会館
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="神戸国際会館":geo:34.692295,135.195742
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【シェリン・バーガンディ】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:72460880-d374-4b14-a7fd-cb391d793a0b
-DTSTAMP:20250304T013701Z
+DTSTAMP:20250306T040015Z
 DTSTART:20250913T090000Z
 DTEND:20250913T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 福岡公演
 LOCATION:福岡サンパレス ホテル＆ホール
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="福岡サンパレス ホテル＆ホール":geo:33.603405,130.402999
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【鷹宮リオン】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:60681f23-b184-4de9-84c2-2dedc25147e0
-DTSTAMP:20250304T013703Z
+DTSTAMP:20250306T040023Z
 DTSTART:20251018T090000Z
 DTEND:20251018T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演
 LOCATION:広島文化学園HBGホール
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="広島文化学園HBGホール":geo:34.388465,132.448613
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250304T013705Z
+DTSTAMP:20250306T040032Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演
 LOCATION:TOYOTA ARENA TOKYO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT

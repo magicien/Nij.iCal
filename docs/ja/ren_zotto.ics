@@ -6,23 +6,25 @@ X-WR-CALNAME:レン ゾット
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:e04bb9ca-7055-4b89-95af-c1177ff13925
-DTSTAMP:20250304T014151Z
+DTSTAMP:20250306T040208Z
 DTSTART:20241129T120000Z
 DTEND:20241129T140000Z
 TRANSP:TRANSPARENT
 SUMMARY:Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 台北公演
 LOCATION:Zepp New Taipei
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp New Taipei":geo:25.059960,121.449464
 DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_514\n\n無料パート視聴ページ\nhttps://www.youtube.com/live/OXZGx7Npxk8\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n【遠藤霊夢】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
 URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250304T015913Z
+DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT

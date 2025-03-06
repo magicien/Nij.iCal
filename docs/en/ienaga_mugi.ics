@@ -6,23 +6,25 @@ X-WR-CALNAME:Ienaga Mugi
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250304T015913Z
+DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
 DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250304T013705Z
+DTSTAMP:20250306T040032Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo
 LOCATION:TOYOTA ARENA TOKYO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
 DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
