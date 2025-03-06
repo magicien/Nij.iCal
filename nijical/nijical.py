@@ -71,7 +71,7 @@ class NijiCal:
             with open(
                 "docs/en/calendars.md", mode="w", encoding="utf_8_sig"
             ) as en_file:
-                url_prefix = "webcal://magicien.github.io/Nij.iCal"
+                url_prefix = "webcal://magicien.github.io/CalTest"  # TODO: Replace URL
                 ja_file.write("|名前|日本語|英語|\n|---|---|---|\n")
                 en_file.write("|Name|English|Japanese|\n|---|---|---|\n")
                 for talent in sorted_talents:
@@ -96,16 +96,16 @@ class NijiCal:
 
         talents: dict[str, Talent] = {}
         for row in data.itertuples():
-            first_tweet_datetime = arrow.get(row[7], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
-            first_stream_datetime = arrow.get(row[8], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
-            timestamp = arrow.get(row[14], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
+            timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
+            first_tweet_datetime = arrow.get(row[8], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            first_stream_datetime = arrow.get(row[9], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
 
             birthday: arrow.Arrow | None = None
-            if type(row[4]) is str:
-                if row[4] == "2/29":
+            if type(row[5]) is str:
+                if row[5] == "2/29":
                     birthday = arrow.get(2020, 2, 29, tzinfo=tzinfo)
                 else:
-                    birthday = arrow.get(row[4], "M/D", tzinfo=tzinfo)
+                    birthday = arrow.get(row[5], "M/D", tzinfo=tzinfo)
                     birthday = arrow.get(
                         first_tweet_datetime.year,
                         birthday.month,
@@ -118,22 +118,22 @@ class NijiCal:
                         birthday = birthday.shift(years=1)
 
             graduation_date: arrow.Arrow | None = None
-            if type(row[13]) is str:
-                graduation_date = arrow.get(row[13], "YYYY/MM/DD", tzinfo=tzinfo)
+            if type(row[14]) is str:
+                graduation_date = arrow.get(row[14], "YYYY/MM/DD", tzinfo=tzinfo)
 
             talent = Talent(
                 uid=row[2],
                 name=row[1],
-                eng_name=row[3],
+                eng_name=row[4],
                 birthday=birthday,
-                birthday_label=row[5],
-                eng_birthday_label=row[6],
+                birthday_label=row[6],
+                eng_birthday_label=row[7],
                 first_tweet_datetime=first_tweet_datetime,
                 first_stream_datetime=first_stream_datetime,
-                youtube_url=row[9],
-                twitter_url=row[10],
-                description=row[11],
-                eng_description=row[12],
+                youtube_url=row[10],
+                twitter_url=row[11],
+                description=row[12],
+                eng_description=row[13],
                 graduation_date=graduation_date,
                 timestamp=timestamp,
             )
@@ -147,10 +147,10 @@ class NijiCal:
 
         events: list[Event] = []
         for row in data.itertuples():
-            begin = arrow.get(row[4], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
-            end = arrow.get(row[5], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
-            timestamp = arrow.get(row[12], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
-            talent_names = list(name.strip() for name in row[11].split(","))
+            timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
+            begin = arrow.get(row[5], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            end = arrow.get(row[6], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            talent_names = list(name.strip() for name in row[13].split(","))
 
             event_talents: list[Talent] = []
             for talent_name in talent_names:
@@ -165,12 +165,13 @@ class NijiCal:
                 yearly=False,
                 repeat_until=None,
                 summary=row[1],
-                eng_summary=row[3],
-                location=row[6],
-                eng_location=row[7],
-                description=row[8],
-                eng_description=row[9],
-                url=row[10],
+                eng_summary=row[4],
+                location=row[7],
+                eng_location=row[8],
+                geo=row[9],
+                description=row[10],
+                eng_description=row[11],
+                url=row[12],
                 talents=event_talents,
             )
             events.append(event)
@@ -226,6 +227,7 @@ class NijiCal:
             eng_summary=eng_title,
             location=None,
             eng_location=None,
+            geo=None,
             description=title,
             eng_description=eng_title,
             url=talent.youtube_url,
@@ -257,6 +259,7 @@ class NijiCal:
                 eng_summary=eng_title,
                 location=None,
                 eng_location=None,
+                geo=None,
                 description=title,
                 eng_description=eng_title,
                 url=talent.youtube_url,
@@ -312,6 +315,7 @@ class NijiCal:
                     eng_summary=eng_title,
                     location=None,
                     eng_location=None,
+                    geo=None,
                     description=description,
                     eng_description=eng_description,
                     url=talent.youtube_url,
@@ -343,6 +347,7 @@ class NijiCal:
             eng_summary=eng_title,
             location=None,
             eng_location=None,
+            geo=None,
             description=title,
             eng_description=eng_title,
             url=talent.youtube_url,
@@ -367,6 +372,7 @@ class NijiCal:
             eng_summary=eng_title,
             location=None,
             eng_location=None,
+            geo=None,
             description=title,
             eng_description=eng_title,
             url=nijisanji.youtube_url,

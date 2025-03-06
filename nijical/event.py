@@ -16,6 +16,7 @@ class Event:
     eng_summary: str
     location: str | None
     eng_location: str | None
+    geo: str | None
     description: str
     eng_description: str
     url: str | None
@@ -52,8 +53,11 @@ class Event:
         if is_english:
             result += self.param("SUMMARY", self.eng_summary)
 
-            if self.eng_location is not None:
+            if type(self.eng_location) is str:
                 result += self.param("LOCATION", self.eng_location)
+
+            if type(self.geo) is str:
+                result += f'X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="{self.eng_location}":geo:{self.geo}\r\n'
 
             result += self.param(
                 "DESCRIPTION",
@@ -64,8 +68,11 @@ class Event:
         else:
             result += self.param("SUMMARY", self.summary)
 
-            if self.location is not None:
+            if type(self.location) is str:
                 result += self.param("LOCATION", self.location)
+
+            if type(self.geo) is str:
+                result += f'X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="{self.location}":geo:{self.geo}\r\n'
 
             result += self.param(
                 "DESCRIPTION",
