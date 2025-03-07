@@ -17,6 +17,18 @@ DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening H
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:499a01fb-6742-4158-8a1c-f343859c1e47
+DTSTAMP:20250307T033115Z
+DTSTART:20250418T090000Z
+DTEND:20250418T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Tsukino Mito 2nd solo live "Paper Rabbit"
+LOCATION:J:COM Hall Hachioji
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="J:COM Hall Hachioji":geo:35.654300,139.337706
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/tsukino_paperrabbit/\n\nTickets: General fan club advance lottery (until March 16th at 23:59 JST)\nhttps://eplus.jp/mitotsukino-fc/\n\nTickets: e+ advance lottery (until March 23rd at 23:59 JST)\nhttps://eplus.jp/mitotsukino/\n\nTickets: General sale (first come, first served) (starting April 5th at 12:00 JST)\nhttps://eplus.jp/mitotsukino/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Genzuki Tojiro】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+URL:https://www.nijisanji.jp/events/tsukino_paperrabbit/
+END:VEVENT
+BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0012020
 DTSTAMP:20250303T182931Z
 DTSTART:20200730
