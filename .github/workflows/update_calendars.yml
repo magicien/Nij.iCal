@@ -31,7 +31,7 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           branch: update-calendar
-          commit-message: Update calendars
+          commit-message: "いくつかのデータを更新しました。\nUpdated some data"
           delete-branch: true
-          title: Update calendars
+          title: "[CalendarUpdate] Update calendars"
 

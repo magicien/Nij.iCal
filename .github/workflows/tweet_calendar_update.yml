@@ -1,0 +1,33 @@
+name: Tweet Calendar update
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  tweet-calendar-update:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.title, '[CalendarUpdate]')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python and Poetry
+        uses: ./.github/actions/setup_python
+
+      - name: Tweet calendar updates
+        env:
+          JA_BEARER_TOKEN: ${{ secrets.JA_BEARER_TOKEN }}
+          JA_CONSUMER_KEY: ${{ secrets.JA_CONSUMER_KEY }}
+          JA_CONSUMER_SECRET: ${{ secrets.JA_CONSUMER_SECRET }}
+          JA_ACCESS_TOKEN: ${{ secrets.JA_ACCESS_TOKEN }}
+          JA_ACCESS_TOKEN_SECRET: ${{ secrets.JA_ACCESS_TOKEN_SECRET }}
+          EN_BEARER_TOKEN: ${{ secrets.EN_BEARER_TOKEN }}
+          EN_CONSUMER_KEY: ${{ secrets.EN_CONSUMER_KEY }}
+          EN_CONSUMER_SECRET: ${{ secrets.EN_CONSUMER_SECRET }}
+          EN_ACCESS_TOKEN: ${{ secrets.EN_ACCESS_TOKEN }}
+          EN_ACCESS_TOKEN_SECRET: ${{ secrets.EN_ACCESS_TOKEN_SECRET }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: ./tweet_calendar_update.sh
+
