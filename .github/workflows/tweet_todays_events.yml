@@ -27,5 +27,5 @@ jobs:
           EN_CONSUMER_SECRET: ${{ secrets.EN_CONSUMER_SECRET }}
           EN_ACCESS_TOKEN: ${{ secrets.EN_ACCESS_TOKEN }}
           EN_ACCESS_TOKEN_SECRET: ${{ secrets.EN_ACCESS_TOKEN_SECRET }}
-        run: ./tweet.sh
+        run: ./tweet_todays_events.sh
 
