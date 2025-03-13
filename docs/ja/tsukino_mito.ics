@@ -41,6 +41,18 @@ DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_t
 URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
+UID:c3ff42d3-eb2e-4033-af59-9063f379f809
+DTSTAMP:20250311T082906Z
+DTSTART:20250519T090000Z
+DTEND:20250519T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:くろのわーるが武道館でなんかやる
+LOCATION:日本武道館
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
+DESCRIPTION:ニュースページ\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://www.nijisanji.jp/news/037_t8f6sg
+END:VEVENT
+BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
 DTSTAMP:20250306T040032Z
 DTSTART:20260118T090000Z

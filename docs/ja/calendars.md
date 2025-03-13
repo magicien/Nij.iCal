@@ -245,3 +245,7 @@
 七瀬すず菜|[日本語](webcal://magicien.github.io/CalTest/ja/nanase_suzuna.ics)|[英語](webcal://magicien.github.io/CalTest/en/nanase_suzuna.ics)
 雲母たまこ|[日本語](webcal://magicien.github.io/CalTest/ja/kirara_tamako.ics)|[英語](webcal://magicien.github.io/CalTest/en/kirara_tamako.ics)
 酒寄颯馬|[日本語](webcal://magicien.github.io/CalTest/ja/sakayori_soma.ics)|[英語](webcal://magicien.github.io/CalTest/en/sakayori_soma.ics)
+ケイリクス・デボネア|[日本語](webcal://magicien.github.io/CalTest/ja/kaelix_debonair.ics)|[英語](webcal://magicien.github.io/CalTest/en/kaelix_debonair.ics)
+ジール・ギンジョウカ|[日本語](webcal://magicien.github.io/CalTest/ja/zeal_ginjoka.ics)|[英語](webcal://magicien.github.io/CalTest/en/zeal_ginjoka.ics)
+フリオドール|[日本語](webcal://magicien.github.io/CalTest/ja/freodore.ics)|[英語](webcal://magicien.github.io/CalTest/en/freodore.ics)
+セイブル|[日本語](webcal://magicien.github.io/CalTest/ja/seible.ics)|[英語](webcal://magicien.github.io/CalTest/en/seible.ics)

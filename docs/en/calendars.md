@@ -245,3 +245,7 @@ Nagisa Trout|[English](webcal://magicien.github.io/CalTest/en/nagisa_trout.ics)|
 Nanase Suzuna|[English](webcal://magicien.github.io/CalTest/en/nanase_suzuna.ics)|[Japanese](webcal://magicien.github.io/CalTest/ja/nanase_suzuna.ics)
 Kirara Tamako|[English](webcal://magicien.github.io/CalTest/en/kirara_tamako.ics)|[Japanese](webcal://magicien.github.io/CalTest/ja/kirara_tamako.ics)
 Sakayori Soma|[English](webcal://magicien.github.io/CalTest/en/sakayori_soma.ics)|[Japanese](webcal://magicien.github.io/CalTest/ja/sakayori_soma.ics)
+Kaelix Debonair|[English](webcal://magicien.github.io/CalTest/en/kaelix_debonair.ics)|[Japanese](webcal://magicien.github.io/CalTest/ja/kaelix_debonair.ics)
+Zeal Ginjoka|[English](webcal://magicien.github.io/CalTest/en/zeal_ginjoka.ics)|[Japanese](webcal://magicien.github.io/CalTest/ja/zeal_ginjoka.ics)
+Freodore|[English](webcal://magicien.github.io/CalTest/en/freodore.ics)|[Japanese](webcal://magicien.github.io/CalTest/ja/freodore.ics)
+Seible|[English](webcal://magicien.github.io/CalTest/en/seible.ics)|[Japanese](webcal://magicien.github.io/CalTest/ja/seible.ics)
