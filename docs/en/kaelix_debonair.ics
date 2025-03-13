@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kaelix Debonair
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250306T035749Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition
+LOCATION:Roppongi Museum
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09012025
+DTSTAMP:20250313T020659Z
+DTSTART:20251105
+DTEND:20251105
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair Birthday
+DESCRIPTION:Kaelix Debonair Birthday\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022025
+DTSTAMP:20250313T020659Z
+DTSTART:20250312T230300Z
+DTEND:20250312T233300Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair Debut
+DESCRIPTION:Kaelix Debonair Debut\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022026
+DTSTAMP:20250313T020659Z
+DTSTART:20260312T230300Z
+DTEND:20260312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 1st Anniversary
+DESCRIPTION:Kaelix Debonair 1st Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022027
+DTSTAMP:20250313T020659Z
+DTSTART:20270312T230300Z
+DTEND:20270312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 2nd Anniversary
+DESCRIPTION:Kaelix Debonair 2nd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022028
+DTSTAMP:20250313T020659Z
+DTSTART:20280312T230300Z
+DTEND:20280312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 3rd Anniversary
+DESCRIPTION:Kaelix Debonair 3rd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022029
+DTSTAMP:20250313T020659Z
+DTSTART:20290312T230300Z
+DTEND:20290312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 4th Anniversary
+DESCRIPTION:Kaelix Debonair 4th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022030
+DTSTAMP:20250313T020659Z
+DTSTART:20300312T230300Z
+DTEND:20300312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 5th Anniversary
+DESCRIPTION:Kaelix Debonair 5th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022031
+DTSTAMP:20250313T020659Z
+DTSTART:20310312T230300Z
+DTEND:20310312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 6th Anniversary
+DESCRIPTION:Kaelix Debonair 6th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022032
+DTSTAMP:20250313T020659Z
+DTSTART:20320312T230300Z
+DTEND:20320312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 7th Anniversary
+DESCRIPTION:Kaelix Debonair 7th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022033
+DTSTAMP:20250313T020659Z
+DTSTART:20330312T230300Z
+DTEND:20330312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 8th Anniversary
+DESCRIPTION:Kaelix Debonair 8th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022034
+DTSTAMP:20250313T020659Z
+DTSTART:20340312T230300Z
+DTEND:20340312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 9th Anniversary
+DESCRIPTION:Kaelix Debonair 9th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09022035
+DTSTAMP:20250313T020659Z
+DTSTART:20350312T230300Z
+DTEND:20350312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaelix Debonair 10th Anniversary
+DESCRIPTION:Kaelix Debonair 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Day
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR

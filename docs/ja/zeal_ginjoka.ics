@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:ジール・ギンジョウカ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
+DTSTAMP:20250306T035749Z
+DTSTART:20250402T010000Z
+DTEND:20250629T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展
+LOCATION:六本木ミュージアム
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936012025
+DTSTAMP:20250313T020604Z
+DTSTART:20250727
+DTEND:20250727
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 誕生日
+DESCRIPTION:ジール・ギンジョウカ 誕生日\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022025
+DTSTAMP:20250313T020604Z
+DTSTART:20250312T230300Z
+DTEND:20250312T233300Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 活動開始
+DESCRIPTION:ジール・ギンジョウカ 活動開始\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022026
+DTSTAMP:20250313T020604Z
+DTSTART:20260312T230300Z
+DTEND:20260312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 1周年
+DESCRIPTION:ジール・ギンジョウカ 1周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022027
+DTSTAMP:20250313T020604Z
+DTSTART:20270312T230300Z
+DTEND:20270312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 2周年
+DESCRIPTION:ジール・ギンジョウカ 2周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022028
+DTSTAMP:20250313T020604Z
+DTSTART:20280312T230300Z
+DTEND:20280312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 3周年
+DESCRIPTION:ジール・ギンジョウカ 3周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022029
+DTSTAMP:20250313T020604Z
+DTSTART:20290312T230300Z
+DTEND:20290312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 4周年
+DESCRIPTION:ジール・ギンジョウカ 4周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022030
+DTSTAMP:20250313T020604Z
+DTSTART:20300312T230300Z
+DTEND:20300312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 5周年
+DESCRIPTION:ジール・ギンジョウカ 5周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022031
+DTSTAMP:20250313T020604Z
+DTSTART:20310312T230300Z
+DTEND:20310312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 6周年
+DESCRIPTION:ジール・ギンジョウカ 6周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022032
+DTSTAMP:20250313T020604Z
+DTSTART:20320312T230300Z
+DTEND:20320312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 7周年
+DESCRIPTION:ジール・ギンジョウカ 7周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022033
+DTSTAMP:20250313T020604Z
+DTSTART:20330312T230300Z
+DTEND:20330312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 8周年
+DESCRIPTION:ジール・ギンジョウカ 8周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022034
+DTSTAMP:20250313T020604Z
+DTSTART:20340312T230300Z
+DTEND:20340312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 9周年
+DESCRIPTION:ジール・ギンジョウカ 9周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:0963539a-f44e-4f41-a44c-48b936022035
+DTSTAMP:20250313T020604Z
+DTSTART:20350312T230300Z
+DTEND:20350312T230301Z
+TRANSP:TRANSPARENT
+SUMMARY:ジール・ギンジョウカ 10周年
+DESCRIPTION:ジール・ギンジョウカ 10周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
+URL:https://www.youtube.com/@ZealGinjoka
+END:VEVENT
+BEGIN:VEVENT
+UID:26e363dd-f62f-4586-967c-e47469012019
+DTSTAMP:20250303T184225Z
+DTSTART:20190203
+DTEND:20190203
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじの日
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
+END:VEVENT
+END:VCALENDAR
