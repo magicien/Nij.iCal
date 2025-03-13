@@ -71,9 +71,18 @@ class NijiCal:
             with open(
                 "docs/en/calendars.md", mode="w", encoding="utf_8_sig"
             ) as en_file:
-                url_prefix = "webcal://magicien.github.io/CalTest"  # TODO: Replace URL
-                ja_file.write("|名前|日本語|英語|\n|---|---|---|\n")
-                en_file.write("|Name|English|Japanese|\n|---|---|---|\n")
+                url_prefix = "webcal://magicien.github.io/Nij.iCal"
+
+                ja_file.write("<form action='#' class='search-form' onsubmit='return false;'><input id='liver-filter-input' placeholder='検索'/></form>\n")
+                en_file.write("<form action='#' class='search-form' onsubmit='return false;'><input id='liver-filter-input' placeholder='Search' /></form>\n")
+
+                ja_file.write(
+                    "<table><thead><tr><th>名前</th><th>日本語</th><th>英語</th></tr></thead><tbody>\n"
+                )
+                en_file.write(
+                    "<table><thead><tr><th>Name</th><th>English</th><th>Japanese</th></tr></thead><tbody>\n"
+                )
+
                 for talent in sorted_talents:
                     if talent.name == "にじさんじ":
                         continue
@@ -81,12 +90,24 @@ class NijiCal:
                     file_name = talent.eng_name.lower().replace(" ", "_") + ".ics"
                     ja_url = f"{url_prefix}/ja/{file_name}"
                     en_url = f"{url_prefix}/en/{file_name}"
+                    row = f"<tr class='liver-item' tags='{talent.name},{talent.eng_name.lower()},{talent.furigana}'>"
                     ja_file.write(
-                        f"{talent.name}|[日本語]({ja_url})|[英語]({en_url})\n"
+                        row
+                        + f"<td>{talent.name}</td>"
+                        + f"<td><a href='{ja_url}'>日本語</a></td>"
+                        + f"<td><a href='{en_url}'>英語</a></td>"
+                        + "</tr>\n"
                     )
                     en_file.write(
-                        f"{talent.eng_name}|[English]({en_url})|[Japanese]({ja_url})\n"
+                        row
+                        + f"<td>{talent.eng_name}</td>"
+                        + f"<td><a href='{en_url}'>English</a></td>"
+                        + f"<td><a href='{ja_url}'>Japanese</a></td>"
+                        + "</tr>\n"
                     )
+
+                ja_file.write("</tbody></table>\n")
+                en_file.write("</tbody></table>\n")
 
         return 0
 
@@ -97,15 +118,17 @@ class NijiCal:
         talents: dict[str, Talent] = {}
         for row in data.itertuples():
             timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
-            first_tweet_datetime = arrow.get(row[8], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
-            first_stream_datetime = arrow.get(row[9], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            first_tweet_datetime = arrow.get(row[9], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            first_stream_datetime = arrow.get(
+                row[10], "YYYY/MM/DD HH:mm", tzinfo=tzinfo
+            )
 
             birthday: arrow.Arrow | None = None
-            if type(row[5]) is str:
-                if row[5] == "2/29":
+            if type(row[6]) is str:
+                if row[6] == "2/29":
                     birthday = arrow.get(2020, 2, 29, tzinfo=tzinfo)
                 else:
-                    birthday = arrow.get(row[5], "M/D", tzinfo=tzinfo)
+                    birthday = arrow.get(row[6], "M/D", tzinfo=tzinfo)
                     birthday = arrow.get(
                         first_tweet_datetime.year,
                         birthday.month,
@@ -118,22 +141,23 @@ class NijiCal:
                         birthday = birthday.shift(years=1)
 
             graduation_date: arrow.Arrow | None = None
-            if type(row[14]) is str:
-                graduation_date = arrow.get(row[14], "YYYY/MM/DD", tzinfo=tzinfo)
+            if type(row[15]) is str:
+                graduation_date = arrow.get(row[15], "YYYY/MM/DD", tzinfo=tzinfo)
 
             talent = Talent(
                 uid=row[2],
                 name=row[1],
                 eng_name=row[4],
+                furigana=row[5],
                 birthday=birthday,
-                birthday_label=row[6],
-                eng_birthday_label=row[7],
+                birthday_label=row[7],
+                eng_birthday_label=row[8],
                 first_tweet_datetime=first_tweet_datetime,
                 first_stream_datetime=first_stream_datetime,
-                youtube_url=row[10],
-                twitter_url=row[11],
-                description=row[12],
-                eng_description=row[13],
+                youtube_url=row[11],
+                twitter_url=row[12],
+                description=row[13],
+                eng_description=row[14],
                 graduation_date=graduation_date,
                 timestamp=timestamp,
             )

@@ -7,6 +7,7 @@ class Talent:
     uid: str
     name: str
     eng_name: str
+    furigana: str
     birthday: arrow.Arrow | None
     birthday_label: str | None
     eng_birthday_label: str | None
