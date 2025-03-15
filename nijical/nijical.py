@@ -73,14 +73,20 @@ class NijiCal:
             ) as en_file:
                 url_prefix = "webcal://magicien.github.io/Nij.iCal"
 
-                ja_file.write("<form action='#' class='search-form' onsubmit='return false;'><input id='liver-filter-input' placeholder='検索'/></form>\n")
-                en_file.write("<form action='#' class='search-form' onsubmit='return false;'><input id='liver-filter-input' placeholder='Search' /></form>\n")
-
                 ja_file.write(
-                    "<table><thead><tr><th>名前</th><th>日本語</th><th>英語</th></tr></thead><tbody>\n"
+                    "<form action='#' class='search-form' onsubmit='return false;'><input id='liver-filter-input' placeholder='検索'/></form>\n"
                 )
                 en_file.write(
-                    "<table><thead><tr><th>Name</th><th>English</th><th>Japanese</th></tr></thead><tbody>\n"
+                    "<form action='#' class='search-form' onsubmit='return false;'><input id='liver-filter-input' placeholder='Search' /></form>\n"
+                )
+
+                ja_file.write(
+                    "<div class='calendar-list-container'>"
+                    + "<table><thead><tr><th>名前</th><th>日本語</th><th>英語</th></tr></thead><tbody>\n"
+                )
+                en_file.write(
+                    "<div class='calendar-list-container'>"
+                    + "<table><thead><tr><th>Name</th><th>English</th><th>Japanese</th></tr></thead><tbody>\n"
                 )
 
                 for talent in sorted_talents:
@@ -106,8 +112,8 @@ class NijiCal:
                         + "</tr>\n"
                     )
 
-                ja_file.write("</tbody></table>\n")
-                en_file.write("</tbody></table>\n")
+                ja_file.write("</tbody></table></div>\n")
+                en_file.write("</tbody></table></div>\n")
 
         return 0
 
