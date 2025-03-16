@@ -79,7 +79,7 @@ class Event:
                 self.description + self.generate_talent_description(is_english=False),
             )
 
-        if self.url is not None:
+        if type(self.url) is str:
             result += self.param("URL", self.url)
 
         result += self.param("END", "VEVENT")
@@ -133,7 +133,7 @@ class Event:
         for talent in self.talents:
             result += f"【{talent.eng_name if is_english else talent.name}】\n"
             result += f"YouTube: {talent.youtube_url}\n"
-            if talent.twitter_url is not None:
+            if type(talent.twitter_url) is str:
                 result += f"X: {talent.twitter_url}\n"
             result += "\n"
 

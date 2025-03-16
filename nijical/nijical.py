@@ -267,7 +267,7 @@ class NijiCal:
     def generate_anniversary_events(self, talent: Talent) -> list[Event]:
         events: list[Event] = []
 
-        # debut
+        # debut: first tweet
         uid = (
             talent.uid[:-6]
             + "02"
@@ -297,6 +297,36 @@ class NijiCal:
             )
         )
 
+        # debut stream
+        uid = (
+            talent.uid[:-6]
+            + "03"
+            + talent.first_stream_datetime.to("utc").format("YYYY")
+        )
+        title = f"{talent.name} 初配信"
+        eng_title = f"{talent.eng_name} Debut stream"
+
+        events.append(
+            Event(
+                uid=uid,
+                timestamp=talent.timestamp,
+                begin=talent.first_stream_datetime,
+                end=talent.first_stream_datetime.shift(minutes=30),
+                all_day=False,
+                yearly=False,
+                repeat_until=None,
+                summary=title,
+                eng_summary=eng_title,
+                location=None,
+                eng_location=None,
+                geo=None,
+                description=title,
+                eng_description=eng_title,
+                url=talent.youtube_url,
+                talents=[talent],
+            )
+        )
+
         # anniversaries
         event_date = talent.first_tweet_datetime.to("utc").shift(years=1)
         start_year = event_date.year
@@ -310,14 +340,14 @@ class NijiCal:
                 end_year -= 1
 
         first_tweet = talent.first_tweet_datetime.format("YYYY/MM/DD HH:mm")
-        first_stream = talent.first_stream_datetime.format("YYYY/MM/DD")
+        first_stream = talent.first_stream_datetime.format("YYYY/MM/DD HH:mm")
         description_append = (
             f"初ツイート：{first_tweet} （日本時間）\n"
             + f"初配信：{first_stream} （日本時間）\n"
         )
 
-        eng_first_tweet = talent.first_tweet_datetime.format("MMM D, YYYY, H:MM")
-        eng_first_stream = talent.first_stream_datetime.format("MMM D, YYYY")
+        eng_first_tweet = talent.first_tweet_datetime.format("MMM D, YYYY, H:mm")
+        eng_first_stream = talent.first_stream_datetime.format("MMM D, YYYY, H:mm")
         eng_description_append = (
             f"First tweet: {eng_first_tweet} (JST)\n"
             + f"First stream: {eng_first_stream} (JST)\n"
