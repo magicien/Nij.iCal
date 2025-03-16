@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1012023
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20231201
 DTEND:20231201
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022023
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20230330T030800Z
 DTEND:20230330T033800Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:佐伯イッテツ 活動開始\n\n==========\n【佐伯イッテツ
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
+UID:44469ec3-7d01-45d7-8f12-cd59c1032023
+DTSTAMP:20250316T050346Z
+DTSTART:20230402T043000Z
+DTEND:20230402T050000Z
+TRANSP:TRANSPARENT
+SUMMARY:佐伯イッテツ 初配信
+DESCRIPTION:佐伯イッテツ 初配信\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+URL:https://www.youtube.com/@SaikiIttetsu
+END:VEVENT
+BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022024
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20240330T030800Z
 DTEND:20240330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 1周年
-DESCRIPTION:佐伯イッテツ 1周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 1周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022025
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20250330T030800Z
 DTEND:20250330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 2周年
-DESCRIPTION:佐伯イッテツ 2周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 2周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022026
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20260330T030800Z
 DTEND:20260330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 3周年
-DESCRIPTION:佐伯イッテツ 3周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 3周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022027
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20270330T030800Z
 DTEND:20270330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 4周年
-DESCRIPTION:佐伯イッテツ 4周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 4周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022028
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20280330T030800Z
 DTEND:20280330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 5周年
-DESCRIPTION:佐伯イッテツ 5周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 5周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022029
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20290330T030800Z
 DTEND:20290330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 6周年
-DESCRIPTION:佐伯イッテツ 6周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 6周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022030
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20300330T030800Z
 DTEND:20300330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 7周年
-DESCRIPTION:佐伯イッテツ 7周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 7周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022031
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20310330T030800Z
 DTEND:20310330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 8周年
-DESCRIPTION:佐伯イッテツ 8周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 8周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022032
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20320330T030800Z
 DTEND:20320330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 9周年
-DESCRIPTION:佐伯イッテツ 9周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 9周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022033
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20330330T030800Z
 DTEND:20330330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 10周年
-DESCRIPTION:佐伯イッテツ 10周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 10周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022034
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20340330T030800Z
 DTEND:20340330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 11周年
-DESCRIPTION:佐伯イッテツ 11周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 11周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:44469ec3-7d01-45d7-8f12-cd59c1022035
-DTSTAMP:20250313T133410Z
+DTSTAMP:20250316T050346Z
 DTSTART:20350330T030800Z
 DTEND:20350330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:佐伯イッテツ 12周年
-DESCRIPTION:佐伯イッテツ 12周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
+DESCRIPTION:佐伯イッテツ 12周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 13:30 （日本時間）\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n
 URL:https://www.youtube.com/@SaikiIttetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

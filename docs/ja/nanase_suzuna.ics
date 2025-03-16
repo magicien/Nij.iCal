@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0012025
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20250108
 DTEND:20250108
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022024
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20240813T090600Z
 DTEND:20240813T093600Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:七瀬すず菜 活動開始\n\n==========\n【七瀬すず菜】\nY
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
+UID:b447c46b-0b76-4674-915d-71f3a0032024
+DTSTAMP:20250316T055431Z
+DTSTART:20240816T102900Z
+DTEND:20240816T105900Z
+TRANSP:TRANSPARENT
+SUMMARY:七瀬すず菜 初配信
+DESCRIPTION:七瀬すず菜 初配信\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+URL:https://www.youtube.com/@NanaseSuzuna
+END:VEVENT
+BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022025
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20250813T090600Z
 DTEND:20250813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 1周年
-DESCRIPTION:七瀬すず菜 1周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 1周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022026
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20260813T090600Z
 DTEND:20260813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 2周年
-DESCRIPTION:七瀬すず菜 2周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 2周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022027
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20270813T090600Z
 DTEND:20270813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 3周年
-DESCRIPTION:七瀬すず菜 3周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 3周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022028
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20280813T090600Z
 DTEND:20280813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 4周年
-DESCRIPTION:七瀬すず菜 4周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 4周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022029
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20290813T090600Z
 DTEND:20290813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 5周年
-DESCRIPTION:七瀬すず菜 5周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 5周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022030
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20300813T090600Z
 DTEND:20300813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 6周年
-DESCRIPTION:七瀬すず菜 6周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 6周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022031
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20310813T090600Z
 DTEND:20310813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 7周年
-DESCRIPTION:七瀬すず菜 7周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 7周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022032
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20320813T090600Z
 DTEND:20320813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 8周年
-DESCRIPTION:七瀬すず菜 8周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 8周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022033
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20330813T090600Z
 DTEND:20330813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 9周年
-DESCRIPTION:七瀬すず菜 9周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 9周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022034
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20340813T090600Z
 DTEND:20340813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 10周年
-DESCRIPTION:七瀬すず菜 10周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 10周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:b447c46b-0b76-4674-915d-71f3a0022035
-DTSTAMP:20250313T133511Z
+DTSTAMP:20250316T055431Z
 DTSTART:20350813T090600Z
 DTEND:20350813T090601Z
 TRANSP:TRANSPARENT
 SUMMARY:七瀬すず菜 11周年
-DESCRIPTION:七瀬すず菜 11周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
+DESCRIPTION:七瀬すず菜 11周年\n\n初ツイート：2024/08/13 18:06 （日本時間）\n初配信：2024/08/16 19:29 （日本時間）\n\n\n==========\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n
 URL:https://www.youtube.com/@NanaseSuzuna
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

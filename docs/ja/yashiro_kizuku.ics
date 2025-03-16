@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c012018
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20181123
 DTEND:20181123
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022018
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20180603T102200Z
 DTEND:20180603T105200Z
 TRANSP:TRANSPARENT
@@ -50,178 +50,188 @@ DESCRIPTION:社築 活動開始\n\n==========\n【社築】\nYouTube: https://ww
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
+UID:07d4aa07-399f-4e91-afe2-7a6f3c032018
+DTSTAMP:20250315T150750Z
+DTSTART:20180605T140200Z
+DTEND:20180605T143200Z
+TRANSP:TRANSPARENT
+SUMMARY:社築 初配信
+DESCRIPTION:社築 初配信\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
+END:VEVENT
+BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022019
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20190603T102200Z
 DTEND:20190603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 1周年
-DESCRIPTION:社築 1周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 1周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022020
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20200603T102200Z
 DTEND:20200603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 2周年
-DESCRIPTION:社築 2周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 2周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022021
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20210603T102200Z
 DTEND:20210603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 3周年
-DESCRIPTION:社築 3周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 3周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022022
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20220603T102200Z
 DTEND:20220603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 4周年
-DESCRIPTION:社築 4周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 4周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022023
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20230603T102200Z
 DTEND:20230603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 5周年
-DESCRIPTION:社築 5周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 5周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022024
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20240603T102200Z
 DTEND:20240603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 6周年
-DESCRIPTION:社築 6周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 6周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022025
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20250603T102200Z
 DTEND:20250603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 7周年
-DESCRIPTION:社築 7周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 7周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022026
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20260603T102200Z
 DTEND:20260603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 8周年
-DESCRIPTION:社築 8周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 8周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022027
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20270603T102200Z
 DTEND:20270603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 9周年
-DESCRIPTION:社築 9周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 9周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022028
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20280603T102200Z
 DTEND:20280603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 10周年
-DESCRIPTION:社築 10周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 10周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022029
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20290603T102200Z
 DTEND:20290603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 11周年
-DESCRIPTION:社築 11周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 11周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022030
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20300603T102200Z
 DTEND:20300603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 12周年
-DESCRIPTION:社築 12周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 12周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022031
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20310603T102200Z
 DTEND:20310603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 13周年
-DESCRIPTION:社築 13周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 13周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022032
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20320603T102200Z
 DTEND:20320603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 14周年
-DESCRIPTION:社築 14周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 14周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022033
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20330603T102200Z
 DTEND:20330603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 15周年
-DESCRIPTION:社築 15周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 15周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022034
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20340603T102200Z
 DTEND:20340603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 16周年
-DESCRIPTION:社築 16周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 16周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:07d4aa07-399f-4e91-afe2-7a6f3c022035
-DTSTAMP:20250313T132058Z
+DTSTAMP:20250315T150750Z
 DTSTART:20350603T102200Z
 DTEND:20350603T102201Z
 TRANSP:TRANSPARENT
 SUMMARY:社築 17周年
-DESCRIPTION:社築 17周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:社築 17周年\n\n初ツイート：2018/06/03 19:22 （日本時間）\n初配信：2018/06/05 23:02 （日本時間）\n\n\n==========\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

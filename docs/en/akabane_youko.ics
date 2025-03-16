@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e012019
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20190405
 DTEND:20190405
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022018
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20180502T090000Z
 DTEND:20180502T093000Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:Akabane Youko Debut\n\n==========\n【Akabane Youko】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
+UID:bb3c7cd8-caac-4f9f-9e3a-138b1e032018
+DTSTAMP:20250315T143539Z
+DTSTART:20180525T103000Z
+DTEND:20180525T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Akabane Youko Debut stream
+DESCRIPTION:Akabane Youko Debut stream\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
+END:VEVENT
+BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022019
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20190502T090000Z
 DTEND:20190502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 1st Anniversary
-DESCRIPTION:Akabane Youko 1st Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 1st Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022020
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20200502T090000Z
 DTEND:20200502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 2nd Anniversary
-DESCRIPTION:Akabane Youko 2nd Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 2nd Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022021
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20210502T090000Z
 DTEND:20210502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 3rd Anniversary
-DESCRIPTION:Akabane Youko 3rd Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 3rd Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022022
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20220502T090000Z
 DTEND:20220502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 4th Anniversary
-DESCRIPTION:Akabane Youko 4th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 4th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022023
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20230502T090000Z
 DTEND:20230502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 5th Anniversary
-DESCRIPTION:Akabane Youko 5th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 5th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022024
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20240502T090000Z
 DTEND:20240502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 6th Anniversary
-DESCRIPTION:Akabane Youko 6th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 6th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022025
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20250502T090000Z
 DTEND:20250502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 7th Anniversary
-DESCRIPTION:Akabane Youko 7th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 7th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022026
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20260502T090000Z
 DTEND:20260502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 8th Anniversary
-DESCRIPTION:Akabane Youko 8th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 8th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022027
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20270502T090000Z
 DTEND:20270502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 9th Anniversary
-DESCRIPTION:Akabane Youko 9th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 9th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022028
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20280502T090000Z
 DTEND:20280502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 10th Anniversary
-DESCRIPTION:Akabane Youko 10th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 10th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022029
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20290502T090000Z
 DTEND:20290502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 11th Anniversary
-DESCRIPTION:Akabane Youko 11th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 11th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022030
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20300502T090000Z
 DTEND:20300502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 12th Anniversary
-DESCRIPTION:Akabane Youko 12th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 12th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022031
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20310502T090000Z
 DTEND:20310502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 13th Anniversary
-DESCRIPTION:Akabane Youko 13th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 13th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022032
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20320502T090000Z
 DTEND:20320502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 14th Anniversary
-DESCRIPTION:Akabane Youko 14th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 14th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022033
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20330502T090000Z
 DTEND:20330502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 15th Anniversary
-DESCRIPTION:Akabane Youko 15th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 15th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022034
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20340502T090000Z
 DTEND:20340502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 16th Anniversary
-DESCRIPTION:Akabane Youko 16th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 16th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:bb3c7cd8-caac-4f9f-9e3a-138b1e022035
-DTSTAMP:20250313T132003Z
+DTSTAMP:20250315T143539Z
 DTSTART:20350502T090000Z
 DTEND:20350502T090001Z
 TRANSP:TRANSPARENT
 SUMMARY:Akabane Youko 17th Anniversary
-DESCRIPTION:Akabane Youko 17th Anniversary\n\nFirst tweet: May 2, 2018, 18:05 (JST)\nFirst stream: May 25, 2018 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
+DESCRIPTION:Akabane Youko 17th Anniversary\n\nFirst tweet: May 2, 2018, 18:00 (JST)\nFirst stream: May 25, 2018, 19:30 (JST)\n\n\n==========\n【Akabane Youko】\nYouTube: https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ\nX: https://twitter.com/youko_akabane\n\n
 URL:https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

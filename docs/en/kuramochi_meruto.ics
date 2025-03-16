@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380012023
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20230519
 DTEND:20230519
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022023
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20230116T040000Z
 DTEND:20230116T043000Z
 TRANSP:TRANSPARENT
@@ -50,128 +50,138 @@ DESCRIPTION:Kuramochi Meruto Debut\n\n==========\n【Kuramochi Meruto】\nYouTub
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
+UID:3bc60159-7e4d-4c70-933a-01e380032023
+DTSTAMP:20250316T050309Z
+DTSTART:20230120T110000Z
+DTEND:20230120T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuramochi Meruto Debut stream
+DESCRIPTION:Kuramochi Meruto Debut stream\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
+END:VEVENT
+BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022024
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20240116T040000Z
 DTEND:20240116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 1st Anniversary
-DESCRIPTION:Kuramochi Meruto 1st Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 1st Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022025
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20250116T040000Z
 DTEND:20250116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 2nd Anniversary
-DESCRIPTION:Kuramochi Meruto 2nd Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 2nd Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022026
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20260116T040000Z
 DTEND:20260116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 3rd Anniversary
-DESCRIPTION:Kuramochi Meruto 3rd Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 3rd Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022027
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20270116T040000Z
 DTEND:20270116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 4th Anniversary
-DESCRIPTION:Kuramochi Meruto 4th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 4th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022028
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20280116T040000Z
 DTEND:20280116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 5th Anniversary
-DESCRIPTION:Kuramochi Meruto 5th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 5th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022029
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20290116T040000Z
 DTEND:20290116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 6th Anniversary
-DESCRIPTION:Kuramochi Meruto 6th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 6th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022030
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20300116T040000Z
 DTEND:20300116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 7th Anniversary
-DESCRIPTION:Kuramochi Meruto 7th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 7th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022031
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20310116T040000Z
 DTEND:20310116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 8th Anniversary
-DESCRIPTION:Kuramochi Meruto 8th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 8th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022032
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20320116T040000Z
 DTEND:20320116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 9th Anniversary
-DESCRIPTION:Kuramochi Meruto 9th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 9th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022033
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20330116T040000Z
 DTEND:20330116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 10th Anniversary
-DESCRIPTION:Kuramochi Meruto 10th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 10th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022034
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20340116T040000Z
 DTEND:20340116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 11th Anniversary
-DESCRIPTION:Kuramochi Meruto 11th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 11th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc60159-7e4d-4c70-933a-01e380022035
-DTSTAMP:20250313T133405Z
+DTSTAMP:20250316T050309Z
 DTSTART:20350116T040000Z
 DTEND:20350116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 12th Anniversary
-DESCRIPTION:Kuramochi Meruto 12th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:01 (JST)\nFirst stream: Jan 20, 2023 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:Kuramochi Meruto 12th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

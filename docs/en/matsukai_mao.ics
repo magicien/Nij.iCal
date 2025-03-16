@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688012020
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20200531
 DTEND:20200531
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022019
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20191031T070000Z
 DTEND:20191031T073000Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:Matsukai Mao Debut\n\n==========\n【Matsukai Mao】\nYouTube: https
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
+UID:ce30e594-117f-4c82-8ea0-149688032019
+DTSTAMP:20250316T025049Z
+DTSTART:20191103T130000Z
+DTEND:20191103T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:Matsukai Mao Debut stream
+DESCRIPTION:Matsukai Mao Debut stream\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
+END:VEVENT
+BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022020
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20201031T070000Z
 DTEND:20201031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 1st Anniversary
-DESCRIPTION:Matsukai Mao 1st Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 1st Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022021
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20211031T070000Z
 DTEND:20211031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 2nd Anniversary
-DESCRIPTION:Matsukai Mao 2nd Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 2nd Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022022
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20221031T070000Z
 DTEND:20221031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 3rd Anniversary
-DESCRIPTION:Matsukai Mao 3rd Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 3rd Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022023
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20231031T070000Z
 DTEND:20231031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 4th Anniversary
-DESCRIPTION:Matsukai Mao 4th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 4th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022024
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20241031T070000Z
 DTEND:20241031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 5th Anniversary
-DESCRIPTION:Matsukai Mao 5th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 5th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022025
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20251031T070000Z
 DTEND:20251031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 6th Anniversary
-DESCRIPTION:Matsukai Mao 6th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 6th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022026
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20261031T070000Z
 DTEND:20261031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 7th Anniversary
-DESCRIPTION:Matsukai Mao 7th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 7th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022027
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20271031T070000Z
 DTEND:20271031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 8th Anniversary
-DESCRIPTION:Matsukai Mao 8th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 8th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022028
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20281031T070000Z
 DTEND:20281031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 9th Anniversary
-DESCRIPTION:Matsukai Mao 9th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 9th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022029
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20291031T070000Z
 DTEND:20291031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 10th Anniversary
-DESCRIPTION:Matsukai Mao 10th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 10th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022030
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20301031T070000Z
 DTEND:20301031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 11th Anniversary
-DESCRIPTION:Matsukai Mao 11th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 11th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022031
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20311031T070000Z
 DTEND:20311031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 12th Anniversary
-DESCRIPTION:Matsukai Mao 12th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 12th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022032
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20321031T070000Z
 DTEND:20321031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 13th Anniversary
-DESCRIPTION:Matsukai Mao 13th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 13th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022033
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20331031T070000Z
 DTEND:20331031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 14th Anniversary
-DESCRIPTION:Matsukai Mao 14th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 14th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022034
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20341031T070000Z
 DTEND:20341031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 15th Anniversary
-DESCRIPTION:Matsukai Mao 15th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 15th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:ce30e594-117f-4c82-8ea0-149688022035
-DTSTAMP:20250313T132549Z
+DTSTAMP:20250316T025049Z
 DTSTART:20351031T070000Z
 DTEND:20351031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 16th Anniversary
-DESCRIPTION:Matsukai Mao 16th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:10 (JST)\nFirst stream: Nov 3, 2019 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+DESCRIPTION:Matsukai Mao 16th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

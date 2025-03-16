@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68012022
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20220425
 DTEND:20220425
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022021
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20211217T000900Z
 DTEND:20211217T003900Z
 TRANSP:TRANSPARENT
@@ -38,148 +38,158 @@ DESCRIPTION:ヴォックス・アクマ 活動開始\n\n==========\n【ヴォッ
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
+UID:45633a5c-3af3-4558-b6c5-936f68032021
+DTSTAMP:20250316T071832Z
+DTSTART:20211220T021000Z
+DTEND:20211220T024000Z
+TRANSP:TRANSPARENT
+SUMMARY:ヴォックス・アクマ 初配信
+DESCRIPTION:ヴォックス・アクマ 初配信\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
+END:VEVENT
+BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022022
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20221217T000900Z
 DTEND:20221217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 1周年
-DESCRIPTION:ヴォックス・アクマ 1周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 1周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022023
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20231217T000900Z
 DTEND:20231217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 2周年
-DESCRIPTION:ヴォックス・アクマ 2周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 2周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022024
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20241217T000900Z
 DTEND:20241217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 3周年
-DESCRIPTION:ヴォックス・アクマ 3周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 3周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022025
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20251217T000900Z
 DTEND:20251217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 4周年
-DESCRIPTION:ヴォックス・アクマ 4周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 4周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022026
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20261217T000900Z
 DTEND:20261217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 5周年
-DESCRIPTION:ヴォックス・アクマ 5周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 5周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022027
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20271217T000900Z
 DTEND:20271217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 6周年
-DESCRIPTION:ヴォックス・アクマ 6周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 6周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022028
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20281217T000900Z
 DTEND:20281217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 7周年
-DESCRIPTION:ヴォックス・アクマ 7周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 7周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022029
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20291217T000900Z
 DTEND:20291217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 8周年
-DESCRIPTION:ヴォックス・アクマ 8周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 8周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022030
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20301217T000900Z
 DTEND:20301217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 9周年
-DESCRIPTION:ヴォックス・アクマ 9周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 9周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022031
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20311217T000900Z
 DTEND:20311217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 10周年
-DESCRIPTION:ヴォックス・アクマ 10周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 10周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022032
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20321217T000900Z
 DTEND:20321217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 11周年
-DESCRIPTION:ヴォックス・アクマ 11周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 11周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022033
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20331217T000900Z
 DTEND:20331217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 12周年
-DESCRIPTION:ヴォックス・アクマ 12周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 12周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022034
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20341217T000900Z
 DTEND:20341217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 13周年
-DESCRIPTION:ヴォックス・アクマ 13周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 13周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:45633a5c-3af3-4558-b6c5-936f68022035
-DTSTAMP:20250313T133638Z
+DTSTAMP:20250316T071832Z
 DTSTART:20351217T000900Z
 DTEND:20351217T000901Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴォックス・アクマ 14周年
-DESCRIPTION:ヴォックス・アクマ 14周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
+DESCRIPTION:ヴォックス・アクマ 14周年\n\n初ツイート：2021/12/17 09:09 （日本時間）\n初配信：2021/12/20 11:10 （日本時間）\n\n\n==========\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n
 URL:https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

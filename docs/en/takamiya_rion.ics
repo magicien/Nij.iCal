@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef012019
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20190107
 DTEND:20190107
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022018
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20180809T070900Z
 DTEND:20180809T073900Z
 TRANSP:TRANSPARENT
@@ -50,178 +50,188 @@ DESCRIPTION:Takamiya Rion Debut\n\n==========\n【Takamiya Rion】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
+UID:deee42f6-7dfb-45f6-a956-0305ef032018
+DTSTAMP:20250315T152510Z
+DTSTART:20180815T100000Z
+DTEND:20180815T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:Takamiya Rion Debut stream
+DESCRIPTION:Takamiya Rion Debut stream\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
+END:VEVENT
+BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022019
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20190809T070900Z
 DTEND:20190809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 1st Anniversary
-DESCRIPTION:Takamiya Rion 1st Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 1st Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022020
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20200809T070900Z
 DTEND:20200809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 2nd Anniversary
-DESCRIPTION:Takamiya Rion 2nd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 2nd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022021
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20210809T070900Z
 DTEND:20210809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 3rd Anniversary
-DESCRIPTION:Takamiya Rion 3rd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 3rd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022022
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20220809T070900Z
 DTEND:20220809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 4th Anniversary
-DESCRIPTION:Takamiya Rion 4th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 4th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022023
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20230809T070900Z
 DTEND:20230809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 5th Anniversary
-DESCRIPTION:Takamiya Rion 5th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 5th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022024
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20240809T070900Z
 DTEND:20240809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 6th Anniversary
-DESCRIPTION:Takamiya Rion 6th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 6th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022025
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20250809T070900Z
 DTEND:20250809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 7th Anniversary
-DESCRIPTION:Takamiya Rion 7th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 7th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022026
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20260809T070900Z
 DTEND:20260809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 8th Anniversary
-DESCRIPTION:Takamiya Rion 8th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 8th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022027
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20270809T070900Z
 DTEND:20270809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 9th Anniversary
-DESCRIPTION:Takamiya Rion 9th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 9th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022028
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20280809T070900Z
 DTEND:20280809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 10th Anniversary
-DESCRIPTION:Takamiya Rion 10th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 10th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022029
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20290809T070900Z
 DTEND:20290809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 11th Anniversary
-DESCRIPTION:Takamiya Rion 11th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 11th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022030
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20300809T070900Z
 DTEND:20300809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 12th Anniversary
-DESCRIPTION:Takamiya Rion 12th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 12th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022031
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20310809T070900Z
 DTEND:20310809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 13th Anniversary
-DESCRIPTION:Takamiya Rion 13th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 13th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022032
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20320809T070900Z
 DTEND:20320809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 14th Anniversary
-DESCRIPTION:Takamiya Rion 14th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 14th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022033
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20330809T070900Z
 DTEND:20330809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 15th Anniversary
-DESCRIPTION:Takamiya Rion 15th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 15th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022034
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20340809T070900Z
 DTEND:20340809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 16th Anniversary
-DESCRIPTION:Takamiya Rion 16th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 16th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:deee42f6-7dfb-45f6-a956-0305ef022035
-DTSTAMP:20250313T132222Z
+DTSTAMP:20250315T152510Z
 DTSTART:20350809T070900Z
 DTEND:20350809T070901Z
 TRANSP:TRANSPARENT
 SUMMARY:Takamiya Rion 17th Anniversary
-DESCRIPTION:Takamiya Rion 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 15, 2018 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+DESCRIPTION:Takamiya Rion 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:09 (JST)\nFirst stream: Aug 15, 2018, 19:00 (JST)\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
 URL:https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

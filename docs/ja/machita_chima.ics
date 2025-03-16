@@ -42,7 +42,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba012019
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20190805
 DTEND:20190805
 RRULE:FREQ=YEARLY
@@ -53,7 +53,7 @@ URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022018
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20180831T102400Z
 DTEND:20180831T105400Z
 TRANSP:TRANSPARENT
@@ -62,178 +62,188 @@ DESCRIPTION:町田ちま 活動開始\n\n==========\n【町田ちま】\nYouTube
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
+UID:65ac2df8-8344-446b-ae51-fb87ba032018
+DTSTAMP:20250316T020117Z
+DTSTART:20180903T140000Z
+DTEND:20180903T143000Z
+TRANSP:TRANSPARENT
+SUMMARY:町田ちま 初配信
+DESCRIPTION:町田ちま 初配信\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
+END:VEVENT
+BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022019
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20190831T102400Z
 DTEND:20190831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 1周年
-DESCRIPTION:町田ちま 1周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 1周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022020
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20200831T102400Z
 DTEND:20200831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 2周年
-DESCRIPTION:町田ちま 2周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 2周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022021
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20210831T102400Z
 DTEND:20210831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 3周年
-DESCRIPTION:町田ちま 3周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 3周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022022
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20220831T102400Z
 DTEND:20220831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 4周年
-DESCRIPTION:町田ちま 4周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 4周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022023
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20230831T102400Z
 DTEND:20230831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 5周年
-DESCRIPTION:町田ちま 5周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 5周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022024
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20240831T102400Z
 DTEND:20240831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 6周年
-DESCRIPTION:町田ちま 6周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 6周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022025
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20250831T102400Z
 DTEND:20250831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 7周年
-DESCRIPTION:町田ちま 7周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 7周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022026
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20260831T102400Z
 DTEND:20260831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 8周年
-DESCRIPTION:町田ちま 8周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 8周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022027
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20270831T102400Z
 DTEND:20270831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 9周年
-DESCRIPTION:町田ちま 9周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 9周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022028
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20280831T102400Z
 DTEND:20280831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 10周年
-DESCRIPTION:町田ちま 10周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 10周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022029
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20290831T102400Z
 DTEND:20290831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 11周年
-DESCRIPTION:町田ちま 11周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 11周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022030
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20300831T102400Z
 DTEND:20300831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 12周年
-DESCRIPTION:町田ちま 12周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 12周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022031
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20310831T102400Z
 DTEND:20310831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 13周年
-DESCRIPTION:町田ちま 13周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 13周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022032
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20320831T102400Z
 DTEND:20320831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 14周年
-DESCRIPTION:町田ちま 14周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 14周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022033
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20330831T102400Z
 DTEND:20330831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 15周年
-DESCRIPTION:町田ちま 15周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 15周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022034
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20340831T102400Z
 DTEND:20340831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 16周年
-DESCRIPTION:町田ちま 16周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 16周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:65ac2df8-8344-446b-ae51-fb87ba022035
-DTSTAMP:20250313T132241Z
+DTSTAMP:20250316T020117Z
 DTSTART:20350831T102400Z
 DTEND:20350831T102401Z
 TRANSP:TRANSPARENT
 SUMMARY:町田ちま 17周年
-DESCRIPTION:町田ちま 17周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
+DESCRIPTION:町田ちま 17周年\n\n初ツイート：2018/08/31 19:24 （日本時間）\n初配信：2018/09/03 23:00 （日本時間）\n\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n
 URL:https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

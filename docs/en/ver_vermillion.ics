@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273012023
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20230825
 DTEND:20230825
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022022
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20221206T000100Z
 DTEND:20221206T003100Z
 TRANSP:TRANSPARENT
@@ -38,138 +38,148 @@ DESCRIPTION:Ver Vermillion Debut\n\n==========\n【Ver Vermillion】\nYouTube: h
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
+UID:163ccc22-b963-4f07-b0de-dff273032022
+DTSTAMP:20250316T073026Z
+DTSTART:20221210T025000Z
+DTEND:20221210T032000Z
+TRANSP:TRANSPARENT
+SUMMARY:Ver Vermillion Debut stream
+DESCRIPTION:Ver Vermillion Debut stream\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+URL:https://www.youtube.com/@VerVermillion
+END:VEVENT
+BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022023
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20231206T000100Z
 DTEND:20231206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 1st Anniversary
-DESCRIPTION:Ver Vermillion 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022024
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20241206T000100Z
 DTEND:20241206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 2nd Anniversary
-DESCRIPTION:Ver Vermillion 2nd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 2nd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022025
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20251206T000100Z
 DTEND:20251206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 3rd Anniversary
-DESCRIPTION:Ver Vermillion 3rd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 3rd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022026
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20261206T000100Z
 DTEND:20261206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 4th Anniversary
-DESCRIPTION:Ver Vermillion 4th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 4th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022027
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20271206T000100Z
 DTEND:20271206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 5th Anniversary
-DESCRIPTION:Ver Vermillion 5th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 5th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022028
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20281206T000100Z
 DTEND:20281206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 6th Anniversary
-DESCRIPTION:Ver Vermillion 6th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 6th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022029
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20291206T000100Z
 DTEND:20291206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 7th Anniversary
-DESCRIPTION:Ver Vermillion 7th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 7th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022030
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20301206T000100Z
 DTEND:20301206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 8th Anniversary
-DESCRIPTION:Ver Vermillion 8th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 8th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022031
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20311206T000100Z
 DTEND:20311206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 9th Anniversary
-DESCRIPTION:Ver Vermillion 9th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 9th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022032
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20321206T000100Z
 DTEND:20321206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 10th Anniversary
-DESCRIPTION:Ver Vermillion 10th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 10th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022033
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20331206T000100Z
 DTEND:20331206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 11th Anniversary
-DESCRIPTION:Ver Vermillion 11th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 11th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022034
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20341206T000100Z
 DTEND:20341206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 12th Anniversary
-DESCRIPTION:Ver Vermillion 12th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 12th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:163ccc22-b963-4f07-b0de-dff273022035
-DTSTAMP:20250313T133758Z
+DTSTAMP:20250316T073026Z
 DTSTART:20351206T000100Z
 DTEND:20351206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ver Vermillion 13th Anniversary
-DESCRIPTION:Ver Vermillion 13th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
+DESCRIPTION:Ver Vermillion 13th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:01 (JST)\nFirst stream: Dec 10, 2022, 11:50 (JST)\n\n\n==========\n【Ver Vermillion】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://twitter.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

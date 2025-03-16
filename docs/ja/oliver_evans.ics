@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116012022
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20220221
 DTEND:20220221
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022021
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20210719T070000Z
 DTEND:20210719T073000Z
 TRANSP:TRANSPARENT
@@ -50,148 +50,158 @@ DESCRIPTION:オリバー・エバンス 活動開始\n\n==========\n【オリバ
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
+UID:8d61dfb0-658d-4e28-b340-307116032021
+DTSTAMP:20250316T042024Z
+DTSTART:20210722T060000Z
+DTEND:20210722T063000Z
+TRANSP:TRANSPARENT
+SUMMARY:オリバー・エバンス 初配信
+DESCRIPTION:オリバー・エバンス 初配信\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
+END:VEVENT
+BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022022
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20220719T070000Z
 DTEND:20220719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 1周年
-DESCRIPTION:オリバー・エバンス 1周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 1周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022023
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20230719T070000Z
 DTEND:20230719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 2周年
-DESCRIPTION:オリバー・エバンス 2周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 2周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022024
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20240719T070000Z
 DTEND:20240719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 3周年
-DESCRIPTION:オリバー・エバンス 3周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 3周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022025
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20250719T070000Z
 DTEND:20250719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 4周年
-DESCRIPTION:オリバー・エバンス 4周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 4周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022026
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20260719T070000Z
 DTEND:20260719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 5周年
-DESCRIPTION:オリバー・エバンス 5周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 5周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022027
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20270719T070000Z
 DTEND:20270719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 6周年
-DESCRIPTION:オリバー・エバンス 6周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 6周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022028
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20280719T070000Z
 DTEND:20280719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 7周年
-DESCRIPTION:オリバー・エバンス 7周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 7周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022029
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20290719T070000Z
 DTEND:20290719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 8周年
-DESCRIPTION:オリバー・エバンス 8周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 8周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022030
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20300719T070000Z
 DTEND:20300719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 9周年
-DESCRIPTION:オリバー・エバンス 9周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 9周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022031
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20310719T070000Z
 DTEND:20310719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 10周年
-DESCRIPTION:オリバー・エバンス 10周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 10周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022032
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20320719T070000Z
 DTEND:20320719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 11周年
-DESCRIPTION:オリバー・エバンス 11周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 11周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022033
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20330719T070000Z
 DTEND:20330719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 12周年
-DESCRIPTION:オリバー・エバンス 12周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 12周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022034
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20340719T070000Z
 DTEND:20340719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 13周年
-DESCRIPTION:オリバー・エバンス 13周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 13周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:8d61dfb0-658d-4e28-b340-307116022035
-DTSTAMP:20250313T132806Z
+DTSTAMP:20250316T042024Z
 DTSTART:20350719T070000Z
 DTEND:20350719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:オリバー・エバンス 14周年
-DESCRIPTION:オリバー・エバンス 14周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
+DESCRIPTION:オリバー・エバンス 14周年\n\n初ツイート：2021/07/19 16:00 （日本時間）\n初配信：2021/07/22 15:00 （日本時間）\n\n\n==========\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n
 URL:https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

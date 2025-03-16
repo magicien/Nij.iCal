@@ -42,7 +42,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81012019
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20190417
 DTEND:20190417
 RRULE:FREQ=YEARLY
@@ -53,7 +53,7 @@ URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022018
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20180730T123500Z
 DTEND:20180730T130500Z
 TRANSP:TRANSPARENT
@@ -62,178 +62,188 @@ DESCRIPTION:椎名唯華 活動開始\n\n==========\n【椎名唯華】\nYouTube
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
+UID:dfe657f9-4afd-4486-aacd-4d1e81032018
+DTSTAMP:20250315T145555Z
+DTSTART:20180802T130000Z
+DTEND:20180802T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:椎名唯華 初配信
+DESCRIPTION:椎名唯華 初配信\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+END:VEVENT
+BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022019
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20190730T123500Z
 DTEND:20190730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 1周年
-DESCRIPTION:椎名唯華 1周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 1周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022020
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20200730T123500Z
 DTEND:20200730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 2周年
-DESCRIPTION:椎名唯華 2周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 2周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022021
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20210730T123500Z
 DTEND:20210730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 3周年
-DESCRIPTION:椎名唯華 3周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 3周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022022
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20220730T123500Z
 DTEND:20220730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 4周年
-DESCRIPTION:椎名唯華 4周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 4周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022023
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20230730T123500Z
 DTEND:20230730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 5周年
-DESCRIPTION:椎名唯華 5周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 5周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022024
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20240730T123500Z
 DTEND:20240730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 6周年
-DESCRIPTION:椎名唯華 6周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 6周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022025
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20250730T123500Z
 DTEND:20250730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 7周年
-DESCRIPTION:椎名唯華 7周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 7周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022026
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20260730T123500Z
 DTEND:20260730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 8周年
-DESCRIPTION:椎名唯華 8周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 8周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022027
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20270730T123500Z
 DTEND:20270730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 9周年
-DESCRIPTION:椎名唯華 9周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 9周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022028
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20280730T123500Z
 DTEND:20280730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 10周年
-DESCRIPTION:椎名唯華 10周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 10周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022029
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20290730T123500Z
 DTEND:20290730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 11周年
-DESCRIPTION:椎名唯華 11周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 11周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022030
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20300730T123500Z
 DTEND:20300730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 12周年
-DESCRIPTION:椎名唯華 12周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 12周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022031
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20310730T123500Z
 DTEND:20310730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 13周年
-DESCRIPTION:椎名唯華 13周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 13周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022032
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20320730T123500Z
 DTEND:20320730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 14周年
-DESCRIPTION:椎名唯華 14周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 14周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022033
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20330730T123500Z
 DTEND:20330730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 15周年
-DESCRIPTION:椎名唯華 15周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 15周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022034
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20340730T123500Z
 DTEND:20340730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 16周年
-DESCRIPTION:椎名唯華 16周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 16周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81022035
-DTSTAMP:20250313T132029Z
+DTSTAMP:20250315T145555Z
 DTSTART:20350730T123500Z
 DTEND:20350730T123501Z
 TRANSP:TRANSPARENT
 SUMMARY:椎名唯華 17周年
-DESCRIPTION:椎名唯華 17周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:椎名唯華 17周年\n\n初ツイート：2018/07/30 21:35 （日本時間）\n初配信：2018/08/02 22:00 （日本時間）\n\n\n==========\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

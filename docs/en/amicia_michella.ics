@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e4388c2e-fb22-444d-817f-dc9f19012019
-DTSTAMP:20250313T132912Z
+DTSTAMP:20250316T042752Z
 DTSTART:20191227
 DTEND:20191227
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
 UID:e4388c2e-fb22-444d-817f-dc9f19022019
-DTSTAMP:20250313T132912Z
+DTSTAMP:20250316T042752Z
 DTSTART:20191218T102700Z
 DTEND:20191218T105700Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:Amicia Michella Debut\n\n==========\n【Amicia Michella】\nYouTube:
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
+UID:e4388c2e-fb22-444d-817f-dc9f19032019
+DTSTAMP:20250316T042752Z
+DTSTART:20191221T125800Z
+DTEND:20191221T132800Z
+TRANSP:TRANSPARENT
+SUMMARY:Amicia Michella Debut stream
+DESCRIPTION:Amicia Michella Debut stream\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
+END:VEVENT
+BEGIN:VEVENT
 UID:e4388c2e-fb22-444d-817f-dc9f19022020
-DTSTAMP:20250313T132912Z
+DTSTAMP:20250316T042752Z
 DTSTART:20201218T102700Z
 DTEND:20201218T102701Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella 1st Anniversary
-DESCRIPTION:Amicia Michella 1st Anniversary\n\nFirst tweet: Dec 18, 2019, 19:12 (JST)\nFirst stream: Dec 21, 2019 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella 1st Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
 UID:e4388c2e-fb22-444d-817f-dc9f19022021
-DTSTAMP:20250313T132912Z
+DTSTAMP:20250316T042752Z
 DTSTART:20211218T102700Z
 DTEND:20211218T102701Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella 2nd Anniversary
-DESCRIPTION:Amicia Michella 2nd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:12 (JST)\nFirst stream: Dec 21, 2019 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella 2nd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
 UID:e4388c2e-fb22-444d-817f-dc9f19022022
-DTSTAMP:20250313T132912Z
+DTSTAMP:20250316T042752Z
 DTSTART:20221218T102700Z
 DTEND:20221218T102701Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella 3rd Anniversary
-DESCRIPTION:Amicia Michella 3rd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:12 (JST)\nFirst stream: Dec 21, 2019 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella 3rd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
 UID:e4388c2e-fb22-444d-817f-dc9f19992023
-DTSTAMP:20250313T132912Z
+DTSTAMP:20250316T042752Z
 DTSTART:20230716
 DTEND:20230716
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

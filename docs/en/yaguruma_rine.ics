@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf012019
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20190802
 DTEND:20190802
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022018
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20180925T093300Z
 DTEND:20180925T100300Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:Yaguruma Rine Debut\n\n==========\n【Yaguruma Rine】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
+UID:3eaa8b90-3fe7-4eda-aa5a-102eaf032018
+DTSTAMP:20250316T021910Z
+DTSTART:20180928T110000Z
+DTEND:20180928T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:Yaguruma Rine Debut stream
+DESCRIPTION:Yaguruma Rine Debut stream\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
+END:VEVENT
+BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022019
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20190925T093300Z
 DTEND:20190925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 1st Anniversary
-DESCRIPTION:Yaguruma Rine 1st Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 1st Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022020
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20200925T093300Z
 DTEND:20200925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 2nd Anniversary
-DESCRIPTION:Yaguruma Rine 2nd Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 2nd Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022021
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20210925T093300Z
 DTEND:20210925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 3rd Anniversary
-DESCRIPTION:Yaguruma Rine 3rd Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 3rd Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022022
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20220925T093300Z
 DTEND:20220925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 4th Anniversary
-DESCRIPTION:Yaguruma Rine 4th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 4th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022023
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20230925T093300Z
 DTEND:20230925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 5th Anniversary
-DESCRIPTION:Yaguruma Rine 5th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 5th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022024
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20240925T093300Z
 DTEND:20240925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 6th Anniversary
-DESCRIPTION:Yaguruma Rine 6th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 6th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022025
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20250925T093300Z
 DTEND:20250925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 7th Anniversary
-DESCRIPTION:Yaguruma Rine 7th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 7th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022026
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20260925T093300Z
 DTEND:20260925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 8th Anniversary
-DESCRIPTION:Yaguruma Rine 8th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 8th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022027
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20270925T093300Z
 DTEND:20270925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 9th Anniversary
-DESCRIPTION:Yaguruma Rine 9th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 9th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022028
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20280925T093300Z
 DTEND:20280925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 10th Anniversary
-DESCRIPTION:Yaguruma Rine 10th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 10th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022029
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20290925T093300Z
 DTEND:20290925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 11th Anniversary
-DESCRIPTION:Yaguruma Rine 11th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 11th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022030
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20300925T093300Z
 DTEND:20300925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 12th Anniversary
-DESCRIPTION:Yaguruma Rine 12th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 12th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022031
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20310925T093300Z
 DTEND:20310925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 13th Anniversary
-DESCRIPTION:Yaguruma Rine 13th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 13th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022032
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20320925T093300Z
 DTEND:20320925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 14th Anniversary
-DESCRIPTION:Yaguruma Rine 14th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 14th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022033
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20330925T093300Z
 DTEND:20330925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 15th Anniversary
-DESCRIPTION:Yaguruma Rine 15th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 15th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022034
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20340925T093300Z
 DTEND:20340925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 16th Anniversary
-DESCRIPTION:Yaguruma Rine 16th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 16th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022035
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20350925T093300Z
 DTEND:20350925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:Yaguruma Rine 17th Anniversary
-DESCRIPTION:Yaguruma Rine 17th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:09 (JST)\nFirst stream: Sep 28, 2018 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:Yaguruma Rine 17th Anniversary\n\nFirst tweet: Sep 25, 2018, 18:33 (JST)\nFirst stream: Sep 28, 2018, 20:00 (JST)\n\n\n==========\n【Yaguruma Rine】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

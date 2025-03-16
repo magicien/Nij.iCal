@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568012020
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20200829
 DTEND:20200829
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022019
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20190913T070700Z
 DTEND:20190913T073700Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:ゼア コルネリア 活動開始\n\n==========\n【ゼア コル�
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
+UID:b22dc4ef-fad6-4cad-a245-748568032019
+DTSTAMP:20250316T051956Z
+DTSTART:20190915T133000Z
+DTEND:20190915T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:ゼア コルネリア 初配信
+DESCRIPTION:ゼア コルネリア 初配信\n\n==========\n【ゼア コルネリア】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
+END:VEVENT
+BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022020
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20200913T070700Z
 DTEND:20200913T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:ゼア コルネリア 1周年
-DESCRIPTION:ゼア コルネリア 1周年\n\n初ツイート：2019/09/13 16:07 （日本時間）\n初配信：2019/09/15 （日本時間）\n\n\n==========\n【ゼア コルネリア】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+DESCRIPTION:ゼア コルネリア 1周年\n\n初ツイート：2019/09/13 16:07 （日本時間）\n初配信：2019/09/15 22:30 （日本時間）\n\n\n==========\n【ゼア コルネリア】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022021
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20210913T070700Z
 DTEND:20210913T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:ゼア コルネリア 2周年
-DESCRIPTION:ゼア コルネリア 2周年\n\n初ツイート：2019/09/13 16:07 （日本時間）\n初配信：2019/09/15 （日本時間）\n\n\n==========\n【ゼア コルネリア】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+DESCRIPTION:ゼア コルネリア 2周年\n\n初ツイート：2019/09/13 16:07 （日本時間）\n初配信：2019/09/15 22:30 （日本時間）\n\n\n==========\n【ゼア コルネリア】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022022
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20220913T070700Z
 DTEND:20220913T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:ゼア コルネリア 3周年
-DESCRIPTION:ゼア コルネリア 3周年\n\n初ツイート：2019/09/13 16:07 （日本時間）\n初配信：2019/09/15 （日本時間）\n\n\n==========\n【ゼア コルネリア】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+DESCRIPTION:ゼア コルネリア 3周年\n\n初ツイート：2019/09/13 16:07 （日本時間）\n初配信：2019/09/15 22:30 （日本時間）\n\n\n==========\n【ゼア コルネリア】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568992023
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20230514
 DTEND:20230514
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

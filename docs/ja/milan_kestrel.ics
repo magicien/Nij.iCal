@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055012024
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20240613
 DTEND:20240613
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022023
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20231121T030300Z
 DTEND:20231121T033300Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:ミラン・ケストレル 活動開始\n\n==========\n【ミラン
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
+UID:237a0636-6f2f-43a1-a756-db2055032023
+DTSTAMP:20250316T054949Z
+DTSTART:20231124T105900Z
+DTEND:20231124T112900Z
+TRANSP:TRANSPARENT
+SUMMARY:ミラン・ケストレル 初配信
+DESCRIPTION:ミラン・ケストレル 初配信\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+URL:https://www.youtube.com/@MilanKestrel
+END:VEVENT
+BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022024
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20241121T030300Z
 DTEND:20241121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 1周年
-DESCRIPTION:ミラン・ケストレル 1周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 1周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022025
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20251121T030300Z
 DTEND:20251121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 2周年
-DESCRIPTION:ミラン・ケストレル 2周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 2周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022026
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20261121T030300Z
 DTEND:20261121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 3周年
-DESCRIPTION:ミラン・ケストレル 3周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 3周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022027
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20271121T030300Z
 DTEND:20271121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 4周年
-DESCRIPTION:ミラン・ケストレル 4周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 4周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022028
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20281121T030300Z
 DTEND:20281121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 5周年
-DESCRIPTION:ミラン・ケストレル 5周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 5周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022029
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20291121T030300Z
 DTEND:20291121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 6周年
-DESCRIPTION:ミラン・ケストレル 6周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 6周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022030
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20301121T030300Z
 DTEND:20301121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 7周年
-DESCRIPTION:ミラン・ケストレル 7周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 7周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022031
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20311121T030300Z
 DTEND:20311121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 8周年
-DESCRIPTION:ミラン・ケストレル 8周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 8周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022032
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20321121T030300Z
 DTEND:20321121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 9周年
-DESCRIPTION:ミラン・ケストレル 9周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 9周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022033
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20331121T030300Z
 DTEND:20331121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 10周年
-DESCRIPTION:ミラン・ケストレル 10周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 10周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022034
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20341121T030300Z
 DTEND:20341121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 11周年
-DESCRIPTION:ミラン・ケストレル 11周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 11周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:237a0636-6f2f-43a1-a756-db2055022035
-DTSTAMP:20250313T133446Z
+DTSTAMP:20250316T054949Z
 DTSTART:20351121T030300Z
 DTEND:20351121T030301Z
 TRANSP:TRANSPARENT
 SUMMARY:ミラン・ケストレル 12周年
-DESCRIPTION:ミラン・ケストレル 12周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
+DESCRIPTION:ミラン・ケストレル 12周年\n\n初ツイート：2023/11/21 12:03 （日本時間）\n初配信：2023/11/24 19:59 （日本時間）\n\n\n==========\n【ミラン・ケストレル】\nYouTube: https://www.youtube.com/@MilanKestrel\nX: https://twitter.com/Milan_Kestrel\n\n
 URL:https://www.youtube.com/@MilanKestrel
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

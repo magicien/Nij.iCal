@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac012019
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20191014
 DTEND:20191014
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022019
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20190808T070800Z
 DTEND:20190808T073800Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:ラトナ・プティ 活動開始\n\n==========\n【ラトナ・プ
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
+UID:df065134-a5ef-449f-ae5c-c47aac032019
+DTSTAMP:20250316T024531Z
+DTSTART:20190813T113900Z
+DTEND:20190813T120900Z
+TRANSP:TRANSPARENT
+SUMMARY:ラトナ・プティ 初配信
+DESCRIPTION:ラトナ・プティ 初配信\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
+END:VEVENT
+BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022020
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20200808T070800Z
 DTEND:20200808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 1周年
-DESCRIPTION:ラトナ・プティ 1周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 1周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022021
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20210808T070800Z
 DTEND:20210808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 2周年
-DESCRIPTION:ラトナ・プティ 2周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 2周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022022
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20220808T070800Z
 DTEND:20220808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 3周年
-DESCRIPTION:ラトナ・プティ 3周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 3周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022023
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20230808T070800Z
 DTEND:20230808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 4周年
-DESCRIPTION:ラトナ・プティ 4周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 4周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022024
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20240808T070800Z
 DTEND:20240808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 5周年
-DESCRIPTION:ラトナ・プティ 5周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 5周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022025
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20250808T070800Z
 DTEND:20250808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 6周年
-DESCRIPTION:ラトナ・プティ 6周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 6周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022026
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20260808T070800Z
 DTEND:20260808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 7周年
-DESCRIPTION:ラトナ・プティ 7周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 7周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022027
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20270808T070800Z
 DTEND:20270808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 8周年
-DESCRIPTION:ラトナ・プティ 8周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 8周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022028
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20280808T070800Z
 DTEND:20280808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 9周年
-DESCRIPTION:ラトナ・プティ 9周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 9周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022029
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20290808T070800Z
 DTEND:20290808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 10周年
-DESCRIPTION:ラトナ・プティ 10周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 10周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022030
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20300808T070800Z
 DTEND:20300808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 11周年
-DESCRIPTION:ラトナ・プティ 11周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 11周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022031
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20310808T070800Z
 DTEND:20310808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 12周年
-DESCRIPTION:ラトナ・プティ 12周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 12周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022032
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20320808T070800Z
 DTEND:20320808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 13周年
-DESCRIPTION:ラトナ・プティ 13周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 13周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022033
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20330808T070800Z
 DTEND:20330808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 14周年
-DESCRIPTION:ラトナ・プティ 14周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 14周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022034
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20340808T070800Z
 DTEND:20340808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 15周年
-DESCRIPTION:ラトナ・プティ 15周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 15周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac022035
-DTSTAMP:20250313T132519Z
+DTSTAMP:20250316T024531Z
 DTSTART:20350808T070800Z
 DTEND:20350808T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:ラトナ・プティ 16周年
-DESCRIPTION:ラトナ・プティ 16周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:ラトナ・プティ 16周年\n\n初ツイート：2019/08/08 16:08 （日本時間）\n初配信：2019/08/13 20:39 （日本時間）\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

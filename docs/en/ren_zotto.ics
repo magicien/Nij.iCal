@@ -30,7 +30,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042012023
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20230325
 DTEND:20230325
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022022
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20220720T000000Z
 DTEND:20220720T003000Z
 TRANSP:TRANSPARENT
@@ -50,138 +50,148 @@ DESCRIPTION:Ren Zotto Debut\n\n==========\n【Ren Zotto】\nYouTube: https://www
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
+UID:55df123d-084e-40c7-8f2f-41d042032022
+DTSTAMP:20250316T072752Z
+DTSTART:20220725T025200Z
+DTEND:20220725T032200Z
+TRANSP:TRANSPARENT
+SUMMARY:Ren Zotto Debut stream
+DESCRIPTION:Ren Zotto Debut stream\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
+END:VEVENT
+BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022023
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20230720T000000Z
 DTEND:20230720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 1st Anniversary
-DESCRIPTION:Ren Zotto 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022024
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20240720T000000Z
 DTEND:20240720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 2nd Anniversary
-DESCRIPTION:Ren Zotto 2nd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 2nd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022025
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20250720T000000Z
 DTEND:20250720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 3rd Anniversary
-DESCRIPTION:Ren Zotto 3rd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 3rd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022026
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20260720T000000Z
 DTEND:20260720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 4th Anniversary
-DESCRIPTION:Ren Zotto 4th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 4th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022027
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20270720T000000Z
 DTEND:20270720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 5th Anniversary
-DESCRIPTION:Ren Zotto 5th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 5th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022028
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20280720T000000Z
 DTEND:20280720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 6th Anniversary
-DESCRIPTION:Ren Zotto 6th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 6th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022029
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20290720T000000Z
 DTEND:20290720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 7th Anniversary
-DESCRIPTION:Ren Zotto 7th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 7th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022030
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20300720T000000Z
 DTEND:20300720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 8th Anniversary
-DESCRIPTION:Ren Zotto 8th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 8th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022031
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20310720T000000Z
 DTEND:20310720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 9th Anniversary
-DESCRIPTION:Ren Zotto 9th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 9th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022032
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20320720T000000Z
 DTEND:20320720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 10th Anniversary
-DESCRIPTION:Ren Zotto 10th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 10th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022033
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20330720T000000Z
 DTEND:20330720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 11th Anniversary
-DESCRIPTION:Ren Zotto 11th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 11th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022034
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20340720T000000Z
 DTEND:20340720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 12th Anniversary
-DESCRIPTION:Ren Zotto 12th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 12th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022035
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20350720T000000Z
 DTEND:20350720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Ren Zotto 13th Anniversary
-DESCRIPTION:Ren Zotto 13th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:Ren Zotto 13th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 11:52 (JST)\n\n\n==========\n【Ren Zotto】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

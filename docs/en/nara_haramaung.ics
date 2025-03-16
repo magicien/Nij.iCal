@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6012020
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20200729
 DTEND:20200729
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022020
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20200313T104000Z
 DTEND:20200313T111000Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:Nara Haramaung Debut\n\n==========\n【Nara Haramaung】\nYouTube: h
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6032020
+DTSTAMP:20250316T053311Z
+DTSTART:20200315T133000Z
+DTEND:20200315T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nara Haramaung Debut stream
+DESCRIPTION:Nara Haramaung Debut stream\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022021
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20210313T104000Z
 DTEND:20210313T104001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nara Haramaung 1st Anniversary
-DESCRIPTION:Nara Haramaung 1st Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+DESCRIPTION:Nara Haramaung 1st Anniversary\n\nFirst tweet: Mar 13, 2020, 19:40 (JST)\nFirst stream: Mar 15, 2020, 22:30 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022022
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20220313T104000Z
 DTEND:20220313T104001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nara Haramaung 2nd Anniversary
-DESCRIPTION:Nara Haramaung 2nd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+DESCRIPTION:Nara Haramaung 2nd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:40 (JST)\nFirst stream: Mar 15, 2020, 22:30 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022023
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20230313T104000Z
 DTEND:20230313T104001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nara Haramaung 3rd Anniversary
-DESCRIPTION:Nara Haramaung 3rd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:03 (JST)\nFirst stream: Mar 15, 2020 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+DESCRIPTION:Nara Haramaung 3rd Anniversary\n\nFirst tweet: Mar 13, 2020, 19:40 (JST)\nFirst stream: Mar 15, 2020, 22:30 (JST)\n\n\n==========\n【Nara Haramaung】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6992023
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20230903
 DTEND:20230903
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

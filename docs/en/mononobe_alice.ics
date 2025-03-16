@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9012018
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20181116
 DTEND:20181116
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022018
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20180306T080900Z
 DTEND:20180306T083900Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:Mononobe Alice Debut\n\n==========\n【Mononobe Alice】\nYouTube: h
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
+UID:6d5014c8-619b-4bf2-a94f-bfdbb9032018
+DTSTAMP:20250315T140328Z
+DTSTART:20180314T130300Z
+DTEND:20180314T133300Z
+TRANSP:TRANSPARENT
+SUMMARY:Mononobe Alice Debut stream
+DESCRIPTION:Mononobe Alice Debut stream\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
+END:VEVENT
+BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022019
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20190306T080900Z
 DTEND:20190306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 1st Anniversary
-DESCRIPTION:Mononobe Alice 1st Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 1st Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022020
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20200306T080900Z
 DTEND:20200306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 2nd Anniversary
-DESCRIPTION:Mononobe Alice 2nd Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 2nd Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022021
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20210306T080900Z
 DTEND:20210306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 3rd Anniversary
-DESCRIPTION:Mononobe Alice 3rd Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 3rd Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022022
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20220306T080900Z
 DTEND:20220306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 4th Anniversary
-DESCRIPTION:Mononobe Alice 4th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 4th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022023
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20230306T080900Z
 DTEND:20230306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 5th Anniversary
-DESCRIPTION:Mononobe Alice 5th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 5th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022024
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20240306T080900Z
 DTEND:20240306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 6th Anniversary
-DESCRIPTION:Mononobe Alice 6th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 6th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022025
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20250306T080900Z
 DTEND:20250306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 7th Anniversary
-DESCRIPTION:Mononobe Alice 7th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 7th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022026
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20260306T080900Z
 DTEND:20260306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 8th Anniversary
-DESCRIPTION:Mononobe Alice 8th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 8th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022027
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20270306T080900Z
 DTEND:20270306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 9th Anniversary
-DESCRIPTION:Mononobe Alice 9th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 9th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022028
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20280306T080900Z
 DTEND:20280306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 10th Anniversary
-DESCRIPTION:Mononobe Alice 10th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 10th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022029
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20290306T080900Z
 DTEND:20290306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 11th Anniversary
-DESCRIPTION:Mononobe Alice 11th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 11th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022030
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20300306T080900Z
 DTEND:20300306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 12th Anniversary
-DESCRIPTION:Mononobe Alice 12th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 12th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022031
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20310306T080900Z
 DTEND:20310306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 13th Anniversary
-DESCRIPTION:Mononobe Alice 13th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 13th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022032
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20320306T080900Z
 DTEND:20320306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 14th Anniversary
-DESCRIPTION:Mononobe Alice 14th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 14th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022033
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20330306T080900Z
 DTEND:20330306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 15th Anniversary
-DESCRIPTION:Mononobe Alice 15th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 15th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022034
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20340306T080900Z
 DTEND:20340306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 16th Anniversary
-DESCRIPTION:Mononobe Alice 16th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 16th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5014c8-619b-4bf2-a94f-bfdbb9022035
-DTSTAMP:20250313T131933Z
+DTSTAMP:20250315T140328Z
 DTSTART:20350306T080900Z
 DTEND:20350306T080901Z
 TRANSP:TRANSPARENT
 SUMMARY:Mononobe Alice 17th Anniversary
-DESCRIPTION:Mononobe Alice 17th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
+DESCRIPTION:Mononobe Alice 17th Anniversary\n\nFirst tweet: Mar 6, 2018, 17:09 (JST)\nFirst stream: Mar 14, 2018, 22:03 (JST)\n\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n
 URL:https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

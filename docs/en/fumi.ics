@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6012020
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20201010
 DTEND:20201010
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022019
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20191017T070100Z
 DTEND:20191017T073100Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:Fumi Debut\n\n==========\n【Fumi】\nYouTube: https://www.youtube.c
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
+UID:26373474-3fb8-4928-8502-bdd7d6032019
+DTSTAMP:20250316T024748Z
+DTSTART:20191019T112400Z
+DTEND:20191019T115400Z
+TRANSP:TRANSPARENT
+SUMMARY:Fumi Debut stream
+DESCRIPTION:Fumi Debut stream\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
+END:VEVENT
+BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022020
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20201017T070100Z
 DTEND:20201017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 1st Anniversary
-DESCRIPTION:Fumi 1st Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 1st Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022021
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20211017T070100Z
 DTEND:20211017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 2nd Anniversary
-DESCRIPTION:Fumi 2nd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 2nd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022022
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20221017T070100Z
 DTEND:20221017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 3rd Anniversary
-DESCRIPTION:Fumi 3rd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 3rd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022023
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20231017T070100Z
 DTEND:20231017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 4th Anniversary
-DESCRIPTION:Fumi 4th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 4th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022024
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20241017T070100Z
 DTEND:20241017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 5th Anniversary
-DESCRIPTION:Fumi 5th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 5th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022025
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20251017T070100Z
 DTEND:20251017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 6th Anniversary
-DESCRIPTION:Fumi 6th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 6th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022026
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20261017T070100Z
 DTEND:20261017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 7th Anniversary
-DESCRIPTION:Fumi 7th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 7th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022027
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20271017T070100Z
 DTEND:20271017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 8th Anniversary
-DESCRIPTION:Fumi 8th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 8th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022028
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20281017T070100Z
 DTEND:20281017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 9th Anniversary
-DESCRIPTION:Fumi 9th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 9th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022029
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20291017T070100Z
 DTEND:20291017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 10th Anniversary
-DESCRIPTION:Fumi 10th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 10th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022030
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20301017T070100Z
 DTEND:20301017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 11th Anniversary
-DESCRIPTION:Fumi 11th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 11th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022031
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20311017T070100Z
 DTEND:20311017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 12th Anniversary
-DESCRIPTION:Fumi 12th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 12th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022032
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20321017T070100Z
 DTEND:20321017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 13th Anniversary
-DESCRIPTION:Fumi 13th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 13th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022033
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20331017T070100Z
 DTEND:20331017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 14th Anniversary
-DESCRIPTION:Fumi 14th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 14th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022034
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20341017T070100Z
 DTEND:20341017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 15th Anniversary
-DESCRIPTION:Fumi 15th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 15th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26373474-3fb8-4928-8502-bdd7d6022035
-DTSTAMP:20250313T132532Z
+DTSTAMP:20250316T024748Z
 DTSTART:20351017T070100Z
 DTEND:20351017T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Fumi 16th Anniversary
-DESCRIPTION:Fumi 16th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
+DESCRIPTION:Fumi 16th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:01 (JST)\nFirst stream: Oct 19, 2019, 20:24 (JST)\n\n\n==========\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n
 URL:https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

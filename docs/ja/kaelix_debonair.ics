@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09012025
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20251105
 DTEND:20251105
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022025
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20250312T230300Z
 DTEND:20250312T233300Z
 TRANSP:TRANSPARENT
@@ -38,108 +38,118 @@ DESCRIPTION:ケイリクス・デボネア 活動開始\n\n==========\n【ケイ
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
+UID:27f2282f-22ea-43cc-8505-6f3b09032025
+DTSTAMP:20250316T074549Z
+DTSTART:20250315T024000Z
+DTEND:20250315T031000Z
+TRANSP:TRANSPARENT
+SUMMARY:ケイリクス・デボネア 初配信
+DESCRIPTION:ケイリクス・デボネア 初配信\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+URL:https://www.youtube.com/@KaelixDebonair
+END:VEVENT
+BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022026
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20260312T230300Z
 DTEND:20260312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 1周年
-DESCRIPTION:ケイリクス・デボネア 1周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 1周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022027
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20270312T230300Z
 DTEND:20270312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 2周年
-DESCRIPTION:ケイリクス・デボネア 2周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 2周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022028
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20280312T230300Z
 DTEND:20280312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 3周年
-DESCRIPTION:ケイリクス・デボネア 3周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 3周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022029
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20290312T230300Z
 DTEND:20290312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 4周年
-DESCRIPTION:ケイリクス・デボネア 4周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 4周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022030
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20300312T230300Z
 DTEND:20300312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 5周年
-DESCRIPTION:ケイリクス・デボネア 5周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 5周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022031
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20310312T230300Z
 DTEND:20310312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 6周年
-DESCRIPTION:ケイリクス・デボネア 6周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 6周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022032
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20320312T230300Z
 DTEND:20320312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 7周年
-DESCRIPTION:ケイリクス・デボネア 7周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 7周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022033
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20330312T230300Z
 DTEND:20330312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 8周年
-DESCRIPTION:ケイリクス・デボネア 8周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 8周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022034
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20340312T230300Z
 DTEND:20340312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 9周年
-DESCRIPTION:ケイリクス・デボネア 9周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 9周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09022035
-DTSTAMP:20250313T133944Z
+DTSTAMP:20250316T074549Z
 DTSTART:20350312T230300Z
 DTEND:20350312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:ケイリクス・デボネア 10周年
-DESCRIPTION:ケイリクス・デボネア 10周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:ケイリクス・デボネア 10周年\n\n初ツイート：2025/03/13 08:03 （日本時間）\n初配信：2025/03/15 11:40 （日本時間）\n\n\n==========\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

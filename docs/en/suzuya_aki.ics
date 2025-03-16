@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c012018
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20181128
 DTEND:20181128
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c022018
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20180131T133800Z
 DTEND:20180131T140800Z
 TRANSP:TRANSPARENT
@@ -38,68 +38,78 @@ DESCRIPTION:Suzuya Aki Debut\n\n==========\n【Suzuya Aki】\nYouTube: https://w
 URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
+UID:f353c6d0-266e-4525-aea3-01c18c032018
+DTSTAMP:20250315T134456Z
+DTSTART:20180208T123000Z
+DTEND:20180208T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuya Aki Debut stream
+DESCRIPTION:Suzuya Aki Debut stream\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
+END:VEVENT
+BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c022019
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20190131T133800Z
 DTEND:20190131T133801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuya Aki 1st Anniversary
-DESCRIPTION:Suzuya Aki 1st Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+DESCRIPTION:Suzuya Aki 1st Anniversary\n\nFirst tweet: Jan 31, 2018, 22:38 (JST)\nFirst stream: Feb 8, 2018, 21:30 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
 URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c022020
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20200131T133800Z
 DTEND:20200131T133801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuya Aki 2nd Anniversary
-DESCRIPTION:Suzuya Aki 2nd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+DESCRIPTION:Suzuya Aki 2nd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:38 (JST)\nFirst stream: Feb 8, 2018, 21:30 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
 URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c022021
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20210131T133800Z
 DTEND:20210131T133801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuya Aki 3rd Anniversary
-DESCRIPTION:Suzuya Aki 3rd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+DESCRIPTION:Suzuya Aki 3rd Anniversary\n\nFirst tweet: Jan 31, 2018, 22:38 (JST)\nFirst stream: Feb 8, 2018, 21:30 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
 URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c022022
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20220131T133800Z
 DTEND:20220131T133801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuya Aki 4th Anniversary
-DESCRIPTION:Suzuya Aki 4th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+DESCRIPTION:Suzuya Aki 4th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:38 (JST)\nFirst stream: Feb 8, 2018, 21:30 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
 URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c022023
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20230131T133800Z
 DTEND:20230131T133801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuya Aki 5th Anniversary
-DESCRIPTION:Suzuya Aki 5th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+DESCRIPTION:Suzuya Aki 5th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:38 (JST)\nFirst stream: Feb 8, 2018, 21:30 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
 URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c022024
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20240131T133800Z
 DTEND:20240131T133801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuya Aki 6th Anniversary
-DESCRIPTION:Suzuya Aki 6th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:01 (JST)\nFirst stream: Feb 8, 2018 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
+DESCRIPTION:Suzuya Aki 6th Anniversary\n\nFirst tweet: Jan 31, 2018, 22:38 (JST)\nFirst stream: Feb 8, 2018, 21:30 (JST)\n\n\n==========\n【Suzuya Aki】\nYouTube: https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nX: https://twitter.com/aki_suzuya\n\n
 URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:f353c6d0-266e-4525-aea3-01c18c992024
-DTSTAMP:20250313T131913Z
+DTSTAMP:20250315T134456Z
 DTSTART:20240831
 DTEND:20240831
 TRANSP:TRANSPARENT
@@ -109,7 +119,7 @@ URL:https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

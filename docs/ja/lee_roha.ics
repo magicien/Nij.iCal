@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc012020
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20201212
 DTEND:20201212
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022020
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20200731T101000Z
 DTEND:20200731T104000Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:イ ロハ 活動開始\n\n==========\n【イ ロハ】\nYouTube: ht
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
+UID:516e424c-704b-4644-b288-5740dc032020
+DTSTAMP:20250316T045100Z
+DTSTART:20200807T122300Z
+DTEND:20200807T125300Z
+TRANSP:TRANSPARENT
+SUMMARY:イ ロハ 初配信
+DESCRIPTION:イ ロハ 初配信\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
+END:VEVENT
+BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022021
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20210731T101000Z
 DTEND:20210731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 1周年
-DESCRIPTION:イ ロハ 1周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 1周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022022
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20220731T101000Z
 DTEND:20220731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 2周年
-DESCRIPTION:イ ロハ 2周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 2周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022023
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20230731T101000Z
 DTEND:20230731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 3周年
-DESCRIPTION:イ ロハ 3周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 3周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022024
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20240731T101000Z
 DTEND:20240731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 4周年
-DESCRIPTION:イ ロハ 4周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 4周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022025
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20250731T101000Z
 DTEND:20250731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 5周年
-DESCRIPTION:イ ロハ 5周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 5周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022026
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20260731T101000Z
 DTEND:20260731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 6周年
-DESCRIPTION:イ ロハ 6周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 6周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022027
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20270731T101000Z
 DTEND:20270731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 7周年
-DESCRIPTION:イ ロハ 7周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 7周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022028
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20280731T101000Z
 DTEND:20280731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 8周年
-DESCRIPTION:イ ロハ 8周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 8周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022029
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20290731T101000Z
 DTEND:20290731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 9周年
-DESCRIPTION:イ ロハ 9周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 9周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022030
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20300731T101000Z
 DTEND:20300731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 10周年
-DESCRIPTION:イ ロハ 10周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 10周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022031
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20310731T101000Z
 DTEND:20310731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 11周年
-DESCRIPTION:イ ロハ 11周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 11周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022032
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20320731T101000Z
 DTEND:20320731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 12周年
-DESCRIPTION:イ ロハ 12周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 12周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022033
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20330731T101000Z
 DTEND:20330731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 13周年
-DESCRIPTION:イ ロハ 13周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 13周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022034
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20340731T101000Z
 DTEND:20340731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 14周年
-DESCRIPTION:イ ロハ 14周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 14周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:516e424c-704b-4644-b288-5740dc022035
-DTSTAMP:20250313T133314Z
+DTSTAMP:20250316T045100Z
 DTSTART:20350731T101000Z
 DTEND:20350731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ ロハ 15周年
-DESCRIPTION:イ ロハ 15周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
+DESCRIPTION:イ ロハ 15周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 21:23 （日本時間）\n\n\n==========\n【イ ロハ】\nYouTube: https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg\nX: https://twitter.com/RohaLee2434\n\n
 URL:https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

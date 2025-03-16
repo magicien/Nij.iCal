@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481012020
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20200907
 DTEND:20200907
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022019
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20191226T072600Z
 DTEND:20191226T075600Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:来栖夏芽 活動開始\n\n==========\n【来栖夏芽】\nYouTube
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
+UID:eacd4033-84c6-45f2-a214-e3b481032019
+DTSTAMP:20250316T032124Z
+DTSTART:20191229T113300Z
+DTEND:20191229T120300Z
+TRANSP:TRANSPARENT
+SUMMARY:来栖夏芽 初配信
+DESCRIPTION:来栖夏芽 初配信\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
+END:VEVENT
+BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022020
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20201226T072600Z
 DTEND:20201226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 1周年
-DESCRIPTION:来栖夏芽 1周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 1周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022021
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20211226T072600Z
 DTEND:20211226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 2周年
-DESCRIPTION:来栖夏芽 2周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 2周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022022
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20221226T072600Z
 DTEND:20221226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 3周年
-DESCRIPTION:来栖夏芽 3周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 3周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022023
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20231226T072600Z
 DTEND:20231226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 4周年
-DESCRIPTION:来栖夏芽 4周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 4周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022024
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20241226T072600Z
 DTEND:20241226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 5周年
-DESCRIPTION:来栖夏芽 5周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 5周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022025
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20251226T072600Z
 DTEND:20251226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 6周年
-DESCRIPTION:来栖夏芽 6周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 6周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022026
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20261226T072600Z
 DTEND:20261226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 7周年
-DESCRIPTION:来栖夏芽 7周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 7周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022027
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20271226T072600Z
 DTEND:20271226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 8周年
-DESCRIPTION:来栖夏芽 8周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 8周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022028
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20281226T072600Z
 DTEND:20281226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 9周年
-DESCRIPTION:来栖夏芽 9周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 9周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022029
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20291226T072600Z
 DTEND:20291226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 10周年
-DESCRIPTION:来栖夏芽 10周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 10周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022030
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20301226T072600Z
 DTEND:20301226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 11周年
-DESCRIPTION:来栖夏芽 11周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 11周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022031
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20311226T072600Z
 DTEND:20311226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 12周年
-DESCRIPTION:来栖夏芽 12周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 12周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022032
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20321226T072600Z
 DTEND:20321226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 13周年
-DESCRIPTION:来栖夏芽 13周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 13周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022033
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20331226T072600Z
 DTEND:20331226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 14周年
-DESCRIPTION:来栖夏芽 14周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 14周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022034
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20341226T072600Z
 DTEND:20341226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 15周年
-DESCRIPTION:来栖夏芽 15周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 15周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022035
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20351226T072600Z
 DTEND:20351226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:来栖夏芽 16周年
-DESCRIPTION:来栖夏芽 16周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:来栖夏芽 16周年\n\n初ツイート：2019/12/26 16:26 （日本時間）\n初配信：2019/12/29 20:33 （日本時間）\n\n\n==========\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

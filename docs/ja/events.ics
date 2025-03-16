@@ -78,26 +78,26 @@ URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:cdebb070-7955-4a01-adc5-07ee77b36727
-DTSTAMP:20250306T035822Z
+DTSTAMP:20250315T080637Z
 DTSTART:20250503T040000Z
 DTEND:20250503T060000Z
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki's FAN Meeting ファンミーティングパート
 LOCATION:リーガロイヤルホテル東京
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="リーガロイヤルホテル東京":geo:35.710604,139.722628
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\nチケット：プレミアムプラン会員先行（抽選）（3/17 18:00〜）\nhttps://eplus.jp/shirayukitomoe_fmt_p/\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a672b4-286f-4473-bd18-f6cdcc7f82e3
-DTSTAMP:20250306T035824Z
+DTSTAMP:20250315T080711Z
 DTSTART:20250503T090000Z
 DTEND:20250503T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki's FAN Meeting ディナーショーパート
 LOCATION:リーガロイヤルホテル東京
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="リーガロイヤルホテル東京":geo:35.710604,139.722628
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\n※オンライン配信なし\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\nチケット：プレミアムプラン会員先行（抽選）（3/17 18:00〜）\nhttps://eplus.jp/shirayukitomoe_fmt_p/\n\n※オンライン配信なし\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 END:VEVENT
 BEGIN:VEVENT
@@ -123,6 +123,18 @@ LOCATION:日本武道館
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
 DESCRIPTION:ニュースページ\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.nijisanji.jp/news/037_t8f6sg
+END:VEVENT
+BEGIN:VEVENT
+UID:587c2d54-bd95-44eb-9df8-f575c5b455db
+DTSTAMP:20250315T083155Z
+DTSTART:20250524T030000Z
+DTEND:20250525T030000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじホロ交流戦2025
+LOCATION:エスコンフィールドHOKKAIDO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="エスコンフィールドHOKKAIDO":geo:42.990155,141.549647
+DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:7c2dad4f-2601-4a51-a99b-02e94356af7d

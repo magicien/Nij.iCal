@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd8caf6-cc14-447e-8392-289dbd012020
-DTSTAMP:20250313T132853Z
+DTSTAMP:20250316T051944Z
 DTSTART:20200314
 DTEND:20200314
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd8caf6-cc14-447e-8392-289dbd022019
-DTSTAMP:20250313T132853Z
+DTSTAMP:20250316T051944Z
 DTSTART:20190913T065800Z
 DTEND:20190913T072800Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:Taka Radjiman Debut\n\n==========\n【Taka Radjiman】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
+UID:3cd8caf6-cc14-447e-8392-289dbd032019
+DTSTAMP:20250316T051944Z
+DTSTART:20190915T141000Z
+DTEND:20190915T144000Z
+TRANSP:TRANSPARENT
+SUMMARY:Taka Radjiman Debut stream
+DESCRIPTION:Taka Radjiman Debut stream\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
+END:VEVENT
+BEGIN:VEVENT
 UID:3cd8caf6-cc14-447e-8392-289dbd022020
-DTSTAMP:20250313T132853Z
+DTSTAMP:20250316T051944Z
 DTSTART:20200913T065800Z
 DTEND:20200913T065801Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman 1st Anniversary
-DESCRIPTION:Taka Radjiman 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 15:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd8caf6-cc14-447e-8392-289dbd022021
-DTSTAMP:20250313T132853Z
+DTSTAMP:20250316T051944Z
 DTSTART:20210913T065800Z
 DTEND:20210913T065801Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman 2nd Anniversary
-DESCRIPTION:Taka Radjiman 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd8caf6-cc14-447e-8392-289dbd022022
-DTSTAMP:20250313T132853Z
+DTSTAMP:20250316T051944Z
 DTSTART:20220913T065800Z
 DTEND:20220913T065801Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman 3rd Anniversary
-DESCRIPTION:Taka Radjiman 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd8caf6-cc14-447e-8392-289dbd992023
-DTSTAMP:20250313T132853Z
+DTSTAMP:20250316T051944Z
 DTSTART:20230528
 DTEND:20230528
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

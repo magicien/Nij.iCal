@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b012023
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20230527
 DTEND:20230527
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022022
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20220720T000000Z
 DTEND:20220720T003000Z
 TRANSP:TRANSPARENT
@@ -38,138 +38,148 @@ DESCRIPTION:アイア アマレ 活動開始\n\n==========\n【アイア アマ�
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
+UID:718cbd47-2344-4ac6-9ec2-36e93b032022
+DTSTAMP:20250316T072604Z
+DTSTART:20220725T011500Z
+DTEND:20220725T014500Z
+TRANSP:TRANSPARENT
+SUMMARY:アイア アマレ 初配信
+DESCRIPTION:アイア アマレ 初配信\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
+END:VEVENT
+BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022023
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20230720T000000Z
 DTEND:20230720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 1周年
-DESCRIPTION:アイア アマレ 1周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 1周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022024
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20240720T000000Z
 DTEND:20240720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 2周年
-DESCRIPTION:アイア アマレ 2周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 2周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022025
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20250720T000000Z
 DTEND:20250720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 3周年
-DESCRIPTION:アイア アマレ 3周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 3周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022026
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20260720T000000Z
 DTEND:20260720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 4周年
-DESCRIPTION:アイア アマレ 4周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 4周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022027
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20270720T000000Z
 DTEND:20270720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 5周年
-DESCRIPTION:アイア アマレ 5周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 5周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022028
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20280720T000000Z
 DTEND:20280720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 6周年
-DESCRIPTION:アイア アマレ 6周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 6周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022029
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20290720T000000Z
 DTEND:20290720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 7周年
-DESCRIPTION:アイア アマレ 7周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 7周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022030
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20300720T000000Z
 DTEND:20300720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 8周年
-DESCRIPTION:アイア アマレ 8周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 8周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022031
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20310720T000000Z
 DTEND:20310720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 9周年
-DESCRIPTION:アイア アマレ 9周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 9周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022032
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20320720T000000Z
 DTEND:20320720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 10周年
-DESCRIPTION:アイア アマレ 10周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 10周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022033
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20330720T000000Z
 DTEND:20330720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 11周年
-DESCRIPTION:アイア アマレ 11周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 11周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022034
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20340720T000000Z
 DTEND:20340720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 12周年
-DESCRIPTION:アイア アマレ 12周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 12周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:718cbd47-2344-4ac6-9ec2-36e93b022035
-DTSTAMP:20250313T133733Z
+DTSTAMP:20250316T072604Z
 DTSTART:20350720T000000Z
 DTEND:20350720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アイア アマレ 13周年
-DESCRIPTION:アイア アマレ 13周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
+DESCRIPTION:アイア アマレ 13周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:15 （日本時間）\n\n\n==========\n【アイア アマレ】\nYouTube: https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA\nX: https://twitter.com/AiaAmare\n\n
 URL:https://www.youtube.com/channel/UCN68LoM3khS4gdBMiWJO8WA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

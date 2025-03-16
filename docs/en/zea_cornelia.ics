@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568012020
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20200829
 DTEND:20200829
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022019
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20190913T070700Z
 DTEND:20190913T073700Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:ZEA Cornelia Debut\n\n==========\n【ZEA Cornelia】\nYouTube: https
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
+UID:b22dc4ef-fad6-4cad-a245-748568032019
+DTSTAMP:20250316T051956Z
+DTSTART:20190915T133000Z
+DTEND:20190915T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:ZEA Cornelia Debut stream
+DESCRIPTION:ZEA Cornelia Debut stream\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
+END:VEVENT
+BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022020
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20200913T070700Z
 DTEND:20200913T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:ZEA Cornelia 1st Anniversary
-DESCRIPTION:ZEA Cornelia 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+DESCRIPTION:ZEA Cornelia 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 16:07 (JST)\nFirst stream: Sep 15, 2019, 22:30 (JST)\n\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022021
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20210913T070700Z
 DTEND:20210913T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:ZEA Cornelia 2nd Anniversary
-DESCRIPTION:ZEA Cornelia 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+DESCRIPTION:ZEA Cornelia 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 16:07 (JST)\nFirst stream: Sep 15, 2019, 22:30 (JST)\n\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568022022
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20220913T070700Z
 DTEND:20220913T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:ZEA Cornelia 3rd Anniversary
-DESCRIPTION:ZEA Cornelia 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 16:09 (JST)\nFirst stream: Sep 15, 2019 (JST)\n\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
+DESCRIPTION:ZEA Cornelia 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 16:07 (JST)\nFirst stream: Sep 15, 2019, 22:30 (JST)\n\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568992023
-DTSTAMP:20250313T132856Z
+DTSTAMP:20250316T051956Z
 DTSTART:20230514
 DTEND:20230514
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3b951c7e-23d7-413e-889c-4bf161012020
-DTSTAMP:20250313T132919Z
+DTSTAMP:20250316T042849Z
 DTSTART:20200501
 DTEND:20200501
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
 END:VEVENT
 BEGIN:VEVENT
 UID:3b951c7e-23d7-413e-889c-4bf161022019
-DTSTAMP:20250313T132919Z
+DTSTAMP:20250316T042849Z
 DTSTART:20191218T131400Z
 DTEND:20191218T134400Z
 TRANSP:TRANSPARENT
@@ -38,48 +38,58 @@ DESCRIPTION:リクサ ディレンドラ 活動開始\n\n==========\n【リク�
 URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
 END:VEVENT
 BEGIN:VEVENT
+UID:3b951c7e-23d7-413e-889c-4bf161032019
+DTSTAMP:20250316T042849Z
+DTSTART:20191220T125500Z
+DTEND:20191220T132500Z
+TRANSP:TRANSPARENT
+SUMMARY:リクサ ディレンドラ 初配信
+DESCRIPTION:リクサ ディレンドラ 初配信\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
+URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
+END:VEVENT
+BEGIN:VEVENT
 UID:3b951c7e-23d7-413e-889c-4bf161022020
-DTSTAMP:20250313T132919Z
+DTSTAMP:20250316T042849Z
 DTSTART:20201218T131400Z
 DTEND:20201218T131401Z
 TRANSP:TRANSPARENT
 SUMMARY:リクサ ディレンドラ 1周年
-DESCRIPTION:リクサ ディレンドラ 1周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
+DESCRIPTION:リクサ ディレンドラ 1周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 21:55 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
 URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
 END:VEVENT
 BEGIN:VEVENT
 UID:3b951c7e-23d7-413e-889c-4bf161022021
-DTSTAMP:20250313T132919Z
+DTSTAMP:20250316T042849Z
 DTSTART:20211218T131400Z
 DTEND:20211218T131401Z
 TRANSP:TRANSPARENT
 SUMMARY:リクサ ディレンドラ 2周年
-DESCRIPTION:リクサ ディレンドラ 2周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
+DESCRIPTION:リクサ ディレンドラ 2周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 21:55 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
 URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
 END:VEVENT
 BEGIN:VEVENT
 UID:3b951c7e-23d7-413e-889c-4bf161022022
-DTSTAMP:20250313T132919Z
+DTSTAMP:20250316T042849Z
 DTSTART:20221218T131400Z
 DTEND:20221218T131401Z
 TRANSP:TRANSPARENT
 SUMMARY:リクサ ディレンドラ 3周年
-DESCRIPTION:リクサ ディレンドラ 3周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
+DESCRIPTION:リクサ ディレンドラ 3周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 21:55 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
 URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
 END:VEVENT
 BEGIN:VEVENT
 UID:3b951c7e-23d7-413e-889c-4bf161022023
-DTSTAMP:20250313T132919Z
+DTSTAMP:20250316T042849Z
 DTSTART:20231218T131400Z
 DTEND:20231218T131401Z
 TRANSP:TRANSPARENT
 SUMMARY:リクサ ディレンドラ 4周年
-DESCRIPTION:リクサ ディレンドラ 4周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
+DESCRIPTION:リクサ ディレンドラ 4周年\n\n初ツイート：2019/12/18 22:14 （日本時間）\n初配信：2019/12/20 21:55 （日本時間）\n\n\n==========\n【リクサ ディレンドラ】\nYouTube: https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg\nX: https://twitter.com/RiksaDhirendra\n\n
 URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
 END:VEVENT
 BEGIN:VEVENT
 UID:3b951c7e-23d7-413e-889c-4bf161992024
-DTSTAMP:20250313T132919Z
+DTSTAMP:20250316T042849Z
 DTSTART:20240111
 DTEND:20240111
 TRANSP:TRANSPARENT
@@ -89,7 +99,7 @@ URL:https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

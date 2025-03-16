@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30012019
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20190624
 DTEND:20190624
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30022019
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20190429T070800Z
 DTEND:20190429T073800Z
 TRANSP:TRANSPARENT
@@ -38,28 +38,38 @@ DESCRIPTION:Suzuhara LuLu Debut\n\n==========\n【Suzuhara LuLu】\nYouTube: htt
 URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30032019
+DTSTAMP:20250316T035952Z
+DTSTART:20190501T080000Z
+DTEND:20190501T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuhara LuLu Debut stream
+DESCRIPTION:Suzuhara LuLu Debut stream\n\n==========\n【Suzuhara LuLu】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30022020
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20200429T070800Z
 DTEND:20200429T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuhara LuLu 1st Anniversary
-DESCRIPTION:Suzuhara LuLu 1st Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Suzuhara LuLu】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+DESCRIPTION:Suzuhara LuLu 1st Anniversary\n\nFirst tweet: Apr 29, 2019, 16:08 (JST)\nFirst stream: May 1, 2019, 17:00 (JST)\n\n\n==========\n【Suzuhara LuLu】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
 URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30022021
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20210429T070800Z
 DTEND:20210429T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuhara LuLu 2nd Anniversary
-DESCRIPTION:Suzuhara LuLu 2nd Anniversary\n\nFirst tweet: Apr 29, 2019, 16:04 (JST)\nFirst stream: May 1, 2019 (JST)\n\n\n==========\n【Suzuhara LuLu】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+DESCRIPTION:Suzuhara LuLu 2nd Anniversary\n\nFirst tweet: Apr 29, 2019, 16:08 (JST)\nFirst stream: May 1, 2019, 17:00 (JST)\n\n\n==========\n【Suzuhara LuLu】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
 URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30992021
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20210630
 DTEND:20210630
 TRANSP:TRANSPARENT
@@ -69,7 +79,7 @@ URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f012023
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20230731
 DTEND:20230731
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022023
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20230116T034000Z
 DTEND:20230116T041000Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:獅子堂あかり 活動開始\n\n==========\n【獅子堂あかり
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
+UID:cfdaa3e4-917a-4bf9-95fe-14b81f032023
+DTSTAMP:20250316T050046Z
+DTSTART:20230120T120000Z
+DTEND:20230120T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:獅子堂あかり 初配信
+DESCRIPTION:獅子堂あかり 初配信\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
+END:VEVENT
+BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022024
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20240116T034000Z
 DTEND:20240116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 1周年
-DESCRIPTION:獅子堂あかり 1周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 1周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022025
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20250116T034000Z
 DTEND:20250116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 2周年
-DESCRIPTION:獅子堂あかり 2周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 2周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022026
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20260116T034000Z
 DTEND:20260116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 3周年
-DESCRIPTION:獅子堂あかり 3周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 3周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022027
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20270116T034000Z
 DTEND:20270116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 4周年
-DESCRIPTION:獅子堂あかり 4周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 4周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022028
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20280116T034000Z
 DTEND:20280116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 5周年
-DESCRIPTION:獅子堂あかり 5周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 5周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022029
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20290116T034000Z
 DTEND:20290116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 6周年
-DESCRIPTION:獅子堂あかり 6周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 6周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022030
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20300116T034000Z
 DTEND:20300116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 7周年
-DESCRIPTION:獅子堂あかり 7周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 7周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022031
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20310116T034000Z
 DTEND:20310116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 8周年
-DESCRIPTION:獅子堂あかり 8周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 8周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022032
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20320116T034000Z
 DTEND:20320116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 9周年
-DESCRIPTION:獅子堂あかり 9周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 9周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022033
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20330116T034000Z
 DTEND:20330116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 10周年
-DESCRIPTION:獅子堂あかり 10周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 10周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022034
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20340116T034000Z
 DTEND:20340116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 11周年
-DESCRIPTION:獅子堂あかり 11周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 11周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cfdaa3e4-917a-4bf9-95fe-14b81f022035
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050046Z
 DTSTART:20350116T034000Z
 DTEND:20350116T034001Z
 TRANSP:TRANSPARENT
 SUMMARY:獅子堂あかり 12周年
-DESCRIPTION:獅子堂あかり 12周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
+DESCRIPTION:獅子堂あかり 12周年\n\n初ツイート：2023/01/16 12:40 （日本時間）\n初配信：2023/01/20 21:00 （日本時間）\n\n\n==========\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n
 URL:https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e012020
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20200724
 DTEND:20200724
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022020
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20200402T070100Z
 DTEND:20200402T073100Z
 TRANSP:TRANSPARENT
@@ -50,158 +50,168 @@ DESCRIPTION:長尾景 活動開始\n\n==========\n【長尾景】\nYouTube: http
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
+UID:dec94bb4-604d-4724-a784-ca276e032020
+DTSTAMP:20250316T041255Z
+DTSTART:20200404T094200Z
+DTEND:20200404T101200Z
+TRANSP:TRANSPARENT
+SUMMARY:長尾景 初配信
+DESCRIPTION:長尾景 初配信\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
+END:VEVENT
+BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022021
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20210402T070100Z
 DTEND:20210402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 1周年
-DESCRIPTION:長尾景 1周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 1周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022022
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20220402T070100Z
 DTEND:20220402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 2周年
-DESCRIPTION:長尾景 2周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 2周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022023
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20230402T070100Z
 DTEND:20230402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 3周年
-DESCRIPTION:長尾景 3周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 3周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022024
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20240402T070100Z
 DTEND:20240402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 4周年
-DESCRIPTION:長尾景 4周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 4周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022025
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20250402T070100Z
 DTEND:20250402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 5周年
-DESCRIPTION:長尾景 5周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 5周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022026
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20260402T070100Z
 DTEND:20260402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 6周年
-DESCRIPTION:長尾景 6周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 6周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022027
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20270402T070100Z
 DTEND:20270402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 7周年
-DESCRIPTION:長尾景 7周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 7周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022028
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20280402T070100Z
 DTEND:20280402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 8周年
-DESCRIPTION:長尾景 8周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 8周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022029
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20290402T070100Z
 DTEND:20290402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 9周年
-DESCRIPTION:長尾景 9周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 9周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022030
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20300402T070100Z
 DTEND:20300402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 10周年
-DESCRIPTION:長尾景 10周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 10周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022031
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20310402T070100Z
 DTEND:20310402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 11周年
-DESCRIPTION:長尾景 11周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 11周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022032
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20320402T070100Z
 DTEND:20320402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 12周年
-DESCRIPTION:長尾景 12周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 12周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022033
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20330402T070100Z
 DTEND:20330402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 13周年
-DESCRIPTION:長尾景 13周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 13周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022034
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20340402T070100Z
 DTEND:20340402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 14周年
-DESCRIPTION:長尾景 14周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 14周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:dec94bb4-604d-4724-a784-ca276e022035
-DTSTAMP:20250313T132656Z
+DTSTAMP:20250316T041255Z
 DTSTART:20350402T070100Z
 DTEND:20350402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:長尾景 15周年
-DESCRIPTION:長尾景 15周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
+DESCRIPTION:長尾景 15周年\n\n初ツイート：2020/04/02 16:01 （日本時間）\n初配信：2020/04/04 18:42 （日本時間）\n\n\n==========\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n
 URL:https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

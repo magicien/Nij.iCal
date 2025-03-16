@@ -18,58 +18,62 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0012019
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20190728
 DTEND:20190728
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:御伽原江良 誕生日
-DESCRIPTION:御伽原江良 誕生日\n\n==========\n【御伽原江良】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:御伽原江良 誕生日\n\n==========\n【御伽原江良】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0022019
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20190308T070100Z
 DTEND:20190308T073100Z
 TRANSP:TRANSPARENT
 SUMMARY:御伽原江良 活動開始
-DESCRIPTION:御伽原江良 活動開始\n\n==========\n【御伽原江良】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:御伽原江良 活動開始\n\n==========\n【御伽原江良】\nYouTube: nan\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa0b70-0726-412d-a5fe-4b24b0032019
+DTSTAMP:20250316T035743Z
+DTSTART:20190310T120000Z
+DTEND:20190310T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:御伽原江良 初配信
+DESCRIPTION:御伽原江良 初配信\n\n==========\n【御伽原江良】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0022020
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20200308T070100Z
 DTEND:20200308T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:御伽原江良 1周年
-DESCRIPTION:御伽原江良 1周年\n\n初ツイート：2019/03/08 16:01 （日本時間）\n初配信：2019/03/10 （日本時間）\n\n\n==========\n【御伽原江良】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:御伽原江良 1周年\n\n初ツイート：2019/03/08 16:01 （日本時間）\n初配信：2019/03/10 21:00 （日本時間）\n\n\n==========\n【御伽原江良】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0022021
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20210308T070100Z
 DTEND:20210308T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:御伽原江良 2周年
-DESCRIPTION:御伽原江良 2周年\n\n初ツイート：2019/03/08 16:01 （日本時間）\n初配信：2019/03/10 （日本時間）\n\n\n==========\n【御伽原江良】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:御伽原江良 2周年\n\n初ツイート：2019/03/08 16:01 （日本時間）\n初配信：2019/03/10 21:00 （日本時間）\n\n\n==========\n【御伽原江良】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0992021
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20210310
 DTEND:20210310
 TRANSP:TRANSPARENT
 SUMMARY:御伽原江良 卒業
-DESCRIPTION:御伽原江良 卒業\n\n==========\n【御伽原江良】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:御伽原江良 卒業\n\n==========\n【御伽原江良】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

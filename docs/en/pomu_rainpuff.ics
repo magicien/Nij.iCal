@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d6ca8b6-e059-4505-ae19-adeb70012021
-DTSTAMP:20250313T133536Z
+DTSTAMP:20250316T055959Z
 DTSTART:20210712
 DTEND:20210712
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
 UID:2d6ca8b6-e059-4505-ae19-adeb70022021
-DTSTAMP:20250313T133536Z
+DTSTAMP:20250316T055959Z
 DTSTART:20210512T130900Z
 DTEND:20210512T133900Z
 TRANSP:TRANSPARENT
@@ -38,28 +38,38 @@ DESCRIPTION:Pomu Rainpuff Debut\n\n==========\n【Pomu Rainpuff】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
+UID:2d6ca8b6-e059-4505-ae19-adeb70032021
+DTSTAMP:20250316T055959Z
+DTSTART:20210516T021000Z
+DTEND:20210516T024000Z
+TRANSP:TRANSPARENT
+SUMMARY:Pomu Rainpuff Debut stream
+DESCRIPTION:Pomu Rainpuff Debut stream\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
+END:VEVENT
+BEGIN:VEVENT
 UID:2d6ca8b6-e059-4505-ae19-adeb70022022
-DTSTAMP:20250313T133536Z
+DTSTAMP:20250316T055959Z
 DTSTART:20220512T130900Z
 DTEND:20220512T130901Z
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff 1st Anniversary
-DESCRIPTION:Pomu Rainpuff 1st Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff 1st Anniversary\n\nFirst tweet: May 12, 2021, 22:09 (JST)\nFirst stream: May 16, 2021, 11:10 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
 UID:2d6ca8b6-e059-4505-ae19-adeb70022023
-DTSTAMP:20250313T133536Z
+DTSTAMP:20250316T055959Z
 DTSTART:20230512T130900Z
 DTEND:20230512T130901Z
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff 2nd Anniversary
-DESCRIPTION:Pomu Rainpuff 2nd Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff 2nd Anniversary\n\nFirst tweet: May 12, 2021, 22:09 (JST)\nFirst stream: May 16, 2021, 11:10 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
 UID:2d6ca8b6-e059-4505-ae19-adeb70992024
-DTSTAMP:20250313T133536Z
+DTSTAMP:20250316T055959Z
 DTSTART:20240120
 DTEND:20240120
 TRANSP:TRANSPARENT
@@ -69,7 +79,7 @@ URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

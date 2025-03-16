@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17012023
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20230512
 DTEND:20230512
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022022
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20220712T150400Z
 DTEND:20220712T153400Z
 TRANSP:TRANSPARENT
@@ -50,138 +50,148 @@ DESCRIPTION:セラフ・ダズルガーデン 活動開始\n\n==========\n【セ
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
+UID:c65f2fac-9a37-4a79-8a75-07eb17032022
+DTSTAMP:20250316T042437Z
+DTSTART:20220716T112900Z
+DTEND:20220716T115900Z
+TRANSP:TRANSPARENT
+SUMMARY:セラフ・ダズルガーデン 初配信
+DESCRIPTION:セラフ・ダズルガーデン 初配信\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
+END:VEVENT
+BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022023
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20230712T150400Z
 DTEND:20230712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 1周年
-DESCRIPTION:セラフ・ダズルガーデン 1周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 1周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022024
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20240712T150400Z
 DTEND:20240712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 2周年
-DESCRIPTION:セラフ・ダズルガーデン 2周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 2周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022025
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20250712T150400Z
 DTEND:20250712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 3周年
-DESCRIPTION:セラフ・ダズルガーデン 3周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 3周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022026
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20260712T150400Z
 DTEND:20260712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 4周年
-DESCRIPTION:セラフ・ダズルガーデン 4周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 4周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022027
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20270712T150400Z
 DTEND:20270712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 5周年
-DESCRIPTION:セラフ・ダズルガーデン 5周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 5周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022028
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20280712T150400Z
 DTEND:20280712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 6周年
-DESCRIPTION:セラフ・ダズルガーデン 6周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 6周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022029
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20290712T150400Z
 DTEND:20290712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 7周年
-DESCRIPTION:セラフ・ダズルガーデン 7周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 7周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022030
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20300712T150400Z
 DTEND:20300712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 8周年
-DESCRIPTION:セラフ・ダズルガーデン 8周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 8周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022031
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20310712T150400Z
 DTEND:20310712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 9周年
-DESCRIPTION:セラフ・ダズルガーデン 9周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 9周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022032
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20320712T150400Z
 DTEND:20320712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 10周年
-DESCRIPTION:セラフ・ダズルガーデン 10周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 10周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022033
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20330712T150400Z
 DTEND:20330712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 11周年
-DESCRIPTION:セラフ・ダズルガーデン 11周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 11周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022034
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20340712T150400Z
 DTEND:20340712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 12周年
-DESCRIPTION:セラフ・ダズルガーデン 12周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 12周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:c65f2fac-9a37-4a79-8a75-07eb17022035
-DTSTAMP:20250313T132849Z
+DTSTAMP:20250316T042437Z
 DTSTART:20350712T150400Z
 DTEND:20350712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:セラフ・ダズルガーデン 13周年
-DESCRIPTION:セラフ・ダズルガーデン 13周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
+DESCRIPTION:セラフ・ダズルガーデン 13周年\n\n初ツイート：2022/07/13 00:04 （日本時間）\n初配信：2022/07/16 20:29 （日本時間）\n\n\n==========\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n
 URL:https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

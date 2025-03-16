@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4012019
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20190926
 DTEND:20190926
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022019
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20190429T070700Z
 DTEND:20190429T073700Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:雪城眞尋 活動開始\n\n==========\n【雪城眞尋】\nYouTube
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4032019
+DTSTAMP:20250316T022947Z
+DTSTART:20190501T091400Z
+DTEND:20190501T094400Z
+TRANSP:TRANSPARENT
+SUMMARY:雪城眞尋 初配信
+DESCRIPTION:雪城眞尋 初配信\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022020
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20200429T070700Z
 DTEND:20200429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 1周年
-DESCRIPTION:雪城眞尋 1周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 1周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022021
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20210429T070700Z
 DTEND:20210429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 2周年
-DESCRIPTION:雪城眞尋 2周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 2周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022022
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20220429T070700Z
 DTEND:20220429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 3周年
-DESCRIPTION:雪城眞尋 3周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 3周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022023
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20230429T070700Z
 DTEND:20230429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 4周年
-DESCRIPTION:雪城眞尋 4周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 4周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022024
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20240429T070700Z
 DTEND:20240429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 5周年
-DESCRIPTION:雪城眞尋 5周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 5周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022025
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20250429T070700Z
 DTEND:20250429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 6周年
-DESCRIPTION:雪城眞尋 6周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 6周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022026
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20260429T070700Z
 DTEND:20260429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 7周年
-DESCRIPTION:雪城眞尋 7周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 7周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022027
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20270429T070700Z
 DTEND:20270429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 8周年
-DESCRIPTION:雪城眞尋 8周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 8周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022028
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20280429T070700Z
 DTEND:20280429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 9周年
-DESCRIPTION:雪城眞尋 9周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 9周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022029
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20290429T070700Z
 DTEND:20290429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 10周年
-DESCRIPTION:雪城眞尋 10周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 10周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022030
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20300429T070700Z
 DTEND:20300429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 11周年
-DESCRIPTION:雪城眞尋 11周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 11周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022031
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20310429T070700Z
 DTEND:20310429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 12周年
-DESCRIPTION:雪城眞尋 12周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 12周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022032
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20320429T070700Z
 DTEND:20320429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 13周年
-DESCRIPTION:雪城眞尋 13周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 13周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022033
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20330429T070700Z
 DTEND:20330429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 14周年
-DESCRIPTION:雪城眞尋 14周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 14周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022034
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20340429T070700Z
 DTEND:20340429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 15周年
-DESCRIPTION:雪城眞尋 15周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 15周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022035
-DTSTAMP:20250313T132437Z
+DTSTAMP:20250316T022947Z
 DTSTART:20350429T070700Z
 DTEND:20350429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 16周年
-DESCRIPTION:雪城眞尋 16周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+DESCRIPTION:雪城眞尋 16周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

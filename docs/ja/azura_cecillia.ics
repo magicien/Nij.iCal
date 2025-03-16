@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0c504922-2644-4d7b-afd7-d649cf012020
-DTSTAMP:20250313T132922Z
+DTSTAMP:20250316T042917Z
 DTSTART:20200720
 DTEND:20200720
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
 END:VEVENT
 BEGIN:VEVENT
 UID:0c504922-2644-4d7b-afd7-d649cf022020
-DTSTAMP:20250313T132922Z
+DTSTAMP:20250316T042917Z
 DTSTART:20200313T103200Z
 DTEND:20200313T110200Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:アズラ セシリア 活動開始\n\n==========\n【アズラ セ�
 URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
 END:VEVENT
 BEGIN:VEVENT
+UID:0c504922-2644-4d7b-afd7-d649cf032020
+DTSTAMP:20250316T042917Z
+DTSTART:20200315T115700Z
+DTEND:20200315T122700Z
+TRANSP:TRANSPARENT
+SUMMARY:アズラ セシリア 初配信
+DESCRIPTION:アズラ セシリア 初配信\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
+END:VEVENT
+BEGIN:VEVENT
 UID:0c504922-2644-4d7b-afd7-d649cf022021
-DTSTAMP:20250313T132922Z
+DTSTAMP:20250316T042917Z
 DTSTART:20210313T103200Z
 DTEND:20210313T103201Z
 TRANSP:TRANSPARENT
 SUMMARY:アズラ セシリア 1周年
-DESCRIPTION:アズラ セシリア 1周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+DESCRIPTION:アズラ セシリア 1周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 20:57 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
 URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
 END:VEVENT
 BEGIN:VEVENT
 UID:0c504922-2644-4d7b-afd7-d649cf022022
-DTSTAMP:20250313T132922Z
+DTSTAMP:20250316T042917Z
 DTSTART:20220313T103200Z
 DTEND:20220313T103201Z
 TRANSP:TRANSPARENT
 SUMMARY:アズラ セシリア 2周年
-DESCRIPTION:アズラ セシリア 2周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+DESCRIPTION:アズラ セシリア 2周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 20:57 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
 URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
 END:VEVENT
 BEGIN:VEVENT
 UID:0c504922-2644-4d7b-afd7-d649cf022023
-DTSTAMP:20250313T132922Z
+DTSTAMP:20250316T042917Z
 DTSTART:20230313T103200Z
 DTEND:20230313T103201Z
 TRANSP:TRANSPARENT
 SUMMARY:アズラ セシリア 3周年
-DESCRIPTION:アズラ セシリア 3周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
+DESCRIPTION:アズラ セシリア 3周年\n\n初ツイート：2020/03/13 19:32 （日本時間）\n初配信：2020/03/15 20:57 （日本時間）\n\n\n==========\n【アズラ セシリア】\nYouTube: https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA\nX: https://twitter.com/Azura_Cecillia\n\n
 URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
 END:VEVENT
 BEGIN:VEVENT
 UID:0c504922-2644-4d7b-afd7-d649cf992023
-DTSTAMP:20250313T132922Z
+DTSTAMP:20250316T042917Z
 DTSTART:20230820
 DTEND:20230820
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

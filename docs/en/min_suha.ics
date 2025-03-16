@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177012020
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20200403
 DTEND:20200403
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022020
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20200123T061200Z
 DTEND:20200123T064200Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:Min Suha Debut\n\n==========\n【Min Suha】\nYouTube: https://www.y
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
+UID:bbf5b067-8817-419b-9006-146177032020
+DTSTAMP:20250316T043903Z
+DTSTART:20200125T113800Z
+DTEND:20200125T120800Z
+TRANSP:TRANSPARENT
+SUMMARY:Min Suha Debut stream
+DESCRIPTION:Min Suha Debut stream\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
+END:VEVENT
+BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022021
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20210123T061200Z
 DTEND:20210123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 1st Anniversary
-DESCRIPTION:Min Suha 1st Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 1st Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022022
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20220123T061200Z
 DTEND:20220123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 2nd Anniversary
-DESCRIPTION:Min Suha 2nd Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 2nd Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022023
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20230123T061200Z
 DTEND:20230123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 3rd Anniversary
-DESCRIPTION:Min Suha 3rd Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 3rd Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022024
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20240123T061200Z
 DTEND:20240123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 4th Anniversary
-DESCRIPTION:Min Suha 4th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 4th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022025
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20250123T061200Z
 DTEND:20250123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 5th Anniversary
-DESCRIPTION:Min Suha 5th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 5th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022026
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20260123T061200Z
 DTEND:20260123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 6th Anniversary
-DESCRIPTION:Min Suha 6th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 6th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022027
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20270123T061200Z
 DTEND:20270123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 7th Anniversary
-DESCRIPTION:Min Suha 7th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 7th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022028
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20280123T061200Z
 DTEND:20280123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 8th Anniversary
-DESCRIPTION:Min Suha 8th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 8th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022029
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20290123T061200Z
 DTEND:20290123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 9th Anniversary
-DESCRIPTION:Min Suha 9th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 9th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022030
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20300123T061200Z
 DTEND:20300123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 10th Anniversary
-DESCRIPTION:Min Suha 10th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 10th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022031
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20310123T061200Z
 DTEND:20310123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 11th Anniversary
-DESCRIPTION:Min Suha 11th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 11th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022032
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20320123T061200Z
 DTEND:20320123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 12th Anniversary
-DESCRIPTION:Min Suha 12th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 12th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022033
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20330123T061200Z
 DTEND:20330123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 13th Anniversary
-DESCRIPTION:Min Suha 13th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 13th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022034
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20340123T061200Z
 DTEND:20340123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 14th Anniversary
-DESCRIPTION:Min Suha 14th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 14th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022035
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20350123T061200Z
 DTEND:20350123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha 15th Anniversary
-DESCRIPTION:Min Suha 15th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:Min Suha 15th Anniversary\n\nFirst tweet: Jan 23, 2020, 15:12 (JST)\nFirst stream: Jan 25, 2020, 20:38 (JST)\n\n\n==========\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

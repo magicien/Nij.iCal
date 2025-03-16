@@ -66,7 +66,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68012018
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20180924
 DTEND:20180924
 RRULE:FREQ=YEARLY
@@ -77,7 +77,7 @@ URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022018
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20180131T220300Z
 DTEND:20180131T223300Z
 TRANSP:TRANSPARENT
@@ -86,178 +86,188 @@ DESCRIPTION:月ノ美兎 活動開始\n\n==========\n【月ノ美兎】\nYouTube
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
+UID:5f855e01-bb70-417e-b52f-219c68032018
+DTSTAMP:20250315T134141Z
+DTSTART:20180208T100000Z
+DTEND:20180208T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:月ノ美兎 初配信
+DESCRIPTION:月ノ美兎 初配信\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
+END:VEVENT
+BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022019
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20190131T220300Z
 DTEND:20190131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 1周年
-DESCRIPTION:月ノ美兎 1周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 1周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022020
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20200131T220300Z
 DTEND:20200131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 2周年
-DESCRIPTION:月ノ美兎 2周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 2周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022021
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20210131T220300Z
 DTEND:20210131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 3周年
-DESCRIPTION:月ノ美兎 3周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 3周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022022
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20220131T220300Z
 DTEND:20220131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 4周年
-DESCRIPTION:月ノ美兎 4周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 4周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022023
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20230131T220300Z
 DTEND:20230131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 5周年
-DESCRIPTION:月ノ美兎 5周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 5周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022024
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20240131T220300Z
 DTEND:20240131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 6周年
-DESCRIPTION:月ノ美兎 6周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 6周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022025
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20250131T220300Z
 DTEND:20250131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 7周年
-DESCRIPTION:月ノ美兎 7周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 7周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022026
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20260131T220300Z
 DTEND:20260131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 8周年
-DESCRIPTION:月ノ美兎 8周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 8周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022027
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20270131T220300Z
 DTEND:20270131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 9周年
-DESCRIPTION:月ノ美兎 9周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 9周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022028
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20280131T220300Z
 DTEND:20280131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 10周年
-DESCRIPTION:月ノ美兎 10周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 10周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022029
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20290131T220300Z
 DTEND:20290131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 11周年
-DESCRIPTION:月ノ美兎 11周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 11周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022030
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20300131T220300Z
 DTEND:20300131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 12周年
-DESCRIPTION:月ノ美兎 12周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 12周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022031
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20310131T220300Z
 DTEND:20310131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 13周年
-DESCRIPTION:月ノ美兎 13周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 13周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022032
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20320131T220300Z
 DTEND:20320131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 14周年
-DESCRIPTION:月ノ美兎 14周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 14周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022033
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20330131T220300Z
 DTEND:20330131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 15周年
-DESCRIPTION:月ノ美兎 15周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 15周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022034
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20340131T220300Z
 DTEND:20340131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 16周年
-DESCRIPTION:月ノ美兎 16周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 16周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:5f855e01-bb70-417e-b52f-219c68022035
-DTSTAMP:20250313T131854Z
+DTSTAMP:20250315T134141Z
 DTSTART:20350131T220300Z
 DTEND:20350131T220301Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 17周年
-DESCRIPTION:月ノ美兎 17周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:月ノ美兎 17周年\n\n初ツイート：2018/02/01 07:03 （日本時間）\n初配信：2018/02/08 19:00 （日本時間）\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130012026
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20260211
 DTEND:20260211
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022025
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20250312T230500Z
 DTEND:20250312T233500Z
 TRANSP:TRANSPARENT
@@ -38,108 +38,118 @@ DESCRIPTION:Freodore Debut\n\n==========\n【Freodore】\nYouTube: https://www.y
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
+UID:73d900fd-b4a2-434e-8776-645130032025
+DTSTAMP:20250316T074656Z
+DTSTART:20250315T031000Z
+DTEND:20250315T034000Z
+TRANSP:TRANSPARENT
+SUMMARY:Freodore Debut stream
+DESCRIPTION:Freodore Debut stream\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+URL:https://www.youtube.com/@Freodore_nijisanji
+END:VEVENT
+BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022026
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20260312T230500Z
 DTEND:20260312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 1st Anniversary
-DESCRIPTION:Freodore 1st Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 1st Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022027
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20270312T230500Z
 DTEND:20270312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 2nd Anniversary
-DESCRIPTION:Freodore 2nd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 2nd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022028
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20280312T230500Z
 DTEND:20280312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 3rd Anniversary
-DESCRIPTION:Freodore 3rd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 3rd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022029
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20290312T230500Z
 DTEND:20290312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 4th Anniversary
-DESCRIPTION:Freodore 4th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 4th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022030
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20300312T230500Z
 DTEND:20300312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 5th Anniversary
-DESCRIPTION:Freodore 5th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 5th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022031
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20310312T230500Z
 DTEND:20310312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 6th Anniversary
-DESCRIPTION:Freodore 6th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 6th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022032
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20320312T230500Z
 DTEND:20320312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 7th Anniversary
-DESCRIPTION:Freodore 7th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 7th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022033
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20330312T230500Z
 DTEND:20330312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 8th Anniversary
-DESCRIPTION:Freodore 8th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 8th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022034
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20340312T230500Z
 DTEND:20340312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 9th Anniversary
-DESCRIPTION:Freodore 9th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 9th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:73d900fd-b4a2-434e-8776-645130022035
-DTSTAMP:20250313T133947Z
+DTSTAMP:20250316T074656Z
 DTSTART:20350312T230500Z
 DTEND:20350312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 10th Anniversary
-DESCRIPTION:Freodore 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
+DESCRIPTION:Freodore 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://twitter.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

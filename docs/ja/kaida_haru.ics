@@ -42,7 +42,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5012020
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20201025
 DTEND:20201025
 RRULE:FREQ=YEARLY
@@ -53,7 +53,7 @@ URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022020
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20200402T070000Z
 DTEND:20200402T073000Z
 TRANSP:TRANSPARENT
@@ -62,158 +62,168 @@ DESCRIPTION:甲斐田晴 活動開始\n\n==========\n【甲斐田晴】\nYouTube
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
+UID:35229009-c60d-44ee-a3c4-f9b8c5032020
+DTSTAMP:20250316T041411Z
+DTSTART:20200404T102000Z
+DTEND:20200404T105000Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 初配信
+DESCRIPTION:甲斐田晴 初配信\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
+END:VEVENT
+BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022021
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20210402T070000Z
 DTEND:20210402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 1周年
-DESCRIPTION:甲斐田晴 1周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 1周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022022
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20220402T070000Z
 DTEND:20220402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 2周年
-DESCRIPTION:甲斐田晴 2周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 2周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022023
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20230402T070000Z
 DTEND:20230402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 3周年
-DESCRIPTION:甲斐田晴 3周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 3周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022024
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20240402T070000Z
 DTEND:20240402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 4周年
-DESCRIPTION:甲斐田晴 4周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 4周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022025
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20250402T070000Z
 DTEND:20250402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 5周年
-DESCRIPTION:甲斐田晴 5周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 5周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022026
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20260402T070000Z
 DTEND:20260402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 6周年
-DESCRIPTION:甲斐田晴 6周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 6周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022027
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20270402T070000Z
 DTEND:20270402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 7周年
-DESCRIPTION:甲斐田晴 7周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 7周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022028
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20280402T070000Z
 DTEND:20280402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 8周年
-DESCRIPTION:甲斐田晴 8周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 8周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022029
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20290402T070000Z
 DTEND:20290402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 9周年
-DESCRIPTION:甲斐田晴 9周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 9周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022030
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20300402T070000Z
 DTEND:20300402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 10周年
-DESCRIPTION:甲斐田晴 10周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 10周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022031
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20310402T070000Z
 DTEND:20310402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 11周年
-DESCRIPTION:甲斐田晴 11周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 11周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022032
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20320402T070000Z
 DTEND:20320402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 12周年
-DESCRIPTION:甲斐田晴 12周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 12周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022033
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20330402T070000Z
 DTEND:20330402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 13周年
-DESCRIPTION:甲斐田晴 13周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 13周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022034
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20340402T070000Z
 DTEND:20340402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 14周年
-DESCRIPTION:甲斐田晴 14周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 14周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:35229009-c60d-44ee-a3c4-f9b8c5022035
-DTSTAMP:20250313T132718Z
+DTSTAMP:20250316T041411Z
 DTSTART:20350402T070000Z
 DTEND:20350402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 15周年
-DESCRIPTION:甲斐田晴 15周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:甲斐田晴 15周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 19:20 （日本時間）\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

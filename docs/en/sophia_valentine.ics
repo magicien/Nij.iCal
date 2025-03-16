@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0012023
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20230214
 DTEND:20230214
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022023
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20230116T051400Z
 DTEND:20230116T054400Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:Sophia Valentine Debut\n\n==========\n【Sophia Valentine】\nYouTub
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
+UID:e746a721-e68b-4036-a838-6de5c0032023
+DTSTAMP:20250316T050233Z
+DTSTART:20230119T123000Z
+DTEND:20230119T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:Sophia Valentine Debut stream
+DESCRIPTION:Sophia Valentine Debut stream\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
+END:VEVENT
+BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022024
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20240116T051400Z
 DTEND:20240116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 1st Anniversary
-DESCRIPTION:Sophia Valentine 1st Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 1st Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022025
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20250116T051400Z
 DTEND:20250116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 2nd Anniversary
-DESCRIPTION:Sophia Valentine 2nd Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 2nd Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022026
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20260116T051400Z
 DTEND:20260116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 3rd Anniversary
-DESCRIPTION:Sophia Valentine 3rd Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 3rd Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022027
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20270116T051400Z
 DTEND:20270116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 4th Anniversary
-DESCRIPTION:Sophia Valentine 4th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 4th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022028
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20280116T051400Z
 DTEND:20280116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 5th Anniversary
-DESCRIPTION:Sophia Valentine 5th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 5th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022029
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20290116T051400Z
 DTEND:20290116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 6th Anniversary
-DESCRIPTION:Sophia Valentine 6th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 6th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022030
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20300116T051400Z
 DTEND:20300116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 7th Anniversary
-DESCRIPTION:Sophia Valentine 7th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 7th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022031
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20310116T051400Z
 DTEND:20310116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 8th Anniversary
-DESCRIPTION:Sophia Valentine 8th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 8th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022032
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20320116T051400Z
 DTEND:20320116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 9th Anniversary
-DESCRIPTION:Sophia Valentine 9th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 9th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022033
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20330116T051400Z
 DTEND:20330116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 10th Anniversary
-DESCRIPTION:Sophia Valentine 10th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 10th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022034
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20340116T051400Z
 DTEND:20340116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 11th Anniversary
-DESCRIPTION:Sophia Valentine 11th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 11th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022035
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20350116T051400Z
 DTEND:20350116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:Sophia Valentine 12th Anniversary
-DESCRIPTION:Sophia Valentine 12th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:01 (JST)\nFirst stream: Jan 19, 2023 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:Sophia Valentine 12th Anniversary\n\nFirst tweet: Jan 16, 2023, 14:14 (JST)\nFirst stream: Jan 19, 2023, 21:30 (JST)\n\n\n==========\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

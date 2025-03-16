@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/tsukino_paperrabbit/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0012020
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20200730
 DTEND:20200730
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022020
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20200402T070000Z
 DTEND:20200402T073000Z
 TRANSP:TRANSPARENT
@@ -50,158 +50,168 @@ DESCRIPTION:弦月藤士郎 活動開始\n\n==========\n【弦月藤士郎】\nY
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
+UID:5c8d9825-4ee6-41cc-8a90-d609b0032020
+DTSTAMP:20250316T041347Z
+DTSTART:20200404T090000Z
+DTEND:20200404T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:弦月藤士郎 初配信
+DESCRIPTION:弦月藤士郎 初配信\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
+END:VEVENT
+BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022021
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20210402T070000Z
 DTEND:20210402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 1周年
-DESCRIPTION:弦月藤士郎 1周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 1周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022022
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20220402T070000Z
 DTEND:20220402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 2周年
-DESCRIPTION:弦月藤士郎 2周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 2周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022023
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20230402T070000Z
 DTEND:20230402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 3周年
-DESCRIPTION:弦月藤士郎 3周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 3周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022024
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20240402T070000Z
 DTEND:20240402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 4周年
-DESCRIPTION:弦月藤士郎 4周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 4周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022025
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20250402T070000Z
 DTEND:20250402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 5周年
-DESCRIPTION:弦月藤士郎 5周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 5周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022026
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20260402T070000Z
 DTEND:20260402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 6周年
-DESCRIPTION:弦月藤士郎 6周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 6周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022027
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20270402T070000Z
 DTEND:20270402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 7周年
-DESCRIPTION:弦月藤士郎 7周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 7周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022028
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20280402T070000Z
 DTEND:20280402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 8周年
-DESCRIPTION:弦月藤士郎 8周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 8周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022029
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20290402T070000Z
 DTEND:20290402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 9周年
-DESCRIPTION:弦月藤士郎 9周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 9周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022030
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20300402T070000Z
 DTEND:20300402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 10周年
-DESCRIPTION:弦月藤士郎 10周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 10周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022031
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20310402T070000Z
 DTEND:20310402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 11周年
-DESCRIPTION:弦月藤士郎 11周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 11周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022032
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20320402T070000Z
 DTEND:20320402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 12周年
-DESCRIPTION:弦月藤士郎 12周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 12周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022033
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20330402T070000Z
 DTEND:20330402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 13周年
-DESCRIPTION:弦月藤士郎 13周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 13周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022034
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20340402T070000Z
 DTEND:20340402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 14周年
-DESCRIPTION:弦月藤士郎 14周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 14周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0022035
-DTSTAMP:20250313T132701Z
+DTSTAMP:20250316T041347Z
 DTSTART:20350402T070000Z
 DTEND:20350402T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:弦月藤士郎 15周年
-DESCRIPTION:弦月藤士郎 15周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:弦月藤士郎 15周年\n\n初ツイート：2020/04/02 16:00 （日本時間）\n初配信：2020/04/04 18:00 （日本時間）\n\n\n==========\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

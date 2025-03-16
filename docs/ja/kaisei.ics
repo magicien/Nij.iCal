@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09012024
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20240609
 DTEND:20240609
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022024
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20240312T091000Z
 DTEND:20240312T094000Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:魁星 活動開始\n\n==========\n【魁星】\nYouTube: https://ww
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
+UID:ffa40cec-bab1-4c68-a28e-fc0c09032024
+DTSTAMP:20250316T055051Z
+DTSTART:20240315T103000Z
+DTEND:20240315T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:魁星 初配信
+DESCRIPTION:魁星 初配信\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+URL:https://www.youtube.com/@Kaisei_nijisanji
+END:VEVENT
+BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022025
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20250312T091000Z
 DTEND:20250312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 1周年
-DESCRIPTION:魁星 1周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 1周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022026
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20260312T091000Z
 DTEND:20260312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 2周年
-DESCRIPTION:魁星 2周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 2周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022027
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20270312T091000Z
 DTEND:20270312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 3周年
-DESCRIPTION:魁星 3周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 3周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022028
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20280312T091000Z
 DTEND:20280312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 4周年
-DESCRIPTION:魁星 4周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 4周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022029
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20290312T091000Z
 DTEND:20290312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 5周年
-DESCRIPTION:魁星 5周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 5周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022030
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20300312T091000Z
 DTEND:20300312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 6周年
-DESCRIPTION:魁星 6周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 6周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022031
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20310312T091000Z
 DTEND:20310312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 7周年
-DESCRIPTION:魁星 7周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 7周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022032
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20320312T091000Z
 DTEND:20320312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 8周年
-DESCRIPTION:魁星 8周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 8周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022033
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20330312T091000Z
 DTEND:20330312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 9周年
-DESCRIPTION:魁星 9周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 9周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022034
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20340312T091000Z
 DTEND:20340312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 10周年
-DESCRIPTION:魁星 10周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 10周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa40cec-bab1-4c68-a28e-fc0c09022035
-DTSTAMP:20250313T133451Z
+DTSTAMP:20250316T055051Z
 DTSTART:20350312T091000Z
 DTEND:20350312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:魁星 11周年
-DESCRIPTION:魁星 11周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
+DESCRIPTION:魁星 11周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:30 （日本時間）\n\n\n==========\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n
 URL:https://www.youtube.com/@Kaisei_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

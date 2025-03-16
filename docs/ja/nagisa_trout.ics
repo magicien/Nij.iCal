@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e012025
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20250715
 DTEND:20250715
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022024
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20240813T090500Z
 DTEND:20240813T093500Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:渚トラウト 活動開始\n\n==========\n【渚トラウト】\nY
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
+UID:61506f7d-a432-49d4-a978-f5ae2e032024
+DTSTAMP:20250316T055827Z
+DTSTART:20240816T123000Z
+DTEND:20240816T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:渚トラウト 初配信
+DESCRIPTION:渚トラウト 初配信\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+URL:https://www.youtube.com/@NagisaTrout
+END:VEVENT
+BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022025
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20250813T090500Z
 DTEND:20250813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 1周年
-DESCRIPTION:渚トラウト 1周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 1周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022026
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20260813T090500Z
 DTEND:20260813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 2周年
-DESCRIPTION:渚トラウト 2周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 2周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022027
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20270813T090500Z
 DTEND:20270813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 3周年
-DESCRIPTION:渚トラウト 3周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 3周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022028
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20280813T090500Z
 DTEND:20280813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 4周年
-DESCRIPTION:渚トラウト 4周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 4周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022029
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20290813T090500Z
 DTEND:20290813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 5周年
-DESCRIPTION:渚トラウト 5周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 5周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022030
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20300813T090500Z
 DTEND:20300813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 6周年
-DESCRIPTION:渚トラウト 6周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 6周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022031
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20310813T090500Z
 DTEND:20310813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 7周年
-DESCRIPTION:渚トラウト 7周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 7周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022032
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20320813T090500Z
 DTEND:20320813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 8周年
-DESCRIPTION:渚トラウト 8周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 8周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022033
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20330813T090500Z
 DTEND:20330813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 9周年
-DESCRIPTION:渚トラウト 9周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 9周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022034
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20340813T090500Z
 DTEND:20340813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 10周年
-DESCRIPTION:渚トラウト 10周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 10周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:61506f7d-a432-49d4-a978-f5ae2e022035
-DTSTAMP:20250313T133527Z
+DTSTAMP:20250316T055827Z
 DTSTART:20350813T090500Z
 DTEND:20350813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:渚トラウト 11周年
-DESCRIPTION:渚トラウト 11周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
+DESCRIPTION:渚トラウト 11周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 21:30 （日本時間）\n\n\n==========\n【渚トラウト】\nYouTube: https://www.youtube.com/@NagisaTrout\nX: https://twitter.com/Tr0uT_2434\n\n
 URL:https://www.youtube.com/@NagisaTrout
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

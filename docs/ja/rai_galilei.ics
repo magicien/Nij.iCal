@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863012020
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20200921
 DTEND:20200921
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022019
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20191218T122600Z
 DTEND:20191218T125600Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:ライ ガリレイ 活動開始\n\n==========\n【ライ ガリレ�
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863032019
+DTSTAMP:20250316T042726Z
+DTSTART:20191220T115900Z
+DTEND:20191220T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ライ ガリレイ 初配信
+DESCRIPTION:ライ ガリレイ 初配信\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022020
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20201218T122600Z
 DTEND:20201218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 1周年
-DESCRIPTION:ライ ガリレイ 1周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 1周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022021
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20211218T122600Z
 DTEND:20211218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 2周年
-DESCRIPTION:ライ ガリレイ 2周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 2周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022022
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20221218T122600Z
 DTEND:20221218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 3周年
-DESCRIPTION:ライ ガリレイ 3周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 3周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022023
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20231218T122600Z
 DTEND:20231218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 4周年
-DESCRIPTION:ライ ガリレイ 4周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 4周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022024
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20241218T122600Z
 DTEND:20241218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 5周年
-DESCRIPTION:ライ ガリレイ 5周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 5周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022025
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20251218T122600Z
 DTEND:20251218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 6周年
-DESCRIPTION:ライ ガリレイ 6周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 6周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022026
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20261218T122600Z
 DTEND:20261218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 7周年
-DESCRIPTION:ライ ガリレイ 7周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 7周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022027
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20271218T122600Z
 DTEND:20271218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 8周年
-DESCRIPTION:ライ ガリレイ 8周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 8周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022028
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20281218T122600Z
 DTEND:20281218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 9周年
-DESCRIPTION:ライ ガリレイ 9周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 9周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022029
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20291218T122600Z
 DTEND:20291218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 10周年
-DESCRIPTION:ライ ガリレイ 10周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 10周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022030
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20301218T122600Z
 DTEND:20301218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 11周年
-DESCRIPTION:ライ ガリレイ 11周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 11周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022031
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20311218T122600Z
 DTEND:20311218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 12周年
-DESCRIPTION:ライ ガリレイ 12周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 12周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022032
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20321218T122600Z
 DTEND:20321218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 13周年
-DESCRIPTION:ライ ガリレイ 13周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 13周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022033
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20331218T122600Z
 DTEND:20331218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 14周年
-DESCRIPTION:ライ ガリレイ 14周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 14周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022034
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20341218T122600Z
 DTEND:20341218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 15周年
-DESCRIPTION:ライ ガリレイ 15周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 15周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:b1eb8927-b1ec-4e65-802b-722863022035
-DTSTAMP:20250313T132906Z
+DTSTAMP:20250316T042726Z
 DTSTART:20351218T122600Z
 DTEND:20351218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:ライ ガリレイ 16周年
-DESCRIPTION:ライ ガリレイ 16周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
+DESCRIPTION:ライ ガリレイ 16周年\n\n初ツイート：2019/12/18 21:26 （日本時間）\n初配信：2019/12/20 20:59 （日本時間）\n\n\n==========\n【ライ ガリレイ】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://twitter.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

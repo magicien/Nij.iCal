@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569012020
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20200808
 DTEND:20200808
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022019
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20191031T070000Z
 DTEND:20191031T073000Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:えま★おうがすと 活動開始\n\n==========\n【えま★お
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
+UID:16b41a9e-cd42-4d3f-8ba4-f69569032019
+DTSTAMP:20250316T024953Z
+DTSTART:20191103T111200Z
+DTEND:20191103T114200Z
+TRANSP:TRANSPARENT
+SUMMARY:えま★おうがすと 初配信
+DESCRIPTION:えま★おうがすと 初配信\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
+END:VEVENT
+BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022020
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20201031T070000Z
 DTEND:20201031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 1周年
-DESCRIPTION:えま★おうがすと 1周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 1周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022021
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20211031T070000Z
 DTEND:20211031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 2周年
-DESCRIPTION:えま★おうがすと 2周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 2周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022022
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20221031T070000Z
 DTEND:20221031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 3周年
-DESCRIPTION:えま★おうがすと 3周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 3周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022023
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20231031T070000Z
 DTEND:20231031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 4周年
-DESCRIPTION:えま★おうがすと 4周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 4周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022024
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20241031T070000Z
 DTEND:20241031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 5周年
-DESCRIPTION:えま★おうがすと 5周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 5周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022025
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20251031T070000Z
 DTEND:20251031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 6周年
-DESCRIPTION:えま★おうがすと 6周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 6周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022026
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20261031T070000Z
 DTEND:20261031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 7周年
-DESCRIPTION:えま★おうがすと 7周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 7周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022027
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20271031T070000Z
 DTEND:20271031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 8周年
-DESCRIPTION:えま★おうがすと 8周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 8周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022028
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20281031T070000Z
 DTEND:20281031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 9周年
-DESCRIPTION:えま★おうがすと 9周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 9周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022029
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20291031T070000Z
 DTEND:20291031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 10周年
-DESCRIPTION:えま★おうがすと 10周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 10周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022030
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20301031T070000Z
 DTEND:20301031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 11周年
-DESCRIPTION:えま★おうがすと 11周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 11周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022031
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20311031T070000Z
 DTEND:20311031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 12周年
-DESCRIPTION:えま★おうがすと 12周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 12周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022032
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20321031T070000Z
 DTEND:20321031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 13周年
-DESCRIPTION:えま★おうがすと 13周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 13周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022033
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20331031T070000Z
 DTEND:20331031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 14周年
-DESCRIPTION:えま★おうがすと 14周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 14周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022034
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20341031T070000Z
 DTEND:20341031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 15周年
-DESCRIPTION:えま★おうがすと 15周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 15周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:16b41a9e-cd42-4d3f-8ba4-f69569022035
-DTSTAMP:20250313T132542Z
+DTSTAMP:20250316T024953Z
 DTSTART:20351031T070000Z
 DTEND:20351031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:えま★おうがすと 16周年
-DESCRIPTION:えま★おうがすと 16周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
+DESCRIPTION:えま★おうがすと 16周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 20:12 （日本時間）\n\n\n==========\n【えま★おうがすと】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n
 URL:https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

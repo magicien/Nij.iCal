@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c012020
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20200219
 DTEND:20200219
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022019
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20190703T070000Z
 DTEND:20190703T073000Z
 TRANSP:TRANSPARENT
@@ -50,168 +50,178 @@ DESCRIPTION:葉加瀬冬雪 活動開始\n\n==========\n【葉加瀬冬雪】\nY
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
+UID:27d21651-7e10-4743-9334-634c5c032019
+DTSTAMP:20250316T023314Z
+DTSTART:20190706T114400Z
+DTEND:20190706T121400Z
+TRANSP:TRANSPARENT
+SUMMARY:葉加瀬冬雪 初配信
+DESCRIPTION:葉加瀬冬雪 初配信\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
+END:VEVENT
+BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022020
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20200703T070000Z
 DTEND:20200703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 1周年
-DESCRIPTION:葉加瀬冬雪 1周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 1周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022021
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20210703T070000Z
 DTEND:20210703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 2周年
-DESCRIPTION:葉加瀬冬雪 2周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 2周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022022
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20220703T070000Z
 DTEND:20220703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 3周年
-DESCRIPTION:葉加瀬冬雪 3周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 3周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022023
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20230703T070000Z
 DTEND:20230703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 4周年
-DESCRIPTION:葉加瀬冬雪 4周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 4周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022024
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20240703T070000Z
 DTEND:20240703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 5周年
-DESCRIPTION:葉加瀬冬雪 5周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 5周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022025
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20250703T070000Z
 DTEND:20250703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 6周年
-DESCRIPTION:葉加瀬冬雪 6周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 6周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022026
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20260703T070000Z
 DTEND:20260703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 7周年
-DESCRIPTION:葉加瀬冬雪 7周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 7周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022027
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20270703T070000Z
 DTEND:20270703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 8周年
-DESCRIPTION:葉加瀬冬雪 8周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 8周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022028
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20280703T070000Z
 DTEND:20280703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 9周年
-DESCRIPTION:葉加瀬冬雪 9周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 9周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022029
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20290703T070000Z
 DTEND:20290703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 10周年
-DESCRIPTION:葉加瀬冬雪 10周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 10周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022030
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20300703T070000Z
 DTEND:20300703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 11周年
-DESCRIPTION:葉加瀬冬雪 11周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 11周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022031
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20310703T070000Z
 DTEND:20310703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 12周年
-DESCRIPTION:葉加瀬冬雪 12周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 12周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022032
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20320703T070000Z
 DTEND:20320703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 13周年
-DESCRIPTION:葉加瀬冬雪 13周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 13周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022033
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20330703T070000Z
 DTEND:20330703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 14周年
-DESCRIPTION:葉加瀬冬雪 14周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 14周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022034
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20340703T070000Z
 DTEND:20340703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 15周年
-DESCRIPTION:葉加瀬冬雪 15周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 15周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:27d21651-7e10-4743-9334-634c5c022035
-DTSTAMP:20250313T132452Z
+DTSTAMP:20250316T023314Z
 DTSTART:20350703T070000Z
 DTEND:20350703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 16周年
-DESCRIPTION:葉加瀬冬雪 16周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
+DESCRIPTION:葉加瀬冬雪 16周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

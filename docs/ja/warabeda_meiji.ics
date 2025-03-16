@@ -18,68 +18,78 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:9377734b-8c37-43e1-9fdf-abd5df012019
-DTSTAMP:20250313T132322Z
+DTSTAMP:20250316T034443Z
 DTSTART:20190504
 DTEND:20190504
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:童田明治 誕生日
-DESCRIPTION:童田明治 誕生日\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+DESCRIPTION:童田明治 誕生日\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n
 URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
 END:VEVENT
 BEGIN:VEVENT
 UID:9377734b-8c37-43e1-9fdf-abd5df022019
-DTSTAMP:20250313T132322Z
+DTSTAMP:20250316T034443Z
 DTSTART:20190108T070200Z
 DTEND:20190108T073200Z
 TRANSP:TRANSPARENT
 SUMMARY:童田明治 活動開始
-DESCRIPTION:童田明治 活動開始\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+DESCRIPTION:童田明治 活動開始\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n
+URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
+END:VEVENT
+BEGIN:VEVENT
+UID:9377734b-8c37-43e1-9fdf-abd5df032019
+DTSTAMP:20250316T034443Z
+DTSTART:20190110T120000Z
+DTEND:20190110T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:童田明治 初配信
+DESCRIPTION:童田明治 初配信\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n
 URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
 END:VEVENT
 BEGIN:VEVENT
 UID:9377734b-8c37-43e1-9fdf-abd5df022020
-DTSTAMP:20250313T132322Z
+DTSTAMP:20250316T034443Z
 DTSTART:20200108T070200Z
 DTEND:20200108T070201Z
 TRANSP:TRANSPARENT
 SUMMARY:童田明治 1周年
-DESCRIPTION:童田明治 1周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+DESCRIPTION:童田明治 1周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 21:00 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n
 URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
 END:VEVENT
 BEGIN:VEVENT
 UID:9377734b-8c37-43e1-9fdf-abd5df022021
-DTSTAMP:20250313T132322Z
+DTSTAMP:20250316T034443Z
 DTSTART:20210108T070200Z
 DTEND:20210108T070201Z
 TRANSP:TRANSPARENT
 SUMMARY:童田明治 2周年
-DESCRIPTION:童田明治 2周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+DESCRIPTION:童田明治 2周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 21:00 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n
 URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
 END:VEVENT
 BEGIN:VEVENT
 UID:9377734b-8c37-43e1-9fdf-abd5df022022
-DTSTAMP:20250313T132322Z
+DTSTAMP:20250316T034443Z
 DTSTART:20220108T070200Z
 DTEND:20220108T070201Z
 TRANSP:TRANSPARENT
 SUMMARY:童田明治 3周年
-DESCRIPTION:童田明治 3周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+DESCRIPTION:童田明治 3周年\n\n初ツイート：2019/01/08 16:02 （日本時間）\n初配信：2019/01/10 21:00 （日本時間）\n\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n
 URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
 END:VEVENT
 BEGIN:VEVENT
 UID:9377734b-8c37-43e1-9fdf-abd5df992022
-DTSTAMP:20250313T132322Z
+DTSTAMP:20250316T034443Z
 DTSTART:20220430
 DTEND:20220430
 TRANSP:TRANSPARENT
 SUMMARY:童田明治 卒業
-DESCRIPTION:童田明治 卒業\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\nX: nan\n\n
+DESCRIPTION:童田明治 卒業\n\n==========\n【童田明治】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n
 URL:https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

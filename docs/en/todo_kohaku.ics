@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb012020
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20200929
 DTEND:20200929
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022020
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20200806T070100Z
 DTEND:20200806T073100Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:Todo Kohaku Debut\n\n==========\n【Todo Kohaku】\nYouTube: https:/
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
+UID:106306d2-1e74-45ea-97d9-101feb032020
+DTSTAMP:20250316T041623Z
+DTSTART:20200810T050000Z
+DTEND:20200810T053000Z
+TRANSP:TRANSPARENT
+SUMMARY:Todo Kohaku Debut stream
+DESCRIPTION:Todo Kohaku Debut stream\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
+END:VEVENT
+BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022021
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20210806T070100Z
 DTEND:20210806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 1st Anniversary
-DESCRIPTION:Todo Kohaku 1st Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 1st Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022022
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20220806T070100Z
 DTEND:20220806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 2nd Anniversary
-DESCRIPTION:Todo Kohaku 2nd Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 2nd Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022023
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20230806T070100Z
 DTEND:20230806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 3rd Anniversary
-DESCRIPTION:Todo Kohaku 3rd Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 3rd Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022024
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20240806T070100Z
 DTEND:20240806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 4th Anniversary
-DESCRIPTION:Todo Kohaku 4th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 4th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022025
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20250806T070100Z
 DTEND:20250806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 5th Anniversary
-DESCRIPTION:Todo Kohaku 5th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 5th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022026
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20260806T070100Z
 DTEND:20260806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 6th Anniversary
-DESCRIPTION:Todo Kohaku 6th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 6th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022027
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20270806T070100Z
 DTEND:20270806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 7th Anniversary
-DESCRIPTION:Todo Kohaku 7th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 7th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022028
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20280806T070100Z
 DTEND:20280806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 8th Anniversary
-DESCRIPTION:Todo Kohaku 8th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 8th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022029
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20290806T070100Z
 DTEND:20290806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 9th Anniversary
-DESCRIPTION:Todo Kohaku 9th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 9th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022030
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20300806T070100Z
 DTEND:20300806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 10th Anniversary
-DESCRIPTION:Todo Kohaku 10th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 10th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022031
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20310806T070100Z
 DTEND:20310806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 11th Anniversary
-DESCRIPTION:Todo Kohaku 11th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 11th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022032
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20320806T070100Z
 DTEND:20320806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 12th Anniversary
-DESCRIPTION:Todo Kohaku 12th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 12th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022033
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20330806T070100Z
 DTEND:20330806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 13th Anniversary
-DESCRIPTION:Todo Kohaku 13th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 13th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022034
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20340806T070100Z
 DTEND:20340806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 14th Anniversary
-DESCRIPTION:Todo Kohaku 14th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 14th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:106306d2-1e74-45ea-97d9-101feb022035
-DTSTAMP:20250313T132732Z
+DTSTAMP:20250316T041623Z
 DTSTART:20350806T070100Z
 DTEND:20350806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Todo Kohaku 15th Anniversary
-DESCRIPTION:Todo Kohaku 15th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:08 (JST)\nFirst stream: Aug 10, 2020 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
+DESCRIPTION:Todo Kohaku 15th Anniversary\n\nFirst tweet: Aug 6, 2020, 16:01 (JST)\nFirst stream: Aug 10, 2020, 14:00 (JST)\n\n\n==========\n【Todo Kohaku】\nYouTube: https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A\nX: https://twitter.com/kohaku_todo\n\n
 URL:https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3012023
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20230904
 DTEND:20230904
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022023
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20230622T000300Z
 DTEND:20230622T003300Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:ユウ Q ウィルソン 活動開始\n\n==========\n【ユウ Q ウ
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
+UID:60d5725a-fa97-461f-b6f5-5b1cd3032023
+DTSTAMP:20250316T073157Z
+DTSTART:20230625T031000Z
+DTEND:20230625T034000Z
+TRANSP:TRANSPARENT
+SUMMARY:ユウ Q ウィルソン 初配信
+DESCRIPTION:ユウ Q ウィルソン 初配信\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+URL:https://www.youtube.com/@YuQ.Wilson
+END:VEVENT
+BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022024
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20240622T000300Z
 DTEND:20240622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 1周年
-DESCRIPTION:ユウ Q ウィルソン 1周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 1周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022025
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20250622T000300Z
 DTEND:20250622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 2周年
-DESCRIPTION:ユウ Q ウィルソン 2周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 2周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022026
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20260622T000300Z
 DTEND:20260622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 3周年
-DESCRIPTION:ユウ Q ウィルソン 3周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 3周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022027
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20270622T000300Z
 DTEND:20270622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 4周年
-DESCRIPTION:ユウ Q ウィルソン 4周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 4周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022028
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20280622T000300Z
 DTEND:20280622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 5周年
-DESCRIPTION:ユウ Q ウィルソン 5周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 5周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022029
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20290622T000300Z
 DTEND:20290622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 6周年
-DESCRIPTION:ユウ Q ウィルソン 6周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 6周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022030
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20300622T000300Z
 DTEND:20300622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 7周年
-DESCRIPTION:ユウ Q ウィルソン 7周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 7周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022031
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20310622T000300Z
 DTEND:20310622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 8周年
-DESCRIPTION:ユウ Q ウィルソン 8周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 8周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022032
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20320622T000300Z
 DTEND:20320622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 9周年
-DESCRIPTION:ユウ Q ウィルソン 9周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 9周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022033
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20330622T000300Z
 DTEND:20330622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 10周年
-DESCRIPTION:ユウ Q ウィルソン 10周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 10周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022034
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20340622T000300Z
 DTEND:20340622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 11周年
-DESCRIPTION:ユウ Q ウィルソン 11周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 11周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:60d5725a-fa97-461f-b6f5-5b1cd3022035
-DTSTAMP:20250313T133825Z
+DTSTAMP:20250316T073157Z
 DTSTART:20350622T000300Z
 DTEND:20350622T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:ユウ Q ウィルソン 12周年
-DESCRIPTION:ユウ Q ウィルソン 12周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
+DESCRIPTION:ユウ Q ウィルソン 12周年\n\n初ツイート：2023/06/22 09:03 （日本時間）\n初配信：2023/06/25 12:10 （日本時間）\n\n\n==========\n【ユウ Q ウィルソン】\nYouTube: https://www.youtube.com/@YuQ.Wilson\nX: https://twitter.com/YuQWilson\n\n
 URL:https://www.youtube.com/@YuQ.Wilson
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

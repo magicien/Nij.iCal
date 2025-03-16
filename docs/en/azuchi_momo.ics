@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf012019
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20190303
 DTEND:20190303
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf022018
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20180603T065300Z
 DTEND:20180603T072300Z
 TRANSP:TRANSPARENT
@@ -38,58 +38,68 @@ DESCRIPTION:Azuchi Momo Debut\n\n==========\n【Azuchi Momo】\nYouTube: https:/
 URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
+UID:deda1edf-50dd-4d1e-b36e-3918cf032018
+DTSTAMP:20250316T014256Z
+DTSTART:20180616T060000Z
+DTEND:20180616T063000Z
+TRANSP:TRANSPARENT
+SUMMARY:Azuchi Momo Debut stream
+DESCRIPTION:Azuchi Momo Debut stream\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+URL:https://www.youtube.com/@AzuchiMomo
+END:VEVENT
+BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf022019
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20190603T065300Z
 DTEND:20190603T065301Z
 TRANSP:TRANSPARENT
 SUMMARY:Azuchi Momo 1st Anniversary
-DESCRIPTION:Azuchi Momo 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+DESCRIPTION:Azuchi Momo 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 15:53 (JST)\nFirst stream: Jun 16, 2018, 15:00 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
 URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf022020
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20200603T065300Z
 DTEND:20200603T065301Z
 TRANSP:TRANSPARENT
 SUMMARY:Azuchi Momo 2nd Anniversary
-DESCRIPTION:Azuchi Momo 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+DESCRIPTION:Azuchi Momo 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:53 (JST)\nFirst stream: Jun 16, 2018, 15:00 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
 URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf022021
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20210603T065300Z
 DTEND:20210603T065301Z
 TRANSP:TRANSPARENT
 SUMMARY:Azuchi Momo 3rd Anniversary
-DESCRIPTION:Azuchi Momo 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+DESCRIPTION:Azuchi Momo 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 15:53 (JST)\nFirst stream: Jun 16, 2018, 15:00 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
 URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf022022
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20220603T065300Z
 DTEND:20220603T065301Z
 TRANSP:TRANSPARENT
 SUMMARY:Azuchi Momo 4th Anniversary
-DESCRIPTION:Azuchi Momo 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+DESCRIPTION:Azuchi Momo 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:53 (JST)\nFirst stream: Jun 16, 2018, 15:00 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
 URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf022023
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20230603T065300Z
 DTEND:20230603T065301Z
 TRANSP:TRANSPARENT
 SUMMARY:Azuchi Momo 5th Anniversary
-DESCRIPTION:Azuchi Momo 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:06 (JST)\nFirst stream: Jun 16, 2018 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
+DESCRIPTION:Azuchi Momo 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:53 (JST)\nFirst stream: Jun 16, 2018, 15:00 (JST)\n\n\n==========\n【Azuchi Momo】\nYouTube: https://www.youtube.com/@AzuchiMomo\nX: https://twitter.com/momo_azuchi_\n\n
 URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
 UID:deda1edf-50dd-4d1e-b36e-3918cf992024
-DTSTAMP:20250313T132101Z
+DTSTAMP:20250316T014256Z
 DTSTART:20240131
 DTEND:20240131
 TRANSP:TRANSPARENT
@@ -99,7 +109,7 @@ URL:https://www.youtube.com/@AzuchiMomo
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

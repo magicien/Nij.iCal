@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06012024
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20240226
 DTEND:20240226
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022023
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20230426T031000Z
 DTEND:20230426T034000Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:Murakumo Kagetsu Debut\n\n==========\n【Murakumo Kagetsu】\nYouTub
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
+UID:2bc0947d-09b9-4b04-a78e-d26a06032023
+DTSTAMP:20250316T050620Z
+DTSTART:20230429T030000Z
+DTEND:20230429T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:Murakumo Kagetsu Debut stream
+DESCRIPTION:Murakumo Kagetsu Debut stream\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+URL:https://www.youtube.com/@MurakumoKagetsu
+END:VEVENT
+BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022024
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20240426T031000Z
 DTEND:20240426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 1st Anniversary
-DESCRIPTION:Murakumo Kagetsu 1st Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 1st Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022025
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20250426T031000Z
 DTEND:20250426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 2nd Anniversary
-DESCRIPTION:Murakumo Kagetsu 2nd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 2nd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022026
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20260426T031000Z
 DTEND:20260426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 3rd Anniversary
-DESCRIPTION:Murakumo Kagetsu 3rd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 3rd Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022027
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20270426T031000Z
 DTEND:20270426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 4th Anniversary
-DESCRIPTION:Murakumo Kagetsu 4th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 4th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022028
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20280426T031000Z
 DTEND:20280426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 5th Anniversary
-DESCRIPTION:Murakumo Kagetsu 5th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 5th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022029
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20290426T031000Z
 DTEND:20290426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 6th Anniversary
-DESCRIPTION:Murakumo Kagetsu 6th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 6th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022030
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20300426T031000Z
 DTEND:20300426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 7th Anniversary
-DESCRIPTION:Murakumo Kagetsu 7th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 7th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022031
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20310426T031000Z
 DTEND:20310426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 8th Anniversary
-DESCRIPTION:Murakumo Kagetsu 8th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 8th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022032
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20320426T031000Z
 DTEND:20320426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 9th Anniversary
-DESCRIPTION:Murakumo Kagetsu 9th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 9th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022033
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20330426T031000Z
 DTEND:20330426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 10th Anniversary
-DESCRIPTION:Murakumo Kagetsu 10th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 10th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022034
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20340426T031000Z
 DTEND:20340426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 11th Anniversary
-DESCRIPTION:Murakumo Kagetsu 11th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 11th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022035
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20350426T031000Z
 DTEND:20350426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:Murakumo Kagetsu 12th Anniversary
-DESCRIPTION:Murakumo Kagetsu 12th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:04 (JST)\nFirst stream: Apr 29, 2023 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:Murakumo Kagetsu 12th Anniversary\n\nFirst tweet: Apr 26, 2023, 12:10 (JST)\nFirst stream: Apr 29, 2023, 12:00 (JST)\n\n\n==========\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

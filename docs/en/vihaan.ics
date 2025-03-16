@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:16ab7bd0-b198-4850-ad69-cac649012020
-DTSTAMP:20250313T133935Z
+DTSTAMP:20250316T074307Z
 DTSTART:20200321
 DTEND:20200321
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
 UID:16ab7bd0-b198-4850-ad69-cac649022020
-DTSTAMP:20250313T133935Z
+DTSTAMP:20250316T074307Z
 DTSTART:20200123T093500Z
 DTEND:20200123T100500Z
 TRANSP:TRANSPARENT
@@ -38,18 +38,28 @@ DESCRIPTION:Vihaan Debut\n\n==========\n【Vihaan】\nYouTube: https://www.youtu
 URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
+UID:16ab7bd0-b198-4850-ad69-cac649032020
+DTSTAMP:20250316T074307Z
+DTSTART:20200125T083000Z
+DTEND:20200125T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Vihaan Debut stream
+DESCRIPTION:Vihaan Debut stream\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
+URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
+END:VEVENT
+BEGIN:VEVENT
 UID:16ab7bd0-b198-4850-ad69-cac649022021
-DTSTAMP:20250313T133935Z
+DTSTAMP:20250316T074307Z
 DTSTART:20210123T093500Z
 DTEND:20210123T093501Z
 TRANSP:TRANSPARENT
 SUMMARY:Vihaan 1st Anniversary
-DESCRIPTION:Vihaan 1st Anniversary\n\nFirst tweet: Jan 23, 2020, 18:01 (JST)\nFirst stream: Jan 25, 2020 (JST)\n\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
+DESCRIPTION:Vihaan 1st Anniversary\n\nFirst tweet: Jan 23, 2020, 18:35 (JST)\nFirst stream: Jan 25, 2020, 17:30 (JST)\n\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
 URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
 UID:16ab7bd0-b198-4850-ad69-cac649992021
-DTSTAMP:20250313T133935Z
+DTSTAMP:20250316T074307Z
 DTSTART:20210430
 DTEND:20210430
 TRANSP:TRANSPARENT
@@ -59,7 +69,7 @@ URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

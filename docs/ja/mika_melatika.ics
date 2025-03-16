@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d3f1bb9-f59f-4927-a0a2-451fe1012022
-DTSTAMP:20250313T133232Z
+DTSTAMP:20250316T053936Z
 DTSTART:20220401
 DTEND:20220401
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
 END:VEVENT
 BEGIN:VEVENT
 UID:8d3f1bb9-f59f-4927-a0a2-451fe1022021
-DTSTAMP:20250313T133232Z
+DTSTAMP:20250316T053936Z
 DTSTART:20210728T094900Z
 DTEND:20210728T101900Z
 TRANSP:TRANSPARENT
@@ -38,28 +38,38 @@ DESCRIPTION:ミカ メラティカ 活動開始\n\n==========\n【ミカ メラ�
 URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
 END:VEVENT
 BEGIN:VEVENT
+UID:8d3f1bb9-f59f-4927-a0a2-451fe1032021
+DTSTAMP:20250316T053936Z
+DTSTART:20210731T133000Z
+DTEND:20210731T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:ミカ メラティカ 初配信
+DESCRIPTION:ミカ メラティカ 初配信\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
+END:VEVENT
+BEGIN:VEVENT
 UID:8d3f1bb9-f59f-4927-a0a2-451fe1022022
-DTSTAMP:20250313T133232Z
+DTSTAMP:20250316T053936Z
 DTSTART:20220728T094900Z
 DTEND:20220728T094901Z
 TRANSP:TRANSPARENT
 SUMMARY:ミカ メラティカ 1周年
-DESCRIPTION:ミカ メラティカ 1周年\n\n初ツイート：2021/07/28 18:49 （日本時間）\n初配信：2021/07/31 （日本時間）\n\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+DESCRIPTION:ミカ メラティカ 1周年\n\n初ツイート：2021/07/28 18:49 （日本時間）\n初配信：2021/07/31 22:30 （日本時間）\n\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
 URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
 END:VEVENT
 BEGIN:VEVENT
 UID:8d3f1bb9-f59f-4927-a0a2-451fe1022023
-DTSTAMP:20250313T133232Z
+DTSTAMP:20250316T053936Z
 DTSTART:20230728T094900Z
 DTEND:20230728T094901Z
 TRANSP:TRANSPARENT
 SUMMARY:ミカ メラティカ 2周年
-DESCRIPTION:ミカ メラティカ 2周年\n\n初ツイート：2021/07/28 18:49 （日本時間）\n初配信：2021/07/31 （日本時間）\n\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
+DESCRIPTION:ミカ メラティカ 2周年\n\n初ツイート：2021/07/28 18:49 （日本時間）\n初配信：2021/07/31 22:30 （日本時間）\n\n\n==========\n【ミカ メラティカ】\nYouTube: https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg\nX: https://twitter.com/MikaMelatika\n\n
 URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
 END:VEVENT
 BEGIN:VEVENT
 UID:8d3f1bb9-f59f-4927-a0a2-451fe1992023
-DTSTAMP:20250313T133232Z
+DTSTAMP:20250316T053936Z
 DTSTART:20231228
 DTEND:20231228
 TRANSP:TRANSPARENT
@@ -69,7 +79,7 @@ URL:https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

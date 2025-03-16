@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c012021
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20210508
 DTEND:20210508
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022020
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20200731T101000Z
 DTEND:20200731T104000Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:明楽レイ 活動開始\n\n==========\n【明楽レイ】\nYouTube
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
+UID:c7a42816-9ee7-4188-8f22-8ad08c032020
+DTSTAMP:20250316T045019Z
+DTSTART:20200807T114100Z
+DTEND:20200807T121100Z
+TRANSP:TRANSPARENT
+SUMMARY:明楽レイ 初配信
+DESCRIPTION:明楽レイ 初配信\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
+END:VEVENT
+BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022021
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20210731T101000Z
 DTEND:20210731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 1周年
-DESCRIPTION:明楽レイ 1周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 1周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022022
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20220731T101000Z
 DTEND:20220731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 2周年
-DESCRIPTION:明楽レイ 2周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 2周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022023
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20230731T101000Z
 DTEND:20230731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 3周年
-DESCRIPTION:明楽レイ 3周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 3周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022024
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20240731T101000Z
 DTEND:20240731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 4周年
-DESCRIPTION:明楽レイ 4周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 4周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022025
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20250731T101000Z
 DTEND:20250731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 5周年
-DESCRIPTION:明楽レイ 5周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 5周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022026
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20260731T101000Z
 DTEND:20260731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 6周年
-DESCRIPTION:明楽レイ 6周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 6周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022027
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20270731T101000Z
 DTEND:20270731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 7周年
-DESCRIPTION:明楽レイ 7周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 7周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022028
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20280731T101000Z
 DTEND:20280731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 8周年
-DESCRIPTION:明楽レイ 8周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 8周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022029
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20290731T101000Z
 DTEND:20290731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 9周年
-DESCRIPTION:明楽レイ 9周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 9周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022030
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20300731T101000Z
 DTEND:20300731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 10周年
-DESCRIPTION:明楽レイ 10周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 10周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022031
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20310731T101000Z
 DTEND:20310731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 11周年
-DESCRIPTION:明楽レイ 11周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 11周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022032
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20320731T101000Z
 DTEND:20320731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 12周年
-DESCRIPTION:明楽レイ 12周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 12周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022033
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20330731T101000Z
 DTEND:20330731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 13周年
-DESCRIPTION:明楽レイ 13周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 13周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022034
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20340731T101000Z
 DTEND:20340731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 14周年
-DESCRIPTION:明楽レイ 14周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 14周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a42816-9ee7-4188-8f22-8ad08c022035
-DTSTAMP:20250313T133312Z
+DTSTAMP:20250316T045019Z
 DTSTART:20350731T101000Z
 DTEND:20350731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:明楽レイ 15周年
-DESCRIPTION:明楽レイ 15周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
+DESCRIPTION:明楽レイ 15周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/07 20:41 （日本時間）\n\n\n==========\n【明楽レイ】\nYouTube: https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg\nX: https://twitter.com/RayAkira2434\n\n
 URL:https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35012019
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20190401
 DTEND:20190401
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022018
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20180831T070300Z
 DTEND:20180831T073300Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:桜凛月 活動開始\n\n==========\n【桜凛月】\nYouTube: http
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
+UID:dfe8f2d8-0fef-4d3c-bc9b-265d35032018
+DTSTAMP:20250316T015348Z
+DTSTART:20180903T103000Z
+DTEND:20180903T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:桜凛月 初配信
+DESCRIPTION:桜凛月 初配信\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
+END:VEVENT
+BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022019
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20190831T070300Z
 DTEND:20190831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 1周年
-DESCRIPTION:桜凛月 1周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 1周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022020
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20200831T070300Z
 DTEND:20200831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 2周年
-DESCRIPTION:桜凛月 2周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 2周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022021
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20210831T070300Z
 DTEND:20210831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 3周年
-DESCRIPTION:桜凛月 3周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 3周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022022
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20220831T070300Z
 DTEND:20220831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 4周年
-DESCRIPTION:桜凛月 4周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 4周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022023
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20230831T070300Z
 DTEND:20230831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 5周年
-DESCRIPTION:桜凛月 5周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 5周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022024
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20240831T070300Z
 DTEND:20240831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 6周年
-DESCRIPTION:桜凛月 6周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 6周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022025
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20250831T070300Z
 DTEND:20250831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 7周年
-DESCRIPTION:桜凛月 7周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 7周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022026
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20260831T070300Z
 DTEND:20260831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 8周年
-DESCRIPTION:桜凛月 8周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 8周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022027
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20270831T070300Z
 DTEND:20270831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 9周年
-DESCRIPTION:桜凛月 9周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 9周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022028
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20280831T070300Z
 DTEND:20280831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 10周年
-DESCRIPTION:桜凛月 10周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 10周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022029
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20290831T070300Z
 DTEND:20290831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 11周年
-DESCRIPTION:桜凛月 11周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 11周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022030
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20300831T070300Z
 DTEND:20300831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 12周年
-DESCRIPTION:桜凛月 12周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 12周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022031
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20310831T070300Z
 DTEND:20310831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 13周年
-DESCRIPTION:桜凛月 13周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 13周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022032
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20320831T070300Z
 DTEND:20320831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 14周年
-DESCRIPTION:桜凛月 14周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 14周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022033
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20330831T070300Z
 DTEND:20330831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 15周年
-DESCRIPTION:桜凛月 15周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 15周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022034
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20340831T070300Z
 DTEND:20340831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 16周年
-DESCRIPTION:桜凛月 16周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 16周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe8f2d8-0fef-4d3c-bc9b-265d35022035
-DTSTAMP:20250313T132237Z
+DTSTAMP:20250316T015348Z
 DTSTART:20350831T070300Z
 DTEND:20350831T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:桜凛月 17周年
-DESCRIPTION:桜凛月 17周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
+DESCRIPTION:桜凛月 17周年\n\n初ツイート：2018/08/31 16:03 （日本時間）\n初配信：2018/09/03 19:30 （日本時間）\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n
 URL:https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

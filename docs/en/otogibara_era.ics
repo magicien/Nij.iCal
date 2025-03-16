@@ -18,58 +18,62 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0012019
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20190728
 DTEND:20190728
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Otogibara Era Birthday
-DESCRIPTION:Otogibara Era Birthday\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:Otogibara Era Birthday\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0022019
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20190308T070100Z
 DTEND:20190308T073100Z
 TRANSP:TRANSPARENT
 SUMMARY:Otogibara Era Debut
-DESCRIPTION:Otogibara Era Debut\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:Otogibara Era Debut\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa0b70-0726-412d-a5fe-4b24b0032019
+DTSTAMP:20250316T035743Z
+DTSTART:20190310T120000Z
+DTEND:20190310T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Otogibara Era Debut stream
+DESCRIPTION:Otogibara Era Debut stream\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0022020
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20200308T070100Z
 DTEND:20200308T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Otogibara Era 1st Anniversary
-DESCRIPTION:Otogibara Era 1st Anniversary\n\nFirst tweet: Mar 8, 2019, 16:03 (JST)\nFirst stream: Mar 10, 2019 (JST)\n\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:Otogibara Era 1st Anniversary\n\nFirst tweet: Mar 8, 2019, 16:01 (JST)\nFirst stream: Mar 10, 2019, 21:00 (JST)\n\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0022021
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20210308T070100Z
 DTEND:20210308T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:Otogibara Era 2nd Anniversary
-DESCRIPTION:Otogibara Era 2nd Anniversary\n\nFirst tweet: Mar 8, 2019, 16:03 (JST)\nFirst stream: Mar 10, 2019 (JST)\n\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:Otogibara Era 2nd Anniversary\n\nFirst tweet: Mar 8, 2019, 16:01 (JST)\nFirst stream: Mar 10, 2019, 21:00 (JST)\n\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0992021
-DTSTAMP:20250313T132409Z
+DTSTAMP:20250316T035743Z
 DTSTART:20210310
 DTEND:20210310
 TRANSP:TRANSPARENT
 SUMMARY:Otogibara Era Graduation
-DESCRIPTION:Otogibara Era Graduation\n\n==========\n【Otogibara Era】\nYouTube: https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q\nX: nan\n\n
-URL:https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q
+DESCRIPTION:Otogibara Era Graduation\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30012019
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20190624
 DTEND:20190624
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30022019
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20190429T070800Z
 DTEND:20190429T073800Z
 TRANSP:TRANSPARENT
@@ -38,28 +38,38 @@ DESCRIPTION:鈴原るる 活動開始\n\n==========\n【鈴原るる】\nYouTube
 URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30032019
+DTSTAMP:20250316T035952Z
+DTSTART:20190501T080000Z
+DTEND:20190501T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴原るる 初配信
+DESCRIPTION:鈴原るる 初配信\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30022020
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20200429T070800Z
 DTEND:20200429T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴原るる 1周年
-DESCRIPTION:鈴原るる 1周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+DESCRIPTION:鈴原るる 1周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 17:00 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
 URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30022021
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20210429T070800Z
 DTEND:20210429T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴原るる 2周年
-DESCRIPTION:鈴原るる 2周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
+DESCRIPTION:鈴原るる 2周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 17:00 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n
 URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:d73efa92-ff09-406f-af0e-30de30992021
-DTSTAMP:20250313T132431Z
+DTSTAMP:20250316T035952Z
 DTSTART:20210630
 DTEND:20210630
 TRANSP:TRANSPARENT
@@ -69,7 +79,7 @@ URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

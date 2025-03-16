@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:99cee10b-b33a-4903-b4d1-4764b7012020
-DTSTAMP:20250313T133220Z
+DTSTAMP:20250316T043456Z
 DTSTART:20200229
 DTEND:20200229
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:99cee10b-b33a-4903-b4d1-4764b7022020
-DTSTAMP:20250313T133220Z
+DTSTAMP:20250316T043456Z
 DTSTART:20201111T074000Z
 DTEND:20201111T081000Z
 TRANSP:TRANSPARENT
@@ -38,28 +38,38 @@ DESCRIPTION:レザ アファンルナ 活動開始\n\n==========\n【レザ ア�
 URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
 END:VEVENT
 BEGIN:VEVENT
+UID:99cee10b-b33a-4903-b4d1-4764b7032020
+DTSTAMP:20250316T043456Z
+DTSTART:20201114T132900Z
+DTEND:20201114T135900Z
+TRANSP:TRANSPARENT
+SUMMARY:レザ アファンルナ 初配信
+DESCRIPTION:レザ アファンルナ 初配信\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
+END:VEVENT
+BEGIN:VEVENT
 UID:99cee10b-b33a-4903-b4d1-4764b7022021
-DTSTAMP:20250313T133220Z
+DTSTAMP:20250316T043456Z
 DTSTART:20211111T074000Z
 DTEND:20211111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:レザ アファンルナ 1周年
-DESCRIPTION:レザ アファンルナ 1周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+DESCRIPTION:レザ アファンルナ 1周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 22:29 （日本時間）\n\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
 URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:99cee10b-b33a-4903-b4d1-4764b7022022
-DTSTAMP:20250313T133220Z
+DTSTAMP:20250316T043456Z
 DTSTART:20221111T074000Z
 DTEND:20221111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:レザ アファンルナ 2周年
-DESCRIPTION:レザ アファンルナ 2周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
+DESCRIPTION:レザ アファンルナ 2周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 22:29 （日本時間）\n\n\n==========\n【レザ アファンルナ】\nYouTube: https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ\nX: https://twitter.com/RezaAvanluna\n\n
 URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:99cee10b-b33a-4903-b4d1-4764b7992023
-DTSTAMP:20250313T133220Z
+DTSTAMP:20250316T043456Z
 DTSTART:20230930
 DTEND:20230930
 TRANSP:TRANSPARENT
@@ -69,7 +79,7 @@ URL:https://www.youtube.com/channel/UC5yckZliCkuaEFbqzLBD7hQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

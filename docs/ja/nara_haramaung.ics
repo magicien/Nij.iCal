@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6012020
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20200729
 DTEND:20200729
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022020
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20200313T104000Z
 DTEND:20200313T111000Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:ナラ ハラマウン 活動開始\n\n==========\n【ナラ ハラ�
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
+UID:8067af61-82e1-45ab-9b35-5291e6032020
+DTSTAMP:20250316T053311Z
+DTSTART:20200315T133000Z
+DTEND:20200315T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:ナラ ハラマウン 初配信
+DESCRIPTION:ナラ ハラマウン 初配信\n\n==========\n【ナラ ハラマウン】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
+END:VEVENT
+BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022021
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20210313T104000Z
 DTEND:20210313T104001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナラ ハラマウン 1周年
-DESCRIPTION:ナラ ハラマウン 1周年\n\n初ツイート：2020/03/13 19:40 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【ナラ ハラマウン】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+DESCRIPTION:ナラ ハラマウン 1周年\n\n初ツイート：2020/03/13 19:40 （日本時間）\n初配信：2020/03/15 22:30 （日本時間）\n\n\n==========\n【ナラ ハラマウン】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022022
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20220313T104000Z
 DTEND:20220313T104001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナラ ハラマウン 2周年
-DESCRIPTION:ナラ ハラマウン 2周年\n\n初ツイート：2020/03/13 19:40 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【ナラ ハラマウン】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+DESCRIPTION:ナラ ハラマウン 2周年\n\n初ツイート：2020/03/13 19:40 （日本時間）\n初配信：2020/03/15 22:30 （日本時間）\n\n\n==========\n【ナラ ハラマウン】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6022023
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20230313T104000Z
 DTEND:20230313T104001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナラ ハラマウン 3周年
-DESCRIPTION:ナラ ハラマウン 3周年\n\n初ツイート：2020/03/13 19:40 （日本時間）\n初配信：2020/03/15 （日本時間）\n\n\n==========\n【ナラ ハラマウン】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
+DESCRIPTION:ナラ ハラマウン 3周年\n\n初ツイート：2020/03/13 19:40 （日本時間）\n初配信：2020/03/15 22:30 （日本時間）\n\n\n==========\n【ナラ ハラマウン】\nYouTube: https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA\nX: https://twitter.com/Nara_Haramaung\n\n
 URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:8067af61-82e1-45ab-9b35-5291e6992023
-DTSTAMP:20250313T132926Z
+DTSTAMP:20250316T053311Z
 DTSTART:20230903
 DTEND:20230903
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab012024
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20240913
 DTEND:20240913
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022024
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20240521T000300Z
 DTEND:20240521T003300Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:凉舞 バレンウォート 活動開始\n\n==========\n【凉舞 �
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
+UID:9c7610a8-e209-44be-80fa-9f87ab032024
+DTSTAMP:20250316T073520Z
+DTSTART:20240525T021000Z
+DTEND:20240525T024000Z
+TRANSP:TRANSPARENT
+SUMMARY:凉舞 バレンウォート 初配信
+DESCRIPTION:凉舞 バレンウォート 初配信\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+URL:https://www.youtube.com/@RyomaBarrenwort
+END:VEVENT
+BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022025
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20250521T000300Z
 DTEND:20250521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 1周年
-DESCRIPTION:凉舞 バレンウォート 1周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 1周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022026
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20260521T000300Z
 DTEND:20260521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 2周年
-DESCRIPTION:凉舞 バレンウォート 2周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 2周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022027
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20270521T000300Z
 DTEND:20270521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 3周年
-DESCRIPTION:凉舞 バレンウォート 3周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 3周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022028
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20280521T000300Z
 DTEND:20280521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 4周年
-DESCRIPTION:凉舞 バレンウォート 4周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 4周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022029
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20290521T000300Z
 DTEND:20290521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 5周年
-DESCRIPTION:凉舞 バレンウォート 5周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 5周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022030
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20300521T000300Z
 DTEND:20300521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 6周年
-DESCRIPTION:凉舞 バレンウォート 6周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 6周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022031
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20310521T000300Z
 DTEND:20310521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 7周年
-DESCRIPTION:凉舞 バレンウォート 7周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 7周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022032
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20320521T000300Z
 DTEND:20320521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 8周年
-DESCRIPTION:凉舞 バレンウォート 8周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 8周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022033
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20330521T000300Z
 DTEND:20330521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 9周年
-DESCRIPTION:凉舞 バレンウォート 9周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 9周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022034
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20340521T000300Z
 DTEND:20340521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 10周年
-DESCRIPTION:凉舞 バレンウォート 10周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 10周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7610a8-e209-44be-80fa-9f87ab022035
-DTSTAMP:20250313T133916Z
+DTSTAMP:20250316T073520Z
 DTSTART:20350521T000300Z
 DTEND:20350521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:凉舞 バレンウォート 11周年
-DESCRIPTION:凉舞 バレンウォート 11周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
+DESCRIPTION:凉舞 バレンウォート 11周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:10 （日本時間）\n\n\n==========\n【凉舞 バレンウォート】\nYouTube: https://www.youtube.com/@RyomaBarrenwort\nX: https://twitter.com/RyomaBarrenwort\n\n
 URL:https://www.youtube.com/@RyomaBarrenwort
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

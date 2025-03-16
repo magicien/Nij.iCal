@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223012021
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20210720
 DTEND:20210720
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022020
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20200806T070100Z
 DTEND:20200806T073100Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:西園チグサ 活動開始\n\n==========\n【西園チグサ】\nY
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
+UID:a9370284-0532-4786-8087-b8b223032020
+DTSTAMP:20250316T041746Z
+DTSTART:20200810T055900Z
+DTEND:20200810T062900Z
+TRANSP:TRANSPARENT
+SUMMARY:西園チグサ 初配信
+DESCRIPTION:西園チグサ 初配信\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
+END:VEVENT
+BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022021
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20210806T070100Z
 DTEND:20210806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 1周年
-DESCRIPTION:西園チグサ 1周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 1周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022022
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20220806T070100Z
 DTEND:20220806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 2周年
-DESCRIPTION:西園チグサ 2周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 2周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022023
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20230806T070100Z
 DTEND:20230806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 3周年
-DESCRIPTION:西園チグサ 3周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 3周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022024
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20240806T070100Z
 DTEND:20240806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 4周年
-DESCRIPTION:西園チグサ 4周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 4周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022025
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20250806T070100Z
 DTEND:20250806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 5周年
-DESCRIPTION:西園チグサ 5周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 5周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022026
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20260806T070100Z
 DTEND:20260806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 6周年
-DESCRIPTION:西園チグサ 6周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 6周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022027
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20270806T070100Z
 DTEND:20270806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 7周年
-DESCRIPTION:西園チグサ 7周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 7周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022028
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20280806T070100Z
 DTEND:20280806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 8周年
-DESCRIPTION:西園チグサ 8周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 8周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022029
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20290806T070100Z
 DTEND:20290806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 9周年
-DESCRIPTION:西園チグサ 9周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 9周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022030
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20300806T070100Z
 DTEND:20300806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 10周年
-DESCRIPTION:西園チグサ 10周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 10周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022031
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20310806T070100Z
 DTEND:20310806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 11周年
-DESCRIPTION:西園チグサ 11周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 11周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022032
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20320806T070100Z
 DTEND:20320806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 12周年
-DESCRIPTION:西園チグサ 12周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 12周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022033
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20330806T070100Z
 DTEND:20330806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 13周年
-DESCRIPTION:西園チグサ 13周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 13周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022034
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20340806T070100Z
 DTEND:20340806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 14周年
-DESCRIPTION:西園チグサ 14周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 14周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a9370284-0532-4786-8087-b8b223022035
-DTSTAMP:20250313T132753Z
+DTSTAMP:20250316T041746Z
 DTSTART:20350806T070100Z
 DTEND:20350806T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:西園チグサ 15周年
-DESCRIPTION:西園チグサ 15周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
+DESCRIPTION:西園チグサ 15周年\n\n初ツイート：2020/08/06 16:01 （日本時間）\n初配信：2020/08/10 14:59 （日本時間）\n\n\n==========\n【西園チグサ】\nYouTube: https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\nX: https://twitter.com/Chigusa_24zono\n\n
 URL:https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

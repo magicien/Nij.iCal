@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24012018
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20180415
 DTEND:20180415
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022018
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20180307T100100Z
 DTEND:20180307T103100Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:宇志海いちご 活動開始\n\n==========\n【宇志海いちご
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
+UID:0c8aae2e-dde3-496c-99b3-c4da24032018
+DTSTAMP:20250315T135157Z
+DTSTART:20180313T100000Z
+DTEND:20180313T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:宇志海いちご 初配信
+DESCRIPTION:宇志海いちご 初配信\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
+END:VEVENT
+BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022019
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20190307T100100Z
 DTEND:20190307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 1周年
-DESCRIPTION:宇志海いちご 1周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 1周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022020
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20200307T100100Z
 DTEND:20200307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 2周年
-DESCRIPTION:宇志海いちご 2周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 2周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022021
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20210307T100100Z
 DTEND:20210307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 3周年
-DESCRIPTION:宇志海いちご 3周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 3周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022022
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20220307T100100Z
 DTEND:20220307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 4周年
-DESCRIPTION:宇志海いちご 4周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 4周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022023
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20230307T100100Z
 DTEND:20230307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 5周年
-DESCRIPTION:宇志海いちご 5周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 5周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022024
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20240307T100100Z
 DTEND:20240307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 6周年
-DESCRIPTION:宇志海いちご 6周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 6周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022025
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20250307T100100Z
 DTEND:20250307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 7周年
-DESCRIPTION:宇志海いちご 7周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 7周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022026
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20260307T100100Z
 DTEND:20260307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 8周年
-DESCRIPTION:宇志海いちご 8周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 8周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022027
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20270307T100100Z
 DTEND:20270307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 9周年
-DESCRIPTION:宇志海いちご 9周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 9周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022028
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20280307T100100Z
 DTEND:20280307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 10周年
-DESCRIPTION:宇志海いちご 10周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 10周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022029
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20290307T100100Z
 DTEND:20290307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 11周年
-DESCRIPTION:宇志海いちご 11周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 11周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022030
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20300307T100100Z
 DTEND:20300307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 12周年
-DESCRIPTION:宇志海いちご 12周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 12周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022031
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20310307T100100Z
 DTEND:20310307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 13周年
-DESCRIPTION:宇志海いちご 13周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 13周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022032
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20320307T100100Z
 DTEND:20320307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 14周年
-DESCRIPTION:宇志海いちご 14周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 14周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022033
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20330307T100100Z
 DTEND:20330307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 15周年
-DESCRIPTION:宇志海いちご 15周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 15周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022034
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20340307T100100Z
 DTEND:20340307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 16周年
-DESCRIPTION:宇志海いちご 16周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 16周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8aae2e-dde3-496c-99b3-c4da24022035
-DTSTAMP:20250313T131924Z
+DTSTAMP:20250315T135157Z
 DTSTART:20350307T100100Z
 DTEND:20350307T100101Z
 TRANSP:TRANSPARENT
 SUMMARY:宇志海いちご 17周年
-DESCRIPTION:宇志海いちご 17周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
+DESCRIPTION:宇志海いちご 17周年\n\n初ツイート：2018/03/07 19:01 （日本時間）\n初配信：2018/03/13 19:00 （日本時間）\n\n\n==========\n【宇志海いちご】\nYouTube: https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q\nX: https://twitter.com/ushimi_ichigo\n\n
 URL:https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

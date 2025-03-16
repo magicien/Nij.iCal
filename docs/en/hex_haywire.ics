@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:98b2b6d6-7d65-4b0b-8013-6fa6ff012023
-DTSTAMP:20250313T133750Z
+DTSTAMP:20250316T072931Z
 DTSTART:20230507
 DTEND:20230507
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
 END:VEVENT
 BEGIN:VEVENT
 UID:98b2b6d6-7d65-4b0b-8013-6fa6ff022022
-DTSTAMP:20250313T133750Z
+DTSTAMP:20250316T072931Z
 DTSTART:20221206T000500Z
 DTEND:20221206T003500Z
 TRANSP:TRANSPARENT
@@ -38,18 +38,28 @@ DESCRIPTION:Hex Haywire Debut\n\n==========\n【Hex Haywire】\nYouTube: https:/
 URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
 END:VEVENT
 BEGIN:VEVENT
+UID:98b2b6d6-7d65-4b0b-8013-6fa6ff032022
+DTSTAMP:20250316T072931Z
+DTSTART:20221210T014400Z
+DTEND:20221210T021400Z
+TRANSP:TRANSPARENT
+SUMMARY:Hex Haywire Debut stream
+DESCRIPTION:Hex Haywire Debut stream\n\n==========\n【Hex Haywire】\nYouTube: https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ\nX: https://twitter.com/HexHaywire\n\n
+URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
+END:VEVENT
+BEGIN:VEVENT
 UID:98b2b6d6-7d65-4b0b-8013-6fa6ff022023
-DTSTAMP:20250313T133750Z
+DTSTAMP:20250316T072931Z
 DTSTART:20231206T000500Z
 DTEND:20231206T000501Z
 TRANSP:TRANSPARENT
 SUMMARY:Hex Haywire 1st Anniversary
-DESCRIPTION:Hex Haywire 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Hex Haywire】\nYouTube: https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ\nX: https://twitter.com/HexHaywire\n\n
+DESCRIPTION:Hex Haywire 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:05 (JST)\nFirst stream: Dec 10, 2022, 10:44 (JST)\n\n\n==========\n【Hex Haywire】\nYouTube: https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ\nX: https://twitter.com/HexHaywire\n\n
 URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
 END:VEVENT
 BEGIN:VEVENT
 UID:98b2b6d6-7d65-4b0b-8013-6fa6ff992024
-DTSTAMP:20250313T133750Z
+DTSTAMP:20250316T072931Z
 DTSTART:20240823
 DTEND:20240823
 TRANSP:TRANSPARENT
@@ -59,7 +69,7 @@ URL:https://www.youtube.com/channel/UCz_ZRw6ak4Foy8zZy0kEprQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

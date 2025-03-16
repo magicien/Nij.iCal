@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac012021
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20211212
 DTEND:20211212
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022021
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20211006T020100Z
 DTEND:20211006T023100Z
 TRANSP:TRANSPARENT
@@ -38,148 +38,158 @@ DESCRIPTION:Millie Parfait Debut\n\n==========\n【Millie Parfait】\nYouTube: h
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
+UID:48f0c650-4c3d-4ca2-97d8-c5a3ac032021
+DTSTAMP:20250316T071506Z
+DTSTART:20211009T024000Z
+DTEND:20211009T031000Z
+TRANSP:TRANSPARENT
+SUMMARY:Millie Parfait Debut stream
+DESCRIPTION:Millie Parfait Debut stream\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
+END:VEVENT
+BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022022
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20221006T020100Z
 DTEND:20221006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 1st Anniversary
-DESCRIPTION:Millie Parfait 1st Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 1st Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022023
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20231006T020100Z
 DTEND:20231006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 2nd Anniversary
-DESCRIPTION:Millie Parfait 2nd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 2nd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022024
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20241006T020100Z
 DTEND:20241006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 3rd Anniversary
-DESCRIPTION:Millie Parfait 3rd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 3rd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022025
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20251006T020100Z
 DTEND:20251006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 4th Anniversary
-DESCRIPTION:Millie Parfait 4th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 4th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022026
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20261006T020100Z
 DTEND:20261006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 5th Anniversary
-DESCRIPTION:Millie Parfait 5th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 5th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022027
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20271006T020100Z
 DTEND:20271006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 6th Anniversary
-DESCRIPTION:Millie Parfait 6th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 6th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022028
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20281006T020100Z
 DTEND:20281006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 7th Anniversary
-DESCRIPTION:Millie Parfait 7th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 7th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022029
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20291006T020100Z
 DTEND:20291006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 8th Anniversary
-DESCRIPTION:Millie Parfait 8th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 8th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022030
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20301006T020100Z
 DTEND:20301006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 9th Anniversary
-DESCRIPTION:Millie Parfait 9th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 9th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022031
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20311006T020100Z
 DTEND:20311006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 10th Anniversary
-DESCRIPTION:Millie Parfait 10th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 10th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022032
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20321006T020100Z
 DTEND:20321006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 11th Anniversary
-DESCRIPTION:Millie Parfait 11th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 11th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022033
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20331006T020100Z
 DTEND:20331006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 12th Anniversary
-DESCRIPTION:Millie Parfait 12th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 12th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022034
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20341006T020100Z
 DTEND:20341006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 13th Anniversary
-DESCRIPTION:Millie Parfait 13th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 13th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022035
-DTSTAMP:20250313T133625Z
+DTSTAMP:20250316T071506Z
 DTSTART:20351006T020100Z
 DTEND:20351006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 14th Anniversary
-DESCRIPTION:Millie Parfait 14th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:Millie Parfait 14th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:257ec755-9fdf-4018-9d2c-df889a012022
-DTSTAMP:20250313T133717Z
+DTSTAMP:20250316T072433Z
 DTSTART:20221229
 DTEND:20221229
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
 UID:257ec755-9fdf-4018-9d2c-df889a022022
-DTSTAMP:20250313T133717Z
+DTSTAMP:20250316T072433Z
 DTSTART:20220720T000000Z
 DTEND:20220720T003000Z
 TRANSP:TRANSPARENT
@@ -38,18 +38,28 @@ DESCRIPTION:Kyo Kaneko Debut\n\n==========\n【Kyo Kaneko】\nYouTube: https://w
 URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
+UID:257ec755-9fdf-4018-9d2c-df889a032022
+DTSTAMP:20250316T072433Z
+DTSTART:20220725T004000Z
+DTEND:20220725T011000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kyo Kaneko Debut stream
+DESCRIPTION:Kyo Kaneko Debut stream\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
+END:VEVENT
+BEGIN:VEVENT
 UID:257ec755-9fdf-4018-9d2c-df889a022023
-DTSTAMP:20250313T133717Z
+DTSTAMP:20250316T072433Z
 DTSTART:20230720T000000Z
 DTEND:20230720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kyo Kaneko 1st Anniversary
-DESCRIPTION:Kyo Kaneko 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+DESCRIPTION:Kyo Kaneko 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 9:40 (JST)\n\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
 URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
 UID:257ec755-9fdf-4018-9d2c-df889a992024
-DTSTAMP:20250313T133717Z
+DTSTAMP:20250316T072433Z
 DTSTART:20240217
 DTEND:20240217
 TRANSP:TRANSPARENT
@@ -59,7 +69,7 @@ URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4012022
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20220326
 DTEND:20220326
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022022
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20220222T020400Z
 DTEND:20220222T023400Z
 TRANSP:TRANSPARENT
@@ -38,138 +38,148 @@ DESCRIPTION:Fulgur Ovid Debut\n\n==========\n【Fulgur Ovid】\nYouTube: https:/
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
+UID:d608cb31-e3df-4547-be28-6117c4032022
+DTSTAMP:20250316T072300Z
+DTSTART:20220227T034000Z
+DTEND:20220227T041000Z
+TRANSP:TRANSPARENT
+SUMMARY:Fulgur Ovid Debut stream
+DESCRIPTION:Fulgur Ovid Debut stream\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
+END:VEVENT
+BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022023
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20230222T020400Z
 DTEND:20230222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 1st Anniversary
-DESCRIPTION:Fulgur Ovid 1st Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 1st Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022024
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20240222T020400Z
 DTEND:20240222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 2nd Anniversary
-DESCRIPTION:Fulgur Ovid 2nd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 2nd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022025
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20250222T020400Z
 DTEND:20250222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 3rd Anniversary
-DESCRIPTION:Fulgur Ovid 3rd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 3rd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022026
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20260222T020400Z
 DTEND:20260222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 4th Anniversary
-DESCRIPTION:Fulgur Ovid 4th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 4th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022027
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20270222T020400Z
 DTEND:20270222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 5th Anniversary
-DESCRIPTION:Fulgur Ovid 5th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 5th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022028
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20280222T020400Z
 DTEND:20280222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 6th Anniversary
-DESCRIPTION:Fulgur Ovid 6th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 6th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022029
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20290222T020400Z
 DTEND:20290222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 7th Anniversary
-DESCRIPTION:Fulgur Ovid 7th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 7th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022030
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20300222T020400Z
 DTEND:20300222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 8th Anniversary
-DESCRIPTION:Fulgur Ovid 8th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 8th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022031
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20310222T020400Z
 DTEND:20310222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 9th Anniversary
-DESCRIPTION:Fulgur Ovid 9th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 9th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022032
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20320222T020400Z
 DTEND:20320222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 10th Anniversary
-DESCRIPTION:Fulgur Ovid 10th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 10th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022033
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20330222T020400Z
 DTEND:20330222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 11th Anniversary
-DESCRIPTION:Fulgur Ovid 11th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 11th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022034
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20340222T020400Z
 DTEND:20340222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 12th Anniversary
-DESCRIPTION:Fulgur Ovid 12th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 12th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022035
-DTSTAMP:20250313T133700Z
+DTSTAMP:20250316T072300Z
 DTSTART:20350222T020400Z
 DTEND:20350222T020401Z
 TRANSP:TRANSPARENT
 SUMMARY:Fulgur Ovid 13th Anniversary
-DESCRIPTION:Fulgur Ovid 13th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:Fulgur Ovid 13th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

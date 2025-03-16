@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39012019
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20190115
 DTEND:20190115
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022018
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20180730T040800Z
 DTEND:20180730T043800Z
 TRANSP:TRANSPARENT
@@ -50,178 +50,188 @@ DESCRIPTION:魔界ノりりむ 活動開始\n\n==========\n【魔界ノりりむ
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
+UID:f897679d-ed64-4a0b-a09b-3caf39032018
+DTSTAMP:20250315T145120Z
+DTSTART:20180804T130000Z
+DTEND:20180804T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:魔界ノりりむ 初配信
+DESCRIPTION:魔界ノりりむ 初配信\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
+END:VEVENT
+BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022019
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20190730T040800Z
 DTEND:20190730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 1周年
-DESCRIPTION:魔界ノりりむ 1周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 1周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022020
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20200730T040800Z
 DTEND:20200730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 2周年
-DESCRIPTION:魔界ノりりむ 2周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 2周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022021
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20210730T040800Z
 DTEND:20210730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 3周年
-DESCRIPTION:魔界ノりりむ 3周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 3周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022022
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20220730T040800Z
 DTEND:20220730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 4周年
-DESCRIPTION:魔界ノりりむ 4周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 4周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022023
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20230730T040800Z
 DTEND:20230730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 5周年
-DESCRIPTION:魔界ノりりむ 5周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 5周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022024
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20240730T040800Z
 DTEND:20240730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 6周年
-DESCRIPTION:魔界ノりりむ 6周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 6周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022025
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20250730T040800Z
 DTEND:20250730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 7周年
-DESCRIPTION:魔界ノりりむ 7周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 7周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022026
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20260730T040800Z
 DTEND:20260730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 8周年
-DESCRIPTION:魔界ノりりむ 8周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 8周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022027
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20270730T040800Z
 DTEND:20270730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 9周年
-DESCRIPTION:魔界ノりりむ 9周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 9周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022028
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20280730T040800Z
 DTEND:20280730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 10周年
-DESCRIPTION:魔界ノりりむ 10周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 10周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022029
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20290730T040800Z
 DTEND:20290730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 11周年
-DESCRIPTION:魔界ノりりむ 11周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 11周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022030
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20300730T040800Z
 DTEND:20300730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 12周年
-DESCRIPTION:魔界ノりりむ 12周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 12周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022031
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20310730T040800Z
 DTEND:20310730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 13周年
-DESCRIPTION:魔界ノりりむ 13周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 13周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022032
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20320730T040800Z
 DTEND:20320730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 14周年
-DESCRIPTION:魔界ノりりむ 14周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 14周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022033
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20330730T040800Z
 DTEND:20330730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 15周年
-DESCRIPTION:魔界ノりりむ 15周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 15周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022034
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20340730T040800Z
 DTEND:20340730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 16周年
-DESCRIPTION:魔界ノりりむ 16周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 16周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022035
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20350730T040800Z
 DTEND:20350730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:魔界ノりりむ 17周年
-DESCRIPTION:魔界ノりりむ 17周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:魔界ノりりむ 17周年\n\n初ツイート：2018/07/30 13:08 （日本時間）\n初配信：2018/08/04 22:00 （日本時間）\n\n\n==========\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

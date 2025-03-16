@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773012021
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20211016
 DTEND:20211016
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022021
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20210512T131000Z
 DTEND:20210512T134000Z
 TRANSP:TRANSPARENT
@@ -38,148 +38,158 @@ DESCRIPTION:Elira Pendora Debut\n\n==========\n【Elira Pendora】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
+UID:e9e82331-429f-495d-a79e-2d0773032021
+DTSTAMP:20250316T055917Z
+DTSTART:20210516T023400Z
+DTEND:20210516T030400Z
+TRANSP:TRANSPARENT
+SUMMARY:Elira Pendora Debut stream
+DESCRIPTION:Elira Pendora Debut stream\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
+END:VEVENT
+BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022022
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20220512T131000Z
 DTEND:20220512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 1st Anniversary
-DESCRIPTION:Elira Pendora 1st Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 1st Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022023
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20230512T131000Z
 DTEND:20230512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 2nd Anniversary
-DESCRIPTION:Elira Pendora 2nd Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 2nd Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022024
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20240512T131000Z
 DTEND:20240512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 3rd Anniversary
-DESCRIPTION:Elira Pendora 3rd Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 3rd Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022025
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20250512T131000Z
 DTEND:20250512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 4th Anniversary
-DESCRIPTION:Elira Pendora 4th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 4th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022026
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20260512T131000Z
 DTEND:20260512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 5th Anniversary
-DESCRIPTION:Elira Pendora 5th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 5th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022027
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20270512T131000Z
 DTEND:20270512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 6th Anniversary
-DESCRIPTION:Elira Pendora 6th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 6th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022028
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20280512T131000Z
 DTEND:20280512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 7th Anniversary
-DESCRIPTION:Elira Pendora 7th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 7th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022029
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20290512T131000Z
 DTEND:20290512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 8th Anniversary
-DESCRIPTION:Elira Pendora 8th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 8th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022030
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20300512T131000Z
 DTEND:20300512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 9th Anniversary
-DESCRIPTION:Elira Pendora 9th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 9th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022031
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20310512T131000Z
 DTEND:20310512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 10th Anniversary
-DESCRIPTION:Elira Pendora 10th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 10th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022032
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20320512T131000Z
 DTEND:20320512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 11th Anniversary
-DESCRIPTION:Elira Pendora 11th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 11th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022033
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20330512T131000Z
 DTEND:20330512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 12th Anniversary
-DESCRIPTION:Elira Pendora 12th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 12th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022034
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20340512T131000Z
 DTEND:20340512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 13th Anniversary
-DESCRIPTION:Elira Pendora 13th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 13th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e82331-429f-495d-a79e-2d0773022035
-DTSTAMP:20250313T133532Z
+DTSTAMP:20250316T055917Z
 DTSTART:20350512T131000Z
 DTEND:20350512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Elira Pendora 14th Anniversary
-DESCRIPTION:Elira Pendora 14th Anniversary\n\nFirst tweet: May 12, 2021, 22:05 (JST)\nFirst stream: May 16, 2021 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
+DESCRIPTION:Elira Pendora 14th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 11:34 (JST)\n\n\n==========\n【Elira Pendora】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n
 URL:https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

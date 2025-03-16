@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760012019
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20190803
 DTEND:20190803
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760022019
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20190128T100200Z
 DTEND:20190128T103200Z
 TRANSP:TRANSPARENT
@@ -38,68 +38,78 @@ DESCRIPTION:瀬戸美夜子 活動開始\n\n==========\n【瀬戸美夜子】\nY
 URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
+UID:2caa2639-62e3-45a9-a1e3-0c4760032019
+DTSTAMP:20250316T034901Z
+DTSTART:20190130T120000Z
+DTEND:20190130T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:瀬戸美夜子 初配信
+DESCRIPTION:瀬戸美夜子 初配信\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
+URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
+END:VEVENT
+BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760022020
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20200128T100200Z
 DTEND:20200128T100201Z
 TRANSP:TRANSPARENT
 SUMMARY:瀬戸美夜子 1周年
-DESCRIPTION:瀬戸美夜子 1周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
+DESCRIPTION:瀬戸美夜子 1周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 21:00 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
 URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760022021
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20210128T100200Z
 DTEND:20210128T100201Z
 TRANSP:TRANSPARENT
 SUMMARY:瀬戸美夜子 2周年
-DESCRIPTION:瀬戸美夜子 2周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
+DESCRIPTION:瀬戸美夜子 2周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 21:00 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
 URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760022022
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20220128T100200Z
 DTEND:20220128T100201Z
 TRANSP:TRANSPARENT
 SUMMARY:瀬戸美夜子 3周年
-DESCRIPTION:瀬戸美夜子 3周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
+DESCRIPTION:瀬戸美夜子 3周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 21:00 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
 URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760022023
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20230128T100200Z
 DTEND:20230128T100201Z
 TRANSP:TRANSPARENT
 SUMMARY:瀬戸美夜子 4周年
-DESCRIPTION:瀬戸美夜子 4周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
+DESCRIPTION:瀬戸美夜子 4周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 21:00 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
 URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760022024
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20240128T100200Z
 DTEND:20240128T100201Z
 TRANSP:TRANSPARENT
 SUMMARY:瀬戸美夜子 5周年
-DESCRIPTION:瀬戸美夜子 5周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
+DESCRIPTION:瀬戸美夜子 5周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 21:00 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
 URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760022025
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20250128T100200Z
 DTEND:20250128T100201Z
 TRANSP:TRANSPARENT
 SUMMARY:瀬戸美夜子 6周年
-DESCRIPTION:瀬戸美夜子 6周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
+DESCRIPTION:瀬戸美夜子 6周年\n\n初ツイート：2019/01/28 19:02 （日本時間）\n初配信：2019/01/30 21:00 （日本時間）\n\n\n==========\n【瀬戸美夜子】\nYouTube: https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw\nX: https://twitter.com/seto_miyako\n\n
 URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:2caa2639-62e3-45a9-a1e3-0c4760992025
-DTSTAMP:20250313T132406Z
+DTSTAMP:20250316T034901Z
 DTSTART:20250304
 DTEND:20250304
 TRANSP:TRANSPARENT
@@ -109,7 +119,7 @@ URL:https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

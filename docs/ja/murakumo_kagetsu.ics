@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06012024
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20240226
 DTEND:20240226
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022023
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20230426T031000Z
 DTEND:20230426T034000Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:叢雲カゲツ 活動開始\n\n==========\n【叢雲カゲツ】\nY
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
+UID:2bc0947d-09b9-4b04-a78e-d26a06032023
+DTSTAMP:20250316T050620Z
+DTSTART:20230429T030000Z
+DTEND:20230429T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:叢雲カゲツ 初配信
+DESCRIPTION:叢雲カゲツ 初配信\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+URL:https://www.youtube.com/@MurakumoKagetsu
+END:VEVENT
+BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022024
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20240426T031000Z
 DTEND:20240426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 1周年
-DESCRIPTION:叢雲カゲツ 1周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 1周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022025
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20250426T031000Z
 DTEND:20250426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 2周年
-DESCRIPTION:叢雲カゲツ 2周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 2周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022026
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20260426T031000Z
 DTEND:20260426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 3周年
-DESCRIPTION:叢雲カゲツ 3周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 3周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022027
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20270426T031000Z
 DTEND:20270426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 4周年
-DESCRIPTION:叢雲カゲツ 4周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 4周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022028
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20280426T031000Z
 DTEND:20280426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 5周年
-DESCRIPTION:叢雲カゲツ 5周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 5周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022029
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20290426T031000Z
 DTEND:20290426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 6周年
-DESCRIPTION:叢雲カゲツ 6周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 6周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022030
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20300426T031000Z
 DTEND:20300426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 7周年
-DESCRIPTION:叢雲カゲツ 7周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 7周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022031
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20310426T031000Z
 DTEND:20310426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 8周年
-DESCRIPTION:叢雲カゲツ 8周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 8周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022032
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20320426T031000Z
 DTEND:20320426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 9周年
-DESCRIPTION:叢雲カゲツ 9周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 9周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022033
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20330426T031000Z
 DTEND:20330426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 10周年
-DESCRIPTION:叢雲カゲツ 10周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 10周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022034
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20340426T031000Z
 DTEND:20340426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 11周年
-DESCRIPTION:叢雲カゲツ 11周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 11周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06022035
-DTSTAMP:20250313T133430Z
+DTSTAMP:20250316T050620Z
 DTSTART:20350426T031000Z
 DTEND:20350426T031001Z
 TRANSP:TRANSPARENT
 SUMMARY:叢雲カゲツ 12周年
-DESCRIPTION:叢雲カゲツ 12周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+DESCRIPTION:叢雲カゲツ 12周年\n\n初ツイート：2023/04/26 12:10 （日本時間）\n初配信：2023/04/29 12:00 （日本時間）\n\n\n==========\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
 URL:https://www.youtube.com/@MurakumoKagetsu
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

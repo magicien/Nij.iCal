@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6012020
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20200427
 DTEND:20200427
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022019
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20191226T072200Z
 DTEND:20191226T075200Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:Mashiro Meme Debut\n\n==========\n【Mashiro Meme】\nYouTube: https
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
+UID:e1b16eee-a5d4-42e9-bcb1-696ea6032019
+DTSTAMP:20250316T040542Z
+DTSTART:20191229T125000Z
+DTEND:20191229T132000Z
+TRANSP:TRANSPARENT
+SUMMARY:Mashiro Meme Debut stream
+DESCRIPTION:Mashiro Meme Debut stream\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
+END:VEVENT
+BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022020
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20201226T072200Z
 DTEND:20201226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 1st Anniversary
-DESCRIPTION:Mashiro Meme 1st Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 1st Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022021
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20211226T072200Z
 DTEND:20211226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 2nd Anniversary
-DESCRIPTION:Mashiro Meme 2nd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 2nd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022022
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20221226T072200Z
 DTEND:20221226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 3rd Anniversary
-DESCRIPTION:Mashiro Meme 3rd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 3rd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022023
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20231226T072200Z
 DTEND:20231226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 4th Anniversary
-DESCRIPTION:Mashiro Meme 4th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 4th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022024
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20241226T072200Z
 DTEND:20241226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 5th Anniversary
-DESCRIPTION:Mashiro Meme 5th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 5th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022025
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20251226T072200Z
 DTEND:20251226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 6th Anniversary
-DESCRIPTION:Mashiro Meme 6th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 6th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022026
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20261226T072200Z
 DTEND:20261226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 7th Anniversary
-DESCRIPTION:Mashiro Meme 7th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 7th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022027
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20271226T072200Z
 DTEND:20271226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 8th Anniversary
-DESCRIPTION:Mashiro Meme 8th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 8th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022028
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20281226T072200Z
 DTEND:20281226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 9th Anniversary
-DESCRIPTION:Mashiro Meme 9th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 9th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022029
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20291226T072200Z
 DTEND:20291226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 10th Anniversary
-DESCRIPTION:Mashiro Meme 10th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 10th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022030
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20301226T072200Z
 DTEND:20301226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 11th Anniversary
-DESCRIPTION:Mashiro Meme 11th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 11th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022031
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20311226T072200Z
 DTEND:20311226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 12th Anniversary
-DESCRIPTION:Mashiro Meme 12th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 12th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022032
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20321226T072200Z
 DTEND:20321226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 13th Anniversary
-DESCRIPTION:Mashiro Meme 13th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 13th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022033
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20331226T072200Z
 DTEND:20331226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 14th Anniversary
-DESCRIPTION:Mashiro Meme 14th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 14th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022034
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20341226T072200Z
 DTEND:20341226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 15th Anniversary
-DESCRIPTION:Mashiro Meme 15th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 15th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b16eee-a5d4-42e9-bcb1-696ea6022035
-DTSTAMP:20250313T132603Z
+DTSTAMP:20250316T040542Z
 DTSTART:20351226T072200Z
 DTEND:20351226T072201Z
 TRANSP:TRANSPARENT
 SUMMARY:Mashiro Meme 16th Anniversary
-DESCRIPTION:Mashiro Meme 16th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
+DESCRIPTION:Mashiro Meme 16th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:22 (JST)\nFirst stream: Dec 29, 2019, 21:50 (JST)\n\n\n==========\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n
 URL:https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY
