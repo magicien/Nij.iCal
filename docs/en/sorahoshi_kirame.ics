@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80012021
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20210430
 DTEND:20210430
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022020
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20200630T085300Z
 DTEND:20200630T092300Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:Sorahoshi Kirame Debut\n\n==========\n【Sorahoshi Kirame】\nYouTub
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
+UID:194d7280-6b1f-49f0-8739-85fb80032020
+DTSTAMP:20250316T041434Z
+DTSTART:20200711T100000Z
+DTEND:20200711T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:Sorahoshi Kirame Debut stream
+DESCRIPTION:Sorahoshi Kirame Debut stream\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
+END:VEVENT
+BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022021
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20210630T085300Z
 DTEND:20210630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 1st Anniversary
-DESCRIPTION:Sorahoshi Kirame 1st Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 1st Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022022
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20220630T085300Z
 DTEND:20220630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 2nd Anniversary
-DESCRIPTION:Sorahoshi Kirame 2nd Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 2nd Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022023
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20230630T085300Z
 DTEND:20230630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 3rd Anniversary
-DESCRIPTION:Sorahoshi Kirame 3rd Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 3rd Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022024
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20240630T085300Z
 DTEND:20240630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 4th Anniversary
-DESCRIPTION:Sorahoshi Kirame 4th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 4th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022025
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20250630T085300Z
 DTEND:20250630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 5th Anniversary
-DESCRIPTION:Sorahoshi Kirame 5th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 5th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022026
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20260630T085300Z
 DTEND:20260630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 6th Anniversary
-DESCRIPTION:Sorahoshi Kirame 6th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 6th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022027
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20270630T085300Z
 DTEND:20270630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 7th Anniversary
-DESCRIPTION:Sorahoshi Kirame 7th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 7th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022028
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20280630T085300Z
 DTEND:20280630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 8th Anniversary
-DESCRIPTION:Sorahoshi Kirame 8th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 8th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022029
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20290630T085300Z
 DTEND:20290630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 9th Anniversary
-DESCRIPTION:Sorahoshi Kirame 9th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 9th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022030
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20300630T085300Z
 DTEND:20300630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 10th Anniversary
-DESCRIPTION:Sorahoshi Kirame 10th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 10th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022031
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20310630T085300Z
 DTEND:20310630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 11th Anniversary
-DESCRIPTION:Sorahoshi Kirame 11th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 11th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022032
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20320630T085300Z
 DTEND:20320630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 12th Anniversary
-DESCRIPTION:Sorahoshi Kirame 12th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 12th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022033
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20330630T085300Z
 DTEND:20330630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 13th Anniversary
-DESCRIPTION:Sorahoshi Kirame 13th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 13th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022034
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20340630T085300Z
 DTEND:20340630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 14th Anniversary
-DESCRIPTION:Sorahoshi Kirame 14th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 14th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:194d7280-6b1f-49f0-8739-85fb80022035
-DTSTAMP:20250313T132721Z
+DTSTAMP:20250316T041434Z
 DTSTART:20350630T085300Z
 DTEND:20350630T085301Z
 TRANSP:TRANSPARENT
 SUMMARY:Sorahoshi Kirame 15th Anniversary
-DESCRIPTION:Sorahoshi Kirame 15th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:06 (JST)\nFirst stream: Jul 11, 2020 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
+DESCRIPTION:Sorahoshi Kirame 15th Anniversary\n\nFirst tweet: Jun 30, 2020, 17:53 (JST)\nFirst stream: Jul 11, 2020, 19:00 (JST)\n\n\n==========\n【Sorahoshi Kirame】\nYouTube: https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ\nX: https://twitter.com/kirame_2434\n\n
 URL:https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

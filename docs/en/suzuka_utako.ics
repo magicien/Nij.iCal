@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f012019
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20190224
 DTEND:20190224
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f022018
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20180307T134600Z
 DTEND:20180307T141600Z
 TRANSP:TRANSPARENT
@@ -38,68 +38,78 @@ DESCRIPTION:Suzuka Utako Debut\n\n==========\n【Suzuka Utako】\nYouTube: https
 URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
+UID:861f818c-f47c-493d-8da7-78a84f032018
+DTSTAMP:20250315T140209Z
+DTSTART:20180313T032200Z
+DTEND:20180313T035200Z
+TRANSP:TRANSPARENT
+SUMMARY:Suzuka Utako Debut stream
+DESCRIPTION:Suzuka Utako Debut stream\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
+END:VEVENT
+BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f022019
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20190307T134600Z
 DTEND:20190307T134601Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuka Utako 1st Anniversary
-DESCRIPTION:Suzuka Utako 1st Anniversary\n\nFirst tweet: Mar 7, 2018, 22:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+DESCRIPTION:Suzuka Utako 1st Anniversary\n\nFirst tweet: Mar 7, 2018, 22:46 (JST)\nFirst stream: Mar 13, 2018, 12:22 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
 URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f022020
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20200307T134600Z
 DTEND:20200307T134601Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuka Utako 2nd Anniversary
-DESCRIPTION:Suzuka Utako 2nd Anniversary\n\nFirst tweet: Mar 7, 2018, 22:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+DESCRIPTION:Suzuka Utako 2nd Anniversary\n\nFirst tweet: Mar 7, 2018, 22:46 (JST)\nFirst stream: Mar 13, 2018, 12:22 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
 URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f022021
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20210307T134600Z
 DTEND:20210307T134601Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuka Utako 3rd Anniversary
-DESCRIPTION:Suzuka Utako 3rd Anniversary\n\nFirst tweet: Mar 7, 2018, 22:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+DESCRIPTION:Suzuka Utako 3rd Anniversary\n\nFirst tweet: Mar 7, 2018, 22:46 (JST)\nFirst stream: Mar 13, 2018, 12:22 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
 URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f022022
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20220307T134600Z
 DTEND:20220307T134601Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuka Utako 4th Anniversary
-DESCRIPTION:Suzuka Utako 4th Anniversary\n\nFirst tweet: Mar 7, 2018, 22:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+DESCRIPTION:Suzuka Utako 4th Anniversary\n\nFirst tweet: Mar 7, 2018, 22:46 (JST)\nFirst stream: Mar 13, 2018, 12:22 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
 URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f022023
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20230307T134600Z
 DTEND:20230307T134601Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuka Utako 5th Anniversary
-DESCRIPTION:Suzuka Utako 5th Anniversary\n\nFirst tweet: Mar 7, 2018, 22:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+DESCRIPTION:Suzuka Utako 5th Anniversary\n\nFirst tweet: Mar 7, 2018, 22:46 (JST)\nFirst stream: Mar 13, 2018, 12:22 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
 URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f022024
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20240307T134600Z
 DTEND:20240307T134601Z
 TRANSP:TRANSPARENT
 SUMMARY:Suzuka Utako 6th Anniversary
-DESCRIPTION:Suzuka Utako 6th Anniversary\n\nFirst tweet: Mar 7, 2018, 22:03 (JST)\nFirst stream: Mar 13, 2018 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
+DESCRIPTION:Suzuka Utako 6th Anniversary\n\nFirst tweet: Mar 7, 2018, 22:46 (JST)\nFirst stream: Mar 13, 2018, 12:22 (JST)\n\n\n==========\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n
 URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:861f818c-f47c-493d-8da7-78a84f992024
-DTSTAMP:20250313T131919Z
+DTSTAMP:20250315T140209Z
 DTSTART:20240612
 DTEND:20240612
 TRANSP:TRANSPARENT
@@ -109,7 +119,7 @@ URL:https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

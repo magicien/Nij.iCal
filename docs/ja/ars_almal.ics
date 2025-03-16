@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90012020
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20200321
 DTEND:20200321
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022019
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20190724T084300Z
 DTEND:20190724T091300Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:アルス・アルマル 活動開始\n\n==========\n【アルス・
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
+UID:766a4903-d1be-497b-b268-43ce90032019
+DTSTAMP:20250316T024305Z
+DTSTART:20190728T124100Z
+DTEND:20190728T131100Z
+TRANSP:TRANSPARENT
+SUMMARY:アルス・アルマル 初配信
+DESCRIPTION:アルス・アルマル 初配信\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
+END:VEVENT
+BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022020
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20200724T084300Z
 DTEND:20200724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 1周年
-DESCRIPTION:アルス・アルマル 1周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 1周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022021
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20210724T084300Z
 DTEND:20210724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 2周年
-DESCRIPTION:アルス・アルマル 2周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 2周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022022
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20220724T084300Z
 DTEND:20220724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 3周年
-DESCRIPTION:アルス・アルマル 3周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 3周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022023
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20230724T084300Z
 DTEND:20230724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 4周年
-DESCRIPTION:アルス・アルマル 4周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 4周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022024
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20240724T084300Z
 DTEND:20240724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 5周年
-DESCRIPTION:アルス・アルマル 5周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 5周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022025
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20250724T084300Z
 DTEND:20250724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 6周年
-DESCRIPTION:アルス・アルマル 6周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 6周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022026
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20260724T084300Z
 DTEND:20260724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 7周年
-DESCRIPTION:アルス・アルマル 7周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 7周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022027
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20270724T084300Z
 DTEND:20270724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 8周年
-DESCRIPTION:アルス・アルマル 8周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 8周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022028
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20280724T084300Z
 DTEND:20280724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 9周年
-DESCRIPTION:アルス・アルマル 9周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 9周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022029
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20290724T084300Z
 DTEND:20290724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 10周年
-DESCRIPTION:アルス・アルマル 10周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 10周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022030
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20300724T084300Z
 DTEND:20300724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 11周年
-DESCRIPTION:アルス・アルマル 11周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 11周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022031
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20310724T084300Z
 DTEND:20310724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 12周年
-DESCRIPTION:アルス・アルマル 12周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 12周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022032
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20320724T084300Z
 DTEND:20320724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 13周年
-DESCRIPTION:アルス・アルマル 13周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 13周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022033
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20330724T084300Z
 DTEND:20330724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 14周年
-DESCRIPTION:アルス・アルマル 14周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 14周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022034
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20340724T084300Z
 DTEND:20340724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 15周年
-DESCRIPTION:アルス・アルマル 15周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 15周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022035
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20350724T084300Z
 DTEND:20350724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルス・アルマル 16周年
-DESCRIPTION:アルス・アルマル 16周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:アルス・アルマル 16周年\n\n初ツイート：2019/07/24 17:43 （日本時間）\n初配信：2019/07/28 21:41 （日本時間）\n\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

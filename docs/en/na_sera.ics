@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218012021
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20211103
 DTEND:20211103
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022021
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20210825T115000Z
 DTEND:20210825T122000Z
 TRANSP:TRANSPARENT
@@ -38,148 +38,158 @@ DESCRIPTION:Na Sera Debut\n\n==========\n【Na Sera】\nYouTube: https://www.you
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
+UID:974e5854-c543-4809-8a62-4d4218032021
+DTSTAMP:20250316T045706Z
+DTSTART:20210901T115900Z
+DTEND:20210901T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:Na Sera Debut stream
+DESCRIPTION:Na Sera Debut stream\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
+END:VEVENT
+BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022022
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20220825T115000Z
 DTEND:20220825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 1st Anniversary
-DESCRIPTION:Na Sera 1st Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 1st Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022023
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20230825T115000Z
 DTEND:20230825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 2nd Anniversary
-DESCRIPTION:Na Sera 2nd Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 2nd Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022024
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20240825T115000Z
 DTEND:20240825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 3rd Anniversary
-DESCRIPTION:Na Sera 3rd Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 3rd Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022025
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20250825T115000Z
 DTEND:20250825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 4th Anniversary
-DESCRIPTION:Na Sera 4th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 4th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022026
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20260825T115000Z
 DTEND:20260825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 5th Anniversary
-DESCRIPTION:Na Sera 5th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 5th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022027
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20270825T115000Z
 DTEND:20270825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 6th Anniversary
-DESCRIPTION:Na Sera 6th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 6th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022028
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20280825T115000Z
 DTEND:20280825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 7th Anniversary
-DESCRIPTION:Na Sera 7th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 7th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022029
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20290825T115000Z
 DTEND:20290825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 8th Anniversary
-DESCRIPTION:Na Sera 8th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 8th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022030
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20300825T115000Z
 DTEND:20300825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 9th Anniversary
-DESCRIPTION:Na Sera 9th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 9th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022031
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20310825T115000Z
 DTEND:20310825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 10th Anniversary
-DESCRIPTION:Na Sera 10th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 10th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022032
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20320825T115000Z
 DTEND:20320825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 11th Anniversary
-DESCRIPTION:Na Sera 11th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 11th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022033
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20330825T115000Z
 DTEND:20330825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 12th Anniversary
-DESCRIPTION:Na Sera 12th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 12th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022034
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20340825T115000Z
 DTEND:20340825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 13th Anniversary
-DESCRIPTION:Na Sera 13th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 13th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022035
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20350825T115000Z
 DTEND:20350825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:Na Sera 14th Anniversary
-DESCRIPTION:Na Sera 14th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:08 (JST)\nFirst stream: Sep 1, 2021 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:Na Sera 14th Anniversary\n\nFirst tweet: Aug 25, 2021, 20:50 (JST)\nFirst stream: Sep 1, 2021, 20:59 (JST)\n\n\n==========\n【Na Sera】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2012019
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20190801
 DTEND:20190801
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022019
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20190517T070000Z
 DTEND:20190517T073000Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:エクス・アルビオ 活動開始\n\n==========\n【エクス・
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
+UID:9d94d192-a73e-45fd-89f8-2b2ef2032019
+DTSTAMP:20250316T023014Z
+DTSTART:20190521T100200Z
+DTEND:20190521T103200Z
+TRANSP:TRANSPARENT
+SUMMARY:エクス・アルビオ 初配信
+DESCRIPTION:エクス・アルビオ 初配信\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
+END:VEVENT
+BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022020
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20200517T070000Z
 DTEND:20200517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 1周年
-DESCRIPTION:エクス・アルビオ 1周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 1周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022021
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20210517T070000Z
 DTEND:20210517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 2周年
-DESCRIPTION:エクス・アルビオ 2周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 2周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022022
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20220517T070000Z
 DTEND:20220517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 3周年
-DESCRIPTION:エクス・アルビオ 3周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 3周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022023
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20230517T070000Z
 DTEND:20230517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 4周年
-DESCRIPTION:エクス・アルビオ 4周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 4周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022024
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20240517T070000Z
 DTEND:20240517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 5周年
-DESCRIPTION:エクス・アルビオ 5周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 5周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022025
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20250517T070000Z
 DTEND:20250517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 6周年
-DESCRIPTION:エクス・アルビオ 6周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 6周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022026
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20260517T070000Z
 DTEND:20260517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 7周年
-DESCRIPTION:エクス・アルビオ 7周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 7周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022027
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20270517T070000Z
 DTEND:20270517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 8周年
-DESCRIPTION:エクス・アルビオ 8周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 8周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022028
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20280517T070000Z
 DTEND:20280517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 9周年
-DESCRIPTION:エクス・アルビオ 9周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 9周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022029
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20290517T070000Z
 DTEND:20290517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 10周年
-DESCRIPTION:エクス・アルビオ 10周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 10周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022030
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20300517T070000Z
 DTEND:20300517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 11周年
-DESCRIPTION:エクス・アルビオ 11周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 11周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022031
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20310517T070000Z
 DTEND:20310517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 12周年
-DESCRIPTION:エクス・アルビオ 12周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 12周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022032
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20320517T070000Z
 DTEND:20320517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 13周年
-DESCRIPTION:エクス・アルビオ 13周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 13周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022033
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20330517T070000Z
 DTEND:20330517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 14周年
-DESCRIPTION:エクス・アルビオ 14周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 14周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022034
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20340517T070000Z
 DTEND:20340517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 15周年
-DESCRIPTION:エクス・アルビオ 15周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 15周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9d94d192-a73e-45fd-89f8-2b2ef2022035
-DTSTAMP:20250313T132439Z
+DTSTAMP:20250316T023014Z
 DTSTART:20350517T070000Z
 DTEND:20350517T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:エクス・アルビオ 16周年
-DESCRIPTION:エクス・アルビオ 16周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
+DESCRIPTION:エクス・アルビオ 16周年\n\n初ツイート：2019/05/17 16:00 （日本時間）\n初配信：2019/05/21 19:02 （日本時間）\n\n\n==========\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n
 URL:https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

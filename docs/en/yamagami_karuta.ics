@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f012020
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20200811
 DTEND:20200811
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022019
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20191017T070800Z
 DTEND:20191017T073800Z
 TRANSP:TRANSPARENT
@@ -50,168 +50,178 @@ DESCRIPTION:Yamagami Karuta Debut\n\n==========\n【Yamagami Karuta】\nYouTube:
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
+UID:7802b45c-af7f-457e-8e51-c7556f032019
+DTSTAMP:20250316T024843Z
+DTSTART:20191019T120200Z
+DTEND:20191019T123200Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamagami Karuta Debut stream
+DESCRIPTION:Yamagami Karuta Debut stream\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
+END:VEVENT
+BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022020
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20201017T070800Z
 DTEND:20201017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 1st Anniversary
-DESCRIPTION:Yamagami Karuta 1st Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 1st Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022021
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20211017T070800Z
 DTEND:20211017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 2nd Anniversary
-DESCRIPTION:Yamagami Karuta 2nd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 2nd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022022
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20221017T070800Z
 DTEND:20221017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 3rd Anniversary
-DESCRIPTION:Yamagami Karuta 3rd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 3rd Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022023
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20231017T070800Z
 DTEND:20231017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 4th Anniversary
-DESCRIPTION:Yamagami Karuta 4th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 4th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022024
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20241017T070800Z
 DTEND:20241017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 5th Anniversary
-DESCRIPTION:Yamagami Karuta 5th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 5th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022025
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20251017T070800Z
 DTEND:20251017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 6th Anniversary
-DESCRIPTION:Yamagami Karuta 6th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 6th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022026
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20261017T070800Z
 DTEND:20261017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 7th Anniversary
-DESCRIPTION:Yamagami Karuta 7th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 7th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022027
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20271017T070800Z
 DTEND:20271017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 8th Anniversary
-DESCRIPTION:Yamagami Karuta 8th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 8th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022028
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20281017T070800Z
 DTEND:20281017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 9th Anniversary
-DESCRIPTION:Yamagami Karuta 9th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 9th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022029
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20291017T070800Z
 DTEND:20291017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 10th Anniversary
-DESCRIPTION:Yamagami Karuta 10th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 10th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022030
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20301017T070800Z
 DTEND:20301017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 11th Anniversary
-DESCRIPTION:Yamagami Karuta 11th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 11th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022031
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20311017T070800Z
 DTEND:20311017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 12th Anniversary
-DESCRIPTION:Yamagami Karuta 12th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 12th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022032
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20321017T070800Z
 DTEND:20321017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 13th Anniversary
-DESCRIPTION:Yamagami Karuta 13th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 13th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022033
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20331017T070800Z
 DTEND:20331017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 14th Anniversary
-DESCRIPTION:Yamagami Karuta 14th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 14th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022034
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20341017T070800Z
 DTEND:20341017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 15th Anniversary
-DESCRIPTION:Yamagami Karuta 15th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 15th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7802b45c-af7f-457e-8e51-c7556f022035
-DTSTAMP:20250313T132539Z
+DTSTAMP:20250316T024843Z
 DTSTART:20351017T070800Z
 DTEND:20351017T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamagami Karuta 16th Anniversary
-DESCRIPTION:Yamagami Karuta 16th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:10 (JST)\nFirst stream: Oct 19, 2019 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
+DESCRIPTION:Yamagami Karuta 16th Anniversary\n\nFirst tweet: Oct 17, 2019, 16:08 (JST)\nFirst stream: Oct 19, 2019, 21:02 (JST)\n\n\n==========\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n
 URL:https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

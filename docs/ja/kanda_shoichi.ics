@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2012019
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20190305
 DTEND:20190305
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022018
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20180809T071200Z
 DTEND:20180809T074200Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:神田笑一 活動開始\n\n==========\n【神田笑一】\nYouTube
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
+UID:a750568e-6b6a-452d-ba09-f9f2f2032018
+DTSTAMP:20250315T151711Z
+DTSTART:20180813T150000Z
+DTEND:20180813T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:神田笑一 初配信
+DESCRIPTION:神田笑一 初配信\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
+END:VEVENT
+BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022019
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20190809T071200Z
 DTEND:20190809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 1周年
-DESCRIPTION:神田笑一 1周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 1周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022020
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20200809T071200Z
 DTEND:20200809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 2周年
-DESCRIPTION:神田笑一 2周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 2周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022021
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20210809T071200Z
 DTEND:20210809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 3周年
-DESCRIPTION:神田笑一 3周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 3周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022022
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20220809T071200Z
 DTEND:20220809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 4周年
-DESCRIPTION:神田笑一 4周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 4周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022023
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20230809T071200Z
 DTEND:20230809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 5周年
-DESCRIPTION:神田笑一 5周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 5周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022024
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20240809T071200Z
 DTEND:20240809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 6周年
-DESCRIPTION:神田笑一 6周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 6周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022025
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20250809T071200Z
 DTEND:20250809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 7周年
-DESCRIPTION:神田笑一 7周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 7周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022026
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20260809T071200Z
 DTEND:20260809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 8周年
-DESCRIPTION:神田笑一 8周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 8周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022027
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20270809T071200Z
 DTEND:20270809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 9周年
-DESCRIPTION:神田笑一 9周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 9周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022028
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20280809T071200Z
 DTEND:20280809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 10周年
-DESCRIPTION:神田笑一 10周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 10周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022029
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20290809T071200Z
 DTEND:20290809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 11周年
-DESCRIPTION:神田笑一 11周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 11周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022030
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20300809T071200Z
 DTEND:20300809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 12周年
-DESCRIPTION:神田笑一 12周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 12周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022031
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20310809T071200Z
 DTEND:20310809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 13周年
-DESCRIPTION:神田笑一 13周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 13周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022032
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20320809T071200Z
 DTEND:20320809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 14周年
-DESCRIPTION:神田笑一 14周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 14周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022033
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20330809T071200Z
 DTEND:20330809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 15周年
-DESCRIPTION:神田笑一 15周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 15周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022034
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20340809T071200Z
 DTEND:20340809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 16周年
-DESCRIPTION:神田笑一 16周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 16周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022035
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20350809T071200Z
 DTEND:20350809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:神田笑一 17周年
-DESCRIPTION:神田笑一 17周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:神田笑一 17周年\n\n初ツイート：2018/08/09 16:12 （日本時間）\n初配信：2018/08/14 00:00 （日本時間）\n\n\n==========\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

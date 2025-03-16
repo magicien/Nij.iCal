@@ -54,7 +54,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8012018
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20180822
 DTEND:20180822
 RRULE:FREQ=YEARLY
@@ -65,7 +65,7 @@ URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022018
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20180305T180800Z
 DTEND:20180305T183800Z
 TRANSP:TRANSPARENT
@@ -74,178 +74,188 @@ DESCRIPTION:剣持刀也 活動開始\n\n==========\n【剣持刀也】\nYouTube
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
+UID:3b4fb849-4e76-4653-a35e-2df0d8032018
+DTSTAMP:20250315T142827Z
+DTSTART:20180313T150900Z
+DTEND:20180313T153900Z
+TRANSP:TRANSPARENT
+SUMMARY:剣持刀也 初配信
+DESCRIPTION:剣持刀也 初配信\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
+END:VEVENT
+BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022019
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20190305T180800Z
 DTEND:20190305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 1周年
-DESCRIPTION:剣持刀也 1周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 1周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022020
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20200305T180800Z
 DTEND:20200305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 2周年
-DESCRIPTION:剣持刀也 2周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 2周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022021
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20210305T180800Z
 DTEND:20210305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 3周年
-DESCRIPTION:剣持刀也 3周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 3周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022022
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20220305T180800Z
 DTEND:20220305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 4周年
-DESCRIPTION:剣持刀也 4周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 4周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022023
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20230305T180800Z
 DTEND:20230305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 5周年
-DESCRIPTION:剣持刀也 5周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 5周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022024
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20240305T180800Z
 DTEND:20240305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 6周年
-DESCRIPTION:剣持刀也 6周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 6周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022025
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20250305T180800Z
 DTEND:20250305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 7周年
-DESCRIPTION:剣持刀也 7周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 7周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022026
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20260305T180800Z
 DTEND:20260305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 8周年
-DESCRIPTION:剣持刀也 8周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 8周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022027
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20270305T180800Z
 DTEND:20270305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 9周年
-DESCRIPTION:剣持刀也 9周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 9周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022028
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20280305T180800Z
 DTEND:20280305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 10周年
-DESCRIPTION:剣持刀也 10周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 10周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022029
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20290305T180800Z
 DTEND:20290305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 11周年
-DESCRIPTION:剣持刀也 11周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 11周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022030
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20300305T180800Z
 DTEND:20300305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 12周年
-DESCRIPTION:剣持刀也 12周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 12周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022031
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20310305T180800Z
 DTEND:20310305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 13周年
-DESCRIPTION:剣持刀也 13周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 13周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022032
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20320305T180800Z
 DTEND:20320305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 14周年
-DESCRIPTION:剣持刀也 14周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 14周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022033
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20330305T180800Z
 DTEND:20330305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 15周年
-DESCRIPTION:剣持刀也 15周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 15周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022034
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20340305T180800Z
 DTEND:20340305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 16周年
-DESCRIPTION:剣持刀也 16周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 16周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022035
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20350305T180800Z
 DTEND:20350305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:剣持刀也 17周年
-DESCRIPTION:剣持刀也 17周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:剣持刀也 17周年\n\n初ツイート：2018/03/06 03:08 （日本時間）\n初配信：2018/03/14 00:09 （日本時間）\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

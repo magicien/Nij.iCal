@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2012023
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20230718
 DTEND:20230718
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022023
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20230116T031100Z
 DTEND:20230116T034100Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:鏑木ろこ 活動開始\n\n==========\n【鏑木ろこ】\nYouTube
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
+UID:a419b426-300d-4357-a277-3f49b2032023
+DTSTAMP:20250316T050111Z
+DTSTART:20230120T113000Z
+DTEND:20230120T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:鏑木ろこ 初配信
+DESCRIPTION:鏑木ろこ 初配信\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
+END:VEVENT
+BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022024
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20240116T031100Z
 DTEND:20240116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 1周年
-DESCRIPTION:鏑木ろこ 1周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 1周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022025
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20250116T031100Z
 DTEND:20250116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 2周年
-DESCRIPTION:鏑木ろこ 2周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 2周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022026
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20260116T031100Z
 DTEND:20260116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 3周年
-DESCRIPTION:鏑木ろこ 3周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 3周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022027
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20270116T031100Z
 DTEND:20270116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 4周年
-DESCRIPTION:鏑木ろこ 4周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 4周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022028
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20280116T031100Z
 DTEND:20280116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 5周年
-DESCRIPTION:鏑木ろこ 5周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 5周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022029
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20290116T031100Z
 DTEND:20290116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 6周年
-DESCRIPTION:鏑木ろこ 6周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 6周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022030
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20300116T031100Z
 DTEND:20300116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 7周年
-DESCRIPTION:鏑木ろこ 7周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 7周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022031
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20310116T031100Z
 DTEND:20310116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 8周年
-DESCRIPTION:鏑木ろこ 8周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 8周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022032
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20320116T031100Z
 DTEND:20320116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 9周年
-DESCRIPTION:鏑木ろこ 9周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 9周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022033
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20330116T031100Z
 DTEND:20330116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 10周年
-DESCRIPTION:鏑木ろこ 10周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 10周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022034
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20340116T031100Z
 DTEND:20340116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 11周年
-DESCRIPTION:鏑木ろこ 11周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 11周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:a419b426-300d-4357-a277-3f49b2022035
-DTSTAMP:20250313T133350Z
+DTSTAMP:20250316T050111Z
 DTSTART:20350116T031100Z
 DTEND:20350116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 12周年
-DESCRIPTION:鏑木ろこ 12周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
+DESCRIPTION:鏑木ろこ 12周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

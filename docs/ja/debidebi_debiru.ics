@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad012018
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20181218
 DTEND:20181218
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022018
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20180831T070000Z
 DTEND:20180831T073000Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:でびでび・でびる 活動開始\n\n==========\n【でびでび
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad032018
+DTSTAMP:20250316T032944Z
+DTSTART:20180904T140000Z
+DTEND:20180904T143000Z
+TRANSP:TRANSPARENT
+SUMMARY:でびでび・でびる 初配信
+DESCRIPTION:でびでび・でびる 初配信\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022019
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20190831T070000Z
 DTEND:20190831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 1周年
-DESCRIPTION:でびでび・でびる 1周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 1周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022020
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20200831T070000Z
 DTEND:20200831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 2周年
-DESCRIPTION:でびでび・でびる 2周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 2周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022021
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20210831T070000Z
 DTEND:20210831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 3周年
-DESCRIPTION:でびでび・でびる 3周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 3周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022022
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20220831T070000Z
 DTEND:20220831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 4周年
-DESCRIPTION:でびでび・でびる 4周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 4周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022023
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20230831T070000Z
 DTEND:20230831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 5周年
-DESCRIPTION:でびでび・でびる 5周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 5周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022024
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20240831T070000Z
 DTEND:20240831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 6周年
-DESCRIPTION:でびでび・でびる 6周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 6周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022025
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20250831T070000Z
 DTEND:20250831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 7周年
-DESCRIPTION:でびでび・でびる 7周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 7周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022026
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20260831T070000Z
 DTEND:20260831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 8周年
-DESCRIPTION:でびでび・でびる 8周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 8周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022027
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20270831T070000Z
 DTEND:20270831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 9周年
-DESCRIPTION:でびでび・でびる 9周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 9周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022028
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20280831T070000Z
 DTEND:20280831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 10周年
-DESCRIPTION:でびでび・でびる 10周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 10周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022029
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20290831T070000Z
 DTEND:20290831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 11周年
-DESCRIPTION:でびでび・でびる 11周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 11周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022030
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20300831T070000Z
 DTEND:20300831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 12周年
-DESCRIPTION:でびでび・でびる 12周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 12周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022031
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20310831T070000Z
 DTEND:20310831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 13周年
-DESCRIPTION:でびでび・でびる 13周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 13周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022032
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20320831T070000Z
 DTEND:20320831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 14周年
-DESCRIPTION:でびでび・でびる 14周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 14周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022033
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20330831T070000Z
 DTEND:20330831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 15周年
-DESCRIPTION:でびでび・でびる 15周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 15周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022034
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20340831T070000Z
 DTEND:20340831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 16周年
-DESCRIPTION:でびでび・でびる 16周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 16周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:e83b5dc8-13b8-4f91-8ad6-b76cad022035
-DTSTAMP:20250313T132233Z
+DTSTAMP:20250316T032944Z
 DTSTART:20350831T070000Z
 DTEND:20350831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 17周年
-DESCRIPTION:でびでび・でびる 17周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
+DESCRIPTION:でびでび・でびる 17周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

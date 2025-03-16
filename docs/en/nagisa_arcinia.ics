@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4012021
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20210723
 DTEND:20210723
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022020
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20201111T074000Z
 DTEND:20201111T081000Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:Nagisa Arcinia Debut\n\n==========\n【Nagisa Arcinia】\nYouTube: h
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
+UID:20f1cac7-f4aa-4532-83dc-ff13d4032020
+DTSTAMP:20250316T043340Z
+DTSTART:20201114T120000Z
+DTEND:20201114T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nagisa Arcinia Debut stream
+DESCRIPTION:Nagisa Arcinia Debut stream\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
+END:VEVENT
+BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022021
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20211111T074000Z
 DTEND:20211111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 1st Anniversary
-DESCRIPTION:Nagisa Arcinia 1st Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 1st Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022022
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20221111T074000Z
 DTEND:20221111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 2nd Anniversary
-DESCRIPTION:Nagisa Arcinia 2nd Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 2nd Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022023
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20231111T074000Z
 DTEND:20231111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 3rd Anniversary
-DESCRIPTION:Nagisa Arcinia 3rd Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 3rd Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022024
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20241111T074000Z
 DTEND:20241111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 4th Anniversary
-DESCRIPTION:Nagisa Arcinia 4th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 4th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022025
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20251111T074000Z
 DTEND:20251111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 5th Anniversary
-DESCRIPTION:Nagisa Arcinia 5th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 5th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022026
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20261111T074000Z
 DTEND:20261111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 6th Anniversary
-DESCRIPTION:Nagisa Arcinia 6th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 6th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022027
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20271111T074000Z
 DTEND:20271111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 7th Anniversary
-DESCRIPTION:Nagisa Arcinia 7th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 7th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022028
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20281111T074000Z
 DTEND:20281111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 8th Anniversary
-DESCRIPTION:Nagisa Arcinia 8th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 8th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022029
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20291111T074000Z
 DTEND:20291111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 9th Anniversary
-DESCRIPTION:Nagisa Arcinia 9th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 9th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022030
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20301111T074000Z
 DTEND:20301111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 10th Anniversary
-DESCRIPTION:Nagisa Arcinia 10th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 10th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022031
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20311111T074000Z
 DTEND:20311111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 11th Anniversary
-DESCRIPTION:Nagisa Arcinia 11th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 11th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022032
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20321111T074000Z
 DTEND:20321111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 12th Anniversary
-DESCRIPTION:Nagisa Arcinia 12th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 12th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022033
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20331111T074000Z
 DTEND:20331111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 13th Anniversary
-DESCRIPTION:Nagisa Arcinia 13th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 13th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022034
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20341111T074000Z
 DTEND:20341111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 14th Anniversary
-DESCRIPTION:Nagisa Arcinia 14th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 14th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:20f1cac7-f4aa-4532-83dc-ff13d4022035
-DTSTAMP:20250313T133003Z
+DTSTAMP:20250316T043340Z
 DTSTART:20351111T074000Z
 DTEND:20351111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nagisa Arcinia 15th Anniversary
-DESCRIPTION:Nagisa Arcinia 15th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:11 (JST)\nFirst stream: Nov 14, 2020 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
+DESCRIPTION:Nagisa Arcinia 15th Anniversary\n\nFirst tweet: Nov 11, 2020, 16:40 (JST)\nFirst stream: Nov 14, 2020, 21:00 (JST)\n\n\n==========\n【Nagisa Arcinia】\nYouTube: https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g\nX: https://twitter.com/NagisaArcinia\n\n
 URL:https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

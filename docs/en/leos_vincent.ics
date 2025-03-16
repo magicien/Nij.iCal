@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e012022
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20220308
 DTEND:20220308
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022021
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20210719T072100Z
 DTEND:20210719T075100Z
 TRANSP:TRANSPARENT
@@ -38,148 +38,158 @@ DESCRIPTION:Leos Vincent Debut\n\n==========\n【Leos Vincent】\nYouTube: https
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
+UID:dbca42b0-e326-4ff4-9371-ef5a3e032021
+DTSTAMP:20250316T041958Z
+DTSTART:20210722T052000Z
+DTEND:20210722T055000Z
+TRANSP:TRANSPARENT
+SUMMARY:Leos Vincent Debut stream
+DESCRIPTION:Leos Vincent Debut stream\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
+END:VEVENT
+BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022022
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20220719T072100Z
 DTEND:20220719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 1st Anniversary
-DESCRIPTION:Leos Vincent 1st Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 1st Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022023
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20230719T072100Z
 DTEND:20230719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 2nd Anniversary
-DESCRIPTION:Leos Vincent 2nd Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 2nd Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022024
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20240719T072100Z
 DTEND:20240719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 3rd Anniversary
-DESCRIPTION:Leos Vincent 3rd Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 3rd Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022025
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20250719T072100Z
 DTEND:20250719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 4th Anniversary
-DESCRIPTION:Leos Vincent 4th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 4th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022026
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20260719T072100Z
 DTEND:20260719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 5th Anniversary
-DESCRIPTION:Leos Vincent 5th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 5th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022027
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20270719T072100Z
 DTEND:20270719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 6th Anniversary
-DESCRIPTION:Leos Vincent 6th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 6th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022028
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20280719T072100Z
 DTEND:20280719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 7th Anniversary
-DESCRIPTION:Leos Vincent 7th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 7th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022029
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20290719T072100Z
 DTEND:20290719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 8th Anniversary
-DESCRIPTION:Leos Vincent 8th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 8th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022030
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20300719T072100Z
 DTEND:20300719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 9th Anniversary
-DESCRIPTION:Leos Vincent 9th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 9th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022031
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20310719T072100Z
 DTEND:20310719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 10th Anniversary
-DESCRIPTION:Leos Vincent 10th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 10th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022032
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20320719T072100Z
 DTEND:20320719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 11th Anniversary
-DESCRIPTION:Leos Vincent 11th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 11th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022033
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20330719T072100Z
 DTEND:20330719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 12th Anniversary
-DESCRIPTION:Leos Vincent 12th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 12th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022034
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20340719T072100Z
 DTEND:20340719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 13th Anniversary
-DESCRIPTION:Leos Vincent 13th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 13th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:dbca42b0-e326-4ff4-9371-ef5a3e022035
-DTSTAMP:20250313T132803Z
+DTSTAMP:20250316T041958Z
 DTSTART:20350719T072100Z
 DTEND:20350719T072101Z
 TRANSP:TRANSPARENT
 SUMMARY:Leos Vincent 14th Anniversary
-DESCRIPTION:Leos Vincent 14th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+DESCRIPTION:Leos Vincent 14th Anniversary\n\nFirst tweet: Jul 19, 2021, 16:21 (JST)\nFirst stream: Jul 22, 2021, 14:20 (JST)\n\n\n==========\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
 URL:https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

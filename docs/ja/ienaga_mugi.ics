@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45012018
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20181107
 DTEND:20181107
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022018
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20180305T124200Z
 DTEND:20180305T131200Z
 TRANSP:TRANSPARENT
@@ -50,178 +50,188 @@ DESCRIPTION:家長むぎ 活動開始\n\n==========\n【家長むぎ】\nYouTube
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
+UID:9eb77ba1-c3c1-4aed-b275-defe45032018
+DTSTAMP:20250315T135823Z
+DTSTART:20180312T135400Z
+DTEND:20180312T142400Z
+TRANSP:TRANSPARENT
+SUMMARY:家長むぎ 初配信
+DESCRIPTION:家長むぎ 初配信\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
+END:VEVENT
+BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022019
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20190305T124200Z
 DTEND:20190305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 1周年
-DESCRIPTION:家長むぎ 1周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 1周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022020
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20200305T124200Z
 DTEND:20200305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 2周年
-DESCRIPTION:家長むぎ 2周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 2周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022021
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20210305T124200Z
 DTEND:20210305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 3周年
-DESCRIPTION:家長むぎ 3周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 3周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022022
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20220305T124200Z
 DTEND:20220305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 4周年
-DESCRIPTION:家長むぎ 4周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 4周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022023
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20230305T124200Z
 DTEND:20230305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 5周年
-DESCRIPTION:家長むぎ 5周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 5周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022024
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20240305T124200Z
 DTEND:20240305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 6周年
-DESCRIPTION:家長むぎ 6周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 6周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022025
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20250305T124200Z
 DTEND:20250305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 7周年
-DESCRIPTION:家長むぎ 7周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 7周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022026
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20260305T124200Z
 DTEND:20260305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 8周年
-DESCRIPTION:家長むぎ 8周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 8周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022027
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20270305T124200Z
 DTEND:20270305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 9周年
-DESCRIPTION:家長むぎ 9周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 9周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022028
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20280305T124200Z
 DTEND:20280305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 10周年
-DESCRIPTION:家長むぎ 10周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 10周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022029
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20290305T124200Z
 DTEND:20290305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 11周年
-DESCRIPTION:家長むぎ 11周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 11周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022030
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20300305T124200Z
 DTEND:20300305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 12周年
-DESCRIPTION:家長むぎ 12周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 12周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022031
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20310305T124200Z
 DTEND:20310305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 13周年
-DESCRIPTION:家長むぎ 13周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 13周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022032
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20320305T124200Z
 DTEND:20320305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 14周年
-DESCRIPTION:家長むぎ 14周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 14周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022033
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20330305T124200Z
 DTEND:20330305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 15周年
-DESCRIPTION:家長むぎ 15周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 15周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022034
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20340305T124200Z
 DTEND:20340305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 16周年
-DESCRIPTION:家長むぎ 16周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 16周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb77ba1-c3c1-4aed-b275-defe45022035
-DTSTAMP:20250313T131930Z
+DTSTAMP:20250315T135823Z
 DTSTART:20350305T124200Z
 DTEND:20350305T124201Z
 TRANSP:TRANSPARENT
 SUMMARY:家長むぎ 17周年
-DESCRIPTION:家長むぎ 17周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
+DESCRIPTION:家長むぎ 17周年\n\n初ツイート：2018/03/05 21:42 （日本時間）\n初配信：2018/03/12 22:54 （日本時間）\n\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n
 URL:https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

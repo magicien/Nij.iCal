@@ -42,7 +42,7 @@ URL:https://www.nijisanji.jp/events/rof-mao_2ndlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea012019
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20191202
 DTEND:20191202
 RRULE:FREQ=YEARLY
@@ -53,7 +53,7 @@ URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022019
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20190703T072000Z
 DTEND:20190703T075000Z
 TRANSP:TRANSPARENT
@@ -62,168 +62,178 @@ DESCRIPTION:Kagami Hayato Debut\n\n==========\n【Kagami Hayato】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
+UID:7436803f-8b66-4fa8-bb91-a598ea032019
+DTSTAMP:20250316T024142Z
+DTSTART:20190706T121900Z
+DTEND:20190706T124900Z
+TRANSP:TRANSPARENT
+SUMMARY:Kagami Hayato Debut stream
+DESCRIPTION:Kagami Hayato Debut stream\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
+END:VEVENT
+BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022020
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20200703T072000Z
 DTEND:20200703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 1st Anniversary
-DESCRIPTION:Kagami Hayato 1st Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 1st Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022021
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20210703T072000Z
 DTEND:20210703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 2nd Anniversary
-DESCRIPTION:Kagami Hayato 2nd Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 2nd Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022022
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20220703T072000Z
 DTEND:20220703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 3rd Anniversary
-DESCRIPTION:Kagami Hayato 3rd Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 3rd Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022023
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20230703T072000Z
 DTEND:20230703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 4th Anniversary
-DESCRIPTION:Kagami Hayato 4th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 4th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022024
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20240703T072000Z
 DTEND:20240703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 5th Anniversary
-DESCRIPTION:Kagami Hayato 5th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 5th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022025
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20250703T072000Z
 DTEND:20250703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 6th Anniversary
-DESCRIPTION:Kagami Hayato 6th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 6th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022026
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20260703T072000Z
 DTEND:20260703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 7th Anniversary
-DESCRIPTION:Kagami Hayato 7th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 7th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022027
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20270703T072000Z
 DTEND:20270703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 8th Anniversary
-DESCRIPTION:Kagami Hayato 8th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 8th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022028
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20280703T072000Z
 DTEND:20280703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 9th Anniversary
-DESCRIPTION:Kagami Hayato 9th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 9th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022029
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20290703T072000Z
 DTEND:20290703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 10th Anniversary
-DESCRIPTION:Kagami Hayato 10th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 10th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022030
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20300703T072000Z
 DTEND:20300703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 11th Anniversary
-DESCRIPTION:Kagami Hayato 11th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 11th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022031
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20310703T072000Z
 DTEND:20310703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 12th Anniversary
-DESCRIPTION:Kagami Hayato 12th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 12th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022032
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20320703T072000Z
 DTEND:20320703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 13th Anniversary
-DESCRIPTION:Kagami Hayato 13th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 13th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022033
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20330703T072000Z
 DTEND:20330703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 14th Anniversary
-DESCRIPTION:Kagami Hayato 14th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 14th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022034
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20340703T072000Z
 DTEND:20340703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 15th Anniversary
-DESCRIPTION:Kagami Hayato 15th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 15th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:7436803f-8b66-4fa8-bb91-a598ea022035
-DTSTAMP:20250313T132456Z
+DTSTAMP:20250316T024142Z
 DTSTART:20350703T072000Z
 DTEND:20350703T072001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kagami Hayato 16th Anniversary
-DESCRIPTION:Kagami Hayato 16th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:07 (JST)\nFirst stream: Jul 6, 2019 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Kagami Hayato 16th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:20 (JST)\nFirst stream: Jul 6, 2019, 21:19 (JST)\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

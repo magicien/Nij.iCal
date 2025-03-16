@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645012022
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20220925
 DTEND:20220925
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022022
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20220720T000000Z
 DTEND:20220720T003000Z
 TRANSP:TRANSPARENT
@@ -38,138 +38,148 @@ DESCRIPTION:Aster Arcadia Debut\n\n==========\n【Aster Arcadia】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645032022
+DTSTAMP:20250316T072537Z
+DTSTART:20220725T014500Z
+DTEND:20220725T021500Z
+TRANSP:TRANSPARENT
+SUMMARY:Aster Arcadia Debut stream
+DESCRIPTION:Aster Arcadia Debut stream\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022023
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20230720T000000Z
 DTEND:20230720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 1st Anniversary
-DESCRIPTION:Aster Arcadia 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022024
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20240720T000000Z
 DTEND:20240720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 2nd Anniversary
-DESCRIPTION:Aster Arcadia 2nd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 2nd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022025
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20250720T000000Z
 DTEND:20250720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 3rd Anniversary
-DESCRIPTION:Aster Arcadia 3rd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 3rd Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022026
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20260720T000000Z
 DTEND:20260720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 4th Anniversary
-DESCRIPTION:Aster Arcadia 4th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 4th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022027
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20270720T000000Z
 DTEND:20270720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 5th Anniversary
-DESCRIPTION:Aster Arcadia 5th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 5th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022028
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20280720T000000Z
 DTEND:20280720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 6th Anniversary
-DESCRIPTION:Aster Arcadia 6th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 6th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022029
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20290720T000000Z
 DTEND:20290720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 7th Anniversary
-DESCRIPTION:Aster Arcadia 7th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 7th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022030
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20300720T000000Z
 DTEND:20300720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 8th Anniversary
-DESCRIPTION:Aster Arcadia 8th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 8th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022031
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20310720T000000Z
 DTEND:20310720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 9th Anniversary
-DESCRIPTION:Aster Arcadia 9th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 9th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022032
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20320720T000000Z
 DTEND:20320720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 10th Anniversary
-DESCRIPTION:Aster Arcadia 10th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 10th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022033
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20330720T000000Z
 DTEND:20330720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 11th Anniversary
-DESCRIPTION:Aster Arcadia 11th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 11th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022034
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20340720T000000Z
 DTEND:20340720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 12th Anniversary
-DESCRIPTION:Aster Arcadia 12th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 12th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:0362bbaa-103f-4917-ab05-700645022035
-DTSTAMP:20250313T133727Z
+DTSTAMP:20250316T072537Z
 DTSTART:20350720T000000Z
 DTEND:20350720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aster Arcadia 13th Anniversary
-DESCRIPTION:Aster Arcadia 13th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:07 (JST)\nFirst stream: Jul 25, 2022 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
+DESCRIPTION:Aster Arcadia 13th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 10:45 (JST)\n\n\n==========\n【Aster Arcadia】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://twitter.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c7e4d443-e14e-4945-a253-11f08e012024
-DTSTAMP:20250313T133856Z
+DTSTAMP:20250316T073356Z
 DTSTART:20240318
 DTEND:20240318
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
 UID:c7e4d443-e14e-4945-a253-11f08e022023
-DTSTAMP:20250313T133856Z
+DTSTAMP:20250316T073356Z
 DTSTART:20231026T000200Z
 DTEND:20231026T003200Z
 TRANSP:TRANSPARENT
@@ -38,18 +38,28 @@ DESCRIPTION:ヴィクトリア ブライトシールド 活動開始\n\n========
 URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
+UID:c7e4d443-e14e-4945-a253-11f08e032023
+DTSTAMP:20250316T073356Z
+DTSTART:20231028T023900Z
+DTEND:20231028T030900Z
+TRANSP:TRANSPARENT
+SUMMARY:ヴィクトリア ブライトシールド 初配信
+DESCRIPTION:ヴィクトリア ブライトシールド 初配信\n\n==========\n【ヴィクトリア ブライトシールド】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
+URL:https://www.youtube.com/@VictoriaBrightshield
+END:VEVENT
+BEGIN:VEVENT
 UID:c7e4d443-e14e-4945-a253-11f08e022024
-DTSTAMP:20250313T133856Z
+DTSTAMP:20250316T073356Z
 DTSTART:20241026T000200Z
 DTEND:20241026T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴィクトリア ブライトシールド 1周年
-DESCRIPTION:ヴィクトリア ブライトシールド 1周年\n\n初ツイート：2023/10/26 09:02 （日本時間）\n初配信：2023/10/28 （日本時間）\n\n\n==========\n【ヴィクトリア ブライトシールド】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
+DESCRIPTION:ヴィクトリア ブライトシールド 1周年\n\n初ツイート：2023/10/26 09:02 （日本時間）\n初配信：2023/10/28 11:39 （日本時間）\n\n\n==========\n【ヴィクトリア ブライトシールド】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
 URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
 UID:c7e4d443-e14e-4945-a253-11f08e992024
-DTSTAMP:20250313T133856Z
+DTSTAMP:20250316T073356Z
 DTSTART:20241109
 DTEND:20241109
 TRANSP:TRANSPARENT
@@ -59,7 +69,7 @@ URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

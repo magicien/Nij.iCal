@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf012019
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20190802
 DTEND:20190802
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022018
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20180925T093300Z
 DTEND:20180925T100300Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:矢車りね 活動開始\n\n==========\n【矢車りね】\nYouTube
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
+UID:3eaa8b90-3fe7-4eda-aa5a-102eaf032018
+DTSTAMP:20250316T021910Z
+DTSTART:20180928T110000Z
+DTEND:20180928T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:矢車りね 初配信
+DESCRIPTION:矢車りね 初配信\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
+END:VEVENT
+BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022019
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20190925T093300Z
 DTEND:20190925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 1周年
-DESCRIPTION:矢車りね 1周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 1周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022020
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20200925T093300Z
 DTEND:20200925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 2周年
-DESCRIPTION:矢車りね 2周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 2周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022021
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20210925T093300Z
 DTEND:20210925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 3周年
-DESCRIPTION:矢車りね 3周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 3周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022022
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20220925T093300Z
 DTEND:20220925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 4周年
-DESCRIPTION:矢車りね 4周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 4周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022023
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20230925T093300Z
 DTEND:20230925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 5周年
-DESCRIPTION:矢車りね 5周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 5周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022024
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20240925T093300Z
 DTEND:20240925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 6周年
-DESCRIPTION:矢車りね 6周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 6周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022025
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20250925T093300Z
 DTEND:20250925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 7周年
-DESCRIPTION:矢車りね 7周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 7周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022026
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20260925T093300Z
 DTEND:20260925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 8周年
-DESCRIPTION:矢車りね 8周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 8周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022027
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20270925T093300Z
 DTEND:20270925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 9周年
-DESCRIPTION:矢車りね 9周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 9周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022028
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20280925T093300Z
 DTEND:20280925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 10周年
-DESCRIPTION:矢車りね 10周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 10周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022029
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20290925T093300Z
 DTEND:20290925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 11周年
-DESCRIPTION:矢車りね 11周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 11周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022030
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20300925T093300Z
 DTEND:20300925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 12周年
-DESCRIPTION:矢車りね 12周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 12周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022031
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20310925T093300Z
 DTEND:20310925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 13周年
-DESCRIPTION:矢車りね 13周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 13周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022032
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20320925T093300Z
 DTEND:20320925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 14周年
-DESCRIPTION:矢車りね 14周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 14周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022033
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20330925T093300Z
 DTEND:20330925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 15周年
-DESCRIPTION:矢車りね 15周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 15周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022034
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20340925T093300Z
 DTEND:20340925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 16周年
-DESCRIPTION:矢車りね 16周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 16周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa8b90-3fe7-4eda-aa5a-102eaf022035
-DTSTAMP:20250313T132307Z
+DTSTAMP:20250316T021910Z
 DTSTART:20350925T093300Z
 DTEND:20350925T093301Z
 TRANSP:TRANSPARENT
 SUMMARY:矢車りね 17周年
-DESCRIPTION:矢車りね 17周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
+DESCRIPTION:矢車りね 17周年\n\n初ツイート：2018/09/25 18:33 （日本時間）\n初配信：2018/09/28 20:00 （日本時間）\n\n\n==========\n【矢車りね】\nYouTube: https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og\nX: https://twitter.com/rine_yaguruma\n\n
 URL:https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

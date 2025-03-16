@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7012022
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20220406
 DTEND:20220406
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022022
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20220222T020300Z
 DTEND:20220222T023300Z
 TRANSP:TRANSPARENT
@@ -38,138 +38,148 @@ DESCRIPTION:サニー・ブリスコー 活動開始\n\n==========\n【サニー
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
+UID:4814a122-59a4-4598-9678-8133d7032022
+DTSTAMP:20250316T072325Z
+DTSTART:20220227T021000Z
+DTEND:20220227T024000Z
+TRANSP:TRANSPARENT
+SUMMARY:サニー・ブリスコー 初配信
+DESCRIPTION:サニー・ブリスコー 初配信\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
+END:VEVENT
+BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022023
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20230222T020300Z
 DTEND:20230222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 1周年
-DESCRIPTION:サニー・ブリスコー 1周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 1周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022024
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20240222T020300Z
 DTEND:20240222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 2周年
-DESCRIPTION:サニー・ブリスコー 2周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 2周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022025
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20250222T020300Z
 DTEND:20250222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 3周年
-DESCRIPTION:サニー・ブリスコー 3周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 3周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022026
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20260222T020300Z
 DTEND:20260222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 4周年
-DESCRIPTION:サニー・ブリスコー 4周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 4周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022027
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20270222T020300Z
 DTEND:20270222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 5周年
-DESCRIPTION:サニー・ブリスコー 5周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 5周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022028
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20280222T020300Z
 DTEND:20280222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 6周年
-DESCRIPTION:サニー・ブリスコー 6周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 6周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022029
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20290222T020300Z
 DTEND:20290222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 7周年
-DESCRIPTION:サニー・ブリスコー 7周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 7周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022030
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20300222T020300Z
 DTEND:20300222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 8周年
-DESCRIPTION:サニー・ブリスコー 8周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 8周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022031
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20310222T020300Z
 DTEND:20310222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 9周年
-DESCRIPTION:サニー・ブリスコー 9周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 9周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022032
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20320222T020300Z
 DTEND:20320222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 10周年
-DESCRIPTION:サニー・ブリスコー 10周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 10周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022033
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20330222T020300Z
 DTEND:20330222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 11周年
-DESCRIPTION:サニー・ブリスコー 11周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 11周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022034
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20340222T020300Z
 DTEND:20340222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 12周年
-DESCRIPTION:サニー・ブリスコー 12周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 12周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:4814a122-59a4-4598-9678-8133d7022035
-DTSTAMP:20250313T133706Z
+DTSTAMP:20250316T072325Z
 DTSTART:20350222T020300Z
 DTEND:20350222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:サニー・ブリスコー 13周年
-DESCRIPTION:サニー・ブリスコー 13周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+DESCRIPTION:サニー・ブリスコー 13周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 11:10 （日本時間）\n\n\n==========\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
 URL:https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

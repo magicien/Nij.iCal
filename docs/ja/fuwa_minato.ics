@@ -114,7 +114,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9012020
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20200418
 DTEND:20200418
 RRULE:FREQ=YEARLY
@@ -125,7 +125,7 @@ URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022019
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20191128T070100Z
 DTEND:20191128T073100Z
 TRANSP:TRANSPARENT
@@ -134,168 +134,178 @@ DESCRIPTION:不破湊 活動開始\n\n==========\n【不破湊】\nYouTube: http
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
+UID:ccd6b66a-b63f-47ba-a4d1-1a45d9032019
+DTSTAMP:20250316T031739Z
+DTSTART:20191130T130200Z
+DTEND:20191130T133200Z
+TRANSP:TRANSPARENT
+SUMMARY:不破湊 初配信
+DESCRIPTION:不破湊 初配信\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
+END:VEVENT
+BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022020
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20201128T070100Z
 DTEND:20201128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 1周年
-DESCRIPTION:不破湊 1周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 1周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022021
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20211128T070100Z
 DTEND:20211128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 2周年
-DESCRIPTION:不破湊 2周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 2周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022022
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20221128T070100Z
 DTEND:20221128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 3周年
-DESCRIPTION:不破湊 3周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 3周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022023
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20231128T070100Z
 DTEND:20231128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 4周年
-DESCRIPTION:不破湊 4周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 4周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022024
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20241128T070100Z
 DTEND:20241128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 5周年
-DESCRIPTION:不破湊 5周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 5周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022025
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20251128T070100Z
 DTEND:20251128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 6周年
-DESCRIPTION:不破湊 6周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 6周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022026
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20261128T070100Z
 DTEND:20261128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 7周年
-DESCRIPTION:不破湊 7周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 7周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022027
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20271128T070100Z
 DTEND:20271128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 8周年
-DESCRIPTION:不破湊 8周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 8周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022028
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20281128T070100Z
 DTEND:20281128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 9周年
-DESCRIPTION:不破湊 9周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 9周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022029
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20291128T070100Z
 DTEND:20291128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 10周年
-DESCRIPTION:不破湊 10周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 10周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022030
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20301128T070100Z
 DTEND:20301128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 11周年
-DESCRIPTION:不破湊 11周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 11周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022031
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20311128T070100Z
 DTEND:20311128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 12周年
-DESCRIPTION:不破湊 12周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 12周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022032
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20321128T070100Z
 DTEND:20321128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 13周年
-DESCRIPTION:不破湊 13周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 13周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022033
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20331128T070100Z
 DTEND:20331128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 14周年
-DESCRIPTION:不破湊 14周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 14周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022034
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20341128T070100Z
 DTEND:20341128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 15周年
-DESCRIPTION:不破湊 15周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 15周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9022035
-DTSTAMP:20250313T132552Z
+DTSTAMP:20250316T031739Z
 DTSTART:20351128T070100Z
 DTEND:20351128T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:不破湊 16周年
-DESCRIPTION:不破湊 16周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+DESCRIPTION:不破湊 16周年\n\n初ツイート：2019/11/28 16:01 （日本時間）\n初配信：2019/11/30 22:02 （日本時間）\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
 URL:https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

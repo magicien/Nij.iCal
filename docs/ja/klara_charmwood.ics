@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600012024
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20241120
 DTEND:20241120
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022024
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20240521T000300Z
 DTEND:20240521T003300Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:クララ チャームウッド 活動開始\n\n==========\n【ク�
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
+UID:4237b78c-4f46-48f7-83c2-dc3600032024
+DTSTAMP:20250316T073620Z
+DTSTART:20240525T024000Z
+DTEND:20240525T031000Z
+TRANSP:TRANSPARENT
+SUMMARY:クララ チャームウッド 初配信
+DESCRIPTION:クララ チャームウッド 初配信\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+URL:https://www.youtube.com/@KlaraCharmwood
+END:VEVENT
+BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022025
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20250521T000300Z
 DTEND:20250521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 1周年
-DESCRIPTION:クララ チャームウッド 1周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 1周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022026
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20260521T000300Z
 DTEND:20260521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 2周年
-DESCRIPTION:クララ チャームウッド 2周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 2周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022027
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20270521T000300Z
 DTEND:20270521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 3周年
-DESCRIPTION:クララ チャームウッド 3周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 3周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022028
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20280521T000300Z
 DTEND:20280521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 4周年
-DESCRIPTION:クララ チャームウッド 4周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 4周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022029
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20290521T000300Z
 DTEND:20290521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 5周年
-DESCRIPTION:クララ チャームウッド 5周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 5周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022030
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20300521T000300Z
 DTEND:20300521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 6周年
-DESCRIPTION:クララ チャームウッド 6周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 6周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022031
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20310521T000300Z
 DTEND:20310521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 7周年
-DESCRIPTION:クララ チャームウッド 7周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 7周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022032
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20320521T000300Z
 DTEND:20320521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 8周年
-DESCRIPTION:クララ チャームウッド 8周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 8周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022033
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20330521T000300Z
 DTEND:20330521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 9周年
-DESCRIPTION:クララ チャームウッド 9周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 9周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022034
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20340521T000300Z
 DTEND:20340521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 10周年
-DESCRIPTION:クララ チャームウッド 10周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 10周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022035
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20350521T000300Z
 DTEND:20350521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:クララ チャームウッド 11周年
-DESCRIPTION:クララ チャームウッド 11周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2023/05/25 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:クララ チャームウッド 11周年\n\n初ツイート：2024/05/21 09:03 （日本時間）\n初配信：2024/05/25 11:40 （日本時間）\n\n\n==========\n【クララ チャームウッド】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

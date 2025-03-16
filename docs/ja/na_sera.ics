@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218012021
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20211103
 DTEND:20211103
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022021
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20210825T115000Z
 DTEND:20210825T122000Z
 TRANSP:TRANSPARENT
@@ -38,148 +38,158 @@ DESCRIPTION:ナ セラ 活動開始\n\n==========\n【ナ セラ】\nYouTube: ht
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
+UID:974e5854-c543-4809-8a62-4d4218032021
+DTSTAMP:20250316T045706Z
+DTSTART:20210901T115900Z
+DTEND:20210901T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ナ セラ 初配信
+DESCRIPTION:ナ セラ 初配信\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
+END:VEVENT
+BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022022
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20220825T115000Z
 DTEND:20220825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 1周年
-DESCRIPTION:ナ セラ 1周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 1周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022023
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20230825T115000Z
 DTEND:20230825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 2周年
-DESCRIPTION:ナ セラ 2周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 2周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022024
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20240825T115000Z
 DTEND:20240825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 3周年
-DESCRIPTION:ナ セラ 3周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 3周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022025
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20250825T115000Z
 DTEND:20250825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 4周年
-DESCRIPTION:ナ セラ 4周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 4周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022026
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20260825T115000Z
 DTEND:20260825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 5周年
-DESCRIPTION:ナ セラ 5周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 5周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022027
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20270825T115000Z
 DTEND:20270825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 6周年
-DESCRIPTION:ナ セラ 6周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 6周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022028
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20280825T115000Z
 DTEND:20280825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 7周年
-DESCRIPTION:ナ セラ 7周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 7周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022029
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20290825T115000Z
 DTEND:20290825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 8周年
-DESCRIPTION:ナ セラ 8周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 8周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022030
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20300825T115000Z
 DTEND:20300825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 9周年
-DESCRIPTION:ナ セラ 9周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 9周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022031
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20310825T115000Z
 DTEND:20310825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 10周年
-DESCRIPTION:ナ セラ 10周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 10周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022032
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20320825T115000Z
 DTEND:20320825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 11周年
-DESCRIPTION:ナ セラ 11周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 11周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022033
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20330825T115000Z
 DTEND:20330825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 12周年
-DESCRIPTION:ナ セラ 12周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 12周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022034
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20340825T115000Z
 DTEND:20340825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 13周年
-DESCRIPTION:ナ セラ 13周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 13周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:974e5854-c543-4809-8a62-4d4218022035
-DTSTAMP:20250313T133339Z
+DTSTAMP:20250316T045706Z
 DTSTART:20350825T115000Z
 DTEND:20350825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 14周年
-DESCRIPTION:ナ セラ 14周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
+DESCRIPTION:ナ セラ 14周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://twitter.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

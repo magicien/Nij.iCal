@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:29b93869-d983-4642-853d-c32487012019
-DTSTAMP:20250313T132509Z
+DTSTAMP:20250316T040305Z
 DTSTART:20191122
 DTEND:20191122
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
 UID:29b93869-d983-4642-853d-c32487022019
-DTSTAMP:20250313T132509Z
+DTSTAMP:20250316T040305Z
 DTSTART:20190724T080000Z
 DTEND:20190724T083000Z
 TRANSP:TRANSPARENT
@@ -38,48 +38,58 @@ DESCRIPTION:相羽ういは 活動開始\n\n==========\n【相羽ういは】\nY
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
+UID:29b93869-d983-4642-853d-c32487032019
+DTSTAMP:20250316T040305Z
+DTSTART:20190728T115900Z
+DTEND:20190728T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:相羽ういは 初配信
+DESCRIPTION:相羽ういは 初配信\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+URL:https://www.youtube.com/@AibaUiha
+END:VEVENT
+BEGIN:VEVENT
 UID:29b93869-d983-4642-853d-c32487022020
-DTSTAMP:20250313T132509Z
+DTSTAMP:20250316T040305Z
 DTSTART:20200724T080000Z
 DTEND:20200724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 1周年
-DESCRIPTION:相羽ういは 1周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 1周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
 UID:29b93869-d983-4642-853d-c32487022021
-DTSTAMP:20250313T132509Z
+DTSTAMP:20250316T040305Z
 DTSTART:20210724T080000Z
 DTEND:20210724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 2周年
-DESCRIPTION:相羽ういは 2周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 2周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
 UID:29b93869-d983-4642-853d-c32487022022
-DTSTAMP:20250313T132509Z
+DTSTAMP:20250316T040305Z
 DTSTART:20220724T080000Z
 DTEND:20220724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 3周年
-DESCRIPTION:相羽ういは 3周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 3周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
 UID:29b93869-d983-4642-853d-c32487022023
-DTSTAMP:20250313T132509Z
+DTSTAMP:20250316T040305Z
 DTSTART:20230724T080000Z
 DTEND:20230724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 4周年
-DESCRIPTION:相羽ういは 4周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 4周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
 UID:29b93869-d983-4642-853d-c32487992023
-DTSTAMP:20250313T132509Z
+DTSTAMP:20250316T040305Z
 DTSTART:20231231
 DTEND:20231231
 TRANSP:TRANSPARENT
@@ -89,7 +99,7 @@ URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

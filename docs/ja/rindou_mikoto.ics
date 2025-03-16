@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d012018
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20181020
 DTEND:20181020
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022018
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20180831T070000Z
 DTEND:20180831T073000Z
 TRANSP:TRANSPARENT
@@ -50,178 +50,188 @@ DESCRIPTION:竜胆尊 活動開始\n\n==========\n【竜胆尊】\nYouTube: http
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
+UID:75a4746e-b6db-4c7d-bfc6-d8ed9d032018
+DTSTAMP:20250315T152725Z
+DTSTART:20180907T145900Z
+DTEND:20180907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:竜胆尊 初配信
+DESCRIPTION:竜胆尊 初配信\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
+END:VEVENT
+BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022019
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20190831T070000Z
 DTEND:20190831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 1周年
-DESCRIPTION:竜胆尊 1周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 1周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022020
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20200831T070000Z
 DTEND:20200831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 2周年
-DESCRIPTION:竜胆尊 2周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 2周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022021
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20210831T070000Z
 DTEND:20210831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 3周年
-DESCRIPTION:竜胆尊 3周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 3周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022022
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20220831T070000Z
 DTEND:20220831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 4周年
-DESCRIPTION:竜胆尊 4周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 4周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022023
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20230831T070000Z
 DTEND:20230831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 5周年
-DESCRIPTION:竜胆尊 5周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 5周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022024
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20240831T070000Z
 DTEND:20240831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 6周年
-DESCRIPTION:竜胆尊 6周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 6周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022025
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20250831T070000Z
 DTEND:20250831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 7周年
-DESCRIPTION:竜胆尊 7周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 7周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022026
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20260831T070000Z
 DTEND:20260831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 8周年
-DESCRIPTION:竜胆尊 8周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 8周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022027
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20270831T070000Z
 DTEND:20270831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 9周年
-DESCRIPTION:竜胆尊 9周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 9周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022028
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20280831T070000Z
 DTEND:20280831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 10周年
-DESCRIPTION:竜胆尊 10周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 10周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022029
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20290831T070000Z
 DTEND:20290831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 11周年
-DESCRIPTION:竜胆尊 11周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 11周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022030
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20300831T070000Z
 DTEND:20300831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 12周年
-DESCRIPTION:竜胆尊 12周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 12周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022031
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20310831T070000Z
 DTEND:20310831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 13周年
-DESCRIPTION:竜胆尊 13周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 13周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022032
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20320831T070000Z
 DTEND:20320831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 14周年
-DESCRIPTION:竜胆尊 14周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 14周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022033
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20330831T070000Z
 DTEND:20330831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 15周年
-DESCRIPTION:竜胆尊 15周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 15周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022034
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20340831T070000Z
 DTEND:20340831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 16周年
-DESCRIPTION:竜胆尊 16周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 16周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:75a4746e-b6db-4c7d-bfc6-d8ed9d022035
-DTSTAMP:20250313T132230Z
+DTSTAMP:20250315T152725Z
 DTSTART:20350831T070000Z
 DTEND:20350831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:竜胆尊 17周年
-DESCRIPTION:竜胆尊 17周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/08 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
+DESCRIPTION:竜胆尊 17周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/07 23:59 （日本時間）\n\n\n==========\n【竜胆尊】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n
 URL:https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

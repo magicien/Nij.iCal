@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c012024
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20240420
 DTEND:20240420
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022023
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20231121T030200Z
 DTEND:20231121T033200Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:Tachitsute Toto Debut\n\n==========\n【Tachitsute Toto】\nYouTube:
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
+UID:17b70528-0fcb-4ee3-839f-98fb6c032023
+DTSTAMP:20250316T054842Z
+DTSTART:20231124T100000Z
+DTEND:20231124T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:Tachitsute Toto Debut stream
+DESCRIPTION:Tachitsute Toto Debut stream\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+URL:https://www.youtube.com/@TachitsuteToto
+END:VEVENT
+BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022024
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20241121T030200Z
 DTEND:20241121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 1st Anniversary
-DESCRIPTION:Tachitsute Toto 1st Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 1st Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022025
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20251121T030200Z
 DTEND:20251121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 2nd Anniversary
-DESCRIPTION:Tachitsute Toto 2nd Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 2nd Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022026
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20261121T030200Z
 DTEND:20261121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 3rd Anniversary
-DESCRIPTION:Tachitsute Toto 3rd Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 3rd Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022027
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20271121T030200Z
 DTEND:20271121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 4th Anniversary
-DESCRIPTION:Tachitsute Toto 4th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 4th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022028
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20281121T030200Z
 DTEND:20281121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 5th Anniversary
-DESCRIPTION:Tachitsute Toto 5th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 5th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022029
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20291121T030200Z
 DTEND:20291121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 6th Anniversary
-DESCRIPTION:Tachitsute Toto 6th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 6th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022030
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20301121T030200Z
 DTEND:20301121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 7th Anniversary
-DESCRIPTION:Tachitsute Toto 7th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 7th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022031
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20311121T030200Z
 DTEND:20311121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 8th Anniversary
-DESCRIPTION:Tachitsute Toto 8th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 8th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022032
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20321121T030200Z
 DTEND:20321121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 9th Anniversary
-DESCRIPTION:Tachitsute Toto 9th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 9th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022033
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20331121T030200Z
 DTEND:20331121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 10th Anniversary
-DESCRIPTION:Tachitsute Toto 10th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 10th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022034
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20341121T030200Z
 DTEND:20341121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 11th Anniversary
-DESCRIPTION:Tachitsute Toto 11th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 11th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:17b70528-0fcb-4ee3-839f-98fb6c022035
-DTSTAMP:20250313T133438Z
+DTSTAMP:20250316T054842Z
 DTSTART:20351121T030200Z
 DTEND:20351121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 12th Anniversary
-DESCRIPTION:Tachitsute Toto 12th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:11 (JST)\nFirst stream: Nov 24, 2023 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
+DESCRIPTION:Tachitsute Toto 12th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://twitter.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

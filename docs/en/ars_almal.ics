@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90012020
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20200321
 DTEND:20200321
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022019
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20190724T084300Z
 DTEND:20190724T091300Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:Ars Almal Debut\n\n==========\n【Ars Almal】\nYouTube: https://www
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
+UID:766a4903-d1be-497b-b268-43ce90032019
+DTSTAMP:20250316T024305Z
+DTSTART:20190728T124100Z
+DTEND:20190728T131100Z
+TRANSP:TRANSPARENT
+SUMMARY:Ars Almal Debut stream
+DESCRIPTION:Ars Almal Debut stream\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
+END:VEVENT
+BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022020
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20200724T084300Z
 DTEND:20200724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 1st Anniversary
-DESCRIPTION:Ars Almal 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022021
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20210724T084300Z
 DTEND:20210724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 2nd Anniversary
-DESCRIPTION:Ars Almal 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022022
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20220724T084300Z
 DTEND:20220724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 3rd Anniversary
-DESCRIPTION:Ars Almal 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022023
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20230724T084300Z
 DTEND:20230724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 4th Anniversary
-DESCRIPTION:Ars Almal 4th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 4th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022024
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20240724T084300Z
 DTEND:20240724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 5th Anniversary
-DESCRIPTION:Ars Almal 5th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 5th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022025
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20250724T084300Z
 DTEND:20250724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 6th Anniversary
-DESCRIPTION:Ars Almal 6th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 6th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022026
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20260724T084300Z
 DTEND:20260724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 7th Anniversary
-DESCRIPTION:Ars Almal 7th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 7th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022027
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20270724T084300Z
 DTEND:20270724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 8th Anniversary
-DESCRIPTION:Ars Almal 8th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 8th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022028
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20280724T084300Z
 DTEND:20280724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 9th Anniversary
-DESCRIPTION:Ars Almal 9th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 9th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022029
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20290724T084300Z
 DTEND:20290724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 10th Anniversary
-DESCRIPTION:Ars Almal 10th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 10th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022030
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20300724T084300Z
 DTEND:20300724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 11th Anniversary
-DESCRIPTION:Ars Almal 11th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 11th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022031
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20310724T084300Z
 DTEND:20310724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 12th Anniversary
-DESCRIPTION:Ars Almal 12th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 12th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022032
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20320724T084300Z
 DTEND:20320724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 13th Anniversary
-DESCRIPTION:Ars Almal 13th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 13th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022033
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20330724T084300Z
 DTEND:20330724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 14th Anniversary
-DESCRIPTION:Ars Almal 14th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 14th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022034
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20340724T084300Z
 DTEND:20340724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 15th Anniversary
-DESCRIPTION:Ars Almal 15th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 15th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:766a4903-d1be-497b-b268-43ce90022035
-DTSTAMP:20250313T132508Z
+DTSTAMP:20250316T024305Z
 DTSTART:20350724T084300Z
 DTEND:20350724T084301Z
 TRANSP:TRANSPARENT
 SUMMARY:Ars Almal 16th Anniversary
-DESCRIPTION:Ars Almal 16th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
+DESCRIPTION:Ars Almal 16th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:43 (JST)\nFirst stream: Jul 28, 2019, 21:41 (JST)\n\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n
 URL:https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

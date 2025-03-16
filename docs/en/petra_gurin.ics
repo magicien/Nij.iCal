@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e012021
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20211204
 DTEND:20211204
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022021
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20210714T020100Z
 DTEND:20210714T023100Z
 TRANSP:TRANSPARENT
@@ -38,148 +38,158 @@ DESCRIPTION:Petra Gurin Debut\n\n==========\n【Petra Gurin】\nYouTube: https:/
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
+UID:d178cf64-339d-4bde-a620-c32a3e032021
+DTSTAMP:20250316T071311Z
+DTSTART:20210718T023500Z
+DTEND:20210718T030500Z
+TRANSP:TRANSPARENT
+SUMMARY:Petra Gurin Debut stream
+DESCRIPTION:Petra Gurin Debut stream\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
+END:VEVENT
+BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022022
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20220714T020100Z
 DTEND:20220714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 1st Anniversary
-DESCRIPTION:Petra Gurin 1st Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 1st Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022023
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20230714T020100Z
 DTEND:20230714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 2nd Anniversary
-DESCRIPTION:Petra Gurin 2nd Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 2nd Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022024
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20240714T020100Z
 DTEND:20240714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 3rd Anniversary
-DESCRIPTION:Petra Gurin 3rd Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 3rd Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022025
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20250714T020100Z
 DTEND:20250714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 4th Anniversary
-DESCRIPTION:Petra Gurin 4th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 4th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022026
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20260714T020100Z
 DTEND:20260714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 5th Anniversary
-DESCRIPTION:Petra Gurin 5th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 5th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022027
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20270714T020100Z
 DTEND:20270714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 6th Anniversary
-DESCRIPTION:Petra Gurin 6th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 6th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022028
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20280714T020100Z
 DTEND:20280714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 7th Anniversary
-DESCRIPTION:Petra Gurin 7th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 7th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022029
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20290714T020100Z
 DTEND:20290714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 8th Anniversary
-DESCRIPTION:Petra Gurin 8th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 8th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022030
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20300714T020100Z
 DTEND:20300714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 9th Anniversary
-DESCRIPTION:Petra Gurin 9th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 9th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022031
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20310714T020100Z
 DTEND:20310714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 10th Anniversary
-DESCRIPTION:Petra Gurin 10th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 10th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022032
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20320714T020100Z
 DTEND:20320714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 11th Anniversary
-DESCRIPTION:Petra Gurin 11th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 11th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022033
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20330714T020100Z
 DTEND:20330714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 12th Anniversary
-DESCRIPTION:Petra Gurin 12th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 12th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022034
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20340714T020100Z
 DTEND:20340714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 13th Anniversary
-DESCRIPTION:Petra Gurin 13th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 13th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:d178cf64-339d-4bde-a620-c32a3e022035
-DTSTAMP:20250313T133548Z
+DTSTAMP:20250316T071311Z
 DTSTART:20350714T020100Z
 DTEND:20350714T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Petra Gurin 14th Anniversary
-DESCRIPTION:Petra Gurin 14th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:07 (JST)\nFirst stream: Jul 18, 2021 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
+DESCRIPTION:Petra Gurin 14th Anniversary\n\nFirst tweet: Jul 14, 2021, 11:01 (JST)\nFirst stream: Jul 18, 2021, 11:35 (JST)\n\n\n==========\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n
 URL:https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0012023
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20230214
 DTEND:20230214
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022023
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20230116T051400Z
 DTEND:20230116T054400Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:ソフィア・ヴァレンタイン 活動開始\n\n==========\n【
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
+UID:e746a721-e68b-4036-a838-6de5c0032023
+DTSTAMP:20250316T050233Z
+DTSTART:20230119T123000Z
+DTEND:20230119T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:ソフィア・ヴァレンタイン 初配信
+DESCRIPTION:ソフィア・ヴァレンタイン 初配信\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
+END:VEVENT
+BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022024
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20240116T051400Z
 DTEND:20240116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 1周年
-DESCRIPTION:ソフィア・ヴァレンタイン 1周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 1周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022025
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20250116T051400Z
 DTEND:20250116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 2周年
-DESCRIPTION:ソフィア・ヴァレンタイン 2周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 2周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022026
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20260116T051400Z
 DTEND:20260116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 3周年
-DESCRIPTION:ソフィア・ヴァレンタイン 3周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 3周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022027
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20270116T051400Z
 DTEND:20270116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 4周年
-DESCRIPTION:ソフィア・ヴァレンタイン 4周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 4周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022028
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20280116T051400Z
 DTEND:20280116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 5周年
-DESCRIPTION:ソフィア・ヴァレンタイン 5周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 5周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022029
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20290116T051400Z
 DTEND:20290116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 6周年
-DESCRIPTION:ソフィア・ヴァレンタイン 6周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 6周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022030
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20300116T051400Z
 DTEND:20300116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 7周年
-DESCRIPTION:ソフィア・ヴァレンタイン 7周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 7周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022031
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20310116T051400Z
 DTEND:20310116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 8周年
-DESCRIPTION:ソフィア・ヴァレンタイン 8周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 8周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022032
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20320116T051400Z
 DTEND:20320116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 9周年
-DESCRIPTION:ソフィア・ヴァレンタイン 9周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 9周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022033
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20330116T051400Z
 DTEND:20330116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 10周年
-DESCRIPTION:ソフィア・ヴァレンタイン 10周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 10周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022034
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20340116T051400Z
 DTEND:20340116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 11周年
-DESCRIPTION:ソフィア・ヴァレンタイン 11周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 11周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:e746a721-e68b-4036-a838-6de5c0022035
-DTSTAMP:20250313T133402Z
+DTSTAMP:20250316T050233Z
 DTSTART:20350116T051400Z
 DTEND:20350116T051401Z
 TRANSP:TRANSPARENT
 SUMMARY:ソフィア・ヴァレンタイン 12周年
-DESCRIPTION:ソフィア・ヴァレンタイン 12周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
+DESCRIPTION:ソフィア・ヴァレンタイン 12周年\n\n初ツイート：2023/01/16 14:14 （日本時間）\n初配信：2023/01/19 21:30 （日本時間）\n\n\n==========\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n
 URL:https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:bab65038-91df-42a9-9e62-d5d216012022
-DTSTAMP:20250313T133229Z
+DTSTAMP:20250316T043634Z
 DTSTART:20220527
 DTEND:20220527
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg
 END:VEVENT
 BEGIN:VEVENT
 UID:bab65038-91df-42a9-9e62-d5d216022021
-DTSTAMP:20250313T133229Z
+DTSTAMP:20250316T043634Z
 DTSTART:20210728T093700Z
 DTEND:20210728T100700Z
 TRANSP:TRANSPARENT
@@ -38,28 +38,38 @@ DESCRIPTION:シア エカフィラ 活動開始\n\n==========\n【シア エカ�
 URL:https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg
 END:VEVENT
 BEGIN:VEVENT
+UID:bab65038-91df-42a9-9e62-d5d216032021
+DTSTAMP:20250316T043634Z
+DTSTART:20210731T124400Z
+DTEND:20210731T131400Z
+TRANSP:TRANSPARENT
+SUMMARY:シア エカフィラ 初配信
+DESCRIPTION:シア エカフィラ 初配信\n\n==========\n【シア エカフィラ】\nYouTube: https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg\nX: https://twitter.com/Xia_Ekavira\n\n
+URL:https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg
+END:VEVENT
+BEGIN:VEVENT
 UID:bab65038-91df-42a9-9e62-d5d216022022
-DTSTAMP:20250313T133229Z
+DTSTAMP:20250316T043634Z
 DTSTART:20220728T093700Z
 DTEND:20220728T093701Z
 TRANSP:TRANSPARENT
 SUMMARY:シア エカフィラ 1周年
-DESCRIPTION:シア エカフィラ 1周年\n\n初ツイート：2021/07/28 18:37 （日本時間）\n初配信：2021/07/31 （日本時間）\n\n\n==========\n【シア エカフィラ】\nYouTube: https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg\nX: https://twitter.com/Xia_Ekavira\n\n
+DESCRIPTION:シア エカフィラ 1周年\n\n初ツイート：2021/07/28 18:37 （日本時間）\n初配信：2021/07/31 21:44 （日本時間）\n\n\n==========\n【シア エカフィラ】\nYouTube: https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg\nX: https://twitter.com/Xia_Ekavira\n\n
 URL:https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg
 END:VEVENT
 BEGIN:VEVENT
 UID:bab65038-91df-42a9-9e62-d5d216022023
-DTSTAMP:20250313T133229Z
+DTSTAMP:20250316T043634Z
 DTSTART:20230728T093700Z
 DTEND:20230728T093701Z
 TRANSP:TRANSPARENT
 SUMMARY:シア エカフィラ 2周年
-DESCRIPTION:シア エカフィラ 2周年\n\n初ツイート：2021/07/28 18:37 （日本時間）\n初配信：2021/07/31 （日本時間）\n\n\n==========\n【シア エカフィラ】\nYouTube: https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg\nX: https://twitter.com/Xia_Ekavira\n\n
+DESCRIPTION:シア エカフィラ 2周年\n\n初ツイート：2021/07/28 18:37 （日本時間）\n初配信：2021/07/31 21:44 （日本時間）\n\n\n==========\n【シア エカフィラ】\nYouTube: https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg\nX: https://twitter.com/Xia_Ekavira\n\n
 URL:https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg
 END:VEVENT
 BEGIN:VEVENT
 UID:bab65038-91df-42a9-9e62-d5d216992023
-DTSTAMP:20250313T133229Z
+DTSTAMP:20250316T043634Z
 DTSTART:20231127
 DTEND:20231127
 TRANSP:TRANSPARENT
@@ -69,7 +79,7 @@ URL:https://www.youtube.com/channel/UCoJ0Ct-jdas4cLPpSp06gZg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

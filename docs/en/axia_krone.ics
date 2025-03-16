@@ -18,48 +18,58 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:62b067d6-9798-414f-a73c-a955a5012021
-DTSTAMP:20250313T132756Z
+DTSTAMP:20250316T051657Z
 DTSTART:20211027
 DTEND:20211027
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Axia Krone Birthday
-DESCRIPTION:Axia Krone Birthday\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\nX: nan\n\n
+DESCRIPTION:Axia Krone Birthday\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\n\n
 URL:https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA
 END:VEVENT
 BEGIN:VEVENT
 UID:62b067d6-9798-414f-a73c-a955a5022021
-DTSTAMP:20250313T132756Z
+DTSTAMP:20250316T051657Z
 DTSTART:20210719T070000Z
 DTEND:20210719T073000Z
 TRANSP:TRANSPARENT
 SUMMARY:Axia Krone Debut
-DESCRIPTION:Axia Krone Debut\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\nX: nan\n\n
+DESCRIPTION:Axia Krone Debut\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\n\n
+URL:https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA
+END:VEVENT
+BEGIN:VEVENT
+UID:62b067d6-9798-414f-a73c-a955a5032021
+DTSTAMP:20250316T051657Z
+DTSTART:20210722T040000Z
+DTEND:20210722T043000Z
+TRANSP:TRANSPARENT
+SUMMARY:Axia Krone Debut stream
+DESCRIPTION:Axia Krone Debut stream\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\n\n
 URL:https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA
 END:VEVENT
 BEGIN:VEVENT
 UID:62b067d6-9798-414f-a73c-a955a5022022
-DTSTAMP:20250313T132756Z
+DTSTAMP:20250316T051657Z
 DTSTART:20220719T070000Z
 DTEND:20220719T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Axia Krone 1st Anniversary
-DESCRIPTION:Axia Krone 1st Anniversary\n\nFirst tweet: Jul 19, 2021, 16:07 (JST)\nFirst stream: Jul 22, 2021 (JST)\n\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\nX: nan\n\n
+DESCRIPTION:Axia Krone 1st Anniversary\n\nFirst tweet: Jul 19, 2021, 16:00 (JST)\nFirst stream: Jul 22, 2021, 13:00 (JST)\n\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\n\n
 URL:https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA
 END:VEVENT
 BEGIN:VEVENT
 UID:62b067d6-9798-414f-a73c-a955a5992022
-DTSTAMP:20250313T132756Z
+DTSTAMP:20250316T051657Z
 DTSTART:20221130
 DTEND:20221130
 TRANSP:TRANSPARENT
 SUMMARY:Axia Krone Graduation
-DESCRIPTION:Axia Krone Graduation\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\nX: nan\n\n
+DESCRIPTION:Axia Krone Graduation\n\n==========\n【Axia Krone】\nYouTube: https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA\n\n
 URL:https://www.youtube.com/channel/UC8oPnditPSp5lZu45fnXWCA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

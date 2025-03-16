@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc012019
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20190303
 DTEND:20190303
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022018
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20180809T071400Z
 DTEND:20180809T074400Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:飛鳥ひな 活動開始\n\n==========\n【飛鳥ひな】\nYouTube
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
+UID:77eea7b1-64bc-4746-acd3-5d20dc032018
+DTSTAMP:20250315T151838Z
+DTSTART:20180822T130000Z
+DTEND:20180822T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:飛鳥ひな 初配信
+DESCRIPTION:飛鳥ひな 初配信\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
+END:VEVENT
+BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022019
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20190809T071400Z
 DTEND:20190809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 1周年
-DESCRIPTION:飛鳥ひな 1周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 1周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022020
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20200809T071400Z
 DTEND:20200809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 2周年
-DESCRIPTION:飛鳥ひな 2周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 2周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022021
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20210809T071400Z
 DTEND:20210809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 3周年
-DESCRIPTION:飛鳥ひな 3周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 3周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022022
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20220809T071400Z
 DTEND:20220809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 4周年
-DESCRIPTION:飛鳥ひな 4周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 4周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022023
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20230809T071400Z
 DTEND:20230809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 5周年
-DESCRIPTION:飛鳥ひな 5周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 5周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022024
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20240809T071400Z
 DTEND:20240809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 6周年
-DESCRIPTION:飛鳥ひな 6周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 6周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022025
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20250809T071400Z
 DTEND:20250809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 7周年
-DESCRIPTION:飛鳥ひな 7周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 7周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022026
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20260809T071400Z
 DTEND:20260809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 8周年
-DESCRIPTION:飛鳥ひな 8周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 8周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022027
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20270809T071400Z
 DTEND:20270809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 9周年
-DESCRIPTION:飛鳥ひな 9周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 9周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022028
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20280809T071400Z
 DTEND:20280809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 10周年
-DESCRIPTION:飛鳥ひな 10周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 10周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022029
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20290809T071400Z
 DTEND:20290809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 11周年
-DESCRIPTION:飛鳥ひな 11周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 11周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022030
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20300809T071400Z
 DTEND:20300809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 12周年
-DESCRIPTION:飛鳥ひな 12周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 12周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022031
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20310809T071400Z
 DTEND:20310809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 13周年
-DESCRIPTION:飛鳥ひな 13周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 13周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022032
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20320809T071400Z
 DTEND:20320809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 14周年
-DESCRIPTION:飛鳥ひな 14周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 14周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022033
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20330809T071400Z
 DTEND:20330809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 15周年
-DESCRIPTION:飛鳥ひな 15周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 15周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022034
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20340809T071400Z
 DTEND:20340809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 16周年
-DESCRIPTION:飛鳥ひな 16周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 16周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:77eea7b1-64bc-4746-acd3-5d20dc022035
-DTSTAMP:20250313T132210Z
+DTSTAMP:20250315T151838Z
 DTSTART:20350809T071400Z
 DTEND:20350809T071401Z
 TRANSP:TRANSPARENT
 SUMMARY:飛鳥ひな 17周年
-DESCRIPTION:飛鳥ひな 17周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
+DESCRIPTION:飛鳥ひな 17周年\n\n初ツイート：2018/08/09 16:14 （日本時間）\n初配信：2018/08/22 22:00 （日本時間）\n\n\n==========\n【飛鳥ひな】\nYouTube: https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ\nX: https://twitter.com/hina__asuka\n\n
 URL:https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

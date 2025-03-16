@@ -42,7 +42,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147012018
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20181110
 DTEND:20181110
 RRULE:FREQ=YEARLY
@@ -53,7 +53,7 @@ URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022018
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20180730T030400Z
 DTEND:20180730T033400Z
 TRANSP:TRANSPARENT
@@ -62,178 +62,188 @@ DESCRIPTION:葛葉 活動開始\n\n==========\n【葛葉】\nYouTube: https://ww
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
+UID:31aa1280-3197-42b6-8492-365147032018
+DTSTAMP:20250315T145454Z
+DTSTART:20180730T111100Z
+DTEND:20180730T114100Z
+TRANSP:TRANSPARENT
+SUMMARY:葛葉 初配信
+DESCRIPTION:葛葉 初配信\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
+END:VEVENT
+BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022019
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20190730T030400Z
 DTEND:20190730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 1周年
-DESCRIPTION:葛葉 1周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 1周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022020
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20200730T030400Z
 DTEND:20200730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 2周年
-DESCRIPTION:葛葉 2周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 2周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022021
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20210730T030400Z
 DTEND:20210730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 3周年
-DESCRIPTION:葛葉 3周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 3周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022022
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20220730T030400Z
 DTEND:20220730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 4周年
-DESCRIPTION:葛葉 4周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 4周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022023
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20230730T030400Z
 DTEND:20230730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 5周年
-DESCRIPTION:葛葉 5周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 5周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022024
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20240730T030400Z
 DTEND:20240730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 6周年
-DESCRIPTION:葛葉 6周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 6周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022025
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20250730T030400Z
 DTEND:20250730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 7周年
-DESCRIPTION:葛葉 7周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 7周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022026
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20260730T030400Z
 DTEND:20260730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 8周年
-DESCRIPTION:葛葉 8周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 8周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022027
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20270730T030400Z
 DTEND:20270730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 9周年
-DESCRIPTION:葛葉 9周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 9周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022028
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20280730T030400Z
 DTEND:20280730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 10周年
-DESCRIPTION:葛葉 10周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 10周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022029
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20290730T030400Z
 DTEND:20290730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 11周年
-DESCRIPTION:葛葉 11周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 11周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022030
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20300730T030400Z
 DTEND:20300730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 12周年
-DESCRIPTION:葛葉 12周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 12周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022031
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20310730T030400Z
 DTEND:20310730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 13周年
-DESCRIPTION:葛葉 13周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 13周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022032
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20320730T030400Z
 DTEND:20320730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 14周年
-DESCRIPTION:葛葉 14周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 14周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022033
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20330730T030400Z
 DTEND:20330730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 15周年
-DESCRIPTION:葛葉 15周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 15周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022034
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20340730T030400Z
 DTEND:20340730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 16周年
-DESCRIPTION:葛葉 16周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 16周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147022035
-DTSTAMP:20250313T132024Z
+DTSTAMP:20250315T145454Z
 DTSTART:20350730T030400Z
 DTEND:20350730T030401Z
 TRANSP:TRANSPARENT
 SUMMARY:葛葉 17周年
-DESCRIPTION:葛葉 17周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:葛葉 17周年\n\n初ツイート：2018/07/30 12:04 （日本時間）\n初配信：2018/07/30 20:11 （日本時間）\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

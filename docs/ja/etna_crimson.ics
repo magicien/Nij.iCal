@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742012020
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20201110
 DTEND:20201110
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022020
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20200811T010100Z
 DTEND:20200811T013100Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:エトナ クリムソン 活動開始\n\n==========\n【エトナ �
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742032020
+DTSTAMP:20250316T043134Z
+DTSTART:20200809T090000Z
+DTEND:20200809T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:エトナ クリムソン 初配信
+DESCRIPTION:エトナ クリムソン 初配信\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022021
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20210811T010100Z
 DTEND:20210811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 1周年
-DESCRIPTION:エトナ クリムソン 1周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 1周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022022
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20220811T010100Z
 DTEND:20220811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 2周年
-DESCRIPTION:エトナ クリムソン 2周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 2周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022023
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20230811T010100Z
 DTEND:20230811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 3周年
-DESCRIPTION:エトナ クリムソン 3周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 3周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022024
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20240811T010100Z
 DTEND:20240811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 4周年
-DESCRIPTION:エトナ クリムソン 4周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 4周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022025
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20250811T010100Z
 DTEND:20250811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 5周年
-DESCRIPTION:エトナ クリムソン 5周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 5周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022026
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20260811T010100Z
 DTEND:20260811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 6周年
-DESCRIPTION:エトナ クリムソン 6周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 6周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022027
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20270811T010100Z
 DTEND:20270811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 7周年
-DESCRIPTION:エトナ クリムソン 7周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 7周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022028
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20280811T010100Z
 DTEND:20280811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 8周年
-DESCRIPTION:エトナ クリムソン 8周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 8周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022029
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20290811T010100Z
 DTEND:20290811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 9周年
-DESCRIPTION:エトナ クリムソン 9周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 9周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022030
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20300811T010100Z
 DTEND:20300811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 10周年
-DESCRIPTION:エトナ クリムソン 10周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 10周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022031
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20310811T010100Z
 DTEND:20310811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 11周年
-DESCRIPTION:エトナ クリムソン 11周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 11周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022032
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20320811T010100Z
 DTEND:20320811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 12周年
-DESCRIPTION:エトナ クリムソン 12周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 12周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022033
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20330811T010100Z
 DTEND:20330811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 13周年
-DESCRIPTION:エトナ クリムソン 13周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 13周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022034
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20340811T010100Z
 DTEND:20340811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 14周年
-DESCRIPTION:エトナ クリムソン 14周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 14周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:3028f006-0187-4876-8810-176742022035
-DTSTAMP:20250313T132936Z
+DTSTAMP:20250316T043134Z
 DTSTART:20350811T010100Z
 DTEND:20350811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 15周年
-DESCRIPTION:エトナ クリムソン 15周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
+DESCRIPTION:エトナ クリムソン 15周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://twitter.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

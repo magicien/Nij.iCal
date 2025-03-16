@@ -54,7 +54,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8012018
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20180822
 DTEND:20180822
 RRULE:FREQ=YEARLY
@@ -65,7 +65,7 @@ URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022018
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20180305T180800Z
 DTEND:20180305T183800Z
 TRANSP:TRANSPARENT
@@ -74,178 +74,188 @@ DESCRIPTION:Kenmochi Toya Debut\n\n==========\n【Kenmochi Toya】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
+UID:3b4fb849-4e76-4653-a35e-2df0d8032018
+DTSTAMP:20250315T142827Z
+DTSTART:20180313T150900Z
+DTEND:20180313T153900Z
+TRANSP:TRANSPARENT
+SUMMARY:Kenmochi Toya Debut stream
+DESCRIPTION:Kenmochi Toya Debut stream\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
+END:VEVENT
+BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022019
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20190305T180800Z
 DTEND:20190305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 1st Anniversary
-DESCRIPTION:Kenmochi Toya 1st Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 1st Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022020
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20200305T180800Z
 DTEND:20200305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 2nd Anniversary
-DESCRIPTION:Kenmochi Toya 2nd Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 2nd Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022021
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20210305T180800Z
 DTEND:20210305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 3rd Anniversary
-DESCRIPTION:Kenmochi Toya 3rd Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 3rd Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022022
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20220305T180800Z
 DTEND:20220305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 4th Anniversary
-DESCRIPTION:Kenmochi Toya 4th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 4th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022023
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20230305T180800Z
 DTEND:20230305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 5th Anniversary
-DESCRIPTION:Kenmochi Toya 5th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 5th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022024
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20240305T180800Z
 DTEND:20240305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 6th Anniversary
-DESCRIPTION:Kenmochi Toya 6th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 6th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022025
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20250305T180800Z
 DTEND:20250305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 7th Anniversary
-DESCRIPTION:Kenmochi Toya 7th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 7th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022026
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20260305T180800Z
 DTEND:20260305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 8th Anniversary
-DESCRIPTION:Kenmochi Toya 8th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 8th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022027
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20270305T180800Z
 DTEND:20270305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 9th Anniversary
-DESCRIPTION:Kenmochi Toya 9th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 9th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022028
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20280305T180800Z
 DTEND:20280305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 10th Anniversary
-DESCRIPTION:Kenmochi Toya 10th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 10th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022029
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20290305T180800Z
 DTEND:20290305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 11th Anniversary
-DESCRIPTION:Kenmochi Toya 11th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 11th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022030
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20300305T180800Z
 DTEND:20300305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 12th Anniversary
-DESCRIPTION:Kenmochi Toya 12th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 12th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022031
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20310305T180800Z
 DTEND:20310305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 13th Anniversary
-DESCRIPTION:Kenmochi Toya 13th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 13th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022032
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20320305T180800Z
 DTEND:20320305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 14th Anniversary
-DESCRIPTION:Kenmochi Toya 14th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 14th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022033
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20330305T180800Z
 DTEND:20330305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 15th Anniversary
-DESCRIPTION:Kenmochi Toya 15th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 15th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022034
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20340305T180800Z
 DTEND:20340305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 16th Anniversary
-DESCRIPTION:Kenmochi Toya 16th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 16th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8022035
-DTSTAMP:20250313T131954Z
+DTSTAMP:20250315T142827Z
 DTSTART:20350305T180800Z
 DTEND:20350305T180801Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya 17th Anniversary
-DESCRIPTION:Kenmochi Toya 17th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:03 (JST)\nFirst stream: Mar 14, 2018 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
+DESCRIPTION:Kenmochi Toya 17th Anniversary\n\nFirst tweet: Mar 6, 2018, 3:08 (JST)\nFirst stream: Mar 14, 2018, 0:09 (JST)\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n
 URL:https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

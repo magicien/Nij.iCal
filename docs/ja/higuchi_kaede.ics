@@ -66,7 +66,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6012018
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20180209
 DTEND:20180209
 RRULE:FREQ=YEARLY
@@ -77,7 +77,7 @@ URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022018
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20180131T142800Z
 DTEND:20180131T145800Z
 TRANSP:TRANSPARENT
@@ -86,178 +86,188 @@ DESCRIPTION:樋口楓 活動開始\n\n==========\n【樋口楓】\nYouTube: http
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
+UID:6be673d7-238f-426a-8712-9bffe6032018
+DTSTAMP:20250315T140002Z
+DTSTART:20180209T120100Z
+DTEND:20180209T123100Z
+TRANSP:TRANSPARENT
+SUMMARY:樋口楓 初配信
+DESCRIPTION:樋口楓 初配信\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
+END:VEVENT
+BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022019
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20190131T142800Z
 DTEND:20190131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 1周年
-DESCRIPTION:樋口楓 1周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 1周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022020
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20200131T142800Z
 DTEND:20200131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 2周年
-DESCRIPTION:樋口楓 2周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 2周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022021
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20210131T142800Z
 DTEND:20210131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 3周年
-DESCRIPTION:樋口楓 3周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 3周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022022
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20220131T142800Z
 DTEND:20220131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 4周年
-DESCRIPTION:樋口楓 4周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 4周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022023
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20230131T142800Z
 DTEND:20230131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 5周年
-DESCRIPTION:樋口楓 5周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 5周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022024
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20240131T142800Z
 DTEND:20240131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 6周年
-DESCRIPTION:樋口楓 6周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 6周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022025
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20250131T142800Z
 DTEND:20250131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 7周年
-DESCRIPTION:樋口楓 7周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 7周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022026
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20260131T142800Z
 DTEND:20260131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 8周年
-DESCRIPTION:樋口楓 8周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 8周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022027
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20270131T142800Z
 DTEND:20270131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 9周年
-DESCRIPTION:樋口楓 9周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 9周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022028
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20280131T142800Z
 DTEND:20280131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 10周年
-DESCRIPTION:樋口楓 10周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 10周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022029
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20290131T142800Z
 DTEND:20290131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 11周年
-DESCRIPTION:樋口楓 11周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 11周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022030
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20300131T142800Z
 DTEND:20300131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 12周年
-DESCRIPTION:樋口楓 12周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 12周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022031
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20310131T142800Z
 DTEND:20310131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 13周年
-DESCRIPTION:樋口楓 13周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 13周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022032
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20320131T142800Z
 DTEND:20320131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 14周年
-DESCRIPTION:樋口楓 14周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 14周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022033
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20330131T142800Z
 DTEND:20330131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 15周年
-DESCRIPTION:樋口楓 15周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 15周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022034
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20340131T142800Z
 DTEND:20340131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 16周年
-DESCRIPTION:樋口楓 16周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 16周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:6be673d7-238f-426a-8712-9bffe6022035
-DTSTAMP:20250313T131903Z
+DTSTAMP:20250315T140002Z
 DTSTART:20350131T142800Z
 DTEND:20350131T142801Z
 TRANSP:TRANSPARENT
 SUMMARY:樋口楓 17周年
-DESCRIPTION:樋口楓 17周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+DESCRIPTION:樋口楓 17周年\n\n初ツイート：2018/01/31 23:28 （日本時間）\n初配信：2018/02/09 21:01 （日本時間）\n\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
 URL:https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

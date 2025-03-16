@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57012018
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20181222
 DTEND:20181222
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022018
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20180603T070500Z
 DTEND:20180603T073500Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:Todoroki Kyoko Debut\n\n==========\n【Todoroki Kyoko】\nYouTube: h
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
+UID:7312e7f4-6a87-4412-83c1-72cb57032018
+DTSTAMP:20250315T150638Z
+DTSTART:20180606T140100Z
+DTEND:20180606T143100Z
+TRANSP:TRANSPARENT
+SUMMARY:Todoroki Kyoko Debut stream
+DESCRIPTION:Todoroki Kyoko Debut stream\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
+END:VEVENT
+BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022019
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20190603T070500Z
 DTEND:20190603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 1st Anniversary
-DESCRIPTION:Todoroki Kyoko 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022020
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20200603T070500Z
 DTEND:20200603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 2nd Anniversary
-DESCRIPTION:Todoroki Kyoko 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022021
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20210603T070500Z
 DTEND:20210603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 3rd Anniversary
-DESCRIPTION:Todoroki Kyoko 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 3rd Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022022
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20220603T070500Z
 DTEND:20220603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 4th Anniversary
-DESCRIPTION:Todoroki Kyoko 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 4th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022023
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20230603T070500Z
 DTEND:20230603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 5th Anniversary
-DESCRIPTION:Todoroki Kyoko 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 5th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022024
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20240603T070500Z
 DTEND:20240603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 6th Anniversary
-DESCRIPTION:Todoroki Kyoko 6th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 6th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022025
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20250603T070500Z
 DTEND:20250603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 7th Anniversary
-DESCRIPTION:Todoroki Kyoko 7th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 7th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022026
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20260603T070500Z
 DTEND:20260603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 8th Anniversary
-DESCRIPTION:Todoroki Kyoko 8th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 8th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022027
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20270603T070500Z
 DTEND:20270603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 9th Anniversary
-DESCRIPTION:Todoroki Kyoko 9th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 9th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022028
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20280603T070500Z
 DTEND:20280603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 10th Anniversary
-DESCRIPTION:Todoroki Kyoko 10th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 10th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022029
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20290603T070500Z
 DTEND:20290603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 11th Anniversary
-DESCRIPTION:Todoroki Kyoko 11th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 11th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022030
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20300603T070500Z
 DTEND:20300603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 12th Anniversary
-DESCRIPTION:Todoroki Kyoko 12th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 12th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022031
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20310603T070500Z
 DTEND:20310603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 13th Anniversary
-DESCRIPTION:Todoroki Kyoko 13th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 13th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022032
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20320603T070500Z
 DTEND:20320603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 14th Anniversary
-DESCRIPTION:Todoroki Kyoko 14th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 14th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022033
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20330603T070500Z
 DTEND:20330603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 15th Anniversary
-DESCRIPTION:Todoroki Kyoko 15th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 15th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022034
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20340603T070500Z
 DTEND:20340603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 16th Anniversary
-DESCRIPTION:Todoroki Kyoko 16th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 16th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:7312e7f4-6a87-4412-83c1-72cb57022035
-DTSTAMP:20250313T132046Z
+DTSTAMP:20250315T150638Z
 DTSTART:20350603T070500Z
 DTEND:20350603T070501Z
 TRANSP:TRANSPARENT
 SUMMARY:Todoroki Kyoko 17th Anniversary
-DESCRIPTION:Todoroki Kyoko 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:06 (JST)\nFirst stream: Jun 6, 2018 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
+DESCRIPTION:Todoroki Kyoko 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 16:05 (JST)\nFirst stream: Jun 6, 2018, 23:01 (JST)\n\n\n==========\n【Todoroki Kyoko】\nYouTube: https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA\nX: https://twitter.com/kt_seeds\n\n
 URL:https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

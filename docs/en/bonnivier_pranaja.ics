@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:6793e115-13dc-448a-a745-e40051012020
-DTSTAMP:20250313T132950Z
+DTSTAMP:20250316T053442Z
 DTSTART:20200919
 DTEND:20200919
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
 END:VEVENT
 BEGIN:VEVENT
 UID:6793e115-13dc-448a-a745-e40051022020
-DTSTAMP:20250313T132950Z
+DTSTAMP:20250316T053442Z
 DTSTART:20200811T010500Z
 DTEND:20200811T013500Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:Bonnivier Pranaja Debut\n\n==========\n【Bonnivier Pranaja】\nYouT
 URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
 END:VEVENT
 BEGIN:VEVENT
+UID:6793e115-13dc-448a-a745-e40051032020
+DTSTAMP:20250316T053442Z
+DTSTART:20200809T094500Z
+DTEND:20200809T101500Z
+TRANSP:TRANSPARENT
+SUMMARY:Bonnivier Pranaja Debut stream
+DESCRIPTION:Bonnivier Pranaja Debut stream\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
+END:VEVENT
+BEGIN:VEVENT
 UID:6793e115-13dc-448a-a745-e40051022021
-DTSTAMP:20250313T132950Z
+DTSTAMP:20250316T053442Z
 DTSTART:20210811T010500Z
 DTEND:20210811T010501Z
 TRANSP:TRANSPARENT
 SUMMARY:Bonnivier Pranaja 1st Anniversary
-DESCRIPTION:Bonnivier Pranaja 1st Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+DESCRIPTION:Bonnivier Pranaja 1st Anniversary\n\nFirst tweet: Aug 11, 2020, 10:05 (JST)\nFirst stream: Aug 9, 2020, 18:45 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
 URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
 END:VEVENT
 BEGIN:VEVENT
 UID:6793e115-13dc-448a-a745-e40051022022
-DTSTAMP:20250313T132950Z
+DTSTAMP:20250316T053442Z
 DTSTART:20220811T010500Z
 DTEND:20220811T010501Z
 TRANSP:TRANSPARENT
 SUMMARY:Bonnivier Pranaja 2nd Anniversary
-DESCRIPTION:Bonnivier Pranaja 2nd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+DESCRIPTION:Bonnivier Pranaja 2nd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:05 (JST)\nFirst stream: Aug 9, 2020, 18:45 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
 URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
 END:VEVENT
 BEGIN:VEVENT
 UID:6793e115-13dc-448a-a745-e40051022023
-DTSTAMP:20250313T132950Z
+DTSTAMP:20250316T053442Z
 DTSTART:20230811T010500Z
 DTEND:20230811T010501Z
 TRANSP:TRANSPARENT
 SUMMARY:Bonnivier Pranaja 3rd Anniversary
-DESCRIPTION:Bonnivier Pranaja 3rd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:08 (JST)\nFirst stream: Aug 9, 2020 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
+DESCRIPTION:Bonnivier Pranaja 3rd Anniversary\n\nFirst tweet: Aug 11, 2020, 10:05 (JST)\nFirst stream: Aug 9, 2020, 18:45 (JST)\n\n\n==========\n【Bonnivier Pranaja】\nYouTube: https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g\nX: https://twitter.com/Bonnivier_2434\n\n
 URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
 END:VEVENT
 BEGIN:VEVENT
 UID:6793e115-13dc-448a-a745-e40051992024
-DTSTAMP:20250313T132950Z
+DTSTAMP:20250316T053442Z
 DTSTART:20240526
 DTEND:20240526
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/channel/UCHjeZylSgXDSnor8wUnwU_g
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

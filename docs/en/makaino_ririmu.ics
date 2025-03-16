@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39012019
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20190115
 DTEND:20190115
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022018
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20180730T040800Z
 DTEND:20180730T043800Z
 TRANSP:TRANSPARENT
@@ -50,178 +50,188 @@ DESCRIPTION:Makaino Ririmu Debut\n\n==========\n【Makaino Ririmu】\nYouTube: h
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
+UID:f897679d-ed64-4a0b-a09b-3caf39032018
+DTSTAMP:20250315T145120Z
+DTSTART:20180804T130000Z
+DTEND:20180804T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:Makaino Ririmu Debut stream
+DESCRIPTION:Makaino Ririmu Debut stream\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
+END:VEVENT
+BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022019
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20190730T040800Z
 DTEND:20190730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 1st Anniversary
-DESCRIPTION:Makaino Ririmu 1st Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 1st Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022020
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20200730T040800Z
 DTEND:20200730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 2nd Anniversary
-DESCRIPTION:Makaino Ririmu 2nd Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 2nd Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022021
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20210730T040800Z
 DTEND:20210730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 3rd Anniversary
-DESCRIPTION:Makaino Ririmu 3rd Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 3rd Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022022
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20220730T040800Z
 DTEND:20220730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 4th Anniversary
-DESCRIPTION:Makaino Ririmu 4th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 4th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022023
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20230730T040800Z
 DTEND:20230730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 5th Anniversary
-DESCRIPTION:Makaino Ririmu 5th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 5th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022024
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20240730T040800Z
 DTEND:20240730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 6th Anniversary
-DESCRIPTION:Makaino Ririmu 6th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 6th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022025
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20250730T040800Z
 DTEND:20250730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 7th Anniversary
-DESCRIPTION:Makaino Ririmu 7th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 7th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022026
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20260730T040800Z
 DTEND:20260730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 8th Anniversary
-DESCRIPTION:Makaino Ririmu 8th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 8th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022027
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20270730T040800Z
 DTEND:20270730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 9th Anniversary
-DESCRIPTION:Makaino Ririmu 9th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 9th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022028
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20280730T040800Z
 DTEND:20280730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 10th Anniversary
-DESCRIPTION:Makaino Ririmu 10th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 10th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022029
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20290730T040800Z
 DTEND:20290730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 11th Anniversary
-DESCRIPTION:Makaino Ririmu 11th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 11th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022030
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20300730T040800Z
 DTEND:20300730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 12th Anniversary
-DESCRIPTION:Makaino Ririmu 12th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 12th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022031
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20310730T040800Z
 DTEND:20310730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 13th Anniversary
-DESCRIPTION:Makaino Ririmu 13th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 13th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022032
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20320730T040800Z
 DTEND:20320730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 14th Anniversary
-DESCRIPTION:Makaino Ririmu 14th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 14th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022033
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20330730T040800Z
 DTEND:20330730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 15th Anniversary
-DESCRIPTION:Makaino Ririmu 15th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 15th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022034
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20340730T040800Z
 DTEND:20340730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 16th Anniversary
-DESCRIPTION:Makaino Ririmu 16th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 16th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:f897679d-ed64-4a0b-a09b-3caf39022035
-DTSTAMP:20250313T132019Z
+DTSTAMP:20250315T145120Z
 DTSTART:20350730T040800Z
 DTEND:20350730T040801Z
 TRANSP:TRANSPARENT
 SUMMARY:Makaino Ririmu 17th Anniversary
-DESCRIPTION:Makaino Ririmu 17th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:07 (JST)\nFirst stream: Aug 4, 2018 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
+DESCRIPTION:Makaino Ririmu 17th Anniversary\n\nFirst tweet: Jul 30, 2018, 13:08 (JST)\nFirst stream: Aug 4, 2018, 22:00 (JST)\n\n\n==========\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n
 URL:https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

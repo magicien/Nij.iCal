@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2012019
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20190305
 DTEND:20190305
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022018
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20180809T071200Z
 DTEND:20180809T074200Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:Kanda Shoichi Debut\n\n==========\n【Kanda Shoichi】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
+UID:a750568e-6b6a-452d-ba09-f9f2f2032018
+DTSTAMP:20250315T151711Z
+DTSTART:20180813T150000Z
+DTEND:20180813T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanda Shoichi Debut stream
+DESCRIPTION:Kanda Shoichi Debut stream\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
+END:VEVENT
+BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022019
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20190809T071200Z
 DTEND:20190809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 1st Anniversary
-DESCRIPTION:Kanda Shoichi 1st Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 1st Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022020
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20200809T071200Z
 DTEND:20200809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 2nd Anniversary
-DESCRIPTION:Kanda Shoichi 2nd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 2nd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022021
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20210809T071200Z
 DTEND:20210809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 3rd Anniversary
-DESCRIPTION:Kanda Shoichi 3rd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 3rd Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022022
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20220809T071200Z
 DTEND:20220809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 4th Anniversary
-DESCRIPTION:Kanda Shoichi 4th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 4th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022023
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20230809T071200Z
 DTEND:20230809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 5th Anniversary
-DESCRIPTION:Kanda Shoichi 5th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 5th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022024
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20240809T071200Z
 DTEND:20240809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 6th Anniversary
-DESCRIPTION:Kanda Shoichi 6th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 6th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022025
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20250809T071200Z
 DTEND:20250809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 7th Anniversary
-DESCRIPTION:Kanda Shoichi 7th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 7th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022026
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20260809T071200Z
 DTEND:20260809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 8th Anniversary
-DESCRIPTION:Kanda Shoichi 8th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 8th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022027
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20270809T071200Z
 DTEND:20270809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 9th Anniversary
-DESCRIPTION:Kanda Shoichi 9th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 9th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022028
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20280809T071200Z
 DTEND:20280809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 10th Anniversary
-DESCRIPTION:Kanda Shoichi 10th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 10th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022029
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20290809T071200Z
 DTEND:20290809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 11th Anniversary
-DESCRIPTION:Kanda Shoichi 11th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 11th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022030
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20300809T071200Z
 DTEND:20300809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 12th Anniversary
-DESCRIPTION:Kanda Shoichi 12th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 12th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022031
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20310809T071200Z
 DTEND:20310809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 13th Anniversary
-DESCRIPTION:Kanda Shoichi 13th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 13th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022032
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20320809T071200Z
 DTEND:20320809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 14th Anniversary
-DESCRIPTION:Kanda Shoichi 14th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 14th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022033
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20330809T071200Z
 DTEND:20330809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 15th Anniversary
-DESCRIPTION:Kanda Shoichi 15th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 15th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022034
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20340809T071200Z
 DTEND:20340809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 16th Anniversary
-DESCRIPTION:Kanda Shoichi 16th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 16th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:a750568e-6b6a-452d-ba09-f9f2f2022035
-DTSTAMP:20250313T132204Z
+DTSTAMP:20250315T151711Z
 DTSTART:20350809T071200Z
 DTEND:20350809T071201Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanda Shoichi 17th Anniversary
-DESCRIPTION:Kanda Shoichi 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:08 (JST)\nFirst stream: Aug 14, 2018 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
+DESCRIPTION:Kanda Shoichi 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 16:12 (JST)\nFirst stream: Aug 14, 2018, 0:00 (JST)\n\n\n==========\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n
 URL:https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

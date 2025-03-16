@@ -30,7 +30,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042012023
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20230325
 DTEND:20230325
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022022
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20220720T000000Z
 DTEND:20220720T003000Z
 TRANSP:TRANSPARENT
@@ -50,138 +50,148 @@ DESCRIPTION:レン ゾット 活動開始\n\n==========\n【レン ゾット】\
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
+UID:55df123d-084e-40c7-8f2f-41d042032022
+DTSTAMP:20250316T072752Z
+DTSTART:20220725T025200Z
+DTEND:20220725T032200Z
+TRANSP:TRANSPARENT
+SUMMARY:レン ゾット 初配信
+DESCRIPTION:レン ゾット 初配信\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
+END:VEVENT
+BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022023
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20230720T000000Z
 DTEND:20230720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 1周年
-DESCRIPTION:レン ゾット 1周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 1周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022024
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20240720T000000Z
 DTEND:20240720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 2周年
-DESCRIPTION:レン ゾット 2周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 2周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022025
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20250720T000000Z
 DTEND:20250720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 3周年
-DESCRIPTION:レン ゾット 3周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 3周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022026
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20260720T000000Z
 DTEND:20260720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 4周年
-DESCRIPTION:レン ゾット 4周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 4周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022027
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20270720T000000Z
 DTEND:20270720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 5周年
-DESCRIPTION:レン ゾット 5周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 5周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022028
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20280720T000000Z
 DTEND:20280720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 6周年
-DESCRIPTION:レン ゾット 6周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 6周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022029
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20290720T000000Z
 DTEND:20290720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 7周年
-DESCRIPTION:レン ゾット 7周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 7周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022030
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20300720T000000Z
 DTEND:20300720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 8周年
-DESCRIPTION:レン ゾット 8周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 8周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022031
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20310720T000000Z
 DTEND:20310720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 9周年
-DESCRIPTION:レン ゾット 9周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 9周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022032
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20320720T000000Z
 DTEND:20320720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 10周年
-DESCRIPTION:レン ゾット 10周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 10周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022033
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20330720T000000Z
 DTEND:20330720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 11周年
-DESCRIPTION:レン ゾット 11周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 11周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022034
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20340720T000000Z
 DTEND:20340720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 12周年
-DESCRIPTION:レン ゾット 12周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 12周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:55df123d-084e-40c7-8f2f-41d042022035
-DTSTAMP:20250313T133736Z
+DTSTAMP:20250316T072752Z
 DTSTART:20350720T000000Z
 DTEND:20350720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:レン ゾット 13周年
-DESCRIPTION:レン ゾット 13周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
+DESCRIPTION:レン ゾット 13周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 11:52 （日本時間）\n\n\n==========\n【レン ゾット】\nYouTube: https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg\nX: https://twitter.com/RenZott0\n\n
 URL:https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

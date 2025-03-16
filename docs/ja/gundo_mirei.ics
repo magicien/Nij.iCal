@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:4f827fbc-360b-4afc-94e8-83d601012019
-DTSTAMP:20250313T132350Z
+DTSTAMP:20250316T034751Z
 DTSTART:20190614
 DTEND:20190614
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
 UID:4f827fbc-360b-4afc-94e8-83d601022019
-DTSTAMP:20250313T132350Z
+DTSTAMP:20250316T034751Z
 DTSTART:20190118T070400Z
 DTEND:20190118T073400Z
 TRANSP:TRANSPARENT
@@ -38,48 +38,58 @@ DESCRIPTION:郡道美玲 活動開始\n\n==========\n【郡道美玲】\nYouTube
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
+UID:4f827fbc-360b-4afc-94e8-83d601032019
+DTSTAMP:20250316T034751Z
+DTSTART:20190120T130000Z
+DTEND:20190120T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:郡道美玲 初配信
+DESCRIPTION:郡道美玲 初配信\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
+END:VEVENT
+BEGIN:VEVENT
 UID:4f827fbc-360b-4afc-94e8-83d601022020
-DTSTAMP:20250313T132350Z
+DTSTAMP:20250316T034751Z
 DTSTART:20200118T070400Z
 DTEND:20200118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:郡道美玲 1周年
-DESCRIPTION:郡道美玲 1周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:郡道美玲 1周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 22:00 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
 UID:4f827fbc-360b-4afc-94e8-83d601022021
-DTSTAMP:20250313T132350Z
+DTSTAMP:20250316T034751Z
 DTSTART:20210118T070400Z
 DTEND:20210118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:郡道美玲 2周年
-DESCRIPTION:郡道美玲 2周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:郡道美玲 2周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 22:00 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
 UID:4f827fbc-360b-4afc-94e8-83d601022022
-DTSTAMP:20250313T132350Z
+DTSTAMP:20250316T034751Z
 DTSTART:20220118T070400Z
 DTEND:20220118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:郡道美玲 3周年
-DESCRIPTION:郡道美玲 3周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:郡道美玲 3周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 22:00 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
 UID:4f827fbc-360b-4afc-94e8-83d601022023
-DTSTAMP:20250313T132350Z
+DTSTAMP:20250316T034751Z
 DTSTART:20230118T070400Z
 DTEND:20230118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:郡道美玲 4周年
-DESCRIPTION:郡道美玲 4周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:郡道美玲 4周年\n\n初ツイート：2019/01/18 16:04 （日本時間）\n初配信：2019/01/20 22:00 （日本時間）\n\n\n==========\n【郡道美玲】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
 UID:4f827fbc-360b-4afc-94e8-83d601992023
-DTSTAMP:20250313T132350Z
+DTSTAMP:20250316T034751Z
 DTSTART:20230621
 DTEND:20230621
 TRANSP:TRANSPARENT
@@ -89,7 +99,7 @@ URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788012018
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20180315
 DTEND:20180315
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022018
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20180309T021300Z
 DTEND:20180309T024300Z
 TRANSP:TRANSPARENT
@@ -50,178 +50,188 @@ DESCRIPTION:文野環 活動開始\n\n==========\n【文野環】\nYouTube: http
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
+UID:7f0d2061-5553-45ad-bca6-62a788032018
+DTSTAMP:20250315T140354Z
+DTSTART:20180315T130600Z
+DTEND:20180315T133600Z
+TRANSP:TRANSPARENT
+SUMMARY:文野環 初配信
+DESCRIPTION:文野環 初配信\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
+END:VEVENT
+BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022019
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20190309T021300Z
 DTEND:20190309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 1周年
-DESCRIPTION:文野環 1周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 1周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022020
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20200309T021300Z
 DTEND:20200309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 2周年
-DESCRIPTION:文野環 2周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 2周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022021
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20210309T021300Z
 DTEND:20210309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 3周年
-DESCRIPTION:文野環 3周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 3周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022022
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20220309T021300Z
 DTEND:20220309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 4周年
-DESCRIPTION:文野環 4周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 4周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022023
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20230309T021300Z
 DTEND:20230309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 5周年
-DESCRIPTION:文野環 5周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 5周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022024
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20240309T021300Z
 DTEND:20240309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 6周年
-DESCRIPTION:文野環 6周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 6周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022025
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20250309T021300Z
 DTEND:20250309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 7周年
-DESCRIPTION:文野環 7周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 7周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022026
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20260309T021300Z
 DTEND:20260309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 8周年
-DESCRIPTION:文野環 8周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 8周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022027
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20270309T021300Z
 DTEND:20270309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 9周年
-DESCRIPTION:文野環 9周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 9周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022028
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20280309T021300Z
 DTEND:20280309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 10周年
-DESCRIPTION:文野環 10周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 10周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022029
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20290309T021300Z
 DTEND:20290309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 11周年
-DESCRIPTION:文野環 11周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 11周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022030
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20300309T021300Z
 DTEND:20300309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 12周年
-DESCRIPTION:文野環 12周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 12周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022031
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20310309T021300Z
 DTEND:20310309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 13周年
-DESCRIPTION:文野環 13周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 13周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022032
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20320309T021300Z
 DTEND:20320309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 14周年
-DESCRIPTION:文野環 14周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 14周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022033
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20330309T021300Z
 DTEND:20330309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 15周年
-DESCRIPTION:文野環 15周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 15周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022034
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20340309T021300Z
 DTEND:20340309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 16周年
-DESCRIPTION:文野環 16周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 16周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0d2061-5553-45ad-bca6-62a788022035
-DTSTAMP:20250313T131938Z
+DTSTAMP:20250315T140354Z
 DTSTART:20350309T021300Z
 DTEND:20350309T021301Z
 TRANSP:TRANSPARENT
 SUMMARY:文野環 17周年
-DESCRIPTION:文野環 17周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
+DESCRIPTION:文野環 17周年\n\n初ツイート：2018/03/09 11:13 （日本時間）\n初配信：2018/03/15 22:06 （日本時間）\n\n\n==========\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n
 URL:https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

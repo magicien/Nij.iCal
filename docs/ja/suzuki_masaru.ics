@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247012018
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20180809
 DTEND:20180809
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022018
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20180603T073400Z
 DTEND:20180603T080400Z
 TRANSP:TRANSPARENT
@@ -38,178 +38,188 @@ DESCRIPTION:鈴木勝 活動開始\n\n==========\n【鈴木勝】\nYouTube: http
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
+UID:f2179a03-1adf-49f5-8523-02b247032018
+DTSTAMP:20250315T151239Z
+DTSTART:20180608T150000Z
+DTEND:20180608T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴木勝 初配信
+DESCRIPTION:鈴木勝 初配信\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
+END:VEVENT
+BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022019
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20190603T073400Z
 DTEND:20190603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 1周年
-DESCRIPTION:鈴木勝 1周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 1周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022020
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20200603T073400Z
 DTEND:20200603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 2周年
-DESCRIPTION:鈴木勝 2周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 2周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022021
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20210603T073400Z
 DTEND:20210603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 3周年
-DESCRIPTION:鈴木勝 3周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 3周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022022
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20220603T073400Z
 DTEND:20220603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 4周年
-DESCRIPTION:鈴木勝 4周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 4周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022023
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20230603T073400Z
 DTEND:20230603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 5周年
-DESCRIPTION:鈴木勝 5周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 5周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022024
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20240603T073400Z
 DTEND:20240603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 6周年
-DESCRIPTION:鈴木勝 6周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 6周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022025
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20250603T073400Z
 DTEND:20250603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 7周年
-DESCRIPTION:鈴木勝 7周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 7周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022026
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20260603T073400Z
 DTEND:20260603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 8周年
-DESCRIPTION:鈴木勝 8周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 8周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022027
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20270603T073400Z
 DTEND:20270603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 9周年
-DESCRIPTION:鈴木勝 9周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 9周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022028
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20280603T073400Z
 DTEND:20280603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 10周年
-DESCRIPTION:鈴木勝 10周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 10周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022029
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20290603T073400Z
 DTEND:20290603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 11周年
-DESCRIPTION:鈴木勝 11周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 11周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022030
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20300603T073400Z
 DTEND:20300603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 12周年
-DESCRIPTION:鈴木勝 12周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 12周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022031
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20310603T073400Z
 DTEND:20310603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 13周年
-DESCRIPTION:鈴木勝 13周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 13周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022032
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20320603T073400Z
 DTEND:20320603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 14周年
-DESCRIPTION:鈴木勝 14周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 14周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022033
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20330603T073400Z
 DTEND:20330603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 15周年
-DESCRIPTION:鈴木勝 15周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 15周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022034
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20340603T073400Z
 DTEND:20340603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 16周年
-DESCRIPTION:鈴木勝 16周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 16周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:f2179a03-1adf-49f5-8523-02b247022035
-DTSTAMP:20250313T132105Z
+DTSTAMP:20250315T151239Z
 DTSTART:20350603T073400Z
 DTEND:20350603T073401Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴木勝 17周年
-DESCRIPTION:鈴木勝 17周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
+DESCRIPTION:鈴木勝 17周年\n\n初ツイート：2018/06/03 16:34 （日本時間）\n初配信：2018/06/09 00:00 （日本時間）\n\n\n==========\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n
 URL:https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

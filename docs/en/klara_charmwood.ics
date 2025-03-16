@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600012024
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20241120
 DTEND:20241120
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022024
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20240521T000300Z
 DTEND:20240521T003300Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:Klara Charmwood Debut\n\n==========\n【Klara Charmwood】\nYouTube:
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
+UID:4237b78c-4f46-48f7-83c2-dc3600032024
+DTSTAMP:20250316T073620Z
+DTSTART:20240525T024000Z
+DTEND:20240525T031000Z
+TRANSP:TRANSPARENT
+SUMMARY:Klara Charmwood Debut stream
+DESCRIPTION:Klara Charmwood Debut stream\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+URL:https://www.youtube.com/@KlaraCharmwood
+END:VEVENT
+BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022025
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20250521T000300Z
 DTEND:20250521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 1st Anniversary
-DESCRIPTION:Klara Charmwood 1st Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 1st Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022026
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20260521T000300Z
 DTEND:20260521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 2nd Anniversary
-DESCRIPTION:Klara Charmwood 2nd Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 2nd Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022027
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20270521T000300Z
 DTEND:20270521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 3rd Anniversary
-DESCRIPTION:Klara Charmwood 3rd Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 3rd Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022028
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20280521T000300Z
 DTEND:20280521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 4th Anniversary
-DESCRIPTION:Klara Charmwood 4th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 4th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022029
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20290521T000300Z
 DTEND:20290521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 5th Anniversary
-DESCRIPTION:Klara Charmwood 5th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 5th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022030
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20300521T000300Z
 DTEND:20300521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 6th Anniversary
-DESCRIPTION:Klara Charmwood 6th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 6th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022031
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20310521T000300Z
 DTEND:20310521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 7th Anniversary
-DESCRIPTION:Klara Charmwood 7th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 7th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022032
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20320521T000300Z
 DTEND:20320521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 8th Anniversary
-DESCRIPTION:Klara Charmwood 8th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 8th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022033
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20330521T000300Z
 DTEND:20330521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 9th Anniversary
-DESCRIPTION:Klara Charmwood 9th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 9th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022034
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20340521T000300Z
 DTEND:20340521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 10th Anniversary
-DESCRIPTION:Klara Charmwood 10th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 10th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:4237b78c-4f46-48f7-83c2-dc3600022035
-DTSTAMP:20250313T133930Z
+DTSTAMP:20250316T073620Z
 DTSTART:20350521T000300Z
 DTEND:20350521T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Klara Charmwood 11th Anniversary
-DESCRIPTION:Klara Charmwood 11th Anniversary\n\nFirst tweet: May 21, 2024, 9:05 (JST)\nFirst stream: May 25, 2023 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
+DESCRIPTION:Klara Charmwood 11th Anniversary\n\nFirst tweet: May 21, 2024, 9:03 (JST)\nFirst stream: May 25, 2024, 11:40 (JST)\n\n\n==========\n【Klara Charmwood】\nYouTube: https://www.youtube.com/@KlaraCharmwood\nX: https://twitter.com/KlaraCharmwood\n\n
 URL:https://www.youtube.com/@KlaraCharmwood
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

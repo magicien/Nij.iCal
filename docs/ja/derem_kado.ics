@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b012021
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20210114
 DTEND:20210114
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022020
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20201111T074000Z
 DTEND:20201111T081000Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:デレム カド 活動開始\n\n==========\n【デレム カド】\
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
+UID:54a41819-0591-492f-bd28-b52b3b032020
+DTSTAMP:20250316T053628Z
+DTSTART:20201114T124500Z
+DTEND:20201114T131500Z
+TRANSP:TRANSPARENT
+SUMMARY:デレム カド 初配信
+DESCRIPTION:デレム カド 初配信\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
+END:VEVENT
+BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022021
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20211111T074000Z
 DTEND:20211111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 1周年
-DESCRIPTION:デレム カド 1周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 1周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022022
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20221111T074000Z
 DTEND:20221111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 2周年
-DESCRIPTION:デレム カド 2周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 2周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022023
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20231111T074000Z
 DTEND:20231111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 3周年
-DESCRIPTION:デレム カド 3周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 3周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022024
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20241111T074000Z
 DTEND:20241111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 4周年
-DESCRIPTION:デレム カド 4周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 4周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022025
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20251111T074000Z
 DTEND:20251111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 5周年
-DESCRIPTION:デレム カド 5周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 5周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022026
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20261111T074000Z
 DTEND:20261111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 6周年
-DESCRIPTION:デレム カド 6周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 6周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022027
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20271111T074000Z
 DTEND:20271111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 7周年
-DESCRIPTION:デレム カド 7周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 7周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022028
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20281111T074000Z
 DTEND:20281111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 8周年
-DESCRIPTION:デレム カド 8周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 8周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022029
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20291111T074000Z
 DTEND:20291111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 9周年
-DESCRIPTION:デレム カド 9周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 9周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022030
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20301111T074000Z
 DTEND:20301111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 10周年
-DESCRIPTION:デレム カド 10周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 10周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022031
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20311111T074000Z
 DTEND:20311111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 11周年
-DESCRIPTION:デレム カド 11周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 11周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022032
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20321111T074000Z
 DTEND:20321111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 12周年
-DESCRIPTION:デレム カド 12周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 12周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022033
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20331111T074000Z
 DTEND:20331111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 13周年
-DESCRIPTION:デレム カド 13周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 13周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022034
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20341111T074000Z
 DTEND:20341111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 14周年
-DESCRIPTION:デレム カド 14周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 14周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:54a41819-0591-492f-bd28-b52b3b022035
-DTSTAMP:20250313T133213Z
+DTSTAMP:20250316T053628Z
 DTSTART:20351111T074000Z
 DTEND:20351111T074001Z
 TRANSP:TRANSPARENT
 SUMMARY:デレム カド 15周年
-DESCRIPTION:デレム カド 15周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
+DESCRIPTION:デレム カド 15周年\n\n初ツイート：2020/11/11 16:40 （日本時間）\n初配信：2020/11/14 21:45 （日本時間）\n\n\n==========\n【デレム カド】\nYouTube: https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA\nX: https://twitter.com/DeremKado\n\n
 URL:https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

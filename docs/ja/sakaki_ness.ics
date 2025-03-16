@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d012024
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20241101
 DTEND:20241101
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022024
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20240312T091000Z
 DTEND:20240312T094000Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:榊ネス 活動開始\n\n==========\n【榊ネス】\nYouTube: http
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
+UID:bc552b3c-064e-4f94-aee4-94e85d032024
+DTSTAMP:20250316T055119Z
+DTSTART:20240315T110000Z
+DTEND:20240315T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:榊ネス 初配信
+DESCRIPTION:榊ネス 初配信\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.youtube.com/@SakakiNess
+END:VEVENT
+BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022025
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20250312T091000Z
 DTEND:20250312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 1周年
-DESCRIPTION:榊ネス 1周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 1周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022026
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20260312T091000Z
 DTEND:20260312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 2周年
-DESCRIPTION:榊ネス 2周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 2周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022027
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20270312T091000Z
 DTEND:20270312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 3周年
-DESCRIPTION:榊ネス 3周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 3周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022028
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20280312T091000Z
 DTEND:20280312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 4周年
-DESCRIPTION:榊ネス 4周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 4周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022029
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20290312T091000Z
 DTEND:20290312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 5周年
-DESCRIPTION:榊ネス 5周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 5周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022030
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20300312T091000Z
 DTEND:20300312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 6周年
-DESCRIPTION:榊ネス 6周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 6周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022031
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20310312T091000Z
 DTEND:20310312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 7周年
-DESCRIPTION:榊ネス 7周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 7周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022032
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20320312T091000Z
 DTEND:20320312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 8周年
-DESCRIPTION:榊ネス 8周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 8周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022033
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20330312T091000Z
 DTEND:20330312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 9周年
-DESCRIPTION:榊ネス 9周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 9周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022034
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20340312T091000Z
 DTEND:20340312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 10周年
-DESCRIPTION:榊ネス 10周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 10周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d022035
-DTSTAMP:20250313T133456Z
+DTSTAMP:20250316T055119Z
 DTSTART:20350312T091000Z
 DTEND:20350312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:榊ネス 11周年
-DESCRIPTION:榊ネス 11周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+DESCRIPTION:榊ネス 11周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 20:00 （日本時間）\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
 URL:https://www.youtube.com/@SakakiNess
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

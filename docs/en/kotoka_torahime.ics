@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b012023
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20230814
 DTEND:20230814
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022022
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20221206T000300Z
 DTEND:20221206T003300Z
 TRANSP:TRANSPARENT
@@ -38,138 +38,148 @@ DESCRIPTION:Kotoka Torahime Debut\n\n==========\n【Kotoka Torahime】\nYouTube:
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
+UID:c46fa9d9-3d4c-49b5-9be5-391c3b032022
+DTSTAMP:20250316T073049Z
+DTSTART:20221210T022100Z
+DTEND:20221210T025100Z
+TRANSP:TRANSPARENT
+SUMMARY:Kotoka Torahime Debut stream
+DESCRIPTION:Kotoka Torahime Debut stream\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+URL:https://www.youtube.com/@KotokaTorahime
+END:VEVENT
+BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022023
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20231206T000300Z
 DTEND:20231206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 1st Anniversary
-DESCRIPTION:Kotoka Torahime 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 1st Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022024
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20241206T000300Z
 DTEND:20241206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 2nd Anniversary
-DESCRIPTION:Kotoka Torahime 2nd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 2nd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022025
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20251206T000300Z
 DTEND:20251206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 3rd Anniversary
-DESCRIPTION:Kotoka Torahime 3rd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 3rd Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022026
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20261206T000300Z
 DTEND:20261206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 4th Anniversary
-DESCRIPTION:Kotoka Torahime 4th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 4th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022027
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20271206T000300Z
 DTEND:20271206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 5th Anniversary
-DESCRIPTION:Kotoka Torahime 5th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 5th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022028
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20281206T000300Z
 DTEND:20281206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 6th Anniversary
-DESCRIPTION:Kotoka Torahime 6th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 6th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022029
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20291206T000300Z
 DTEND:20291206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 7th Anniversary
-DESCRIPTION:Kotoka Torahime 7th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 7th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022030
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20301206T000300Z
 DTEND:20301206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 8th Anniversary
-DESCRIPTION:Kotoka Torahime 8th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 8th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022031
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20311206T000300Z
 DTEND:20311206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 9th Anniversary
-DESCRIPTION:Kotoka Torahime 9th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 9th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022032
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20321206T000300Z
 DTEND:20321206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 10th Anniversary
-DESCRIPTION:Kotoka Torahime 10th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 10th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022033
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20331206T000300Z
 DTEND:20331206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 11th Anniversary
-DESCRIPTION:Kotoka Torahime 11th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 11th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022034
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20341206T000300Z
 DTEND:20341206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 12th Anniversary
-DESCRIPTION:Kotoka Torahime 12th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 12th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022035
-DTSTAMP:20250313T133802Z
+DTSTAMP:20250316T073049Z
 DTSTART:20351206T000300Z
 DTEND:20351206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kotoka Torahime 13th Anniversary
-DESCRIPTION:Kotoka Torahime 13th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:12 (JST)\nFirst stream: Dec 10, 2022 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+DESCRIPTION:Kotoka Torahime 13th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 11:21 (JST)\n\n\n==========\n【Kotoka Torahime】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21012023
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20231117
 DTEND:20231117
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022023
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20230622T000200Z
 DTEND:20230622T003200Z
 TRANSP:TRANSPARENT
@@ -38,128 +38,138 @@ DESCRIPTION:ヴェザリウス バンデージ 活動開始\n\n==========\n【�
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21032023
+DTSTAMP:20250316T073300Z
+DTSTART:20230625T020900Z
+DTEND:20230625T023900Z
+TRANSP:TRANSPARENT
+SUMMARY:ヴェザリウス バンデージ 初配信
+DESCRIPTION:ヴェザリウス バンデージ 初配信\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022024
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20240622T000200Z
 DTEND:20240622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 1周年
-DESCRIPTION:ヴェザリウス バンデージ 1周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 1周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022025
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20250622T000200Z
 DTEND:20250622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 2周年
-DESCRIPTION:ヴェザリウス バンデージ 2周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 2周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022026
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20260622T000200Z
 DTEND:20260622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 3周年
-DESCRIPTION:ヴェザリウス バンデージ 3周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 3周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022027
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20270622T000200Z
 DTEND:20270622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 4周年
-DESCRIPTION:ヴェザリウス バンデージ 4周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 4周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022028
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20280622T000200Z
 DTEND:20280622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 5周年
-DESCRIPTION:ヴェザリウス バンデージ 5周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 5周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022029
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20290622T000200Z
 DTEND:20290622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 6周年
-DESCRIPTION:ヴェザリウス バンデージ 6周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 6周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022030
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20300622T000200Z
 DTEND:20300622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 7周年
-DESCRIPTION:ヴェザリウス バンデージ 7周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 7周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022031
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20310622T000200Z
 DTEND:20310622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 8周年
-DESCRIPTION:ヴェザリウス バンデージ 8周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 8周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022032
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20320622T000200Z
 DTEND:20320622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 9周年
-DESCRIPTION:ヴェザリウス バンデージ 9周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 9周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022033
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20330622T000200Z
 DTEND:20330622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 10周年
-DESCRIPTION:ヴェザリウス バンデージ 10周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 10周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022034
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20340622T000200Z
 DTEND:20340622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 11周年
-DESCRIPTION:ヴェザリウス バンデージ 11周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 11周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bd65cd-4a09-4d56-9612-f71a21022035
-DTSTAMP:20250313T133842Z
+DTSTAMP:20250316T073300Z
 DTSTART:20350622T000200Z
 DTEND:20350622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェザリウス バンデージ 12周年
-DESCRIPTION:ヴェザリウス バンデージ 12周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
+DESCRIPTION:ヴェザリウス バンデージ 12周年\n\n初ツイート：2023/06/22 09:02 （日本時間）\n初配信：2023/06/25 11:09 （日本時間）\n\n\n==========\n【ヴェザリウス バンデージ】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://twitter.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

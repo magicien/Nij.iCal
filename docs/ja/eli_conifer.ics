@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400012019
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20190927
 DTEND:20190927
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022019
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20190808T070100Z
 DTEND:20190808T073100Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:エリー・コニファー 活動開始\n\n==========\n【エリー
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
+UID:801facff-2712-4559-b7dc-55e400032019
+DTSTAMP:20250316T024450Z
+DTSTART:20190813T110100Z
+DTEND:20190813T113100Z
+TRANSP:TRANSPARENT
+SUMMARY:エリー・コニファー 初配信
+DESCRIPTION:エリー・コニファー 初配信\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
+END:VEVENT
+BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022020
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20200808T070100Z
 DTEND:20200808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 1周年
-DESCRIPTION:エリー・コニファー 1周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 1周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022021
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20210808T070100Z
 DTEND:20210808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 2周年
-DESCRIPTION:エリー・コニファー 2周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 2周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022022
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20220808T070100Z
 DTEND:20220808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 3周年
-DESCRIPTION:エリー・コニファー 3周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 3周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022023
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20230808T070100Z
 DTEND:20230808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 4周年
-DESCRIPTION:エリー・コニファー 4周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 4周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022024
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20240808T070100Z
 DTEND:20240808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 5周年
-DESCRIPTION:エリー・コニファー 5周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 5周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022025
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20250808T070100Z
 DTEND:20250808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 6周年
-DESCRIPTION:エリー・コニファー 6周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 6周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022026
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20260808T070100Z
 DTEND:20260808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 7周年
-DESCRIPTION:エリー・コニファー 7周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 7周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022027
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20270808T070100Z
 DTEND:20270808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 8周年
-DESCRIPTION:エリー・コニファー 8周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 8周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022028
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20280808T070100Z
 DTEND:20280808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 9周年
-DESCRIPTION:エリー・コニファー 9周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 9周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022029
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20290808T070100Z
 DTEND:20290808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 10周年
-DESCRIPTION:エリー・コニファー 10周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 10周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022030
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20300808T070100Z
 DTEND:20300808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 11周年
-DESCRIPTION:エリー・コニファー 11周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 11周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022031
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20310808T070100Z
 DTEND:20310808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 12周年
-DESCRIPTION:エリー・コニファー 12周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 12周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022032
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20320808T070100Z
 DTEND:20320808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 13周年
-DESCRIPTION:エリー・コニファー 13周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 13周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022033
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20330808T070100Z
 DTEND:20330808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 14周年
-DESCRIPTION:エリー・コニファー 14周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 14周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022034
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20340808T070100Z
 DTEND:20340808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 15周年
-DESCRIPTION:エリー・コニファー 15周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 15周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:801facff-2712-4559-b7dc-55e400022035
-DTSTAMP:20250313T132516Z
+DTSTAMP:20250316T024450Z
 DTSTART:20350808T070100Z
 DTEND:20350808T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:エリー・コニファー 16周年
-DESCRIPTION:エリー・コニファー 16周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
+DESCRIPTION:エリー・コニファー 16周年\n\n初ツイート：2019/08/08 16:01 （日本時間）\n初配信：2019/08/13 20:01 （日本時間）\n\n\n==========\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n
 URL:https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

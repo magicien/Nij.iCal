@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2012019
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20190608
 DTEND:20190608
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022018
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20180608T094200Z
 DTEND:20180608T101200Z
 TRANSP:TRANSPARENT
@@ -38,68 +38,78 @@ DESCRIPTION:Naruse Naru Debut\n\n==========\n【Naruse Naru】\nYouTube: https:/
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
+UID:1998e5b1-9a2e-4540-8380-601ac2032018
+DTSTAMP:20250316T034113Z
+DTSTART:20180609T110000Z
+DTEND:20180609T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:Naruse Naru Debut stream
+DESCRIPTION:Naruse Naru Debut stream\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
+END:VEVENT
+BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022019
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20190608T094200Z
 DTEND:20190608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 1st Anniversary
-DESCRIPTION:Naruse Naru 1st Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 1st Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022020
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20200608T094200Z
 DTEND:20200608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 2nd Anniversary
-DESCRIPTION:Naruse Naru 2nd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 2nd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022021
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20210608T094200Z
 DTEND:20210608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 3rd Anniversary
-DESCRIPTION:Naruse Naru 3rd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 3rd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022022
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20220608T094200Z
 DTEND:20220608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 4th Anniversary
-DESCRIPTION:Naruse Naru 4th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 4th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022023
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20230608T094200Z
 DTEND:20230608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 5th Anniversary
-DESCRIPTION:Naruse Naru 5th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 5th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022024
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20240608T094200Z
 DTEND:20240608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 6th Anniversary
-DESCRIPTION:Naruse Naru 6th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:06 (JST)\nFirst stream: Jun 9, 2018 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 6th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2992024
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20240831
 DTEND:20240831
 TRANSP:TRANSPARENT
@@ -109,7 +119,7 @@ URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

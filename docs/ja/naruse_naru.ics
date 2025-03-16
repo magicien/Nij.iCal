@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2012019
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20190608
 DTEND:20190608
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022018
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20180608T094200Z
 DTEND:20180608T101200Z
 TRANSP:TRANSPARENT
@@ -38,68 +38,78 @@ DESCRIPTION:成瀬鳴 活動開始\n\n==========\n【成瀬鳴】\nYouTube: http
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
+UID:1998e5b1-9a2e-4540-8380-601ac2032018
+DTSTAMP:20250316T034113Z
+DTSTART:20180609T110000Z
+DTEND:20180609T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:成瀬鳴 初配信
+DESCRIPTION:成瀬鳴 初配信\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
+END:VEVENT
+BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022019
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20190608T094200Z
 DTEND:20190608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:成瀬鳴 1周年
-DESCRIPTION:成瀬鳴 1周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:成瀬鳴 1周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 20:00 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022020
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20200608T094200Z
 DTEND:20200608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:成瀬鳴 2周年
-DESCRIPTION:成瀬鳴 2周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:成瀬鳴 2周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 20:00 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022021
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20210608T094200Z
 DTEND:20210608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:成瀬鳴 3周年
-DESCRIPTION:成瀬鳴 3周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:成瀬鳴 3周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 20:00 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022022
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20220608T094200Z
 DTEND:20220608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:成瀬鳴 4周年
-DESCRIPTION:成瀬鳴 4周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:成瀬鳴 4周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 20:00 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022023
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20230608T094200Z
 DTEND:20230608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:成瀬鳴 5周年
-DESCRIPTION:成瀬鳴 5周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:成瀬鳴 5周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 20:00 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2022024
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20240608T094200Z
 DTEND:20240608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:成瀬鳴 6周年
-DESCRIPTION:成瀬鳴 6周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:成瀬鳴 6周年\n\n初ツイート：2018/06/08 18:42 （日本時間）\n初配信：2018/06/09 20:00 （日本時間）\n\n\n==========\n【成瀬鳴】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:1998e5b1-9a2e-4540-8380-601ac2992024
-DTSTAMP:20250313T132255Z
+DTSTAMP:20250316T034113Z
 DTSTART:20240831
 DTEND:20240831
 TRANSP:TRANSPARENT
@@ -109,7 +119,7 @@ URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

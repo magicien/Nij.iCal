@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27012025
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20251003
 DTEND:20251003
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022025
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20250312T230600Z
 DTEND:20250312T233600Z
 TRANSP:TRANSPARENT
@@ -38,108 +38,118 @@ DESCRIPTION:Seible Debut\n\n==========\n【Seible】\nYouTube: https://www.youtu
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
+UID:40d0a346-5c97-4057-98cd-398d27032025
+DTSTAMP:20250316T074505Z
+DTSTART:20250315T021000Z
+DTEND:20250315T024000Z
+TRANSP:TRANSPARENT
+SUMMARY:Seible Debut stream
+DESCRIPTION:Seible Debut stream\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+URL:https://www.youtube.com/@Seible_nijisanji
+END:VEVENT
+BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022026
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20260312T230600Z
 DTEND:20260312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 1st Anniversary
-DESCRIPTION:Seible 1st Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 1st Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022027
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20270312T230600Z
 DTEND:20270312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 2nd Anniversary
-DESCRIPTION:Seible 2nd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 2nd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022028
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20280312T230600Z
 DTEND:20280312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 3rd Anniversary
-DESCRIPTION:Seible 3rd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 3rd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022029
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20290312T230600Z
 DTEND:20290312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 4th Anniversary
-DESCRIPTION:Seible 4th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 4th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022030
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20300312T230600Z
 DTEND:20300312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 5th Anniversary
-DESCRIPTION:Seible 5th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 5th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022031
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20310312T230600Z
 DTEND:20310312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 6th Anniversary
-DESCRIPTION:Seible 6th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 6th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022032
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20320312T230600Z
 DTEND:20320312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 7th Anniversary
-DESCRIPTION:Seible 7th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 7th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022033
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20330312T230600Z
 DTEND:20330312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 8th Anniversary
-DESCRIPTION:Seible 8th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 8th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022034
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20340312T230600Z
 DTEND:20340312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 9th Anniversary
-DESCRIPTION:Seible 9th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 9th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:40d0a346-5c97-4057-98cd-398d27022035
-DTSTAMP:20250313T133939Z
+DTSTAMP:20250316T074505Z
 DTSTART:20350312T230600Z
 DTEND:20350312T230601Z
 TRANSP:TRANSPARENT
 SUMMARY:Seible 10th Anniversary
-DESCRIPTION:Seible 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
+DESCRIPTION:Seible 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:06 (JST)\nFirst stream: Mar 15, 2025, 11:10 (JST)\n\n\n==========\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

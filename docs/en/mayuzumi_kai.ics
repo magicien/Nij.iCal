@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ee2082-9ad5-44d1-8d2a-8339df012019
-DTSTAMP:20250313T132504Z
+DTSTAMP:20250316T024239Z
 DTSTART:20190928
 DTEND:20190928
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ee2082-9ad5-44d1-8d2a-8339df022019
-DTSTAMP:20250313T132504Z
+DTSTAMP:20250316T024239Z
 DTSTART:20190724T080000Z
 DTEND:20190724T083000Z
 TRANSP:TRANSPARENT
@@ -38,38 +38,48 @@ DESCRIPTION:Mayuzumi Kai Debut\n\n==========\n【Mayuzumi Kai】\nYouTube: https
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
+UID:e5ee2082-9ad5-44d1-8d2a-8339df032019
+DTSTAMP:20250316T024239Z
+DTSTART:20190728T131900Z
+DTEND:20190728T134900Z
+TRANSP:TRANSPARENT
+SUMMARY:Mayuzumi Kai Debut stream
+DESCRIPTION:Mayuzumi Kai Debut stream\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+URL:https://www.youtube.com/c/MayuzumiX
+END:VEVENT
+BEGIN:VEVENT
 UID:e5ee2082-9ad5-44d1-8d2a-8339df022020
-DTSTAMP:20250313T132504Z
+DTSTAMP:20250316T024239Z
 DTSTART:20200724T080000Z
 DTEND:20200724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai 1st Anniversary
-DESCRIPTION:Mayuzumi Kai 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ee2082-9ad5-44d1-8d2a-8339df022021
-DTSTAMP:20250313T132504Z
+DTSTAMP:20250316T024239Z
 DTSTART:20210724T080000Z
 DTEND:20210724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai 2nd Anniversary
-DESCRIPTION:Mayuzumi Kai 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ee2082-9ad5-44d1-8d2a-8339df022022
-DTSTAMP:20250313T132504Z
+DTSTAMP:20250316T024239Z
 DTSTART:20220724T080000Z
 DTEND:20220724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai 3rd Anniversary
-DESCRIPTION:Mayuzumi Kai 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:07 (JST)\nFirst stream: Jul 28, 2019 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ee2082-9ad5-44d1-8d2a-8339df992022
-DTSTAMP:20250313T132504Z
+DTSTAMP:20250316T024239Z
 DTSTART:20220728
 DTEND:20220728
 TRANSP:TRANSPARENT
@@ -79,7 +89,7 @@ URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

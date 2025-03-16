@@ -30,7 +30,7 @@ URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63012022
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20220220
 DTEND:20220220
 RRULE:FREQ=YEARLY
@@ -41,7 +41,7 @@ URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022021
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20211006T020200Z
 DTEND:20211006T023200Z
 TRANSP:TRANSPARENT
@@ -50,148 +50,158 @@ DESCRIPTION:Enna Alouette Debut\n\n==========\n【Enna Alouette】\nYouTube: htt
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
+UID:914e153f-b588-4ea4-8644-a84d63032021
+DTSTAMP:20250316T071339Z
+DTSTART:20211009T031000Z
+DTEND:20211009T034000Z
+TRANSP:TRANSPARENT
+SUMMARY:Enna Alouette Debut stream
+DESCRIPTION:Enna Alouette Debut stream\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
+END:VEVENT
+BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022022
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20221006T020200Z
 DTEND:20221006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 1st Anniversary
-DESCRIPTION:Enna Alouette 1st Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 1st Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022023
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20231006T020200Z
 DTEND:20231006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 2nd Anniversary
-DESCRIPTION:Enna Alouette 2nd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 2nd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022024
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20241006T020200Z
 DTEND:20241006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 3rd Anniversary
-DESCRIPTION:Enna Alouette 3rd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 3rd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022025
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20251006T020200Z
 DTEND:20251006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 4th Anniversary
-DESCRIPTION:Enna Alouette 4th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 4th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022026
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20261006T020200Z
 DTEND:20261006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 5th Anniversary
-DESCRIPTION:Enna Alouette 5th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 5th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022027
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20271006T020200Z
 DTEND:20271006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 6th Anniversary
-DESCRIPTION:Enna Alouette 6th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 6th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022028
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20281006T020200Z
 DTEND:20281006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 7th Anniversary
-DESCRIPTION:Enna Alouette 7th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 7th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022029
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20291006T020200Z
 DTEND:20291006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 8th Anniversary
-DESCRIPTION:Enna Alouette 8th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 8th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022030
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20301006T020200Z
 DTEND:20301006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 9th Anniversary
-DESCRIPTION:Enna Alouette 9th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 9th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022031
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20311006T020200Z
 DTEND:20311006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 10th Anniversary
-DESCRIPTION:Enna Alouette 10th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 10th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022032
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20321006T020200Z
 DTEND:20321006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 11th Anniversary
-DESCRIPTION:Enna Alouette 11th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 11th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022033
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20331006T020200Z
 DTEND:20331006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 12th Anniversary
-DESCRIPTION:Enna Alouette 12th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 12th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022034
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20341006T020200Z
 DTEND:20341006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 13th Anniversary
-DESCRIPTION:Enna Alouette 13th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 13th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63022035
-DTSTAMP:20250313T133554Z
+DTSTAMP:20250316T071339Z
 DTSTART:20351006T020200Z
 DTEND:20351006T020201Z
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette 14th Anniversary
-DESCRIPTION:Enna Alouette 14th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:10 (JST)\nFirst stream: Oct 9, 2021 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
+DESCRIPTION:Enna Alouette 14th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:02 (JST)\nFirst stream: Oct 9, 2021, 12:10 (JST)\n\n\n==========\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n
 URL:https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

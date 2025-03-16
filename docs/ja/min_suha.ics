@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177012020
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20200403
 DTEND:20200403
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022020
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20200123T061200Z
 DTEND:20200123T064200Z
 TRANSP:TRANSPARENT
@@ -38,158 +38,168 @@ DESCRIPTION:ミン スゥーハ 活動開始\n\n==========\n【ミン スゥー�
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
+UID:bbf5b067-8817-419b-9006-146177032020
+DTSTAMP:20250316T043903Z
+DTSTART:20200125T113800Z
+DTEND:20200125T120800Z
+TRANSP:TRANSPARENT
+SUMMARY:ミン スゥーハ 初配信
+DESCRIPTION:ミン スゥーハ 初配信\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
+END:VEVENT
+BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022021
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20210123T061200Z
 DTEND:20210123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 1周年
-DESCRIPTION:ミン スゥーハ 1周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 1周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022022
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20220123T061200Z
 DTEND:20220123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 2周年
-DESCRIPTION:ミン スゥーハ 2周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 2周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022023
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20230123T061200Z
 DTEND:20230123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 3周年
-DESCRIPTION:ミン スゥーハ 3周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 3周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022024
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20240123T061200Z
 DTEND:20240123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 4周年
-DESCRIPTION:ミン スゥーハ 4周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 4周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022025
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20250123T061200Z
 DTEND:20250123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 5周年
-DESCRIPTION:ミン スゥーハ 5周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 5周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022026
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20260123T061200Z
 DTEND:20260123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 6周年
-DESCRIPTION:ミン スゥーハ 6周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 6周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022027
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20270123T061200Z
 DTEND:20270123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 7周年
-DESCRIPTION:ミン スゥーハ 7周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 7周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022028
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20280123T061200Z
 DTEND:20280123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 8周年
-DESCRIPTION:ミン スゥーハ 8周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 8周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022029
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20290123T061200Z
 DTEND:20290123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 9周年
-DESCRIPTION:ミン スゥーハ 9周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 9周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022030
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20300123T061200Z
 DTEND:20300123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 10周年
-DESCRIPTION:ミン スゥーハ 10周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 10周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022031
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20310123T061200Z
 DTEND:20310123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 11周年
-DESCRIPTION:ミン スゥーハ 11周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 11周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022032
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20320123T061200Z
 DTEND:20320123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 12周年
-DESCRIPTION:ミン スゥーハ 12周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 12周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022033
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20330123T061200Z
 DTEND:20330123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 13周年
-DESCRIPTION:ミン スゥーハ 13周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 13周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022034
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20340123T061200Z
 DTEND:20340123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 14周年
-DESCRIPTION:ミン スゥーハ 14周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 14周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177022035
-DTSTAMP:20250313T133245Z
+DTSTAMP:20250316T043903Z
 DTSTART:20350123T061200Z
 DTEND:20350123T061201Z
 TRANSP:TRANSPARENT
 SUMMARY:ミン スゥーハ 15周年
-DESCRIPTION:ミン スゥーハ 15周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
+DESCRIPTION:ミン スゥーハ 15周年\n\n初ツイート：2020/01/23 15:12 （日本時間）\n初配信：2020/01/25 20:38 （日本時間）\n\n\n==========\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n
 URL:https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

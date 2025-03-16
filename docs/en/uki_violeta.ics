@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc012022
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20220717
 DTEND:20220717
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022022
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20220222T020000Z
 DTEND:20220222T023000Z
 TRANSP:TRANSPARENT
@@ -38,138 +38,148 @@ DESCRIPTION:Uki Violeta Debut\n\n==========\n【Uki Violeta】\nYouTube: https:/
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
+UID:42a7d3de-5fad-4bf4-94ec-e883fc032022
+DTSTAMP:20250316T072407Z
+DTSTART:20220227T024000Z
+DTEND:20220227T031000Z
+TRANSP:TRANSPARENT
+SUMMARY:Uki Violeta Debut stream
+DESCRIPTION:Uki Violeta Debut stream\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
+END:VEVENT
+BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022023
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20230222T020000Z
 DTEND:20230222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 1st Anniversary
-DESCRIPTION:Uki Violeta 1st Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 1st Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022024
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20240222T020000Z
 DTEND:20240222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 2nd Anniversary
-DESCRIPTION:Uki Violeta 2nd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 2nd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022025
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20250222T020000Z
 DTEND:20250222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 3rd Anniversary
-DESCRIPTION:Uki Violeta 3rd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 3rd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022026
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20260222T020000Z
 DTEND:20260222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 4th Anniversary
-DESCRIPTION:Uki Violeta 4th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 4th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022027
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20270222T020000Z
 DTEND:20270222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 5th Anniversary
-DESCRIPTION:Uki Violeta 5th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 5th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022028
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20280222T020000Z
 DTEND:20280222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 6th Anniversary
-DESCRIPTION:Uki Violeta 6th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 6th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022029
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20290222T020000Z
 DTEND:20290222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 7th Anniversary
-DESCRIPTION:Uki Violeta 7th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 7th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022030
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20300222T020000Z
 DTEND:20300222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 8th Anniversary
-DESCRIPTION:Uki Violeta 8th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 8th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022031
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20310222T020000Z
 DTEND:20310222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 9th Anniversary
-DESCRIPTION:Uki Violeta 9th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 9th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022032
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20320222T020000Z
 DTEND:20320222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 10th Anniversary
-DESCRIPTION:Uki Violeta 10th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 10th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022033
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20330222T020000Z
 DTEND:20330222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 11th Anniversary
-DESCRIPTION:Uki Violeta 11th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 11th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022034
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20340222T020000Z
 DTEND:20340222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 12th Anniversary
-DESCRIPTION:Uki Violeta 12th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 12th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42a7d3de-5fad-4bf4-94ec-e883fc022035
-DTSTAMP:20250313T133713Z
+DTSTAMP:20250316T072407Z
 DTSTART:20350222T020000Z
 DTEND:20350222T020001Z
 TRANSP:TRANSPARENT
 SUMMARY:Uki Violeta 13th Anniversary
-DESCRIPTION:Uki Violeta 13th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:02 (JST)\nFirst stream: Feb 27, 2022 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
+DESCRIPTION:Uki Violeta 13th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:00 (JST)\nFirst stream: Feb 27, 2022, 11:40 (JST)\n\n\n==========\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n
 URL:https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

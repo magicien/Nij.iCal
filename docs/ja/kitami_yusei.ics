@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897012024
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20240804
 DTEND:20240804
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022024
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20240312T091000Z
 DTEND:20240312T094000Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:北見遊征 活動開始\n\n==========\n【北見遊征】\nYouTube
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
+UID:5ff75948-67c6-4e79-9815-a32897032024
+DTSTAMP:20250316T055019Z
+DTSTART:20240315T100000Z
+DTEND:20240315T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:北見遊征 初配信
+DESCRIPTION:北見遊征 初配信\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+URL:https://www.youtube.com/@KitamiYusei
+END:VEVENT
+BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022025
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20250312T091000Z
 DTEND:20250312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 1周年
-DESCRIPTION:北見遊征 1周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 1周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022026
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20260312T091000Z
 DTEND:20260312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 2周年
-DESCRIPTION:北見遊征 2周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 2周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022027
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20270312T091000Z
 DTEND:20270312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 3周年
-DESCRIPTION:北見遊征 3周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 3周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022028
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20280312T091000Z
 DTEND:20280312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 4周年
-DESCRIPTION:北見遊征 4周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 4周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022029
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20290312T091000Z
 DTEND:20290312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 5周年
-DESCRIPTION:北見遊征 5周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 5周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022030
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20300312T091000Z
 DTEND:20300312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 6周年
-DESCRIPTION:北見遊征 6周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 6周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022031
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20310312T091000Z
 DTEND:20310312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 7周年
-DESCRIPTION:北見遊征 7周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 7周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022032
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20320312T091000Z
 DTEND:20320312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 8周年
-DESCRIPTION:北見遊征 8周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 8周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022033
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20330312T091000Z
 DTEND:20330312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 9周年
-DESCRIPTION:北見遊征 9周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 9周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022034
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20340312T091000Z
 DTEND:20340312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 10周年
-DESCRIPTION:北見遊征 10周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 10周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:5ff75948-67c6-4e79-9815-a32897022035
-DTSTAMP:20250313T133448Z
+DTSTAMP:20250316T055019Z
 DTSTART:20350312T091000Z
 DTEND:20350312T091001Z
 TRANSP:TRANSPARENT
 SUMMARY:北見遊征 11周年
-DESCRIPTION:北見遊征 11周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
+DESCRIPTION:北見遊征 11周年\n\n初ツイート：2024/03/12 18:10 （日本時間）\n初配信：2024/03/15 19:00 （日本時間）\n\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n
 URL:https://www.youtube.com/@KitamiYusei
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

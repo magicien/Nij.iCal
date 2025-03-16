@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481012020
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20200907
 DTEND:20200907
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022019
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20191226T072600Z
 DTEND:20191226T075600Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:Kurusu Natsume Debut\n\n==========\n【Kurusu Natsume】\nYouTube: h
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
+UID:eacd4033-84c6-45f2-a214-e3b481032019
+DTSTAMP:20250316T032124Z
+DTSTART:20191229T113300Z
+DTEND:20191229T120300Z
+TRANSP:TRANSPARENT
+SUMMARY:Kurusu Natsume Debut stream
+DESCRIPTION:Kurusu Natsume Debut stream\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
+END:VEVENT
+BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022020
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20201226T072600Z
 DTEND:20201226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 1st Anniversary
-DESCRIPTION:Kurusu Natsume 1st Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 1st Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022021
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20211226T072600Z
 DTEND:20211226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 2nd Anniversary
-DESCRIPTION:Kurusu Natsume 2nd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 2nd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022022
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20221226T072600Z
 DTEND:20221226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 3rd Anniversary
-DESCRIPTION:Kurusu Natsume 3rd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 3rd Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022023
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20231226T072600Z
 DTEND:20231226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 4th Anniversary
-DESCRIPTION:Kurusu Natsume 4th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 4th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022024
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20241226T072600Z
 DTEND:20241226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 5th Anniversary
-DESCRIPTION:Kurusu Natsume 5th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 5th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022025
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20251226T072600Z
 DTEND:20251226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 6th Anniversary
-DESCRIPTION:Kurusu Natsume 6th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 6th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022026
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20261226T072600Z
 DTEND:20261226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 7th Anniversary
-DESCRIPTION:Kurusu Natsume 7th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 7th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022027
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20271226T072600Z
 DTEND:20271226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 8th Anniversary
-DESCRIPTION:Kurusu Natsume 8th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 8th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022028
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20281226T072600Z
 DTEND:20281226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 9th Anniversary
-DESCRIPTION:Kurusu Natsume 9th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 9th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022029
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20291226T072600Z
 DTEND:20291226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 10th Anniversary
-DESCRIPTION:Kurusu Natsume 10th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 10th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022030
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20301226T072600Z
 DTEND:20301226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 11th Anniversary
-DESCRIPTION:Kurusu Natsume 11th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 11th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022031
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20311226T072600Z
 DTEND:20311226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 12th Anniversary
-DESCRIPTION:Kurusu Natsume 12th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 12th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022032
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20321226T072600Z
 DTEND:20321226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 13th Anniversary
-DESCRIPTION:Kurusu Natsume 13th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 13th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022033
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20331226T072600Z
 DTEND:20331226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 14th Anniversary
-DESCRIPTION:Kurusu Natsume 14th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 14th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022034
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20341226T072600Z
 DTEND:20341226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 15th Anniversary
-DESCRIPTION:Kurusu Natsume 15th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 15th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:eacd4033-84c6-45f2-a214-e3b481022035
-DTSTAMP:20250313T132611Z
+DTSTAMP:20250316T032124Z
 DTSTART:20351226T072600Z
 DTEND:20351226T072601Z
 TRANSP:TRANSPARENT
 SUMMARY:Kurusu Natsume 16th Anniversary
-DESCRIPTION:Kurusu Natsume 16th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:12 (JST)\nFirst stream: Dec 29, 2019 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
+DESCRIPTION:Kurusu Natsume 16th Anniversary\n\nFirst tweet: Dec 26, 2019, 16:26 (JST)\nFirst stream: Dec 29, 2019, 20:33 (JST)\n\n\n==========\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n
 URL:https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

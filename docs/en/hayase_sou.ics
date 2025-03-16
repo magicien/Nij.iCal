@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba012020
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20200320
 DTEND:20200320
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022019
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20190919T070000Z
 DTEND:20190919T073000Z
 TRANSP:TRANSPARENT
@@ -38,168 +38,178 @@ DESCRIPTION:Hayase Sou Debut\n\n==========\n【Hayase Sou】\nYouTube: https://w
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
+UID:a032498f-438a-4314-b9e9-bd1dba032019
+DTSTAMP:20250316T024558Z
+DTSTART:20190921T120000Z
+DTEND:20190921T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayase Sou Debut stream
+DESCRIPTION:Hayase Sou Debut stream\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
+END:VEVENT
+BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022020
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20200919T070000Z
 DTEND:20200919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 1st Anniversary
-DESCRIPTION:Hayase Sou 1st Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 1st Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022021
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20210919T070000Z
 DTEND:20210919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 2nd Anniversary
-DESCRIPTION:Hayase Sou 2nd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 2nd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022022
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20220919T070000Z
 DTEND:20220919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 3rd Anniversary
-DESCRIPTION:Hayase Sou 3rd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 3rd Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022023
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20230919T070000Z
 DTEND:20230919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 4th Anniversary
-DESCRIPTION:Hayase Sou 4th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 4th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022024
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20240919T070000Z
 DTEND:20240919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 5th Anniversary
-DESCRIPTION:Hayase Sou 5th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 5th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022025
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20250919T070000Z
 DTEND:20250919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 6th Anniversary
-DESCRIPTION:Hayase Sou 6th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 6th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022026
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20260919T070000Z
 DTEND:20260919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 7th Anniversary
-DESCRIPTION:Hayase Sou 7th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 7th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022027
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20270919T070000Z
 DTEND:20270919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 8th Anniversary
-DESCRIPTION:Hayase Sou 8th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 8th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022028
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20280919T070000Z
 DTEND:20280919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 9th Anniversary
-DESCRIPTION:Hayase Sou 9th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 9th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022029
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20290919T070000Z
 DTEND:20290919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 10th Anniversary
-DESCRIPTION:Hayase Sou 10th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 10th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022030
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20300919T070000Z
 DTEND:20300919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 11th Anniversary
-DESCRIPTION:Hayase Sou 11th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 11th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022031
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20310919T070000Z
 DTEND:20310919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 12th Anniversary
-DESCRIPTION:Hayase Sou 12th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 12th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022032
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20320919T070000Z
 DTEND:20320919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 13th Anniversary
-DESCRIPTION:Hayase Sou 13th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 13th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022033
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20330919T070000Z
 DTEND:20330919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 14th Anniversary
-DESCRIPTION:Hayase Sou 14th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 14th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022034
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20340919T070000Z
 DTEND:20340919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 15th Anniversary
-DESCRIPTION:Hayase Sou 15th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 15th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:a032498f-438a-4314-b9e9-bd1dba022035
-DTSTAMP:20250313T132522Z
+DTSTAMP:20250316T024558Z
 DTSTART:20350919T070000Z
 DTEND:20350919T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayase Sou 16th Anniversary
-DESCRIPTION:Hayase Sou 16th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:09 (JST)\nFirst stream: Sep 21, 2019 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
+DESCRIPTION:Hayase Sou 16th Anniversary\n\nFirst tweet: Sep 19, 2019, 16:00 (JST)\nFirst stream: Sep 21, 2019, 21:00 (JST)\n\n\n==========\n【Hayase Sou】\nYouTube: https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\nX: https://twitter.com/SouHayase\n\n
 URL:https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a012025
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20250424
 DTEND:20250424
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022024
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20240619T090500Z
 DTEND:20240619T093500Z
 TRANSP:TRANSPARENT
@@ -38,118 +38,128 @@ DESCRIPTION:Tamanoi Nana Debut\n\n==========\n【Tamanoi Nana】\nYouTube: https
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
+UID:3b603783-e660-4103-aadc-92513a032024
+DTSTAMP:20250316T055224Z
+DTSTART:20240622T103000Z
+DTEND:20240622T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Tamanoi Nana Debut stream
+DESCRIPTION:Tamanoi Nana Debut stream\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://www.youtube.com/@TamanoiNana
+END:VEVENT
+BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022025
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20250619T090500Z
 DTEND:20250619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 1st Anniversary
-DESCRIPTION:Tamanoi Nana 1st Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 1st Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022026
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20260619T090500Z
 DTEND:20260619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 2nd Anniversary
-DESCRIPTION:Tamanoi Nana 2nd Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 2nd Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022027
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20270619T090500Z
 DTEND:20270619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 3rd Anniversary
-DESCRIPTION:Tamanoi Nana 3rd Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 3rd Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022028
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20280619T090500Z
 DTEND:20280619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 4th Anniversary
-DESCRIPTION:Tamanoi Nana 4th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 4th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022029
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20290619T090500Z
 DTEND:20290619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 5th Anniversary
-DESCRIPTION:Tamanoi Nana 5th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 5th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022030
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20300619T090500Z
 DTEND:20300619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 6th Anniversary
-DESCRIPTION:Tamanoi Nana 6th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 6th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022031
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20310619T090500Z
 DTEND:20310619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 7th Anniversary
-DESCRIPTION:Tamanoi Nana 7th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 7th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022032
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20320619T090500Z
 DTEND:20320619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 8th Anniversary
-DESCRIPTION:Tamanoi Nana 8th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 8th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022033
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20330619T090500Z
 DTEND:20330619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 9th Anniversary
-DESCRIPTION:Tamanoi Nana 9th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 9th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022034
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20340619T090500Z
 DTEND:20340619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 10th Anniversary
-DESCRIPTION:Tamanoi Nana 10th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 10th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:3b603783-e660-4103-aadc-92513a022035
-DTSTAMP:20250313T133459Z
+DTSTAMP:20250316T055224Z
 DTSTART:20350619T090500Z
 DTEND:20350619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 11th Anniversary
-DESCRIPTION:Tamanoi Nana 11th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:06 (JST)\nFirst stream: Jun 22, 2024 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+DESCRIPTION:Tamanoi Nana 11th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY

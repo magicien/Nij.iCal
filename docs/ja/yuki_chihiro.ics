@@ -18,7 +18,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05012018
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20180716
 DTEND:20180716
 RRULE:FREQ=YEARLY
@@ -29,7 +29,7 @@ URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05022018
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20180201T020700Z
 DTEND:20180201T023700Z
 TRANSP:TRANSPARENT
@@ -38,58 +38,68 @@ DESCRIPTION:勇気ちひろ 活動開始\n\n==========\n【勇気ちひろ】\nY
 URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
+UID:8d0a6fe0-22c7-4436-b7e0-0bdc05032018
+DTSTAMP:20250315T135008Z
+DTSTART:20180209T130000Z
+DTEND:20180209T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:勇気ちひろ 初配信
+DESCRIPTION:勇気ちひろ 初配信\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
+URL:https://www.youtube.com/@YukiChihiro
+END:VEVENT
+BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05022019
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20190201T020700Z
 DTEND:20190201T020701Z
 TRANSP:TRANSPARENT
 SUMMARY:勇気ちひろ 1周年
-DESCRIPTION:勇気ちひろ 1周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
+DESCRIPTION:勇気ちひろ 1周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 22:00 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
 URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05022020
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20200201T020700Z
 DTEND:20200201T020701Z
 TRANSP:TRANSPARENT
 SUMMARY:勇気ちひろ 2周年
-DESCRIPTION:勇気ちひろ 2周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
+DESCRIPTION:勇気ちひろ 2周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 22:00 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
 URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05022021
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20210201T020700Z
 DTEND:20210201T020701Z
 TRANSP:TRANSPARENT
 SUMMARY:勇気ちひろ 3周年
-DESCRIPTION:勇気ちひろ 3周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
+DESCRIPTION:勇気ちひろ 3周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 22:00 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
 URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05022022
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20220201T020700Z
 DTEND:20220201T020701Z
 TRANSP:TRANSPARENT
 SUMMARY:勇気ちひろ 4周年
-DESCRIPTION:勇気ちひろ 4周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
+DESCRIPTION:勇気ちひろ 4周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 22:00 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
 URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05022023
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20230201T020700Z
 DTEND:20230201T020701Z
 TRANSP:TRANSPARENT
 SUMMARY:勇気ちひろ 5周年
-DESCRIPTION:勇気ちひろ 5周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
+DESCRIPTION:勇気ちひろ 5周年\n\n初ツイート：2018/02/01 11:07 （日本時間）\n初配信：2018/02/09 22:00 （日本時間）\n\n\n==========\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
 URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a6fe0-22c7-4436-b7e0-0bdc05992024
-DTSTAMP:20250313T131859Z
+DTSTAMP:20250315T135008Z
 DTSTART:20240131
 DTEND:20240131
 TRANSP:TRANSPARENT
@@ -99,7 +109,7 @@ URL:https://www.youtube.com/@YukiChihiro
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250313T131841Z
+DTSTAMP:20250315T132108Z
 DTSTART:20190203
 DTEND:20190203
 RRULE:FREQ=YEARLY
