@@ -1,6 +1,7 @@
 import arrow
 from dataclasses import dataclass, field
 from .talent import Talent
+from .ticket import Ticket
 
 
 @dataclass(frozen=True)
@@ -21,6 +22,7 @@ class Event:
     eng_description: str
     url: str | None
     talents: list[Talent] = field(default_factory=list)
+    tickets: list[Ticket] = field(default_factory=list)
 
     def generate_ical(self, is_english: bool = False) -> str:
         datetime_format = "YYYYMMDDTHHmmss[Z]"
@@ -33,8 +35,9 @@ class Event:
         )
 
         if self.all_day:
-            result += self.param("DTSTART", self.begin.format(date_format))
-            result += self.param("DTEND", self.end.format(date_format))
+            result += self.param("DTSTART;VALUE=DATE", self.begin.format(date_format))
+            if self.begin != self.end:
+                result += self.param("DTEND;VALUE=DATE", self.end.format(date_format))
         else:
             result += self.param(
                 "DTSTART", self.begin.to("utc").format(datetime_format)
@@ -62,6 +65,7 @@ class Event:
             result += self.param(
                 "DESCRIPTION",
                 self.eng_description
+                + self.generate_ticket_description(is_english=True)
                 + self.generate_talent_description(is_english=True),
             )
 
@@ -76,7 +80,9 @@ class Event:
 
             result += self.param(
                 "DESCRIPTION",
-                self.description + self.generate_talent_description(is_english=False),
+                self.description
+                + self.generate_ticket_description(is_english=False)
+                + self.generate_talent_description(is_english=False),
             )
 
         if type(self.url) is str:
@@ -127,7 +133,47 @@ class Event:
 
         # return result
 
+    def generate_ticket_description(self, is_english: bool) -> str:
+        if len(self.tickets) <= 0:
+            return ""
+
+        result = ""
+        if is_english:
+            result = "\n\n==========\nTicket Info:\n\n"
+        else:
+            result = "\n\n==========\nチケット情報：\n\n"
+
+        for ticket in self.tickets:
+            ticket_date = ""
+            if is_english:
+                if type(ticket.begin) is arrow.Arrow:
+                    # April 22, 2025, 12:00 PM
+                    ticket_date += "from " + ticket.begin.format("MMM D, YYYY, H:mm")
+                    if type(ticket.end) is arrow.Arrow:
+                        ticket_date += " until " + ticket.end.format(
+                            "MMM D, YYYY, H:mm"
+                        )
+                else:
+                    ticket_date += "until " + ticket.end.format("MMM D, YYYY, H:mm")
+            else:
+                if type(ticket.begin) is arrow.Arrow:
+                    ticket_date += ticket.begin.format("YYYY/M/D H:mm")
+
+                ticket_date += "〜"
+                if type(ticket.end) is arrow.Arrow:
+                    ticket_date += ticket.end.format("YYYY/M/D H:mm")
+
+            result += f"{ticket.eng_summary if is_english else ticket.summary} ({ticket_date})\n"
+            if type(ticket.url) is str:
+                result += f"{ticket.url}\n"
+            result += "\n"
+
+        return result
+
     def generate_talent_description(self, is_english: bool) -> str:
+        if len(self.talents) <= 0:
+            return ""
+
         result = "\n\n==========\n"
 
         for talent in self.talents:

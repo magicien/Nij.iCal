@@ -35,7 +35,8 @@ def split_text_for_tweets(text: str) -> list[str]:
 def main() -> int:
     talent_file = sys.argv[1]
     event_file = sys.argv[2]
-    instance = NijiCal(talent_file, event_file)
+    ticket_file = sys.argv[3]
+    instance = NijiCal(talent_file, event_file, ticket_file)
     tzinfo = "+09:00"
     today = arrow.now(tzinfo)
     tomorrow = today.shift(days=1)
@@ -74,6 +75,8 @@ def main() -> int:
     en_tweets = split_text_for_tweets(en_text_today + en_text_tomorrow)
     for t in en_tweets:
         print(f"=====================\n{t}\n=====================\n")
+
+    return 0
 
     try:
         ja_client = tweepy.Client(

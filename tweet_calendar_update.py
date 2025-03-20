@@ -19,6 +19,11 @@ def main() -> int:
     ja_text = f"カレンダーを更新しました: {ja_body}"
     en_text = f"The calendar data has been updated: {en_body}"
 
+    print(ja_text)
+    print(en_text)
+
+    return 0
+
     try:
         ja_client = tweepy.Client(
             bearer_token=os.environ["JA_BEARER_TOKEN"],

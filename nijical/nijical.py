@@ -3,19 +3,25 @@ import pandas as pd
 from .calendar import Calendar
 from .event import Event
 from .talent import Talent
+from .ticket import Ticket
 
 
 class NijiCal:
     talent_data_path: str
     event_data_path: str
+    ticket_data_path: str
 
-    def __init__(self, talent_data_path: str, event_data_path: str) -> None:
+    def __init__(
+        self, talent_data_path: str, event_data_path: str, ticket_data_path: str
+    ) -> None:
         self.talent_data_path = talent_data_path
         self.event_data_path = event_data_path
+        self.ticket_data_path = ticket_data_path
 
     def generate_all(self) -> int:
         talents = self.fetch_talents()
-        live_events = self.fetch_events(talents)
+        tickets = self.fetch_tickets()
+        live_events = self.fetch_events(talents, tickets)
         talent_events = self.generate_talent_events(talents)
         talent_events.append(self.generate_nijisanji_day_event(talents))
 
@@ -171,12 +177,15 @@ class NijiCal:
 
         return talents
 
-    def fetch_events(self, talents: dict[str, Talent]) -> list[Event]:
+    def fetch_events(
+        self, talents: dict[str, Talent], tickets: dict[str, list[Ticket]]
+    ) -> list[Event]:
         data = pd.read_csv(self.event_data_path, encoding="utf_8_sig")
         tzinfo = "+09:00"
 
         events: list[Event] = []
         for row in data.itertuples():
+            uid = row[2]
             timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
             begin = arrow.get(row[5], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
             end = arrow.get(row[6], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
@@ -186,8 +195,12 @@ class NijiCal:
             for talent_name in talent_names:
                 event_talents.append(talents[talent_name])
 
+            event_tickets: list[Ticket] = []
+            if uid in tickets:
+                event_tickets = tickets[uid]
+
             event = Event(
-                uid=row[2],
+                uid=uid,
                 timestamp=timestamp,
                 begin=begin,
                 end=end,
@@ -203,10 +216,117 @@ class NijiCal:
                 eng_description=row[11],
                 url=row[12],
                 talents=event_talents,
+                tickets=event_tickets,
             )
             events.append(event)
 
+            for ticket in event_tickets:
+                events += self.generate_ticket_events(event, ticket)
+
         return events
+
+    def generate_ticket_events(self, event: Event, ticket: Ticket) -> list[Event]:
+        ticket_events: list[Event] = []
+
+        description = ""
+        eng_description = ""
+        if type(ticket.url) is str:
+            description += f"チケット:\n{ticket.url}\n\n"
+            eng_description += f"Ticket:\n{ticket.url}\n\n"
+        description += f"イベント:\n{event.url}\n"
+        eng_description += f"Event:\n{event.url}\n"
+
+        if type(ticket.begin) is arrow.Arrow:
+            uid = ticket.uid[:-1] + "1"
+            summary = f"[チケット]{event.summary}: {ticket.summary} 開始"
+            eng_summary = f"[Ticket]{event.eng_summary}: {ticket.eng_summary} starts"
+
+            begin_event = Event(
+                uid=uid,
+                timestamp=ticket.timestamp,
+                begin=ticket.begin,
+                end=ticket.begin.shift(minutes=30),
+                all_day=False,
+                yearly=False,
+                repeat_until=None,
+                summary=summary,
+                eng_summary=eng_summary,
+                location=None,
+                eng_location=None,
+                geo=None,
+                description=description,
+                eng_description=eng_description,
+                url=ticket.url,
+                talents=event.talents,
+                tickets=[],
+            )
+            ticket_events.append(begin_event)
+
+        if type(ticket.end) is arrow.Arrow:
+            uid = ticket.uid[:-1] + "2"
+            summary = f"[チケット]{event.summary}: {ticket.summary} 終了"
+            eng_summary = f"[Ticket]{event.eng_summary}: {ticket.eng_summary} ends"
+
+            end_event = Event(
+                uid=uid,
+                timestamp=ticket.timestamp,
+                begin=ticket.end,
+                end=ticket.end.shift(minutes=30),
+                all_day=False,
+                yearly=False,
+                repeat_until=None,
+                summary=summary,
+                eng_summary=eng_summary,
+                location=None,
+                eng_location=None,
+                geo=None,
+                description=description,
+                eng_description=eng_description,
+                url=ticket.url,
+                talents=event.talents,
+                tickets=[],
+            )
+            ticket_events.append(end_event)
+
+        return ticket_events
+
+    def fetch_tickets(self) -> dict[str, list[Ticket]]:
+        data = pd.read_csv(self.ticket_data_path, encoding="utf_8_sig")
+        tzinfo = "+09:00"
+
+        tickets: dict[str, list[Talent]] = {}
+        for row in data.itertuples():
+            event_uid = row[5]
+            timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
+
+            begin: arrow.Arrow | None = None
+            if type(row[7]) is str:
+                begin = arrow.get(row[7], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+
+            end: arrow.Arrow | None = None
+            if type(row[8]) is str:
+                end = arrow.get(row[8], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+
+            if begin is None and end is None:
+                continue
+
+            ticket = Ticket(
+                uid=row[2],
+                timestamp=timestamp,
+                event_uid=event_uid,
+                begin=begin,
+                end=end,
+                summary=row[1],
+                eng_summary=row[4],
+                url=row[9],
+            )
+
+            if event_uid not in tickets:
+                tickets[event_uid] = []
+
+            tickets[event_uid].append(ticket)
+
+        return tickets
 
     def generate_talent_events(self, talents) -> list[Event]:
         events: list[Event] = []
@@ -249,7 +369,7 @@ class NijiCal:
             uid=uid,
             timestamp=talent.timestamp,
             begin=talent.birthday,
-            end=talent.birthday,
+            end=talent.birthday.shift(days=1),
             all_day=True,
             yearly=True,
             repeat_until=repeat_until,
@@ -399,7 +519,7 @@ class NijiCal:
             uid=uid,
             timestamp=talent.timestamp,
             begin=talent.graduation_date,
-            end=talent.graduation_date,
+            end=talent.graduation_date.shift(days=1),
             all_day=True,
             yearly=False,
             repeat_until=None,
