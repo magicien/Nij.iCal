@@ -13,26 +13,106 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\nチケット情報：\n\n4月分チケット先行抽選 (2025/3/20 12:00〜2025/3/23 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n4月分チケット一般販売（先着） (2025/3/31 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
+DTSTAMP:20250320T045345Z
+DTSTART:20250320T030000Z
+DTEND:20250320T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス展: 4月分チケット先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
+DTSTAMP:20250320T045345Z
+DTSTART:20250323T145900Z
+DTEND:20250323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス展: 4月分チケット先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:508c0166-d603-42db-ad16-bf9b8611ad61
+DTSTAMP:20250320T045243Z
+DTSTART:20250331T030000Z
+DTEND:20250331T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス展: 4月分チケット一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
 UID:c4ee24af-8fec-45c0-8695-14171d44bfc5
-DTSTAMP:20250306T082635Z
+DTSTAMP:20250320T081452Z
 DTSTART:20250510T090000Z
 DTEND:20250510T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演
 LOCATION:仙台サンプラザホール
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="仙台サンプラザホール":geo:38.257682,140.894160
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nチケット：総合ファンクラブ先行抽選（〜3/16 23:59）\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\nチケット情報：\n\n総合ファンクラブ先行抽選 (2025/3/4 18:00〜2025/3/16 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\nイープラス先行抽選 (2025/3/24 12:00〜2025/3/30 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\n一般販売（先着） (2025/4/12 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b13641d-de15-4f1a-a3a1-ae0ba965f391
+DTSTAMP:20250320T050135Z
+DTSTART:20250304T090000Z
+DTEND:20250304T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演: 総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://eplus.jp/nijisanji-world-tour/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b13641d-de15-4f1a-a3a1-ae0ba965f392
+DTSTAMP:20250320T050135Z
+DTSTART:20250316T145900Z
+DTEND:20250316T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演: 総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://eplus.jp/nijisanji-world-tour/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:b867bc6b-f282-465b-b28c-439f59a89f41
+DTSTAMP:20250320T050142Z
+DTSTART:20250324T030000Z
+DTEND:20250324T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:b867bc6b-f282-465b-b28c-439f59a89f42
+DTSTAMP:20250320T050142Z
+DTSTART:20250330T145900Z
+DTEND:20250330T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:1d05e89f-001e-4643-ad44-75f330bfe8e1
+DTSTAMP:20250320T050147Z
+DTSTART:20250412T030000Z
+DTEND:20250412T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 仙台公演: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【山神カルタ】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:dbadd646-fb83-4eed-b5a1-fa8ec5012019
 DTSTAMP:20250315T151601Z
-DTSTART:20190202
-DTEND:20190202
+DTSTART;VALUE=DATE:20190202
+DTEND;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:卯月コウ 誕生日
@@ -232,8 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
 DTSTAMP:20250315T132108Z
-DTSTART:20190203
-DTEND:20190203
+DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日

@@ -13,8 +13,38 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
+DTSTAMP:20250320T045345Z
+DTSTART:20250320T030000Z
+DTEND:20250320T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
+DTSTAMP:20250320T045345Z
+DTSTART:20250323T145900Z
+DTEND:20250323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:508c0166-d603-42db-ad16-bf9b8611ad61
+DTSTAMP:20250320T045243Z
+DTSTART:20250331T030000Z
+DTEND:20250331T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:587c2d54-bd95-44eb-9df8-f575c5b455db
@@ -25,8 +55,26 @@ TRANSP:TRANSPARENT
 SUMMARY:Niji Holo Interleague Match 2025
 LOCATION:ES CON FIELD HOKKAIDO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="ES CON FIELD HOKKAIDO":geo:42.990155,141.549647
-DESCRIPTION:Special Site\nhttps://www.nijiholo-koryusen.jp\n\nX Account\nhttps://x.com/nijiholo_koryu\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:Special Site\nhttps://www.nijiholo-koryusen.jp\n\nX Account\nhttps://x.com/nijiholo_koryu\n\n==========\nTicket Info:\n\nNijisanji/Hololive Support Area (Lottery Sales) (from Mar 24, 2025, 12:00)\n\nAll area (first come, first served) (from Apr 5, 2025, 12:00)\n\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://www.nijiholo-koryusen.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:44a58e43-ec56-4172-befa-6c76822c9e11
+DTSTAMP:20250320T050254Z
+DTSTART:20250324T030000Z
+DTEND:20250324T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji Holo Interleague Match 2025: Nijisanji/Hololive Support Area (Lottery Sales) starts
+DESCRIPTION:Event:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2d1450-8698-4573-885a-f5e57bc05341
+DTSTAMP:20250320T050331Z
+DTSTART:20250405T030000Z
+DTEND:20250405T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji Holo Interleague Match 2025: All area (first come, first served) starts
+DESCRIPTION:Event:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:72460880-d374-4b14-a7fd-cb391d793a0b
@@ -43,8 +91,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:30d68adc-35e9-4bfc-bf5f-095037012020
 DTSTAMP:20250316T024813Z
-DTSTART:20200807
-DTEND:20200807
+DTSTART;VALUE=DATE:20200807
+DTEND;VALUE=DATE:20200808
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Hoshikawa Sara Birthday
@@ -234,8 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
 DTSTAMP:20250315T132108Z
-DTSTART:20190203
-DTEND:20190203
+DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day

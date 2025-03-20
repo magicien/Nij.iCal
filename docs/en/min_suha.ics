@@ -13,14 +13,44 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
+DTSTAMP:20250320T045345Z
+DTSTART:20250320T030000Z
+DTEND:20250320T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
+DTSTAMP:20250320T045345Z
+DTSTART:20250323T145900Z
+DTEND:20250323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:508c0166-d603-42db-ad16-bf9b8611ad61
+DTSTAMP:20250320T045243Z
+DTSTART:20250331T030000Z
+DTEND:20250331T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5b067-8817-419b-9006-146177012020
 DTSTAMP:20250316T043903Z
-DTSTART:20200403
-DTEND:20200403
+DTSTART;VALUE=DATE:20200403
+DTEND;VALUE=DATE:20200404
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Min Suha Birthday
@@ -200,8 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
 DTSTAMP:20250315T132108Z
-DTSTART:20190203
-DTEND:20190203
+DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day

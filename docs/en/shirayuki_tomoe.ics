@@ -13,38 +13,124 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
+DTSTAMP:20250320T045345Z
+DTSTART:20250320T030000Z
+DTEND:20250320T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
+DTSTAMP:20250320T045345Z
+DTSTART:20250323T145900Z
+DTEND:20250323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:508c0166-d603-42db-ad16-bf9b8611ad61
+DTSTAMP:20250320T045243Z
+DTSTART:20250331T030000Z
+DTEND:20250331T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
 UID:cdebb070-7955-4a01-adc5-07ee77b36727
-DTSTAMP:20250315T080637Z
+DTSTAMP:20250320T081515Z
 DTSTART:20250503T040000Z
 DTEND:20250503T060000Z
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki's FAN Meeting - Fan meeting part
 LOCATION:RIHGA Royal Hotel Tokyo
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="RIHGA Royal Hotel Tokyo":geo:35.710604,139.722628
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_580\n\nTickets: Fan club premium plan advance lottery (March 17th 18:00~ JST)\nhttps://eplus.jp/shirayukitomoe_fmt_p/\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_580\n\n\n==========\nTicket Info:\n\nShirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan members pre-sale lottery (from Mar 17, 2025, 18:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom\n\nShirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale lottery (from Mar 28, 2025, 18:00 until Mar 31, 2025, 23:59)\n\nShirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale (first come, first served) (from Apr 11, 2025, 18:00 until Apr 16, 2025, 23:59)\n\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 END:VEVENT
 BEGIN:VEVENT
+UID:082760b7-5474-417c-83b5-ff310e75e561
+DTSTAMP:20250320T050006Z
+DTSTART:20250317T090000Z
+DTEND:20250317T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Shirayuki's FAN Meeting - Fan meeting part: Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan members pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom\n\nEvent:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+URL:https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom
+END:VEVENT
+BEGIN:VEVENT
+UID:082760b7-5474-417c-83b5-ff310e75e562
+DTSTAMP:20250320T050006Z
+DTSTART:20250323T145900Z
+DTEND:20250323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Shirayuki's FAN Meeting - Fan meeting part: Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan members pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom\n\nEvent:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+URL:https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom
+END:VEVENT
+BEGIN:VEVENT
+UID:077717e3-ff6f-4194-8784-469549c38251
+DTSTAMP:20250320T050030Z
+DTSTART:20250328T090000Z
+DTEND:20250328T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Shirayuki's FAN Meeting - Fan meeting part: Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale lottery starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:077717e3-ff6f-4194-8784-469549c38252
+DTSTAMP:20250320T050030Z
+DTSTART:20250331T145900Z
+DTEND:20250331T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Shirayuki's FAN Meeting - Fan meeting part: Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale lottery ends
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:5bbd19be-9613-4d6c-9103-697cb54794b1
+DTSTAMP:20250320T050107Z
+DTSTART:20250411T090000Z
+DTEND:20250411T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Shirayuki's FAN Meeting - Fan meeting part: Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale (first come, first served) starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:5bbd19be-9613-4d6c-9103-697cb54794b2
+DTSTAMP:20250320T050107Z
+DTSTART:20250416T145900Z
+DTEND:20250416T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Shirayuki's FAN Meeting - Fan meeting part: Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale (first come, first served) ends
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+END:VEVENT
+BEGIN:VEVENT
 UID:a4a672b4-286f-4473-bd18-f6cdcc7f82e3
-DTSTAMP:20250315T080711Z
+DTSTAMP:20250320T081506Z
 DTSTART:20250503T090000Z
 DTEND:20250503T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki's FAN Meeting - Dinner show part
 LOCATION:RIHGA Royal Hotel Tokyo
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="RIHGA Royal Hotel Tokyo":geo:35.710604,139.722628
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_580\n\nTickets: Fan club premium plan advance lottery (March 17th 18:00~ JST)\nhttps://eplus.jp/shirayukitomoe_fmt_p/\n\nNo live streaming scheduled\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_580\n\nNo live streaming scheduled\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:69944e92-e109-4049-b66d-eaff1e012020
 DTSTAMP:20250316T031817Z
-DTSTART:20200208
-DTEND:20200208
+DTSTART;VALUE=DATE:20200208
+DTEND;VALUE=DATE:20200209
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki Tomoe Birthday
@@ -234,8 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
 DTSTAMP:20250315T132108Z
-DTSTART:20190203
-DTEND:20190203
+DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
