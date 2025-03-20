@@ -13,8 +13,38 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\nチケット情報：\n\n4月分チケット先行抽選 (2025/3/20 12:00〜2025/3/23 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n4月分チケット一般販売（先着） (2025/3/31 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
+DTSTAMP:20250320T045345Z
+DTSTART:20250320T030000Z
+DTEND:20250320T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス展: 4月分チケット先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
+DTSTAMP:20250320T045345Z
+DTSTART:20250323T145900Z
+DTEND:20250323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス展: 4月分チケット先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:508c0166-d603-42db-ad16-bf9b8611ad61
+DTSTAMP:20250320T045243Z
+DTSTART:20250331T030000Z
+DTEND:20250331T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス展: 4月分チケット一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:60681f23-b184-4de9-84c2-2dedc25147e0
@@ -31,8 +61,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:badf7f8f-1451-4204-b353-3f1f87012024
 DTSTAMP:20250316T054926Z
-DTSTART:20240920
-DTEND:20240920
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240921
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:栞葉るり 誕生日
@@ -182,8 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
 DTSTAMP:20250315T132108Z
-DTSTART:20190203
-DTEND:20190203
+DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日

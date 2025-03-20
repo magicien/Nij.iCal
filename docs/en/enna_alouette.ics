@@ -13,26 +13,140 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
+DTSTAMP:20250320T045345Z
+DTSTART:20250320T030000Z
+DTEND:20250320T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
+DTSTAMP:20250320T045345Z
+DTSTART:20250323T145900Z
+DTEND:20250323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:508c0166-d603-42db-ad16-bf9b8611ad61
+DTSTAMP:20250320T045243Z
+DTSTART:20250331T030000Z
+DTEND:20250331T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
 UID:99562266-d3d3-4668-b0a9-d8cf4701e80f
-DTSTAMP:20250306T082010Z
+DTSTAMP:20250320T081528Z
 DTSTART:20250419T090000Z
 DTEND:20250419T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo
 LOCATION:J:COM Hall Hachioji
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="J:COM Hall Hachioji":geo:35.654300,139.337706
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\nTickets: General sale (first come, first served) (March 15th 12:00~ JST)\nhttps://r-t.jp/higuchi_2024_2025_tour_tokyo\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/FAqflIJ9jk\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_514\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_514\n\n\n==========\nTicket Info:\n\n"GAME GIRL" Serial code pre-sale lottery (from Oct 9, 2024, 12:00 until Oct 23, 2024, 23:59)\n\nGeneral and individual fan club pre-sale lottery (from Jan 29, 2025, 12:00 until Feb 9, 2025, 23:59)\n\nRakuten Ticket pre-sale lottery (from Feb 12, 2025, 12:00 until Feb 26, 2025, 23:59)\n\nGeneral sale (first come, first served) (from Mar 15, 2025, 12:00)\nhttps://ticket.rakuten.co.jp/event/RTY0MDS/\n\nOnline viewing (from Mar 27, 2025, 17:00 until May 5, 2025, 23:59)\nhttps://dwango-ticket.jp/project/FAqflIJ9jk\n\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
 URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:afff4e53-d0f1-443f-aaf6-6ef15289eb11
+DTSTAMP:20250320T045737Z
+DTSTART:20241009T030000Z
+DTEND:20241009T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: "GAME GIRL" Serial code pre-sale lottery starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:afff4e53-d0f1-443f-aaf6-6ef15289eb12
+DTSTAMP:20250320T045737Z
+DTSTART:20241023T145900Z
+DTEND:20241023T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: "GAME GIRL" Serial code pre-sale lottery ends
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:99b538d7-8ac4-4aa1-9d67-0a5ddf334871
+DTSTAMP:20250320T045810Z
+DTSTART:20250129T030000Z
+DTEND:20250129T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: General and individual fan club pre-sale lottery starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:99b538d7-8ac4-4aa1-9d67-0a5ddf334872
+DTSTAMP:20250320T045810Z
+DTSTART:20250209T145900Z
+DTEND:20250209T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: General and individual fan club pre-sale lottery ends
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:fc88d031-4a58-41d6-9d99-7cb95a469d91
+DTSTAMP:20250320T045900Z
+DTSTART:20250212T030000Z
+DTEND:20250212T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: Rakuten Ticket pre-sale lottery starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:fc88d031-4a58-41d6-9d99-7cb95a469d92
+DTSTAMP:20250320T045900Z
+DTSTART:20250226T145900Z
+DTEND:20250226T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: Rakuten Ticket pre-sale lottery ends
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:24cee520-bf68-46fd-bc75-ccd9b0f74251
+DTSTAMP:20250320T045903Z
+DTSTART:20250315T030000Z
+DTEND:20250315T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://ticket.rakuten.co.jp/event/RTY0MDS/\n\nEvent:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://ticket.rakuten.co.jp/event/RTY0MDS/
+END:VEVENT
+BEGIN:VEVENT
+UID:57c6c83f-83a0-4b01-adc6-cd6c2bdef561
+DTSTAMP:20250320T045915Z
+DTSTART:20250327T080000Z
+DTEND:20250327T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: Online viewing starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/FAqflIJ9jk\n\nEvent:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://dwango-ticket.jp/project/FAqflIJ9jk
+END:VEVENT
+BEGIN:VEVENT
+UID:57c6c83f-83a0-4b01-adc6-cd6c2bdef562
+DTSTAMP:20250320T045915Z
+DTSTART:20250505T145900Z
+DTEND:20250505T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo: Online viewing ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/FAqflIJ9jk\n\nEvent:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tour/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Enna Alouette】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://dwango-ticket.jp/project/FAqflIJ9jk
 END:VEVENT
 BEGIN:VEVENT
 UID:914e153f-b588-4ea4-8644-a84d63012022
 DTSTAMP:20250316T071339Z
-DTSTART:20220220
-DTEND:20220220
+DTSTART;VALUE=DATE:20220220
+DTEND;VALUE=DATE:20220221
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Enna Alouette Birthday
@@ -202,8 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
 DTSTAMP:20250315T132108Z
-DTSTART:20190203
-DTEND:20190203
+DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
