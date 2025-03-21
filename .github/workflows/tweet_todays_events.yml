@@ -6,7 +6,7 @@ on:
     - cron: '0 22 * * *' # 7:00 JST
 
 jobs:
-  update-calendars:
+  tweet-todays-events:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
