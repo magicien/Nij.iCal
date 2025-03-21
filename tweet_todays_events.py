@@ -76,8 +76,6 @@ def main() -> int:
     for t in en_tweets:
         print(f"=====================\n{t}\n=====================\n")
 
-    return 0
-
     try:
         ja_client = tweepy.Client(
             bearer_token=os.environ["JA_BEARER_TOKEN"],
