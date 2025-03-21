@@ -567,7 +567,8 @@ class NijiCal:
 
     def generate_tweet_for_date(self, date: arrow.Arrow) -> (str, str):
         talents = self.fetch_talents()
-        live_events = self.fetch_events(talents)
+        tickets = self.fetch_tickets()
+        live_events = self.fetch_events(talents, tickets)
         talent_events = self.generate_talent_events(talents)
         talent_events.append(self.generate_nijisanji_day_event(talents))
 
