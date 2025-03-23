@@ -583,17 +583,26 @@ class NijiCal:
         for ev in sorted_live_events:
             duration = ev.end - ev.begin
             if not ev.all_day and duration.days < 1 and ev.begin.day == date.day:
-                ja_text += f"{ev.begin.format('HH:mm')} {ev.summary}\n{ev.url}\n\n"
-                en_text += (
-                    f"{ev.begin.format('HH:mm')} JST {ev.eng_summary}\n{ev.url}\n\n"
-                )
+                ja_text += f"{ev.begin.format('HH:mm')} {ev.summary}\n"
+                en_text += f"{ev.begin.format('HH:mm')} JST {ev.eng_summary}\n"
             else:
-                ja_text += f"{ev.summary}\n{ev.url}\n\n"
-                en_text += f"{ev.eng_summary}\n{ev.url}\n\n"
+                ja_text += f"{ev.summary}\n"
+                en_text += f"{ev.eng_summary}\n"
+
+            if type(ev.url) is str:
+                ja_text += f"{ev.url}\n"
+                en_text += f"{ev.url}\n"
+            ja_text += "\n"
+            en_text += "\n"
 
         for ev in sorted_talent_events:
-            ja_text += f"{ev.summary}\n{ev.url}\n\n"
-            en_text += f"{ev.eng_summary}\n{ev.url}\n\n"
+            ja_text += f"{ev.summary}\n"
+            en_text += f"{ev.eng_summary}\n"
+            if type(ev.url) is str:
+                ja_text += f"{ev.url}\n"
+                en_text += f"{ev.url}\n"
+            ja_text += "\n"
+            en_text += "\n"
 
         return (ja_text, en_text)
 
