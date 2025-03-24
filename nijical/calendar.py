@@ -1,5 +1,7 @@
+import arrow
 from dataclasses import dataclass, field
 from .event import Event
+from .talent import Talent
 
 
 @dataclass
@@ -13,7 +15,7 @@ class Calendar:
         self.events.append(event)
 
     def generate_ical(
-        self, name: str, is_english: bool = False, talent: str | None = None
+        self, name: str, is_english: bool = False, talent: Talent | None = None,
     ) -> str:
         result = "BEGIN:VCALENDAR\r\n"
         result += f"PRODID:{self.prod_id}\r\n"

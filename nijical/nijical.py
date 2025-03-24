@@ -64,13 +64,15 @@ class NijiCal:
             file_name = talent.eng_name.lower().replace(" ", "_") + ".ics"
 
             data = all_calendar.generate_ical(
-                name=talent.name, is_english=False, talent=talent.name
+                name=talent.name,
+                is_english=False,
+                talent=talent,
             )
             with open(f"docs/ja/{file_name}", mode="w", encoding="utf_8") as file:
                 file.write(data)
 
             data = all_calendar.generate_ical(
-                name=talent.eng_name, is_english=True, talent=talent.name
+                name=talent.eng_name, is_english=True, talent=talent
             )
             with open(f"docs/en/{file_name}", mode="w", encoding="utf_8") as file:
                 file.write(data)
@@ -140,7 +142,7 @@ class NijiCal:
             )
 
             birthday: arrow.Arrow | None = None
-            if type(row[6]) is str:
+            if type(row[6]) is str and len(row[6]) > 0:
                 if row[6] == "2/29":
                     birthday = arrow.get(2020, 2, 29, tzinfo=tzinfo)
                 else:
@@ -157,7 +159,7 @@ class NijiCal:
                         birthday = birthday.shift(years=1)
 
             graduation_date: arrow.Arrow | None = None
-            if type(row[15]) is str:
+            if type(row[15]) is str and len(row[15]) > 0:
                 graduation_date = arrow.get(row[15], "YYYY/MM/DD", tzinfo=tzinfo)
 
             talent = Talent(
@@ -211,13 +213,13 @@ class NijiCal:
                 all_day=False,
                 yearly=False,
                 repeat_until=None,
-                summary=row[1],
-                eng_summary=row[4],
+                summary=row[1] if type(row[1]) is str else "",
+                eng_summary=row[4] if type(row[4]) is str else "",
                 location=row[7],
                 eng_location=row[8],
                 geo=row[9],
-                description=row[10],
-                eng_description=row[11],
+                description=row[10] if type(row[10]) is str else "",
+                eng_description=row[11] if type(row[11]) is str else "",
                 url=row[12],
                 talents=event_talents,
                 tickets=event_tickets,
@@ -235,7 +237,7 @@ class NijiCal:
 
         description = ""
         eng_description = ""
-        if type(ticket.url) is str:
+        if type(ticket.url) is str and len(ticket.url) > 0:
             description += f"チケット:\n{ticket.url}\n\n"
             eng_description += f"Ticket:\n{ticket.url}\n\n"
         description += f"イベント:\n{event.url}\n"
@@ -307,11 +309,11 @@ class NijiCal:
             timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
 
             begin: arrow.Arrow | None = None
-            if type(row[7]) is str:
+            if type(row[7]) is str and len(row[7]) > 0:
                 begin = arrow.get(row[7], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
 
             end: arrow.Arrow | None = None
-            if type(row[8]) is str:
+            if type(row[8]) is str and len(row[8]) > 0:
                 end = arrow.get(row[8], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
 
             if begin is None and end is None:
@@ -360,12 +362,15 @@ class NijiCal:
         uid = talent.uid[:-6] + "01" + talent.birthday.format("YYYY")
 
         label = (
-            talent.birthday_label if type(talent.birthday_label) is str else "誕生日"
+            talent.birthday_label
+            if type(talent.birthday_label) is str and len(talent.birthday_label) > 0
+            else "誕生日"
         )
         title = f"{talent.name} {label}"
         eng_label = (
             talent.eng_birthday_label
             if type(talent.eng_birthday_label) is str
+            and len(talent.eng_birthday_label) > 0
             else "Birthday"
         )
         eng_title = f"{talent.eng_name} {eng_label}"
@@ -602,7 +607,7 @@ class NijiCal:
                 ja_text += f"{ev.summary}\n"
                 en_text += f"{ev.eng_summary}\n"
 
-            if type(ev.url) is str:
+            if type(ev.url) is str and len(ev.url) > 0:
                 ja_text += f"{ev.url}\n"
                 en_text += f"{ev.url}\n"
             ja_text += "\n"
@@ -611,7 +616,7 @@ class NijiCal:
         for ev in sorted_talent_events:
             ja_text += f"{ev.summary}\n"
             en_text += f"{ev.eng_summary}\n"
-            if type(ev.url) is str:
+            if type(ev.url) is str and len(ev.url) > 0:
                 ja_text += f"{ev.url}\n"
                 en_text += f"{ev.url}\n"
             ja_text += "\n"

@@ -109,11 +109,18 @@ class Event:
 
         return result
 
-    def has_talent(self, name: str) -> bool:
+    def has_talent(self, target: Talent) -> bool:
+        if any(talent.name == "にじさんじ" for talent in self.talents):
+            if type(target.graduation_date) is arrow.Arrow and target.graduation_date < self.begin:
+                # It won't include the event if it's later than their graduation
+                pass
+            elif self.begin > target.first_tweet_datetime:
+                return True
+
         return any(
             True
             for talent in self.talents
-            if talent.name == name or talent.name == "にじさんじ"
+            if talent.name == target.name
         )
 
     def param(self, name: str, value: str) -> str:
