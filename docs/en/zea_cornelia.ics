@@ -5,46 +5,83 @@ VERSION:2.0
 X-WR-CALNAME:ZEA Cornelia
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250306T035749Z
-DTSTART:20250402T010000Z
-DTEND:20250629T110000Z
+UID:5e58541b-16e2-46fb-95f3-9c3910c79e17
+DTSTAMP:20250321T140603Z
+DTSTART:20191019T000000Z
+DTEND:20191026T120000Z
 TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes Exhibition
-LOCATION:Roppongi Museum
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
-DTSTART:20250320T030000Z
-DTEND:20250320T033000Z
+UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
+DTSTAMP:20250321T151405Z
+DTSTART:20201128T000000Z
+DTEND:20201213T120000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
-DTSTART:20250323T145900Z
-DTEND:20250323T152900Z
+UID:1c0d0cec-4528-427d-9125-67c0474e89e2
+DTSTAMP:20250322T053120Z
+DTSTART:20210227T010000Z
+DTEND:20210228T111500Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:Nijisanji Anniversary Festival 2021
+LOCATION:TOKYO BIG SIGHT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
-UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
-DTSTART:20250331T030000Z
-DTEND:20250331T033000Z
+UID:e0d33f96-13aa-4683-a40c-7a4a1846c0cb
+DTSTAMP:20250322T064200Z
+DTSTART:20220930T233000Z
+DTEND:20221002T103000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:Nijisanji Festival 2022
+LOCATION:Makuhari Messe
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2022/
+END:VEVENT
+BEGIN:VEVENT
+UID:449d50bc-d210-48ac-a3ae-abd8c7f89bd0
+DTSTAMP:20250323T030331Z
+DTSTART:20221229T080000Z
+DTEND:20221229T100000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
+LOCATION:Various movie theaters (AEON Cinema)
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://event.nijisanji.app/numf2022/
+END:VEVENT
+BEGIN:VEVENT
+UID:88efbd41-8158-491d-8a16-a09062a393c5
+DTSTAMP:20250323T030340Z
+DTSTART:20221230T080000Z
+DTEND:20221230T100000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
+LOCATION:Various movie theaters (AEON Cinema)
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://event.nijisanji.app/numf2022/
+END:VEVENT
+BEGIN:VEVENT
+UID:45ec2a5c-c933-4f09-b848-3022a59242bd
+DTSTAMP:20250323T030350Z
+DTSTART:20221231T080000Z
+DTEND:20221231T100000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
+LOCATION:Various movie theaters (AEON Cinema)
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:b22dc4ef-fad6-4cad-a245-748568012020
@@ -116,15 +153,5 @@ TRANSP:TRANSPARENT
 SUMMARY:ZEA Cornelia Graduation
 DESCRIPTION:ZEA Cornelia Graduation\n\n==========\n【ZEA Cornelia】\nYouTube: https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw\nX: https://twitter.com/ZEA_Cornelia\n\n
 URL:https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw
-END:VEVENT
-BEGIN:VEVENT
-UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
-DTSTART;VALUE=DATE:20190203
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

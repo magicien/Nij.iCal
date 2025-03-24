@@ -5,46 +5,133 @@ VERSION:2.0
 X-WR-CALNAME:Otogibara Era
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250306T035749Z
-DTSTART:20250402T010000Z
-DTEND:20250629T110000Z
+UID:be0a9bca-7523-4cea-831e-a89d4c52b105
+DTSTAMP:20250321T140436Z
+DTSTART:20190922T020000Z
+DTEND:20190922T060000Z
 TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes Exhibition
-LOCATION:Roppongi Museum
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+SUMMARY:Kyomafu 2019 Collaboration Cafe: "Nijisanji Welcome Tea House"
+LOCATION:Miyako Messe
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Miyako Messe":geo:35.012815,135.780882
+DESCRIPTION:\n\n==========\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Otogibara Era】\nYouTube: nan\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n
+URL:https://kyomaf.kyoto/2019/food_goods/characafe/nijisanji-cafe/
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
-DTSTART:20250320T030000Z
-DTEND:20250320T033000Z
+UID:5e58541b-16e2-46fb-95f3-9c3910c79e17
+DTSTAMP:20250321T140603Z
+DTSTART:20191019T000000Z
+DTEND:20191026T120000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
-DTSTART:20250323T145900Z
-DTEND:20250323T152900Z
+UID:8aeff74e-213d-492b-b77b-bb5cca39ae11
+DTSTAMP:20250321T140637Z
+DTSTART:20191026T070000Z
+DTEND:20191026T090000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 2
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Otogibara Era】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
-DTSTART:20250331T030000Z
-DTEND:20250331T033000Z
+UID:6242b31a-f18c-4dbf-aceb-fe01feb751f8
+DTSTAMP:20250321T140642Z
+DTSTART:20191122T030000Z
+DTEND:20191215T090000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:kawaii cafe2019
+LOCATION:Q Plaza HARAJUKU
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Q Plaza HARAJUKU":geo:35.667020,139.704169
+DESCRIPTION:\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【Otogibara Era】\nYouTube: nan\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Belmond Banderas】\nYouTube: https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A\nX: https://twitter.com/belmond_b_2434\n\n
+URL:https://collabo-cafe.com/events/collabo/nijisanji-kawaii-cafe-harajuku-area-q2019/
+END:VEVENT
+BEGIN:VEVENT
+UID:006e798a-f751-4ecd-a15b-c3b3733273b4
+DTSTAMP:20250321T140730Z
+DTSTART:20191208T080000Z
+DTEND:20191208T100000Z
+TRANSP:TRANSPARENT
+SUMMARY:Virtual to LIVE in Ryogoku Kokugikan 2019
+LOCATION:Ryogoku Kokugikan
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Ryogoku Kokugikan":geo:35.697042,139.793242
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/vtlryougoku2019/\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Shizuka Rin】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://twitter.com/ShizuRin23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Yuki Chihiro】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Suzuka Utako】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n【Morinaka Kazaki】\nYouTube: https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g\nX: https://twitter.com/kazakimorinaka\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suzuhara LuLu】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n【Yuzuki Roa】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://twitter.com/yuzuki_roa\n\n【Otogibara Era】\nYouTube: nan\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n
+URL:https://event.nijisanji.app/vtlryougoku2019/
+END:VEVENT
+BEGIN:VEVENT
+UID:72a92620-d5d0-42e4-a771-76059a53b312
+DTSTAMP:20250322T100745Z
+DTSTART:20200125T063000Z
+DTEND:20200125T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:"Nijisanji Music Week" 3rd Day ① "☆Petit Fleurs Shareholders Meeting☆ Lend Me Your Face for a Bit"
+LOCATION:Yebisu Garden Place - The Garden Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yebisu Garden Place - The Garden Hall":geo:35.641531,139.713551
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000000114.000030865.html\n\n==========\n【Morinaka Kazaki】\nYouTube: https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g\nX: https://twitter.com/kazakimorinaka\n\n【Otogibara Era】\nYouTube: nan\n\n
+URL:https://prtimes.jp/main/html/rd/p/000000114.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2e34a19f-2126-4927-8dc3-a43ab06dbc75
+DTSTAMP:20250321T143427Z
+DTSTART:20200209T080000Z
+DTEND:20200209T100000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Sapporo LIVE
+LOCATION:Zepp Sapporo
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp Sapporo":geo:43.049590,141.353439
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/japantour2020/\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://event.nijisanji.app/japantour2020/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b13226c-107f-4dcf-8bac-cf542c9a56ee
+DTSTAMP:20250321T150624Z
+DTSTART:20201120T090000Z
+DTEND:20201120T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:petit fleurs' First Live 'Lisianthus
+LOCATION:TACHIKAWA STAGE GARDEN
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TACHIKAWA STAGE GARDEN":geo:35.704748,139.411955
+DESCRIPTION:\n\n==========\n【Morinaka Kazaki】\nYouTube: https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g\nX: https://twitter.com/kazakimorinaka\n\n【Otogibara Era】\nYouTube: nan\n\n
+URL:https://nbcuni-music.com/petit_fleurs/live/01.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
+DTSTAMP:20250321T151405Z
+DTSTART:20201128T000000Z
+DTEND:20201213T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:1c0d0cec-4528-427d-9125-67c0474e89e2
+DTSTAMP:20250322T053120Z
+DTSTART:20210227T010000Z
+DTEND:20210228T111500Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Anniversary Festival 2021
+LOCATION:TOKYO BIG SIGHT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://anniversaryfes.nijisanji.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:5da1406f-1729-4057-9356-161506a08ff9
+DTSTAMP:20250322T053154Z
+DTSTART:20210227T013000Z
+DTEND:20210227T030000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Anniversary Festival 2021 Lever-gacha-daipan Stage
+LOCATION:TOKYO BIG SIGHT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
+DESCRIPTION:\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Sakura Ritsuki】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n【Suzuhara LuLu】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://twitter.com/lulu_suzuhara\n\n【Otogibara Era】\nYouTube: nan\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:ebfa0b70-0726-412d-a5fe-4b24b0012019
@@ -100,15 +187,5 @@ DTEND;VALUE=DATE:20210311
 TRANSP:TRANSPARENT
 SUMMARY:Otogibara Era Graduation
 DESCRIPTION:Otogibara Era Graduation\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n
-END:VEVENT
-BEGIN:VEVENT
-UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
-DTSTART;VALUE=DATE:20190203
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

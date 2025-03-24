@@ -5,46 +5,27 @@ VERSION:2.0
 X-WR-CALNAME:Lee Siu
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250306T035749Z
-DTSTART:20250402T010000Z
-DTEND:20250629T110000Z
+UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
+DTSTAMP:20250321T151405Z
+DTSTART:20201128T000000Z
+DTEND:20201213T120000Z
 TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes Exhibition
-LOCATION:Roppongi Museum
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
-DTSTART:20250320T030000Z
-DTEND:20250320T033000Z
+UID:1c0d0cec-4528-427d-9125-67c0474e89e2
+DTSTAMP:20250322T053120Z
+DTSTART:20210227T010000Z
+DTEND:20210228T111500Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
-END:VEVENT
-BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
-DTSTART:20250323T145900Z
-DTEND:20250323T152900Z
-TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
-END:VEVENT
-BEGIN:VEVENT
-UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
-DTSTART:20250331T030000Z
-DTEND:20250331T033000Z
-TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:Nijisanji Anniversary Festival 2021
+LOCATION:TOKYO BIG SIGHT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:9b688889-c148-4471-b282-bf30c4012020
@@ -96,15 +77,5 @@ TRANSP:TRANSPARENT
 SUMMARY:Lee Siu Graduation
 DESCRIPTION:Lee Siu Graduation\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
-END:VEVENT
-BEGIN:VEVENT
-UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
-DTSTART;VALUE=DATE:20190203
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

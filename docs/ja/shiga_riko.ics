@@ -5,6 +5,51 @@ VERSION:2.0
 X-WR-CALNAME:司賀りこ
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
+UID:859346fa-f142-4b63-9a9d-fff8db8a3400
+DTSTAMP:20250323T045355Z
+DTSTART:20241220T083000Z
+DTEND:20241220T124000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ歌謡祭2024 Day1
+LOCATION:オンライン
+DESCRIPTION:赤の組織\nえま★おうがすと／魔使マオ／ルイス・キャミー\n\n∀zalea\n夕陽リリ／天ヶ瀬むゆ／倉持めると\n\nいずれ菖蒲か杜若\n司賀りこ／ルンルン／珠乃井ナナ／綺沙良／梢桃音\n\nit's 1ove\n魔界ノりりむ／葉加瀬冬雪／フレン・E・ルスタリオ／レイン・パターソン\n\nVΔLZ\n弦月藤士郎／長尾景／甲斐田晴\n\nUNEI48\n笹木咲／奈羅花／先斗寧／鏑木ろこ／小清水透\n\nAngelfeesh\nフィナーナ 竜宮／アイア アマレ\n\nおせき班\nでびでび・でびる／夜見れな／シェリン・バーガンディ／魔使マオ\n\nOBSYDIA\nペトラ グリン／ロゼミ ラブロック\n\n織姫星\nフミ／星川サラ／山神カルタ\n\nかえみとがびと\n樋口楓／月ノ美兎／剣持刀也／伏見ガク\n\n楽団V!VO\n鈴木勝／セラフ・ダズルガーデン／エリー・コニファー／立伝都々／えま★おうがすと\n\n共通衣装SPユニット(町田、夢追、白雪、不破)\n町田ちま／夢追翔／白雪巴／不破湊\n\n月華美人\n竜胆尊／赤羽葉子／椎名唯華\n\nコウandヒバ\n卯月コウ／渡会雲雀\n\nこじらせハラスメント feat.魔界ノりりむ\n緑仙／魔界ノりりむ／弦月藤士郎\n\nざぶぅん\n伊波ライ／緋八マナ\n\nCUV2\nクロード クローマーク／浮奇・ヴィオレタ／ヴォックス・アクマ／ヴェザリウス バンデージ\n\n四季オリ花\n四季凪アキラ／オリバー・エバンス／健屋花那\n\nSilverDevilS\nアルス・アルマル／でびでび・でびる／葉山舞鈴／舞元啓介\n\nすこらび\n壱百満天原サロメ／ソフィア・ヴァレンタイン\n\nZuttomo\nペトラ グリン／遠藤霊夢／ミリー・パフェ／エナー・アールウェット\n\n双龍会\nリゼ・ヘルエスタ／加賀美ハヤト\n\nダブルデート♡\n樋口楓／戌亥とこ／星川サラ／フレン・E・ルスタリオ\n\nTSN\n夕陽リリ／叶／ローレン・イロアス\n\nDの石\n桜凛月／ベルモンド・バンデラス\n\nにじいろパルフェ\nえる／森中花咲／シスター・クレア／本間ひまわり／雪城眞尋／天ヶ瀬むゆ／海妹四葉\n\n七次元生徒会\n樋口楓／叶／緑仙／三枝明那／レオス・ヴィンセント／周央サンゴ\n\nNIJIAU\nルカ・カネシロ／サニー・ブリスコー／マリア マリオネット／レン ゾット\n\nにじプロセカ部\nドーラ／轟京子／社築／エリー・コニファー\n\n早瀬走ソロ\n早瀬走\n\n風楽奏斗ソロ\n風楽奏斗\n\nぷてみこ\nラトナ・プティ／竜胆尊\n\nMAS-RAO(仮)\n舞元啓介／ジョー・力一／オリバー・エバンス／レオス・ヴィンセント\n\nMaria Marionetteソロ\nマリア マリオネット\n\nYAMILLION\n闇ノシュウ／ヴェール ヴァーミリオン\n\n夢追翔ソロ\n夢追翔\n\nレヴィ・エリファソロ\nレヴィ・エリファ\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.nijisanji.jp/events/nmf2024/
+END:VEVENT
+BEGIN:VEVENT
+UID:53b95629-3daf-4dde-a3bd-24bd024aab3f
+DTSTAMP:20250323T044505Z
+DTSTART:20241221T050000Z
+DTEND:20241221T080000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ歌謡祭2024 Day2
+LOCATION:オンライン
+DESCRIPTION:RKS\n静凛／叶／渋谷ハジメ\n\nAia Amare ソロ\nアイア アマレ\n\nあっちゃんよっちゃん\nアンジュ・カトリーナ／海妹四葉\n\nIdios\n小清水透／獅子堂あかり／鏑木ろこ／五十嵐梨花／石神のぞみ／ソフィア・ヴァレンタイン／倉持めると\n\nUki Violetaソロ\n浮奇・ヴィオレタ\n\nEthyria\n遠藤霊夢／エナー・アールウェット／ミリー・パフェ\n\nS.B.S.P\n葉加瀬冬雪／フレン・E・ルスタリオ／石神のぞみ／倉持めると\n\nエデン組\nオリバー・エバンス／ローレン・イロアス／レオス・ヴィンセント／レイン・パターソン\n\n加賀美ハヤトソロ\n加賀美ハヤト\n\n北小路ヒスイソロ\n北小路ヒスイ\n\nくずもち\n葛葉／剣持刀也\n\nくれらい\nシェリン・バーガンディ／ルイス・キャミー\n\n弦月藤士郎ソロ\n弦月藤士郎\n\n黒夢町\n黒井しば／夢追翔／町田ちま\n\nさくゆいおりこう\n笹木咲／椎名唯華／魔界ノりりむ／卯月コウ\n\nさんばかJK組\n月ノ美兎／静凛／樋口楓／アンジュ・カトリーナ／戌亥とこ／リゼ・ヘルエスタ\n\n雑キープ\n花畑チャイカ／社築／加賀美ハヤト\n\n女王と会長\n白雪巴／来栖夏芽\n\nずきゅばっきゅん\n夕陽リリ／本間ひまわり／奈羅花／獅子堂あかり\n\nStarfeesh\nアスター アルカディア／フィナーナ 竜宮\n\nSpeciale\n七瀬すず菜／早乙女ベリー／雲母たまこ／酒寄颯馬／渚トラウト\n\nD.D.D\n鈴木勝／ドーラ／ベルモンド・バンデラス\n\nDOOM&BLOOM\nロゼミ ラブロック／ドッピオ ドロップサイト\n\nTwilime\n山神カルタ／東堂コハク\n\nナトナリ\n風楽奏斗／ヤン ナリ\n\nにじさんじ異世界ファンタジー女子組\nリゼ・ヘルエスタ／ニュイ・ソシエール／アルス・アルマル／フレン・E・ルスタリオ\n\nにじさんじオカルト研究部 with ましろ\nギルザレンⅢ世／伏見ガク／森中花咲／赤羽葉子／ましろ爻\n\nにじさんじバイト組\n赤城ウェン／宇佐美リト／星導ショウ／叢雲カゲツ\n\nにじさんじロケット軍団\n長尾景／文野環／フミ\n\n2時だとか\nローレン・イロアス／渡会雲雀／不破湊／イブラヒム\n\nNijiNOVA\nルカ・カネシロ／闇ノシュウ／サニー・ブリスコー／レン ゾット\n\nにじレジ(株)\n花畑チャイカ／椎名唯華／夜見れな\n\nふわぐさ\n不破湊／三枝明那\n\nぽさんけ\n天宮こころ／エリー・コニファー／ラトナ・プティ\n\nまいちぐ\n舞元啓介／西園チグサ\n\nMEDCS\n狂蘭 メロコ／エリーラ ペンドラ／ドッピオ ドロップサイト／クロード クローマーク／サニー・ブリスコー\n\nらぶスノ\n愛園愛美／白雪巴\n\nRRR\n鷹宮リオン／竜胆尊／ジョー・力一\n\nレヴィスター\nレヴィ・エリファ／空星きらめ\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.nijisanji.jp/events/nmf2024/
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d3e30e-ffdb-4838-9159-1474dbc7ee9e
+DTSTAMP:20250323T045347Z
+DTSTART:20241222T050000Z
+DTEND:20241222T081000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ歌謡祭2024 Day3
+LOCATION:オンライン
+DESCRIPTION:視聴ページ\nhttps://www.youtube.com/watch?v=Cj6qVVDU3as\n\nウォーターポテト\nミン スゥーハ／ハ ユン\n\nVox Akumaソロ\nヴォックス・アクマ\n\nVOLTACTION\n渡会雲雀／風楽奏斗／四季凪アキラ／セラフ・ダズルガーデン\n\nえるハジ\nえる／渋谷ハジメ\n\nErgK\n卯月コウ／ましろ爻／レオス・ヴィンセント\n\n解散GIG\n椎名唯華／笹木咲／緑仙／赤羽葉子\n\n甲斐田晴ソロ\n甲斐田晴\n\nかなえぼし\n叶／星川サラ\n\nかみなり\n神田笑一／ヤン ナリ\n\n共通衣装SPユニット(社、夢追、三枝、シェリン)\n社築／夢追翔／三枝明那／シェリン・バーガンディ\n\nきらきら温泉\n空星きらめ／小野町春香\n\nKrisis\nユウ Q ウィルソン／ベンタクロウ ブリンガー／ヴェザリウス バンデージ\n\nSEUP\n闇ノシュウ／エリーラ ペンドラ／浮奇・ヴィオレタ／ペトラ グリン\n\n健屋花那ソロ\n健屋花那\n\nSMC組\n葉加瀬冬雪／夜見れな／加賀美ハヤト\n\n3SKM\n榊ネス／北見遊征／魁星\n\nセライノミライ\nナ セラ／ライ ガリレイ\n\n世怜音女学院演劇同好会\n周央サンゴ／北小路ヒスイ／西園チグサ／東堂コハク\n\nDuskMania\nマリア マリオネット／ドッピオ ドロップサイト\n\nちぇりーペぇ\nアンジュ・カトリーナ／ニュイ・ソシエール\n\nデレム カド ソロ\nデレム カド\n\nトラップ組\nガオン／オ ジユ\n\nNeapolitan Ice Cream\nアイク・イーヴランド／虎姫 コトカ\n\n名前のない組\nシスター・クレア／える／ドーラ／花畑チャイカ\n\nNIJISANJI EN GIRLS\nエリーラ ペンドラ／フィナーナ 竜宮／ロゼミ ラブロック／ペトラ グリン／エナー・アールウェット／遠藤霊夢／ミリー・パフェ／アイア アマレ(2D)／マリア マリオネット(2D)／スカーレ ヨナグニ(2D)／虎姫 コトカ(2D)／狂蘭 メロコ(2D)\n\n音色は紫\nイ ロハ／明楽レイ\n\nNornis\n戌亥とこ／町田ちま\n\nハッピートリガー\n家長むぎ／剣持刀也／夕陽リリ／伏見ガク\n\nハナ マキアソロ\nハナ マキア\n\nVabel\nオリバー・エバンス／ベルモンド・バンデラス\n\nFa/Sol/La\nレヴィ・エリファ／早瀬走／ドーラ\n\nフミソロ\nフミ\n\n文野環ソロ\n文野環\n\nぽんぴりか\n本間ひまわり／五十嵐梨花\n\nみたらし団\n立伝都々／栞葉るり／ミラン・ケストレル\n\nMECHATU-A\n佐伯イッテツ／赤城ウェン／宇佐美リト／緋八マナ／星導ショウ／叢雲カゲツ／小柳ロウ／伊波ライ\n\nめにまにカンパニー\n桜凛月／長尾景／セフィナ\n\nやまなつ\n山神カルタ／来栖夏芽\n\nライフさんきょうだい\n瀬戸美夜子／愛園愛美／グウェル・オス・ガール\n\nりねしば\n矢車りね／黒井しば\n\nRosemi Lovelockソロ\nロゼミ ラブロック\n\nロリコロール\n天宮こころ／レイン・パターソン／ルイス・キャミー\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://www.nijisanji.jp/events/nmf2024/
+END:VEVENT
+BEGIN:VEVENT
+UID:7340313a-a530-421a-90cd-ee63b68c9ec5
+DTSTAMP:20250323T051315Z
+DTSTART:20250221T010000Z
+DTEND:20250223T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ 7th Anniversary Festival（にじさんじフェス2025）
+LOCATION:幕張メッセ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2025/
+END:VEVENT
+BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
 DTSTAMP:20250306T035749Z
 DTSTART:20250402T010000Z
@@ -186,15 +231,5 @@ TRANSP:TRANSPARENT
 SUMMARY:司賀りこ 11周年
 DESCRIPTION:司賀りこ 11周年\n\n初ツイート：2024/06/19 18:05 （日本時間）\n初配信：2024/06/22 19:00 （日本時間）\n\n\n==========\n【司賀りこ】\nYouTube: https://www.youtube.com/@ShigaRiko\nX: https://twitter.com/Shigariko_\n\n
 URL:https://www.youtube.com/@ShigaRiko
-END:VEVENT
-BEGIN:VEVENT
-UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
-DTSTART;VALUE=DATE:20190203
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

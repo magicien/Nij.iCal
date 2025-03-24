@@ -177,14 +177,4 @@ SUMMARY:Zeal Ginjoka 10th Anniversary
 DESCRIPTION:Zeal Ginjoka 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 12:40 (JST)\n\n\n==========\n【Zeal Ginjoka】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://twitter.com/ZealGinjoka\n\n
 URL:https://www.youtube.com/@ZealGinjoka
 END:VEVENT
-BEGIN:VEVENT
-UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
-DTSTART;VALUE=DATE:20190203
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
-END:VEVENT
 END:VCALENDAR

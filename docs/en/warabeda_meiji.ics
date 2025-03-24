@@ -5,46 +5,108 @@ VERSION:2.0
 X-WR-CALNAME:Warabeda Meiji
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250306T035749Z
-DTSTART:20250402T010000Z
-DTEND:20250629T110000Z
+UID:5e58541b-16e2-46fb-95f3-9c3910c79e17
+DTSTAMP:20250321T140603Z
+DTSTART:20191019T000000Z
+DTEND:20191026T120000Z
 TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes Exhibition
-LOCATION:Roppongi Museum
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2025/nijifes_ex/
+SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
-DTSTART:20250320T030000Z
-DTEND:20250320T033000Z
+UID:8aeff74e-213d-492b-b77b-bb5cca39ae11
+DTSTAMP:20250321T140637Z
+DTSTART:20191026T070000Z
+DTEND:20191026T090000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 2
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Otogibara Era】\nYouTube: nan\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
-DTSTART:20250323T145900Z
-DTEND:20250323T152900Z
+UID:dc20ff89-4e40-4c0e-86dc-3800e03172b1
+DTSTAMP:20250322T100820Z
+DTSTART:20200123T110000Z
+DTEND:20200123T120000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:"Nijisanji Music Week" 1st Day "Who Will Make Their Major Debut!? Rain Drops Members Introduction Special"
+LOCATION:Online
+DESCRIPTION:\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n
+URL:https://www.youtube.com/watch?v=bzGP-llr7YM
 END:VEVENT
 BEGIN:VEVENT
-UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
-DTSTART:20250331T030000Z
-DTEND:20250331T033000Z
+UID:2e34a19f-2126-4927-8dc3-a43ab06dbc75
+DTSTAMP:20250321T143427Z
+DTSTART:20200209T080000Z
+DTEND:20200209T100000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://eplus.jp/nijifes_ex/
+SUMMARY:Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Sapporo LIVE
+LOCATION:Zepp Sapporo
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp Sapporo":geo:43.049590,141.353439
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/japantour2020/\n\n==========\n【Otogibara Era】\nYouTube: nan\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n
+URL:https://event.nijisanji.app/japantour2020/
+END:VEVENT
+BEGIN:VEVENT
+UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
+DTSTAMP:20250321T151405Z
+DTSTART:20201128T000000Z
+DTEND:20201213T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
+LOCATION:Yomiuriland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:1c0d0cec-4528-427d-9125-67c0474e89e2
+DTSTAMP:20250322T053120Z
+DTSTART:20210227T010000Z
+DTEND:20210228T111500Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Anniversary Festival 2021
+LOCATION:TOKYO BIG SIGHT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://anniversaryfes.nijisanji.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:9750f2d9-0a98-4354-9e2a-13bb40f6a5c9
+DTSTAMP:20250322T053607Z
+DTSTART:20210826T090000Z
+DTEND:20210826T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Rain Drops First Solo Concert 'Rain or Shine'
+LOCATION:Tokyo Garden Theater
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo Garden Theater":geo:35.637767,139.792083
+DESCRIPTION:\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+URL:https://www.universal-music.co.jp/raindrops/news/2021-06-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b300aa1-7bc4-4ac3-be7e-269299c13442
+DTSTAMP:20250322T062844Z
+DTSTART:20220415T090000Z
+DTEND:20220415T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Rain Drops 2nd One man Live "SQUALL - Not Defeated by Rain"
+LOCATION:KT Zepp Yokohama
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="KT Zepp Yokohama":geo:35.459726,139.626006
+DESCRIPTION:\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+URL:https://www.universal-music.co.jp/raindrops/news/2021-12-09/
+END:VEVENT
+BEGIN:VEVENT
+UID:64282d25-3cbd-4f4a-89fe-dd3b4b24f9c1
+DTSTAMP:20250322T062855Z
+DTSTART:20220416T090000Z
+DTEND:20220416T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Rain Drops 2nd One man Live "SQUALL - Not Defeated by Wind"
+LOCATION:KT Zepp Yokohama
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="KT Zepp Yokohama":geo:35.459726,139.626006
+DESCRIPTION:\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Warabeda Meiji】\nYouTube: https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg\n\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+URL:https://www.universal-music.co.jp/raindrops/news/2021-12-09/
 END:VEVENT
 BEGIN:VEVENT
 UID:9377734b-8c37-43e1-9fdf-abd5df012019

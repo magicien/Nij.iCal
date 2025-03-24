@@ -177,14 +177,4 @@ SUMMARY:セイブル 10周年
 DESCRIPTION:セイブル 10周年\n\n初ツイート：2025/03/13 08:06 （日本時間）\n初配信：2025/03/15 11:10 （日本時間）\n\n\n==========\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://twitter.com/Seible_2434\n\n
 URL:https://www.youtube.com/@Seible_nijisanji
 END:VEVENT
-BEGIN:VEVENT
-UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
-DTSTART;VALUE=DATE:20190203
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
-END:VEVENT
 END:VCALENDAR
