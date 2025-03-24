@@ -4,6 +4,7 @@ import sys
 import tweepy
 from twitter_text import parse_tweet
 from nijical import NijiCal
+from settings import debug, url_prefix
 
 def split_text_for_tweets(text: str) -> list[str]:
     parse_result = parse_tweet(text)
@@ -36,7 +37,7 @@ def main() -> int:
     talent_file = sys.argv[1]
     event_file = sys.argv[2]
     ticket_file = sys.argv[3]
-    instance = NijiCal(talent_file, event_file, ticket_file)
+    instance = NijiCal(talent_file, event_file, ticket_file, url_prefix)
     tzinfo = "+09:00"
     today = arrow.now(tzinfo)
     tomorrow = today.shift(days=1)
@@ -75,6 +76,9 @@ def main() -> int:
     en_tweets = split_text_for_tweets(en_text_today + en_text_tomorrow)
     for t in en_tweets:
         print(f"=====================\n{t}\n=====================\n")
+
+    if debug:
+        return 0
 
     try:
         ja_client = tweepy.Client(

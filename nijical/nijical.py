@@ -10,13 +10,19 @@ class NijiCal:
     talent_data_path: str
     event_data_path: str
     ticket_data_path: str
+    url_prefix: str
 
     def __init__(
-        self, talent_data_path: str, event_data_path: str, ticket_data_path: str
+        self,
+        talent_data_path: str,
+        event_data_path: str,
+        ticket_data_path: str,
+        url_prefix: str,
     ) -> None:
         self.talent_data_path = talent_data_path
         self.event_data_path = event_data_path
         self.ticket_data_path = ticket_data_path
+        self.url_prefix = url_prefix
 
     def generate_all(self) -> int:
         talents = self.fetch_talents()
@@ -77,8 +83,6 @@ class NijiCal:
             with open(
                 "docs/en/calendars.md", mode="w", encoding="utf_8_sig"
             ) as en_file:
-                url_prefix = "webcal://magicien.github.io/Nij.iCal"
-
                 ja_file.write(
                     "<form action='#' class='search-form' onsubmit='return false;'><input id='liver-filter-input' placeholder='検索'/></form>\n"
                 )
@@ -100,8 +104,8 @@ class NijiCal:
                         continue
 
                     file_name = talent.eng_name.lower().replace(" ", "_") + ".ics"
-                    ja_url = f"{url_prefix}/ja/{file_name}"
-                    en_url = f"{url_prefix}/en/{file_name}"
+                    ja_url = f"{self.url_prefix}/ja/{file_name}"
+                    en_url = f"{self.url_prefix}/en/{file_name}"
                     row = f"<tr class='liver-item' tags='{talent.name},{talent.eng_name.lower()},{talent.furigana}'>"
                     ja_file.write(
                         row
