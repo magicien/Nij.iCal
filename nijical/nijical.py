@@ -1,7 +1,7 @@
 import arrow
 import pandas as pd
 from .calendar import Calendar
-from .event import Event
+from .event import Event, EventType
 from .talent import Talent
 from .ticket import Ticket
 
@@ -217,6 +217,7 @@ class NijiCal:
                 url=row[12],
                 talents=event_talents,
                 tickets=event_tickets,
+                event_type=EventType.EVENT,
             )
             events.append(event)
 
@@ -259,6 +260,7 @@ class NijiCal:
                 url=ticket.url,
                 talents=event.talents,
                 tickets=[],
+                event_type=EventType.TICKET_BEGIN,
             )
             ticket_events.append(begin_event)
 
@@ -285,6 +287,7 @@ class NijiCal:
                 url=ticket.url,
                 talents=event.talents,
                 tickets=[],
+                event_type=EventType.TICKET_END,
             )
             ticket_events.append(end_event)
 
@@ -382,6 +385,7 @@ class NijiCal:
             eng_description=eng_title,
             url=talent.youtube_url,
             talents=[talent],
+            event_type=EventType.BIRTHDAY,
         )
 
     def generate_anniversary_events(self, talent: Talent) -> list[Event]:
@@ -414,6 +418,7 @@ class NijiCal:
                 eng_description=eng_title,
                 url=talent.youtube_url,
                 talents=[talent],
+                event_type=EventType.ANNIVERSARY,
             )
         )
 
@@ -444,6 +449,7 @@ class NijiCal:
                 eng_description=eng_title,
                 url=talent.youtube_url,
                 talents=[talent],
+                event_type=EventType.DEBUT,
             )
         )
 
@@ -500,6 +506,7 @@ class NijiCal:
                     eng_description=eng_description,
                     url=talent.youtube_url,
                     talents=[talent],
+                    event_type=EventType.ANNIVERSARY,
                 )
             )
 
@@ -532,6 +539,7 @@ class NijiCal:
             eng_description=eng_title,
             url=talent.youtube_url,
             talents=[talent],
+            event_type=EventType.GRADUATION,
         )
 
     def generate_nijisanji_day_event(self, talents: list[Talent]) -> Event:
@@ -557,6 +565,7 @@ class NijiCal:
             eng_description=eng_title,
             url=nijisanji.youtube_url,
             talents=[nijisanji],
+            event_type=EventType.ANNIVERSARY,
         )
 
     def generate_ordinal(self, num: int) -> str:
@@ -618,6 +627,12 @@ class NijiCal:
 
         if date_begin.shift(days=1) < event.begin:
             return False
+
+        if event.event_type == EventType.TICKET_BEGIN:
+            return event.begin.day == date.day
+
+        if event.event_type == EventType.TICKET_END:
+            return event.begin.day == date.day
 
         if not event.all_day:
             intersect_begin = max(event.begin, date_begin)

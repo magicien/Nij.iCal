@@ -1,7 +1,23 @@
 import arrow
 from dataclasses import dataclass, field
+from enum import Enum
 from .talent import Talent
 from .ticket import Ticket
+
+
+class EventType(Enum):
+    EVENT = 1
+    BIRTHDAY = 2
+    ANNIVERSARY = 3
+    DEBUT = 4
+    GRADUATION = 5
+    TICKET_BEGIN = 6
+    TICKET_END = 7
+    UNKNOWN = 0
+
+    @classmethod
+    def _missing_(cls, value):
+        return cls.UNKNOWN
 
 
 @dataclass(frozen=True)
@@ -23,6 +39,7 @@ class Event:
     url: str | None
     talents: list[Talent] = field(default_factory=list)
     tickets: list[Ticket] = field(default_factory=list)
+    event_type: EventType = EventType.UNKNOWN
 
     def generate_ical(self, is_english: bool = False) -> str:
         datetime_format = "YYYYMMDDTHHmmss[Z]"
