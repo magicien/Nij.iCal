@@ -518,19 +518,19 @@ URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
 END:VEVENT
 BEGIN:VEVENT
 UID:17d73f94-f035-4bb0-b31d-3ba9125e74d4
-DTSTAMP:20250322T053237Z
+DTSTAMP:20250325T053411Z
 DTSTART:20210228T010000Z
 DTEND:20210228T023000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021 Dokuzuhonsha Stage
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
-URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjU=?pit_git_type=SERIES\n\n==========\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:a9a92a22-1c2f-4fab-b82a-7c0b36d71d14
-DTSTAMP:20250322T053320Z
+DTSTAMP:20250325T053411Z
 DTSTART:20210228T033000Z
 DTEND:20210228T050000Z
 TRANSP:TRANSPARENT
@@ -538,51 +538,52 @@ SUMMARY:Nijisanji Anniversary Festival 2021 SilverDevils & DEN-ON-BU Stage
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
 DESCRIPTION:\n\n==========\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n【Debidebi Debiru】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n
-URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:74f0d37f-4810-4c65-adc8-878c93b3b94a
-DTSTAMP:20250322T053544Z
+DTSTAMP:20250325T053412Z
 DTSTART:20210228T083000Z
 DTEND:20210228T103000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021 Tsukino Mito & Higuchi Kaede & Rain Drops Stage
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjc=?pit_git_type=SERIES\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:e220411e-8067-4a46-81b7-45a34914d4de
-DTSTAMP:20250322T053353Z
+DTSTAMP:20250325T053415Z
 DTSTART:20210228T060000Z
 DTEND:20210228T073000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021 VACHSS Stage
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
-URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjY=?pit_git_type=SERIES\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:70eff429-787c-41cc-a9ae-ec4ecdbac8ae
-DTSTAMP:20250322T100849Z
+DTSTAMP:20250325T053250Z
 DTSTART:20210731T080000Z
 DTEND:20210731T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji AR STAGE “LIGHT UP TONES” Day 1
 LOCATION:Online
-DESCRIPTION:\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/arstage_lightuptones/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTg3MndwZDI%3D\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://event.nijisanji.app/arstage_lightuptones/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4404637-cd8d-445b-a334-8e1aeb031517
-DTSTAMP:20250322T100850Z
+DTSTAMP:20250325T053232Z
 DTSTART:20210801T080000Z
 DTEND:20210801T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji AR STAGE “LIGHT UP TONES” Day 2
 LOCATION:Online
-DESCRIPTION:\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/arstage_lightuptones/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbThmOXowcGk%3D\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://event.nijisanji.app/arstage_lightuptones/
 END:VEVENT
 BEGIN:VEVENT
@@ -737,26 +738,26 @@ URL:https://event.nijisanji.app/initial_step_in/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd9e889-0fea-4024-9546-c286a6b6990d
-DTSTAMP:20250322T061928Z
+DTSTAMP:20250325T053208Z
 DTSTART:20211110T090000Z
 DTEND:20211110T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuzuha Birthday Event "Scarlet Invitation"
 LOCATION:Zepp Haneda
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp Haneda":geo:35.547393,139.756497
-DESCRIPTION:\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/kuzuha_scarletinvitation/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjk=?pit_git_type=SERIES\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://event.nijisanji.app/kuzuha_scarletinvitation/
 END:VEVENT
 BEGIN:VEVENT
 UID:f1243f88-b210-44fc-ba43-00d472d67e02
-DTSTAMP:20250323T055056Z
+DTSTAMP:20250325T053147Z
 DTSTART:20211116T090000Z
 DTEND:20211116T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Tsukino Mito 1st Solo Concert "Tsukino Mito is in the Box"
 LOCATION:Zepp Diver City (TOKYO)
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp Diver City (TOKYO)":geo:35.624704,139.774649
-DESCRIPTION:\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/tsukino_hakononaka/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmE=?pit_git_type=SERIES\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://event.nijisanji.app/tsukino_hakononaka/
 END:VEVENT
 BEGIN:VEVENT
@@ -862,26 +863,26 @@ URL:https://event.nijisanji.app/aim_higher/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9404779-3dda-484a-8670-31e109b6bc4e
-DTSTAMP:20250322T063913Z
+DTSTAMP:20250325T053556Z
 DTSTART:20220930T080000Z
 DTEND:20220930T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji 4th Anniversary LIVE "FANTASIA" Day1
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n【Yorumi Rena】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmI=?pit_git_type=SERIES\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n【Yorumi Rena】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://event.nijisanji.app/4thanniv_fantasia/
 END:VEVENT
 BEGIN:VEVENT
 UID:9ebbb6b5-0253-4ed1-8e01-f1b8f8002e35
-DTSTAMP:20250322T064000Z
+DTSTAMP:20250325T053717Z
 DTSTART:20221001T100000Z
 DTEND:20221001T120000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji 4th Anniversary LIVE "FANTASIA" Day1
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmM=?pit_git_type=SERIES\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://event.nijisanji.app/4thanniv_fantasia/
 END:VEVENT
 BEGIN:VEVENT
@@ -1973,26 +1974,73 @@ URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ff42d3-eb2e-4033-af59-9063f379f809
-DTSTAMP:20250311T082906Z
+DTSTAMP:20250325T042158Z
 DTSTART:20250519T090000Z
 DTEND:20250519T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:ChroNoiR Does Something at Budokan
 LOCATION:Nippon Budokan
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Nippon Budokan":geo:35.693361,139.749822
-DESCRIPTION:Article of the event\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
-URL:https://www.nijisanji.jp/news/037_t8f6sg
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nOnline Guests: k4sen, SHAKA\n\n==========\nTicket Info:\n\nTicket Pia earliest pre-sale lottery (from Mar 24, 2025, 20:00 until Apr 6, 2025, 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nTicket Pia pre-reserve second round priority lottery (from Apr 11, 2025, 20:00 until Apr 15, 2025, 23:59)\n\nGeneral sale (first come, first served) (from Apr 26, 2025, 10:00)\n\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://www.nijisanji.jp/events/chronoir-nankayaruevent/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7299a86-53cc-4aad-b659-c1913b69f941
+DTSTAMP:20250325T042537Z
+DTSTART:20250324T110000Z
+DTEND:20250324T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]ChroNoiR Does Something at Budokan: Ticket Pia earliest pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nEvent:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventCd=2510758
+END:VEVENT
+BEGIN:VEVENT
+UID:b7299a86-53cc-4aad-b659-c1913b69f942
+DTSTAMP:20250325T042537Z
+DTSTART:20250406T145900Z
+DTEND:20250406T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]ChroNoiR Does Something at Budokan: Ticket Pia earliest pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nEvent:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventCd=2510758
+END:VEVENT
+BEGIN:VEVENT
+UID:c7866b38-c44e-494b-b0ed-71d4f008a151
+DTSTAMP:20250325T042615Z
+DTSTART:20250411T110000Z
+DTEND:20250411T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]ChroNoiR Does Something at Budokan: Ticket Pia pre-reserve second round priority lottery starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:c7866b38-c44e-494b-b0ed-71d4f008a152
+DTSTAMP:20250325T042615Z
+DTSTART:20250415T145900Z
+DTEND:20250415T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]ChroNoiR Does Something at Budokan: Ticket Pia pre-reserve second round priority lottery ends
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5ee390-fc92-4da6-9eac-c5578fc9e4a1
+DTSTAMP:20250325T042358Z
+DTSTART:20250426T010000Z
+DTEND:20250426T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]ChroNoiR Does Something at Budokan: General sale (first come, first served) starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:587c2d54-bd95-44eb-9df8-f575c5b455db
-DTSTAMP:20250324T031647Z
+DTSTAMP:20250325T052448Z
 DTSTART:20250524T050000Z
 DTEND:20250524T080000Z
 TRANSP:TRANSPARENT
 SUMMARY:Niji Holo Interleague Match 2025
 LOCATION:ES CON FIELD HOKKAIDO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="ES CON FIELD HOKKAIDO":geo:42.990155,141.549647
-DESCRIPTION:Special Site\nhttps://www.nijiholo-koryusen.jp\n\nX Account\nhttps://x.com/nijiholo_koryu\n\n==========\nTicket Info:\n\nNijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nBalcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nAll area (first come, first served) (from Apr 5, 2025, 12:00)\n\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:Special Site\nhttps://www.nijiholo-koryusen.jp\n\nX Account\nhttps://x.com/nijiholo_koryu\n\nHololive talents: Shirakami Fubuki, Amane Kanata, Usada Pekora\n\n==========\nTicket Info:\n\nNijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nBalcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nAll area (first come, first served) (from Apr 5, 2025, 12:00)\n\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -2046,14 +2094,14 @@ DESCRIPTION:Event:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki 
 END:VEVENT
 BEGIN:VEVENT
 UID:ccc45fee-7728-49ce-bf11-61d60f684ec3
-DTSTAMP:20250324T032034Z
+DTSTAMP:20250325T052448Z
 DTSTART:20250525T050000Z
 DTEND:20250525T080000Z
 TRANSP:TRANSPARENT
 SUMMARY:Niji Holo Interleague Match 2025
 LOCATION:ES CON FIELD HOKKAIDO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="ES CON FIELD HOKKAIDO":geo:42.990155,141.549647
-DESCRIPTION:Special Site\nhttps://www.nijiholo-koryusen.jp\n\nX Account\nhttps://x.com/nijiholo_koryu\n\n==========\nTicket Info:\n\nNijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nBalcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nAll area (first come, first served) (from Apr 5, 2025, 12:00)\n\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:Special Site\nhttps://www.nijiholo-koryusen.jp\n\nX Account\nhttps://x.com/nijiholo_koryu\n\nHololive talents: Shirakami Fubuki, Amane Kanata, Usada Pekora\n\n==========\nTicket Info:\n\nNijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nBalcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nAll area (first come, first served) (from Apr 5, 2025, 12:00)\n\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -2107,7 +2155,7 @@ DESCRIPTION:Event:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki 
 END:VEVENT
 BEGIN:VEVENT
 UID:7c2dad4f-2601-4a51-a99b-02e94356af7d
-DTSTAMP:20250309T130444Z
+DTSTAMP:20250325T052502Z
 DTSTART:20250604T090000Z
 DTEND:20250604T110000Z
 TRANSP:TRANSPARENT

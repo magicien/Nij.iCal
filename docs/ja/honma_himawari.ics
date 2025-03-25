@@ -158,15 +158,15 @@ URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:17d73f94-f035-4bb0-b31d-3ba9125e74d4
-DTSTAMP:20250322T053237Z
+DTSTAMP:20250325T053411Z
 DTSTART:20210228T010000Z
 DTEND:20210228T023000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021 ド葛本社ステージ
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
-URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjU=?pit_git_type=SERIES\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:e0d33f96-13aa-4683-a40c-7a4a1846c0cb
