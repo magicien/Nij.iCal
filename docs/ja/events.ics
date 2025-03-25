@@ -518,19 +518,19 @@ URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
 END:VEVENT
 BEGIN:VEVENT
 UID:17d73f94-f035-4bb0-b31d-3ba9125e74d4
-DTSTAMP:20250322T053237Z
+DTSTAMP:20250325T053411Z
 DTSTART:20210228T010000Z
 DTEND:20210228T023000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021 ド葛本社ステージ
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
-URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjU=?pit_git_type=SERIES\n\n==========\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:a9a92a22-1c2f-4fab-b82a-7c0b36d71d14
-DTSTAMP:20250322T053320Z
+DTSTAMP:20250325T053411Z
 DTSTART:20210228T033000Z
 DTEND:20210228T050000Z
 TRANSP:TRANSPARENT
@@ -538,51 +538,52 @@ SUMMARY:にじさんじ Anniversary Festival 2021 SilverDevils & 電音部ステ
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
 DESCRIPTION:\n\n==========\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://twitter.com/debidebiru_sama\n\n【葉山舞鈴】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n【舞元啓介】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【健屋花那】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n
-URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:74f0d37f-4810-4c65-adc8-878c93b3b94a
-DTSTAMP:20250322T053544Z
+DTSTAMP:20250325T053412Z
 DTSTART:20210228T083000Z
 DTEND:20210228T103000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021 月ノ美兎 & 樋口楓 & Rain Drops ステージ
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjc=?pit_git_type=SERIES\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【鈴木勝】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:e220411e-8067-4a46-81b7-45a34914d4de
-DTSTAMP:20250322T053353Z
+DTSTAMP:20250325T053415Z
 DTSTART:20210228T060000Z
 DTEND:20210228T073000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021 VACHSSステージ
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
-URL:https://anniversaryfes.nijisanji.jp/tokyo-revenge/
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjY=?pit_git_type=SERIES\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n
+URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:70eff429-787c-41cc-a9ae-ec4ecdbac8ae
-DTSTAMP:20250322T100849Z
+DTSTAMP:20250325T053250Z
 DTSTART:20210731T080000Z
 DTEND:20210731T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ AR STAGE “LIGHT UP TONES” Day 1
 LOCATION:オンライン
-DESCRIPTION:\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/arstage_lightuptones/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTg3MndwZDI%3D\n\n==========\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://event.nijisanji.app/arstage_lightuptones/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4404637-cd8d-445b-a334-8e1aeb031517
-DTSTAMP:20250322T100850Z
+DTSTAMP:20250325T053232Z
 DTSTART:20210801T080000Z
 DTEND:20210801T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ AR STAGE “LIGHT UP TONES” Day 2
 LOCATION:オンライン
-DESCRIPTION:\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/arstage_lightuptones/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbThmOXowcGk%3D\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【魔界ノりりむ】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://event.nijisanji.app/arstage_lightuptones/
 END:VEVENT
 BEGIN:VEVENT
@@ -737,26 +738,26 @@ URL:https://event.nijisanji.app/initial_step_in/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd9e889-0fea-4024-9546-c286a6b6990d
-DTSTAMP:20250322T061928Z
+DTSTAMP:20250325T053208Z
 DTSTART:20211110T090000Z
 DTEND:20211110T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuzuha Birthday Event 「Scarlet Invitation」
 LOCATION:Zepp Haneda
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp Haneda":geo:35.547393,139.756497
-DESCRIPTION:\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/kuzuha_scarletinvitation/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjk=?pit_git_type=SERIES\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://event.nijisanji.app/kuzuha_scarletinvitation/
 END:VEVENT
 BEGIN:VEVENT
 UID:f1243f88-b210-44fc-ba43-00d472d67e02
-DTSTAMP:20250323T055056Z
+DTSTAMP:20250325T053147Z
 DTSTART:20211116T090000Z
 DTEND:20211116T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎1stワンマンライブ「月ノ美兎は箱の中」
 LOCATION:Zepp Diver City (TOKYO)
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp Diver City (TOKYO)":geo:35.624704,139.774649
-DESCRIPTION:\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/tsukino_hakononaka/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmE=?pit_git_type=SERIES\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://event.nijisanji.app/tsukino_hakononaka/
 END:VEVENT
 BEGIN:VEVENT
@@ -862,26 +863,26 @@ URL:https://event.nijisanji.app/aim_higher/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9404779-3dda-484a-8670-31e109b6bc4e
-DTSTAMP:20250322T063913Z
+DTSTAMP:20250325T053556Z
 DTSTART:20220930T080000Z
 DTEND:20220930T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ 4th Anniversary LIVE「FANTASIA」Day1
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmI=?pit_git_type=SERIES\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://event.nijisanji.app/4thanniv_fantasia/
 END:VEVENT
 BEGIN:VEVENT
 UID:9ebbb6b5-0253-4ed1-8e01-f1b8f8002e35
-DTSTAMP:20250322T064000Z
+DTSTAMP:20250325T053717Z
 DTSTART:20221001T100000Z
 DTEND:20221001T120000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ 4th Anniversary LIVE「FANTASIA」Day2
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【シェリン・バーガンディ】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
+DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmM=?pit_git_type=SERIES\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【シェリン・バーガンディ】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n
 URL:https://event.nijisanji.app/4thanniv_fantasia/
 END:VEVENT
 BEGIN:VEVENT
@@ -1973,26 +1974,73 @@ URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ff42d3-eb2e-4033-af59-9063f379f809
-DTSTAMP:20250311T082906Z
+DTSTAMP:20250325T042158Z
 DTSTART:20250519T090000Z
 DTEND:20250519T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:くろのわーるが武道館でなんかやる
 LOCATION:日本武道館
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
-DESCRIPTION:ニュースページ\nhttps://www.nijisanji.jp/news/037_t8f6sg\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
-URL:https://www.nijisanji.jp/news/037_t8f6sg
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nオンラインゲスト：k4sen、SHAKA\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/3/24 20:00〜2025/4/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nチケットぴあプレリザーブ２次先行抽選 (2025/4/11 20:00〜2025/4/15 23:59)\n\n一般販売（先着） (2025/4/26 10:00〜)\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://www.nijisanji.jp/events/chronoir-nankayaruevent/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7299a86-53cc-4aad-b659-c1913b69f941
+DTSTAMP:20250325T042537Z
+DTSTART:20250324T110000Z
+DTEND:20250324T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]くろのわーるが武道館でなんかやる: チケットぴあ最速先行抽選 開始
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventCd=2510758
+END:VEVENT
+BEGIN:VEVENT
+UID:b7299a86-53cc-4aad-b659-c1913b69f942
+DTSTAMP:20250325T042537Z
+DTSTART:20250406T145900Z
+DTEND:20250406T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]くろのわーるが武道館でなんかやる: チケットぴあ最速先行抽選 終了
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventCd=2510758
+END:VEVENT
+BEGIN:VEVENT
+UID:c7866b38-c44e-494b-b0ed-71d4f008a151
+DTSTAMP:20250325T042615Z
+DTSTART:20250411T110000Z
+DTEND:20250411T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]くろのわーるが武道館でなんかやる: チケットぴあプレリザーブ２次先行抽選 開始
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:c7866b38-c44e-494b-b0ed-71d4f008a152
+DTSTAMP:20250325T042615Z
+DTSTART:20250415T145900Z
+DTEND:20250415T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]くろのわーるが武道館でなんかやる: チケットぴあプレリザーブ２次先行抽選 終了
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5ee390-fc92-4da6-9eac-c5578fc9e4a1
+DTSTAMP:20250325T042358Z
+DTSTART:20250426T010000Z
+DTEND:20250426T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]くろのわーるが武道館でなんかやる: 一般販売（先着） 開始
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:587c2d54-bd95-44eb-9df8-f575c5b455db
-DTSTAMP:20250324T031647Z
+DTSTAMP:20250325T052448Z
 DTSTART:20250524T050000Z
 DTEND:20250524T080000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじホロ交流戦2025 DAY1
 LOCATION:エスコンフィールドHOKKAIDO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="エスコンフィールドHOKKAIDO":geo:42.990155,141.549647
-DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\nホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -2046,14 +2094,14 @@ DESCRIPTION:イベント:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【
 END:VEVENT
 BEGIN:VEVENT
 UID:ccc45fee-7728-49ce-bf11-61d60f684ec3
-DTSTAMP:20250324T032034Z
+DTSTAMP:20250325T052448Z
 DTSTART:20250525T050000Z
 DTEND:20250525T080000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじホロ交流戦2025 DAY2
 LOCATION:エスコンフィールドHOKKAIDO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="エスコンフィールドHOKKAIDO":geo:42.990155,141.549647
-DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\nホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -2107,7 +2155,7 @@ DESCRIPTION:イベント:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【
 END:VEVENT
 BEGIN:VEVENT
 UID:7c2dad4f-2601-4a51-a99b-02e94356af7d
-DTSTAMP:20250309T130444Z
+DTSTAMP:20250325T052502Z
 DTSTART:20250604T090000Z
 DTEND:20250604T110000Z
 TRANSP:TRANSPARENT
