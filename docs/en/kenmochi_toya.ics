@@ -431,6 +431,68 @@ SUMMARY:[Ticket]ChroNoiR Does Something at Budokan: General sale (first come, fi
 DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:c5ab7216-91c0-4bb8-98dd-151b2879740b
+DTSTAMP:20250326T121116Z
+DTSTART:20250621T090000Z
+DTEND:20250621T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:FUSHIMI GAQUEST - In search of legendary PIECE
+LOCATION:Aichi Prefectural Art Theater
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Aichi Prefectural Art Theater":geo:35.170818,136.911154
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\nTicket Info:\n\nGeneral fan club pre-sale lottery (from Apr 7, 2025, 12:00 until Apr 13, 2025, 23:59)\nhttps://eplus.jp/gaku-fushimi/fc/\n\ne+ pre-sale lottery (from Apr 28, 2025, 12:00 until May 6, 2025, 23:59)\nhttps://eplus.jp/gaku-fushimi/\n\nGeneral sale (first come, first served) (from May 24, 2025, 12:00)\nhttps://eplus.jp/gaku-fushimi/\n\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://www.nijisanji.jp/events/fushimigaquest/
+END:VEVENT
+BEGIN:VEVENT
+UID:73e68caa-a149-46c2-ac80-3f75ba40ee21
+DTSTAMP:20250326T120851Z
+DTSTART:20250407T030000Z
+DTEND:20250407T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]FUSHIMI GAQUEST - In search of legendary PIECE: General fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/gaku-fushimi/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:73e68caa-a149-46c2-ac80-3f75ba40ee22
+DTSTAMP:20250326T120851Z
+DTSTART:20250413T145900Z
+DTEND:20250413T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]FUSHIMI GAQUEST - In search of legendary PIECE: General fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/gaku-fushimi/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd13d40e-9258-4ca2-83af-fbf4ae785fc1
+DTSTAMP:20250326T120927Z
+DTSTART:20250428T030000Z
+DTEND:20250428T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]FUSHIMI GAQUEST - In search of legendary PIECE: e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/gaku-fushimi/\n\nEvent:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd13d40e-9258-4ca2-83af-fbf4ae785fc2
+DTSTAMP:20250326T120927Z
+DTSTART:20250506T145900Z
+DTEND:20250506T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]FUSHIMI GAQUEST - In search of legendary PIECE: e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/gaku-fushimi/\n\nEvent:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d16352e-d426-4407-ae04-73e5b69e6e51
+DTSTAMP:20250326T121000Z
+DTSTART:20250524T030000Z
+DTEND:20250524T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]FUSHIMI GAQUEST - In search of legendary PIECE: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/gaku-fushimi/\n\nEvent:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Mashiro Meme】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/
+END:VEVENT
+BEGIN:VEVENT
 UID:d6142773-050f-4c99-86c6-fb9f8cfcc9ce
 DTSTAMP:20250309T124036Z
 DTSTART:20250720T090000Z
