@@ -638,10 +638,18 @@ class NijiCal:
             return False
 
         if event.event_type == EventType.TICKET_BEGIN:
-            return event.begin.day == date.day
+            return (
+                event.begin.year == date.year
+                and event.begin.month == date.month
+                and event.begin.day == date.day
+            )
 
         if event.event_type == EventType.TICKET_END:
-            return event.begin.day == date.day
+            return (
+                event.begin.year == date.year
+                and event.begin.month == date.month
+                and event.begin.day == date.day
+            )
 
         if not event.all_day:
             intersect_begin = max(event.begin, date_begin)
