@@ -2226,6 +2226,68 @@ DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n�
 URL:https://www.nijisanji.jp/events/2jidatoka_1st/
 END:VEVENT
 BEGIN:VEVENT
+UID:c5ab7216-91c0-4bb8-98dd-151b2879740b
+DTSTAMP:20250326T121116Z
+DTSTART:20250621T090000Z
+DTEND:20250621T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜
+LOCATION:愛知県芸術劇場
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="愛知県芸術劇場":geo:35.170818,136.911154
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\nチケット情報：\n\n総合ファンクラブ先行抽選 (2025/4/7 12:00〜2025/4/13 23:59)\nhttps://eplus.jp/gaku-fushimi/fc/\n\nイープラス先行抽選 (2025/4/28 12:00〜2025/5/6 23:59)\nhttps://eplus.jp/gaku-fushimi/\n\n一般販売（先着） (2025/5/24 12:00〜)\nhttps://eplus.jp/gaku-fushimi/\n\n\n\n==========\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【ましろ爻】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://www.nijisanji.jp/events/fushimigaquest/
+END:VEVENT
+BEGIN:VEVENT
+UID:73e68caa-a149-46c2-ac80-3f75ba40ee21
+DTSTAMP:20250326T120851Z
+DTSTART:20250407T030000Z
+DTEND:20250407T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜: 総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/gaku-fushimi/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【ましろ爻】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:73e68caa-a149-46c2-ac80-3f75ba40ee22
+DTSTAMP:20250326T120851Z
+DTSTART:20250413T145900Z
+DTEND:20250413T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜: 総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/gaku-fushimi/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【ましろ爻】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd13d40e-9258-4ca2-83af-fbf4ae785fc1
+DTSTAMP:20250326T120927Z
+DTSTART:20250428T030000Z
+DTEND:20250428T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/gaku-fushimi/\n\nイベント:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【ましろ爻】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd13d40e-9258-4ca2-83af-fbf4ae785fc2
+DTSTAMP:20250326T120927Z
+DTSTART:20250506T145900Z
+DTEND:20250506T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/gaku-fushimi/\n\nイベント:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【ましろ爻】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d16352e-d426-4407-ae04-73e5b69e6e51
+DTSTAMP:20250326T121000Z
+DTSTART:20250524T030000Z
+DTEND:20250524T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/gaku-fushimi/\n\nイベント:\nhttps://www.nijisanji.jp/events/fushimigaquest/\n\n\n==========\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【ましろ爻】\nYouTube: https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg\nX: https://twitter.com/mashiro2434\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
+URL:https://eplus.jp/gaku-fushimi/
+END:VEVENT
+BEGIN:VEVENT
 UID:727b81ad-7a6e-4f09-9f29-459af03f593d
 DTSTAMP:20250306T035946Z
 DTSTART:20250622T090000Z
