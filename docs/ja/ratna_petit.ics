@@ -183,6 +183,17 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps:
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:250f4dfb-17ad-4821-9fde-7cc62f5d121f
+DTSTAMP:20250327T093434Z
+DTSTART:20250802T090000Z
+DTEND:20250802T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじFAN Party 第1弾 ラトナ・プティ
+LOCATION:TFT ホール 500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TFT ホール 500":geo:35.630470,139.789370
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001157.000030865.html\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+END:VEVENT
+BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac012019
 DTSTAMP:20250316T024531Z
 DTSTART;VALUE=DATE:20191014
