@@ -40,12 +40,13 @@ URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:33877d45-4d2c-42cc-a8e9-e7d08d19f53f
-DTSTAMP:20250323T052357Z
+DTSTAMP:20250327T093128Z
 DTSTART:20210904T090000Z
 DTEND:20210904T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI SHOW DOWN Lever-gacha-daipan Stage
 LOCATION:Zepp DiverCity (TOKYO)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp DiverCity (TOKYO)":geo:35.624704,139.774649
 DESCRIPTION:\n\n==========\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【Nui Sociere】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://twitter.com/Hayama_Marin\n\n
 URL:https://event.nijisanji.app/showdown/
 END:VEVENT

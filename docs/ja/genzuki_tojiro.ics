@@ -244,14 +244,14 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:499a01fb-6742-4158-8a1c-f343859c1e47
-DTSTAMP:20250320T081539Z
+DTSTAMP:20250327T093813Z
 DTSTART:20250418T090000Z
 DTEND:20250418T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:月ノ美兎 2ndワンマンライブ\n『Paper Rabbit』
 LOCATION:J:COMホール八王子
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="J:COMホール八王子":geo:35.654300,139.337706
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/tsukino_paperrabbit/\n\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2025/2/27 12:00〜2025/3/5 23:59)\nhttps://eplus.jp/mitotsukino-cd/\n\n総合ファンクラブ先行抽選 (2025/3/8 12:00〜2025/3/16 23:59)\nhttps://eplus.jp/mitotsukino-fc/\n\nイープラス先行抽選 (2025/3/17 12:00〜2025/3/23 23:59)\nhttps://eplus.jp/mitotsukino/\n\n一般販売（先着） (2025/4/5 12:00〜)\nhttps://eplus.jp/mitotsukino/\n\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/tsukino_paperrabbit/\n\n無料パート\nhttps://www.youtube.com/live/uUsutBGr7H0\n\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2025/2/27 12:00〜2025/3/5 23:59)\nhttps://eplus.jp/mitotsukino-cd/\n\n総合ファンクラブ先行抽選 (2025/3/8 12:00〜2025/3/16 23:59)\nhttps://eplus.jp/mitotsukino-fc/\n\nイープラス先行抽選 (2025/3/17 12:00〜2025/3/23 23:59)\nhttps://eplus.jp/mitotsukino/\n\n一般販売（先着） (2025/4/5 12:00〜)\nhttps://eplus.jp/mitotsukino/\n\nオンライン視聴チケット販売 (2025/3/27 17:00〜2025/5/5 23:59)\nhttps://dwango-ticket.jp/project/Ih56mIqZ7E\n\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://www.nijisanji.jp/events/tsukino_paperrabbit/
 END:VEVENT
 BEGIN:VEVENT
@@ -323,6 +323,26 @@ TRANSP:TRANSPARENT
 SUMMARY:[チケット]月ノ美兎 2ndワンマンライブ\n『Paper Rabbit』: 一般販売（先着） 開始
 DESCRIPTION:チケット:\nhttps://eplus.jp/mitotsukino/\n\nイベント:\nhttps://www.nijisanji.jp/events/tsukino_paperrabbit/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://eplus.jp/mitotsukino/
+END:VEVENT
+BEGIN:VEVENT
+UID:753fa696-4bb2-4a1e-87fd-47952f3b64a1
+DTSTAMP:20250327T084218Z
+DTSTART:20250327T080000Z
+DTEND:20250327T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]月ノ美兎 2ndワンマンライブ\n『Paper Rabbit』: オンライン視聴チケット販売 開始
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/Ih56mIqZ7E\n\nイベント:\nhttps://www.nijisanji.jp/events/tsukino_paperrabbit/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+URL:https://dwango-ticket.jp/project/Ih56mIqZ7E
+END:VEVENT
+BEGIN:VEVENT
+UID:753fa696-4bb2-4a1e-87fd-47952f3b64a2
+DTSTAMP:20250327T084218Z
+DTSTART:20250505T145900Z
+DTEND:20250505T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]月ノ美兎 2ndワンマンライブ\n『Paper Rabbit』: オンライン視聴チケット販売 終了
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/Ih56mIqZ7E\n\nイベント:\nhttps://www.nijisanji.jp/events/tsukino_paperrabbit/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【弦月藤士郎】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+URL:https://dwango-ticket.jp/project/Ih56mIqZ7E
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8d9825-4ee6-41cc-8a90-d609b0012020

@@ -40,12 +40,13 @@ URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:43720d7b-bc5a-4788-a253-70f82911d275
-DTSTAMP:20250323T052357Z
+DTSTAMP:20250327T093127Z
 DTSTART:20210904T040000Z
 DTEND:20210904T060000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI SHOW DOWN にじクイステージ
 LOCATION:Zepp DiverCity (TOKYO)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp DiverCity (TOKYO)":geo:35.624704,139.774649
 DESCRIPTION:\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【黛灰】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n【健屋花那】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://event.nijisanji.app/showdown/
 END:VEVENT
