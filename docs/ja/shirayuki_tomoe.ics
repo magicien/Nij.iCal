@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Shirayuki's FAN Meeting ファンミーティングパート
 LOCATION:リーガロイヤルホテル東京
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="リーガロイヤルホテル東京":geo:35.710604,139.722628
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\n\n==========\nチケット情報：\n\n白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員先行（抽選） (2025/3/17 18:00〜2025/3/23 23:59)\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom\n\n白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン・ベーシックプラン会員先行（抽選） (2025/3/28 18:00〜2025/3/31 23:59)\n\n白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン・ベーシックプラン会員先行（先着） (2025/4/11 18:00〜2025/4/16 23:59)\n\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_580\n\n\n==========\nチケット情報：\n\n白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員先行（抽選） (2025/3/17 18:00〜2025/3/23 23:59)\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom\n\n白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員二次先行・ベーシックプラン会員先行（抽選） (2025/3/28 18:00〜2025/3/31 23:59)\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw2nd-pr\n\n白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン・ベーシックプラン会員先行（先着） (2025/4/11 18:00〜2025/4/16 23:59)\n\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
 URL:https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 END:VEVENT
 BEGIN:VEVENT
@@ -239,21 +239,23 @@ URL:https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom
 END:VEVENT
 BEGIN:VEVENT
 UID:077717e3-ff6f-4194-8784-469549c38251
-DTSTAMP:20250320T050030Z
+DTSTAMP:20250328T103916Z
 DTSTART:20250328T090000Z
 DTEND:20250328T093000Z
 TRANSP:TRANSPARENT
-SUMMARY:[チケット]Shirayuki's FAN Meeting ファンミーティングパート: 白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン・ベーシックプラン会員先行（抽選） 開始
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+SUMMARY:[チケット]Shirayuki's FAN Meeting ファンミーティングパート: 白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員二次先行・ベーシックプラン会員先行（抽選） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw2nd-pr\n\nイベント:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+URL:https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw2nd-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:077717e3-ff6f-4194-8784-469549c38252
-DTSTAMP:20250320T050030Z
+DTSTAMP:20250328T103916Z
 DTSTART:20250331T145900Z
 DTEND:20250331T152900Z
 TRANSP:TRANSPARENT
-SUMMARY:[チケット]Shirayuki's FAN Meeting ファンミーティングパート: 白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン・ベーシックプラン会員先行（抽選） 終了
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+SUMMARY:[チケット]Shirayuki's FAN Meeting ファンミーティングパート: 白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員二次先行・ベーシックプラン会員先行（抽選） 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw2nd-pr\n\nイベント:\nhttps://www.nijisanji.jp/events/shirayuki_fanmeeting/\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+URL:https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw2nd-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:5bbd19be-9613-4d6c-9103-697cb54794b1
