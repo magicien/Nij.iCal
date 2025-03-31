@@ -181,8 +181,38 @@ TRANSP:TRANSPARENT
 SUMMARY:NIJI-DATOKA 1st ONE-MAN LIVE
 LOCATION:Toyosu PIT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Toyosu PIT":geo:35.649603,139.788379
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_595\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_595\n\n\n==========\nTicket Info:\n\nTicket Pia pre-sale lottery (from Apr 3, 2025, 12:00 until Apr 14, 2025, 23:59)\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nGeneral sale (first come, first served) (from Apr 29, 2025, 12:00)\nhttps://w.pia.jp/t/2jidatoka-1st/\n\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/2jidatoka_1st/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec6df824-dcd8-4341-a407-e6d3497d4031
+DTSTAMP:20250331T112406Z
+DTSTART:20250403T030000Z
+DTEND:20250403T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJI-DATOKA 1st ONE-MAN LIVE: Ticket Pia pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nEvent:\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+URL:https://w.pia.jp/t/2jidatoka-1st/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec6df824-dcd8-4341-a407-e6d3497d4032
+DTSTAMP:20250331T112406Z
+DTSTART:20250414T145900Z
+DTEND:20250414T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJI-DATOKA 1st ONE-MAN LIVE: Ticket Pia pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nEvent:\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+URL:https://w.pia.jp/t/2jidatoka-1st/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec6df824-dcd8-4341-a407-e6d3497d4031
+DTSTAMP:20250331T112413Z
+DTSTART:20250429T030000Z
+DTEND:20250429T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJI-DATOKA 1st ONE-MAN LIVE: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nEvent:\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+URL:https://w.pia.jp/t/2jidatoka-1st/
 END:VEVENT
 BEGIN:VEVENT
 UID:7d0c848c-8d5a-41a7-b396-a46afa366a90
