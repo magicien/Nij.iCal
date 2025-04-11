@@ -249,4 +249,6 @@
 <tr class='liver-item' tags='ジール・ギンジョウカ,zeal ginjoka,じーるぎんじょうか'><td>Zeal Ginjoka</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/zeal_ginjoka.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/zeal_ginjoka.ics'>Japanese</a></td></tr>
 <tr class='liver-item' tags='フリオドール,freodore,ふりおどーる'><td>Freodore</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/freodore.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/freodore.ics'>Japanese</a></td></tr>
 <tr class='liver-item' tags='セイブル,seible,せいぶる'><td>Seible</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/seible.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/seible.ics'>Japanese</a></td></tr>
+<tr class='liver-item' tags='一橋綾人,hitotsubashi ayato,ひとつばしあやと'><td>Hitotsubashi Ayato</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/hitotsubashi_ayato.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/hitotsubashi_ayato.ics'>Japanese</a></td></tr>
+<tr class='liver-item' tags='五木左京,itsuki sakyo,いつきさきょう'><td>Itsuki Sakyo</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/itsuki_sakyo.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/itsuki_sakyo.ics'>Japanese</a></td></tr>
 </tbody></table></div>
