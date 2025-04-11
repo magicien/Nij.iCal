@@ -380,7 +380,7 @@ TRANSP:TRANSPARENT
 SUMMARY:くろのわーるが武道館でなんかやる
 LOCATION:日本武道館
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nオンラインゲスト：k4sen、SHAKA\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/3/24 20:00〜2025/4/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nチケットぴあプレリザーブ２次先行抽選 (2025/4/11 20:00〜2025/4/15 23:59)\n\n一般販売（先着） (2025/4/26 10:00〜)\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nオンラインゲスト：k4sen、SHAKA\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/3/24 20:00〜2025/4/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nチケットぴあプレリザーブ２次先行抽選 (2025/4/11 20:00〜2025/4/15 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n一般販売（先着） (2025/4/26 10:00〜)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.nijisanji.jp/events/chronoir-nankayaruevent/
 END:VEVENT
 BEGIN:VEVENT
@@ -405,30 +405,33 @@ URL:https://t.pia.jp/pia/event/event.do?eventCd=2510758
 END:VEVENT
 BEGIN:VEVENT
 UID:c7866b38-c44e-494b-b0ed-71d4f008a151
-DTSTAMP:20250325T042615Z
+DTSTAMP:20250411T162118Z
 DTSTART:20250411T110000Z
 DTEND:20250411T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]くろのわーるが武道館でなんかやる: チケットぴあプレリザーブ２次先行抽選 開始
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
 END:VEVENT
 BEGIN:VEVENT
 UID:c7866b38-c44e-494b-b0ed-71d4f008a152
-DTSTAMP:20250325T042615Z
+DTSTAMP:20250411T162118Z
 DTSTART:20250415T145900Z
 DTEND:20250415T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]くろのわーるが武道館でなんかやる: チケットぴあプレリザーブ２次先行抽選 終了
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
 END:VEVENT
 BEGIN:VEVENT
 UID:eb5ee390-fc92-4da6-9eac-c5578fc9e4a1
-DTSTAMP:20250325T042358Z
+DTSTAMP:20250411T162129Z
 DTSTART:20250426T010000Z
 DTEND:20250426T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]くろのわーるが武道館でなんかやる: 一般販売（先着） 開始
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
 END:VEVENT
 BEGIN:VEVENT
 UID:c5ab7216-91c0-4bb8-98dd-151b2879740b
