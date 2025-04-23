@@ -18,35 +18,35 @@ URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:449d50bc-d210-48ac-a3ae-abd8c7f89bd0
-DTSTAMP:20250323T030331Z
+DTSTAMP:20250423T150639Z
 DTSTART:20221229T080000Z
 DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:88efbd41-8158-491d-8a16-a09062a393c5
-DTSTAMP:20250323T030340Z
+DTSTAMP:20250423T150714Z
 DTSTART:20221230T080000Z
 DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:45ec2a5c-c933-4f09-b848-3022a59242bd
-DTSTAMP:20250323T030350Z
+DTSTAMP:20250423T150747Z
 DTSTART:20221231T080000Z
 DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +126,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket pre-sale lottery (from Mar 28, 2025, 12:00 until Apr 6, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket general sale (first come, first served) (from Apr 19, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -160,8 +160,38 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisan
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
+DTSTAMP:20250421T121131Z
+DTSTART:20250328T030000Z
+DTEND:20250328T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
+DTSTAMP:20250421T121131Z
+DTSTART:20250406T145900Z
+DTEND:20250406T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:54213bc5-1c81-45c7-9393-9c50371dce01
+DTSTAMP:20250421T121138Z
+DTSTART:20250419T030000Z
+DTEND:20250419T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4012022
-DTSTAMP:20250316T072300Z
+DTSTAMP:20250419T150420Z
 DTSTART;VALUE=DATE:20220326
 DTEND;VALUE=DATE:20220327
 RRULE:FREQ=YEARLY
@@ -172,7 +202,7 @@ URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022022
-DTSTAMP:20250316T072300Z
+DTSTAMP:20250419T150420Z
 DTSTART:20220222T020400Z
 DTEND:20220222T023400Z
 TRANSP:TRANSPARENT
@@ -182,7 +212,7 @@ URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4032022
-DTSTAMP:20250316T072300Z
+DTSTAMP:20250419T150420Z
 DTSTART:20220227T034000Z
 DTEND:20220227T041000Z
 TRANSP:TRANSPARENT
@@ -192,7 +222,7 @@ URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022023
-DTSTAMP:20250316T072300Z
+DTSTAMP:20250419T150420Z
 DTSTART:20230222T020400Z
 DTEND:20230222T020401Z
 TRANSP:TRANSPARENT
@@ -202,7 +232,7 @@ URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022024
-DTSTAMP:20250316T072300Z
+DTSTAMP:20250419T150420Z
 DTSTART:20240222T020400Z
 DTEND:20240222T020401Z
 TRANSP:TRANSPARENT
@@ -212,7 +242,7 @@ URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
 UID:d608cb31-e3df-4547-be28-6117c4022025
-DTSTAMP:20250316T072300Z
+DTSTAMP:20250419T150420Z
 DTSTART:20250222T020400Z
 DTEND:20250222T020401Z
 TRANSP:TRANSPARENT
@@ -221,103 +251,13 @@ DESCRIPTION:Fulgur Ovid 3rd Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022026
-DTSTAMP:20250316T072300Z
-DTSTART:20260222T020400Z
-DTEND:20260222T020401Z
+UID:d608cb31-e3df-4547-be28-6117c4992025
+DTSTAMP:20250419T150420Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
 TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 4th Anniversary
-DESCRIPTION:Fulgur Ovid 4th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022027
-DTSTAMP:20250316T072300Z
-DTSTART:20270222T020400Z
-DTEND:20270222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 5th Anniversary
-DESCRIPTION:Fulgur Ovid 5th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022028
-DTSTAMP:20250316T072300Z
-DTSTART:20280222T020400Z
-DTEND:20280222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 6th Anniversary
-DESCRIPTION:Fulgur Ovid 6th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022029
-DTSTAMP:20250316T072300Z
-DTSTART:20290222T020400Z
-DTEND:20290222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 7th Anniversary
-DESCRIPTION:Fulgur Ovid 7th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022030
-DTSTAMP:20250316T072300Z
-DTSTART:20300222T020400Z
-DTEND:20300222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 8th Anniversary
-DESCRIPTION:Fulgur Ovid 8th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022031
-DTSTAMP:20250316T072300Z
-DTSTART:20310222T020400Z
-DTEND:20310222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 9th Anniversary
-DESCRIPTION:Fulgur Ovid 9th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022032
-DTSTAMP:20250316T072300Z
-DTSTART:20320222T020400Z
-DTEND:20320222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 10th Anniversary
-DESCRIPTION:Fulgur Ovid 10th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022033
-DTSTAMP:20250316T072300Z
-DTSTART:20330222T020400Z
-DTEND:20330222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 11th Anniversary
-DESCRIPTION:Fulgur Ovid 11th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022034
-DTSTAMP:20250316T072300Z
-DTSTART:20340222T020400Z
-DTEND:20340222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 12th Anniversary
-DESCRIPTION:Fulgur Ovid 12th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
-URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
-END:VEVENT
-BEGIN:VEVENT
-UID:d608cb31-e3df-4547-be28-6117c4022035
-DTSTAMP:20250316T072300Z
-DTSTART:20350222T020400Z
-DTEND:20350222T020401Z
-TRANSP:TRANSPARENT
-SUMMARY:Fulgur Ovid 13th Anniversary
-DESCRIPTION:Fulgur Ovid 13th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:04 (JST)\nFirst stream: Feb 27, 2022, 12:40 (JST)\n\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+SUMMARY:Fulgur Ovid Graduation
+DESCRIPTION:Fulgur Ovid Graduation\n\n==========\n【Fulgur Ovid】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
 URL:https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA
 END:VEVENT
 END:VCALENDAR
