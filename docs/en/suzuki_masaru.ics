@@ -110,36 +110,48 @@ DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/ch
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
+UID:bfecd6df-2a74-4a1a-b442-968a1e48ff4d
+DTSTAMP:20250423T150147Z
+DTSTART:20221001T073000Z
+DTEND:20221001T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Anniversary Festival 2022 Theater Stage
+LOCATION:Makuhari Messe
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2022/stage/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWY=?pit_git_type=SERIES\n\n==========\n【Mononobe Alice】\nYouTube: https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA\nX: https://twitter.com/alicemononobe\n\n【Fumino Tamaki】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【Suzuki Masaru】\nYouTube: https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw\nX: https://twitter.com/darkness_eater\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Luis Cammy】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://twitter.com/matsukai_mao\n\n
+URL:https://fes.nijisanji.jp/2022/stage/
+END:VEVENT
+BEGIN:VEVENT
 UID:449d50bc-d210-48ac-a3ae-abd8c7f89bd0
-DTSTAMP:20250323T030331Z
+DTSTAMP:20250423T150639Z
 DTSTART:20221229T080000Z
 DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:88efbd41-8158-491d-8a16-a09062a393c5
-DTSTAMP:20250323T030340Z
+DTSTAMP:20250423T150714Z
 DTSTART:20221230T080000Z
 DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:45ec2a5c-c933-4f09-b848-3022a59242bd
-DTSTAMP:20250323T030350Z
+DTSTAMP:20250423T150747Z
 DTSTART:20221231T080000Z
 DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -208,7 +220,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket pre-sale lottery (from Mar 28, 2025, 12:00 until Apr 6, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket general sale (first come, first served) (from Apr 19, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -238,6 +250,36 @@ DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
+DTSTAMP:20250421T121131Z
+DTSTART:20250328T030000Z
+DTEND:20250328T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
+DTSTAMP:20250421T121131Z
+DTSTART:20250406T145900Z
+DTEND:20250406T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijifes_ex/
+END:VEVENT
+BEGIN:VEVENT
+UID:54213bc5-1c81-45c7-9393-9c50371dce01
+DTSTAMP:20250421T121138Z
+DTSTART:20250419T030000Z
+DTEND:20250419T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket general sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
