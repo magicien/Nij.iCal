@@ -31660,7 +31660,7 @@ URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7d9049-8a64-451a-9b7f-32ba7e012022
-DTSTAMP:20250316T071745Z
+DTSTAMP:20250501T011008Z
 DTSTART;VALUE=DATE:20220612
 DTEND;VALUE=DATE:20220613
 RRULE:FREQ=YEARLY
@@ -31671,7 +31671,7 @@ URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7d9049-8a64-451a-9b7f-32ba7e022021
-DTSTAMP:20250316T071745Z
+DTSTAMP:20250501T011008Z
 DTSTART:20211217T000100Z
 DTEND:20211217T003100Z
 TRANSP:TRANSPARENT
@@ -31681,7 +31681,7 @@ URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7d9049-8a64-451a-9b7f-32ba7e032021
-DTSTAMP:20250316T071745Z
+DTSTAMP:20250501T011008Z
 DTSTART:20211220T011000Z
 DTEND:20211220T014000Z
 TRANSP:TRANSPARENT
@@ -31691,7 +31691,7 @@ URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7d9049-8a64-451a-9b7f-32ba7e022022
-DTSTAMP:20250316T071745Z
+DTSTAMP:20250501T011008Z
 DTSTART:20221217T000100Z
 DTEND:20221217T000101Z
 TRANSP:TRANSPARENT
@@ -31701,7 +31701,7 @@ URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7d9049-8a64-451a-9b7f-32ba7e022023
-DTSTAMP:20250316T071745Z
+DTSTAMP:20250501T011008Z
 DTSTART:20231217T000100Z
 DTEND:20231217T000101Z
 TRANSP:TRANSPARENT
@@ -31711,7 +31711,7 @@ URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7d9049-8a64-451a-9b7f-32ba7e022024
-DTSTAMP:20250316T071745Z
+DTSTAMP:20250501T011008Z
 DTSTART:20241217T000100Z
 DTEND:20241217T000101Z
 TRANSP:TRANSPARENT
@@ -31720,113 +31720,13 @@ DESCRIPTION:Ike Eveland 3rd Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)
 URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
 END:VEVENT
 BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022025
-DTSTAMP:20250316T071745Z
-DTSTART:20251217T000100Z
-DTEND:20251217T000101Z
+UID:ef7d9049-8a64-451a-9b7f-32ba7e992025
+DTSTAMP:20250501T011008Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
 TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 4th Anniversary
-DESCRIPTION:Ike Eveland 4th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022026
-DTSTAMP:20250316T071745Z
-DTSTART:20261217T000100Z
-DTEND:20261217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 5th Anniversary
-DESCRIPTION:Ike Eveland 5th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022027
-DTSTAMP:20250316T071745Z
-DTSTART:20271217T000100Z
-DTEND:20271217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 6th Anniversary
-DESCRIPTION:Ike Eveland 6th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022028
-DTSTAMP:20250316T071745Z
-DTSTART:20281217T000100Z
-DTEND:20281217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 7th Anniversary
-DESCRIPTION:Ike Eveland 7th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022029
-DTSTAMP:20250316T071745Z
-DTSTART:20291217T000100Z
-DTEND:20291217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 8th Anniversary
-DESCRIPTION:Ike Eveland 8th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022030
-DTSTAMP:20250316T071745Z
-DTSTART:20301217T000100Z
-DTEND:20301217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 9th Anniversary
-DESCRIPTION:Ike Eveland 9th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022031
-DTSTAMP:20250316T071745Z
-DTSTART:20311217T000100Z
-DTEND:20311217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 10th Anniversary
-DESCRIPTION:Ike Eveland 10th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022032
-DTSTAMP:20250316T071745Z
-DTSTART:20321217T000100Z
-DTEND:20321217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 11th Anniversary
-DESCRIPTION:Ike Eveland 11th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022033
-DTSTAMP:20250316T071745Z
-DTSTART:20331217T000100Z
-DTEND:20331217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 12th Anniversary
-DESCRIPTION:Ike Eveland 12th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022034
-DTSTAMP:20250316T071745Z
-DTSTART:20341217T000100Z
-DTEND:20341217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 13th Anniversary
-DESCRIPTION:Ike Eveland 13th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
-URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
-END:VEVENT
-BEGIN:VEVENT
-UID:ef7d9049-8a64-451a-9b7f-32ba7e022035
-DTSTAMP:20250316T071745Z
-DTSTART:20351217T000100Z
-DTEND:20351217T000101Z
-TRANSP:TRANSPARENT
-SUMMARY:Ike Eveland 14th Anniversary
-DESCRIPTION:Ike Eveland 14th Anniversary\n\nFirst tweet: Dec 17, 2021, 9:01 (JST)\nFirst stream: Dec 20, 2021, 10:10 (JST)\n\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
+SUMMARY:Ike Eveland Graduation
+DESCRIPTION:Ike Eveland Graduation\n\n==========\n【Ike Eveland】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n
 URL:https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA
 END:VEVENT
 BEGIN:VEVENT

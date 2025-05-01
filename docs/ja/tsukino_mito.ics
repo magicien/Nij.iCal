@@ -643,7 +643,7 @@ TRANSP:TRANSPARENT
 SUMMARY:くろのわーるが武道館でなんかやる
 LOCATION:日本武道館
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nオンラインゲスト：k4sen、SHAKA\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/3/24 20:00〜2025/4/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nチケットぴあプレリザーブ２次先行抽選 (2025/4/11 20:00〜2025/4/15 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n一般販売（先着） (2025/4/26 10:00〜)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nオンライン視聴チケット販売 (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://dwango-ticket.jp/project/G5mq6EaxIs\n\nオンライン視聴チケット販売（Stagecrowd） (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://intl.stagecrowd.live/chronoir-nankayaruevent/\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nオンラインゲスト：k4sen、SHAKA\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/3/24 20:00〜2025/4/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nチケットぴあプレリザーブ２次先行抽選 (2025/4/11 20:00〜2025/4/15 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n一般販売（先着） (2025/4/26 10:00〜)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n見切れ席（抽選） (2025/4/30 12:00〜2025/5/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nオンライン視聴チケット販売 (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://dwango-ticket.jp/project/G5mq6EaxIs\n\nオンライン視聴チケット販売（Stagecrowd） (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://intl.stagecrowd.live/chronoir-nankayaruevent/\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.nijisanji.jp/events/chronoir-nankayaruevent/
 END:VEVENT
 BEGIN:VEVENT
@@ -697,8 +697,28 @@ DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b25
 URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
 END:VEVENT
 BEGIN:VEVENT
+UID:fb912983-ece6-489a-b778-5c8c99e59b61
+DTSTAMP:20250501T011718Z
+DTSTART:20250430T030000Z
+DTEND:20250430T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]くろのわーるが武道館でなんかやる: 見切れ席（抽選） 開始
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
+END:VEVENT
+BEGIN:VEVENT
+UID:fb912983-ece6-489a-b778-5c8c99e59b62
+DTSTAMP:20250501T011718Z
+DTSTART:20250506T145900Z
+DTEND:20250506T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]くろのわーるが武道館でなんかやる: 見切れ席（抽選） 終了
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
+END:VEVENT
+BEGIN:VEVENT
 UID:0ac344e9-321d-45da-ab08-e8d192af02b1
-DTSTAMP:20250423T142853Z
+DTSTAMP:20250501T011339Z
 DTSTART:20250423T080000Z
 DTEND:20250423T083000Z
 TRANSP:TRANSPARENT
@@ -708,7 +728,7 @@ URL:https://dwango-ticket.jp/project/G5mq6EaxIs
 END:VEVENT
 BEGIN:VEVENT
 UID:0ac344e9-321d-45da-ab08-e8d192af02b2
-DTSTAMP:20250423T142853Z
+DTSTAMP:20250501T011339Z
 DTSTART:20250601T145900Z
 DTEND:20250601T152900Z
 TRANSP:TRANSPARENT
@@ -738,14 +758,14 @@ URL:https://intl.stagecrowd.live/chronoir-nankayaruevent/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250306T040032Z
+DTSTAMP:20250501T012354Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演
 LOCATION:TOYOTA ARENA TOKYO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT

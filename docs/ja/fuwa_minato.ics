@@ -437,14 +437,14 @@ URL:https://www.nijisanji.jp/events/2jidatoka_1st/
 END:VEVENT
 BEGIN:VEVENT
 UID:d6142773-050f-4c99-86c6-fb9f8cfcc9ce
-DTSTAMP:20250309T124036Z
+DTSTAMP:20250501T012439Z
 DTSTART:20250720T090000Z
 DTEND:20250720T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:ROF-MAO 2nd LIVE - Limitless
 LOCATION:Kアリーナ横浜
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\nチケット情報：\n\n｢MOMENTUM｣ シリアル先行抽選 (2025/3/26 12:00〜2025/4/27 23:59)\nhttps://eplus.jp/rofmao/cd/\n\n総合ファンクラブ先行抽選 (2025/4/30 12:00〜2025/5/11 23:59)\n\ne+アプリ先行抽選 (2025/5/21 12:00〜2025/6/1 23:59)\n\n一般販売（先着） (2025/6/14 12:00〜)\n\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_629\n\n\n==========\nチケット情報：\n\n｢MOMENTUM｣ シリアル先行抽選 (2025/3/26 12:00〜2025/4/27 23:59)\nhttps://eplus.jp/rofmao/cd/\n\n総合ファンクラブ先行抽選 (2025/4/30 12:00〜2025/5/11 23:59)\nhttps://eplus.jp/rofmao/fc/\n\ne+アプリ先行抽選 (2025/5/21 12:00〜2025/6/1 23:59)\nhttps://eplus.jp/rofmao/\n\n一般販売（先着） (2025/6/14 12:00〜)\nhttps://eplus.jp/rofmao/\n\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/rof-mao_2ndlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -469,59 +469,64 @@ URL:https://eplus.jp/rofmao/cd/
 END:VEVENT
 BEGIN:VEVENT
 UID:d1bd5f29-23d2-4bef-958f-de23130c6eb1
-DTSTAMP:20250320T050430Z
+DTSTAMP:20250501T011157Z
 DTSTART:20250430T030000Z
 DTEND:20250430T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]ROF-MAO 2nd LIVE - Limitless: 総合ファンクラブ先行抽選 開始
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/rofmao/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:d1bd5f29-23d2-4bef-958f-de23130c6eb2
-DTSTAMP:20250320T050430Z
+DTSTAMP:20250501T011157Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]ROF-MAO 2nd LIVE - Limitless: 総合ファンクラブ先行抽選 終了
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/rofmao/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:d42ed700-269e-4fb1-b934-cf729f3193a1
-DTSTAMP:20250320T050418Z
+DTSTAMP:20250501T011206Z
 DTSTART:20250521T030000Z
 DTEND:20250521T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]ROF-MAO 2nd LIVE - Limitless: e+アプリ先行抽選 開始
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/rofmao/\n\nイベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/
 END:VEVENT
 BEGIN:VEVENT
 UID:d42ed700-269e-4fb1-b934-cf729f3193a2
-DTSTAMP:20250320T050418Z
+DTSTAMP:20250501T011206Z
 DTSTART:20250601T145900Z
 DTEND:20250601T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]ROF-MAO 2nd LIVE - Limitless: e+アプリ先行抽選 終了
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/rofmao/\n\nイベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/
 END:VEVENT
 BEGIN:VEVENT
 UID:7fd98bda-7acc-4a0c-9906-bec0edda5521
-DTSTAMP:20250320T050415Z
+DTSTAMP:20250501T011214Z
 DTSTART:20250614T030000Z
 DTEND:20250614T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]ROF-MAO 2nd LIVE - Limitless: 一般販売（先着） 開始
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/rofmao/\n\nイベント:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/
 END:VEVENT
 BEGIN:VEVENT
 UID:72460880-d374-4b14-a7fd-cb391d793a0b
-DTSTAMP:20250306T040015Z
+DTSTAMP:20250501T012351Z
 DTSTART:20250913T090000Z
 DTEND:20250913T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 福岡公演
 LOCATION:福岡サンパレス ホテル＆ホール
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="福岡サンパレス ホテル＆ホール":geo:33.603405,130.402999
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【鷹宮リオン】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\n【鷹宮リオン】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【オリバー・エバンス】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT

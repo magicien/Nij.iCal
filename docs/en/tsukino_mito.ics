@@ -643,7 +643,7 @@ TRANSP:TRANSPARENT
 SUMMARY:ChroNoiR is Up to Something at Budokan
 LOCATION:Nippon Budokan
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Nippon Budokan":geo:35.693361,139.749822
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nOnline Guests: k4sen, SHAKA\n\n==========\nTicket Info:\n\nTicket Pia earliest pre-sale lottery (from Mar 24, 2025, 20:00 until Apr 6, 2025, 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nTicket Pia pre-reserve second round priority lottery (from Apr 11, 2025, 20:00 until Apr 15, 2025, 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nGeneral sale (first come, first served) (from Apr 26, 2025, 10:00)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nOnline viewing ticket sales (from Apr 23, 2025, 17:00 until Jun 1, 2025, 23:59)\nhttps://dwango-ticket.jp/project/G5mq6EaxIs\n\nOnline viewing ticket sales (Stagecrowd) (from Apr 23, 2025, 17:00 until Jun 1, 2025, 23:59)\nhttps://intl.stagecrowd.live/chronoir-nankayaruevent/\n\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nOnline Guests: k4sen, SHAKA\n\n==========\nTicket Info:\n\nTicket Pia earliest pre-sale lottery (from Mar 24, 2025, 20:00 until Apr 6, 2025, 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nTicket Pia pre-reserve second round priority lottery (from Apr 11, 2025, 20:00 until Apr 15, 2025, 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nGeneral sale (first come, first served) (from Apr 26, 2025, 10:00)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nLimited visibility seats lottery (from Apr 30, 2025, 12:00 until May 6, 2025, 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nOnline viewing ticket sales (from Apr 23, 2025, 17:00 until Jun 1, 2025, 23:59)\nhttps://dwango-ticket.jp/project/G5mq6EaxIs\n\nOnline viewing ticket sales (Stagecrowd) (from Apr 23, 2025, 17:00 until Jun 1, 2025, 23:59)\nhttps://intl.stagecrowd.live/chronoir-nankayaruevent/\n\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.nijisanji.jp/events/chronoir-nankayaruevent/
 END:VEVENT
 BEGIN:VEVENT
@@ -697,8 +697,28 @@ DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\
 URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
 END:VEVENT
 BEGIN:VEVENT
+UID:fb912983-ece6-489a-b778-5c8c99e59b61
+DTSTAMP:20250501T011718Z
+DTSTART:20250430T030000Z
+DTEND:20250430T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]ChroNoiR is Up to Something at Budokan: Limited visibility seats lottery starts
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nEvent:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
+END:VEVENT
+BEGIN:VEVENT
+UID:fb912983-ece6-489a-b778-5c8c99e59b62
+DTSTAMP:20250501T011718Z
+DTSTART:20250506T145900Z
+DTEND:20250506T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]ChroNoiR is Up to Something at Budokan: Limited visibility seats lottery ends
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nEvent:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
+END:VEVENT
+BEGIN:VEVENT
 UID:0ac344e9-321d-45da-ab08-e8d192af02b1
-DTSTAMP:20250423T142853Z
+DTSTAMP:20250501T011339Z
 DTSTART:20250423T080000Z
 DTEND:20250423T083000Z
 TRANSP:TRANSPARENT
@@ -708,7 +728,7 @@ URL:https://dwango-ticket.jp/project/G5mq6EaxIs
 END:VEVENT
 BEGIN:VEVENT
 UID:0ac344e9-321d-45da-ab08-e8d192af02b2
-DTSTAMP:20250423T142853Z
+DTSTAMP:20250501T011339Z
 DTSTART:20250601T145900Z
 DTEND:20250601T152900Z
 TRANSP:TRANSPARENT
@@ -738,14 +758,14 @@ URL:https://intl.stagecrowd.live/chronoir-nankayaruevent/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250306T040032Z
+DTSTAMP:20250501T012354Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo
 LOCATION:TOYOTA ARENA TOKYO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT

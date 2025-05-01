@@ -334,14 +334,14 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:d6142773-050f-4c99-86c6-fb9f8cfcc9ce
-DTSTAMP:20250309T124036Z
+DTSTAMP:20250501T012439Z
 DTSTART:20250720T090000Z
 DTEND:20250720T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:ROF-MAO 2nd LIVE - Limitless
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\nTicket Info:\n\n"MOMENTUM" Serial code pre-sale lottery (from Mar 26, 2025, 12:00 until Apr 27, 2025, 23:59)\nhttps://eplus.jp/rofmao/cd/\n\nGeneral fan club pre-sale lottery (from Apr 30, 2025, 12:00 until May 11, 2025, 23:59)\n\ne+ pre-sale lottery (from May 21, 2025, 12:00 until Jun 1, 2025, 23:59)\n\nGeneral sale (first come, first served) (from Jun 14, 2025, 12:00)\n\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_629\n\n==========\nTicket Info:\n\n"MOMENTUM" Serial code pre-sale lottery (from Mar 26, 2025, 12:00 until Apr 27, 2025, 23:59)\nhttps://eplus.jp/rofmao/cd/\n\nGeneral fan club pre-sale lottery (from Apr 30, 2025, 12:00 until May 11, 2025, 23:59)\nhttps://eplus.jp/rofmao/fc/\n\ne+ pre-sale lottery (from May 21, 2025, 12:00 until Jun 1, 2025, 23:59)\nhttps://eplus.jp/rofmao/\n\nGeneral sale (first come, first served) (from Jun 14, 2025, 12:00)\nhttps://eplus.jp/rofmao/\n\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/rof-mao_2ndlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -366,59 +366,64 @@ URL:https://eplus.jp/rofmao/cd/
 END:VEVENT
 BEGIN:VEVENT
 UID:d1bd5f29-23d2-4bef-958f-de23130c6eb1
-DTSTAMP:20250320T050430Z
+DTSTAMP:20250501T011157Z
 DTSTART:20250430T030000Z
 DTEND:20250430T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]ROF-MAO 2nd LIVE - Limitless: General fan club pre-sale lottery starts
-DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/rofmao/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:d1bd5f29-23d2-4bef-958f-de23130c6eb2
-DTSTAMP:20250320T050430Z
+DTSTAMP:20250501T011157Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]ROF-MAO 2nd LIVE - Limitless: General fan club pre-sale lottery ends
-DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/rofmao/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:d42ed700-269e-4fb1-b934-cf729f3193a1
-DTSTAMP:20250320T050418Z
+DTSTAMP:20250501T011206Z
 DTSTART:20250521T030000Z
 DTEND:20250521T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]ROF-MAO 2nd LIVE - Limitless: e+ pre-sale lottery starts
-DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/rofmao/\n\nEvent:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/
 END:VEVENT
 BEGIN:VEVENT
 UID:d42ed700-269e-4fb1-b934-cf729f3193a2
-DTSTAMP:20250320T050418Z
+DTSTAMP:20250501T011206Z
 DTSTART:20250601T145900Z
 DTEND:20250601T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]ROF-MAO 2nd LIVE - Limitless: e+ pre-sale lottery ends
-DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/rofmao/\n\nEvent:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/
 END:VEVENT
 BEGIN:VEVENT
 UID:7fd98bda-7acc-4a0c-9906-bec0edda5521
-DTSTAMP:20250320T050415Z
+DTSTAMP:20250501T011214Z
 DTSTART:20250614T030000Z
 DTEND:20250614T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]ROF-MAO 2nd LIVE - Limitless: General sale (first come, first served) starts
-DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/rofmao/\n\nEvent:\nhttps://www.nijisanji.jp/events/rof-mao_2ndlive/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n
+URL:https://eplus.jp/rofmao/
 END:VEVENT
 BEGIN:VEVENT
 UID:052fed1f-a1ca-49dd-b65f-0b626d1f77f0
-DTSTAMP:20250306T040005Z
+DTSTAMP:20250501T012349Z
 DTSTART:20250830T090000Z
 DTEND:20250830T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Kobe
 LOCATION:Kobe International House
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kobe International House":geo:34.692295,135.195742
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【Shellin Burgundy】\nYouTube: https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA\nX: https://twitter.com/ShellinBurgundy\n\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
