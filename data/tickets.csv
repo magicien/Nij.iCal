@@ -1,82 +1,154 @@
-タイトル,UID,更新日時,タイトル（英語）,イベントUID,イベント名（自動、確認用）,開始日時,終了日時,URL
-4月分チケット先行抽選,a5fbf93c-97d9-41b5-8995-07f11cd7a583, 2025/03/20 13:53:45,April ticket pre-sale lottery,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/03/20 12:00, 2025/03/23 23:59,https://eplus.jp/nijifes_ex/
-4月分チケット一般販売（先着）,508c0166-d603-42db-ad16-bf9b8611ad6e, 2025/03/20 13:52:43,"April ticket general sale (first come, first served)",76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/03/31 12:00,,https://eplus.jp/nijifes_ex/
-5月分チケット先行抽選,3d807b9d-885c-47ad-b1ab-d3b5795e58ab, 2025/04/21 21:11:31,May ticket pre-sale lottery,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/03/28 12:00, 2025/04/06 23:59,https://eplus.jp/nijifes_ex/
-5月分チケット一般販売（先着）,54213bc5-1c81-45c7-9393-9c50371dce02, 2025/04/21 21:11:38,"May ticket general sale (first come, first served)",76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/04/19 12:00,,https://eplus.jp/nijifes_ex/
-6月分チケット先行抽選,0b44afe0-0706-4c83-ae0e-c2d634860191, 2025/05/03 14:48:47,June ticket pre-sale lottery,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/05/03 12:00, 2025/05/11 23:59,https://eplus.jp/nijifes_ex/
-6月分チケット一般販売（先着）,e9642f21-04bb-4209-be96-7f7ff9bf498f, 2025/05/03 14:48:51,"June ticket general sale (first come, first served)",76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/05/24 12:00,,https://eplus.jp/nijifes_ex/
-シリアル先行抽選,4c7a3d64-2e24-4d49-b61f-913c245eb87d, 2025/03/20 13:55:30,Serial code pre-sale lottery,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
-『Paper Rabbit』", 2025/02/27 12:00, 2025/03/05 23:59,https://eplus.jp/mitotsukino-cd/
-総合ファンクラブ先行抽選,85ab1446-47ff-44ec-b2cc-979993a04c26, 2025/03/20 13:56:46,General fan club pre-sale lottery,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
-『Paper Rabbit』", 2025/03/08 12:00, 2025/03/16 23:59,https://eplus.jp/mitotsukino-fc/
-イープラス先行抽選,ebd9c1bb-84a6-4859-9043-bdb84141814f, 2025/03/20 13:57:04,e+ pre-sale lottery,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
-『Paper Rabbit』", 2025/03/17 12:00, 2025/03/23 23:59,https://eplus.jp/mitotsukino/
-一般販売（先着）,d9850a65-d67a-41c6-99c5-9363525d34fa, 2025/03/20 13:57:21,"General sale (first come, first served)",499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
-『Paper Rabbit』", 2025/04/05 12:00,,https://eplus.jp/mitotsukino/
+タイトル,UID,更新日時,タイトル（英語）,イベントUID,イベント名（自動、確認用）,開始日時,終了日時,URL,色分け用
+4月分チケット先行抽選,a5fbf93c-97d9-41b5-8995-07f11cd7a583, 2025/05/10 15:08:13,April ticket pre-sale lottery,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/03/20 12:00, 2025/03/23 23:59,https://eplus.jp/nijifes_ex/,0
+4月分チケット一般販売（先着）,508c0166-d603-42db-ad16-bf9b8611ad6e, 2025/05/10 15:08:54,"April ticket general sale (first come, first served)",76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/03/31 12:00,,https://eplus.jp/nijifes_ex/,0
+5月分チケット先行抽選,3d807b9d-885c-47ad-b1ab-d3b5795e58ab, 2025/05/10 15:08:56,May ticket pre-sale lottery,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/03/28 12:00, 2025/04/06 23:59,https://eplus.jp/nijifes_ex/,0
+5月分チケット一般販売（先着）,54213bc5-1c81-45c7-9393-9c50371dce02, 2025/05/10 15:08:56,"May ticket general sale (first come, first served)",76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/04/19 12:00,,https://eplus.jp/nijifes_ex/,0
+6月分チケット先行抽選,0b44afe0-0706-4c83-ae0e-c2d634860191, 2025/05/10 15:09:03,June ticket pre-sale lottery,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/05/03 12:00, 2025/05/11 23:59,https://eplus.jp/nijifes_ex/,0
+6月分チケット一般販売（先着）,e9642f21-04bb-4209-be96-7f7ff9bf498f, 2025/05/10 15:09:02,"June ticket general sale (first come, first served)",76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7,にじさんじフェス展, 2025/05/24 12:00,,https://eplus.jp/nijifes_ex/,0
+シリアル先行抽選,4c7a3d64-2e24-4d49-b61f-913c245eb87d, 2025/05/10 15:09:03,Serial code pre-sale lottery,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
+『Paper Rabbit』", 2025/02/27 12:00, 2025/03/05 23:59,https://eplus.jp/mitotsukino-cd/,1
+総合ファンクラブ先行抽選,85ab1446-47ff-44ec-b2cc-979993a04c26, 2025/05/10 15:09:04,General fan club pre-sale lottery,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
+『Paper Rabbit』", 2025/03/08 12:00, 2025/03/16 23:59,https://eplus.jp/mitotsukino-fc/,1
+イープラス先行抽選,ebd9c1bb-84a6-4859-9043-bdb84141814f, 2025/05/10 15:09:04,e+ pre-sale lottery,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
+『Paper Rabbit』", 2025/03/17 12:00, 2025/03/23 23:59,https://eplus.jp/mitotsukino/,1
+一般販売（先着）,d9850a65-d67a-41c6-99c5-9363525d34fa, 2025/05/10 15:09:07,"General sale (first come, first served)",499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
+『Paper Rabbit』", 2025/04/05 12:00,,https://eplus.jp/mitotsukino/,1
 オンライン視聴チケット販売,753fa696-4bb2-4a1e-87fd-47952f3b64ac, 2025/04/09 15:08:50,Online viewing ticket sales,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
-『Paper Rabbit』", 2025/03/27 17:00, 2025/05/05 23:59,https://dwango-ticket.jp/project/Ih56mIqZ7E
+『Paper Rabbit』", 2025/03/27 17:00, 2025/05/05 23:59,https://dwango-ticket.jp/project/Ih56mIqZ7E,1
 リセール,051f76ce-acfa-440c-936f-b345bbf2bce3, 2025/04/09 15:09:19,Resale,499a01fb-6742-4158-8a1c-f343859c1e47,"月ノ美兎 2ndワンマンライブ
-『Paper Rabbit』", 2025/04/07 12:00,,https://trade.tixplus.jp/artists/tour/11938
-『GAME GIRL』シリアル先行抽選,afff4e53-d0f1-443f-aaf6-6ef15289eb1d, 2025/03/20 13:57:37,"""GAME GIRL"" Serial code pre-sale lottery",99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2024/10/09 12:00, 2024/10/23 23:59,
-総合・個人ファンクラブ先行抽選,99b538d7-8ac4-4aa1-9d67-0a5ddf334874, 2025/03/20 13:58:10,General and individual fan club pre-sale lottery,99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/01/29 12:00, 2025/02/09 23:59,
-楽天チケット先行抽選,fc88d031-4a58-41d6-9d99-7cb95a469d94, 2025/03/20 13:59:00,Rakuten Ticket pre-sale lottery,99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/02/12 12:00, 2025/02/26 23:59,
-一般販売（先着）,24cee520-bf68-46fd-bc75-ccd9b0f74253, 2025/03/20 13:59:03,"General sale (first come, first served)",99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/03/15 12:00,,https://ticket.rakuten.co.jp/event/RTY0MDS/
-オンライン視聴チケット販売,57c6c83f-83a0-4b01-adc6-cd6c2bdef568, 2025/03/27 17:41:10,Online viewing ticket sales,99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/03/27 17:00, 2025/05/05 23:59,https://dwango-ticket.jp/project/FAqflIJ9jk
-白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員先行（抽選）,082760b7-5474-417c-83b5-ff310e75e567, 2025/03/20 14:00:06,Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan members pre-sale lottery,cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/03/17 18:00, 2025/03/23 23:59,https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom
-白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員二次先行・ベーシックプラン会員先行（抽選）,077717e3-ff6f-4194-8784-469549c38258, 2025/03/28 19:39:16,Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale lottery,cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/03/28 18:00, 2025/03/31 23:59,https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw2nd-pr
-白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン・ベーシックプラン会員先行（先着）,5bbd19be-9613-4d6c-9103-697cb54794bc, 2025/04/16 20:10:17,"Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale (first come, first served)",cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/04/11 18:00, 2025/04/16 23:59,https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw3rd-sen
-オンライン視聴チケット販売,24dfcaa9-129c-4a42-844e-cfbc0d899be8, 2025/04/16 20:10:53,Online viewing ticket sales,cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/04/16 12:00, 2025/05/16 23:59,https://dwango-ticket.jp/project/mv61AUZ9de
+『Paper Rabbit』", 2025/04/07 12:00,,https://trade.tixplus.jp/artists/tour/11938,1
+『GAME GIRL』シリアル先行抽選,afff4e53-d0f1-443f-aaf6-6ef15289eb1d, 2025/05/10 15:09:15,"""GAME GIRL"" Serial code pre-sale lottery",99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2024/10/09 12:00, 2024/10/23 23:59,,0
+総合・個人ファンクラブ先行抽選,99b538d7-8ac4-4aa1-9d67-0a5ddf334874, 2025/03/20 13:58:10,General and individual fan club pre-sale lottery,99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/01/29 12:00, 2025/02/09 23:59,,0
+楽天チケット先行抽選,fc88d031-4a58-41d6-9d99-7cb95a469d94, 2025/03/20 13:59:00,Rakuten Ticket pre-sale lottery,99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/02/12 12:00, 2025/02/26 23:59,,0
+一般販売（先着）,24cee520-bf68-46fd-bc75-ccd9b0f74253, 2025/03/20 13:59:03,"General sale (first come, first served)",99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/03/15 12:00,,https://ticket.rakuten.co.jp/event/RTY0MDS/,0
+オンライン視聴チケット販売,57c6c83f-83a0-4b01-adc6-cd6c2bdef568, 2025/03/27 17:41:10,Online viewing ticket sales,99562266-d3d3-4668-b0a9-d8cf4701e80f,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演, 2025/03/27 17:00, 2025/05/05 23:59,https://dwango-ticket.jp/project/FAqflIJ9jk,0
+白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員先行（抽選）,082760b7-5474-417c-83b5-ff310e75e567, 2025/03/20 14:00:06,Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan members pre-sale lottery,cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/03/17 18:00, 2025/03/23 23:59,https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sweetroom,1
+白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン会員二次先行・ベーシックプラン会員先行（抽選）,077717e3-ff6f-4194-8784-469549c38258, 2025/03/28 19:39:16,Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale lottery,cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/03/28 18:00, 2025/03/31 23:59,https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw2nd-pr,1
+白雪巴ファンクラブ「白雪HOUSE」プレミアムプラン・ベーシックプラン会員先行（先着）,5bbd19be-9613-4d6c-9103-697cb54794bc, 2025/04/16 20:10:17,"Shirayuki Tomoe Fan Club 'Shirayuki HOUSE' Premium plan and Basic plan members pre-sale (first come, first served)",cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/04/11 18:00, 2025/04/16 23:59,https://eplus.jp/sf/web/live/irg/shirayuki-tomoe/sw3rd-sen,1
+オンライン視聴チケット販売,24dfcaa9-129c-4a42-844e-cfbc0d899be8, 2025/04/16 20:10:53,Online viewing ticket sales,cdebb070-7955-4a01-adc5-07ee77b36727,Shirayuki's FAN Meeting ファンミーティングパート, 2025/04/16 12:00, 2025/05/16 23:59,https://dwango-ticket.jp/project/mv61AUZ9de,1
 総合ファンクラブ先行抽選,0b13641d-de15-4f1a-a3a1-ae0ba965f39b, 2025/03/20 14:01:35,General fan club pre-sale lottery,c4ee24af-8fec-45c0-8695-14171d44bfc5,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 仙台公演", 2025/03/04 18:00, 2025/03/16 23:59,https://eplus.jp/nijisanji-world-tour/fc/
+Singin’ in the Rainbow！ 仙台公演", 2025/03/04 18:00, 2025/03/16 23:59,https://eplus.jp/nijisanji-world-tour/fc/,0
 イープラス先行抽選,b867bc6b-f282-465b-b28c-439f59a89f49, 2025/03/20 14:01:42,e+ pre-sale lottery,c4ee24af-8fec-45c0-8695-14171d44bfc5,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 仙台公演", 2025/03/24 12:00, 2025/03/30 23:59,https://eplus.jp/nijisanji-world-tour/
+Singin’ in the Rainbow！ 仙台公演", 2025/03/24 12:00, 2025/03/30 23:59,https://eplus.jp/nijisanji-world-tour/,0
 一般販売（先着）,1d05e89f-001e-4643-ad44-75f330bfe8e7, 2025/03/20 14:01:47,"General sale (first come, first served)",c4ee24af-8fec-45c0-8695-14171d44bfc5,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 仙台公演", 2025/04/12 12:00,,https://eplus.jp/nijisanji-world-tour/
+Singin’ in the Rainbow！ 仙台公演", 2025/04/12 12:00,,https://eplus.jp/nijisanji-world-tour/,0
 見切れ席販売（先着）,b5ad769d-841d-4c49-97f3-2f632d998417, 2025/04/13 19:46:55,"Limited visibility seats for sale (first-come, first-served)",c4ee24af-8fec-45c0-8695-14171d44bfc5,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 仙台公演", 2025/04/13 12:00,,https://eplus.jp/nijisanji-world-tour/
+Singin’ in the Rainbow！ 仙台公演", 2025/04/13 12:00,,https://eplus.jp/nijisanji-world-tour/,0
 立ち位置指定席（先着）,724477d7-afc2-40cb-8c55-6fc8937a0e03, 2025/04/13 19:52:34,"Standing position assigned seats (first-come, first-served)",c4ee24af-8fec-45c0-8695-14171d44bfc5,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 仙台公演", 2025/04/20 12:00,,https://eplus.jp/nijisanji-world-tour/
+Singin’ in the Rainbow！ 仙台公演", 2025/04/20 12:00,,https://eplus.jp/nijisanji-world-tour/,0
+リセール,5fe10f64-8c1a-494c-b9bb-8d3d0df888fe, 2025/05/10 15:28:12,Resale,c4ee24af-8fec-45c0-8695-14171d44bfc5,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 仙台公演", 2025/04/28 17:00, 2025/05/08 11:59,https://trade.tixplus.jp/artists/tour/11994,0
 オンライン視聴チケット販売,2539a2d8-02c3-4607-b3eb-1b9673d17920, 2025/04/17 22:39:41,Online viewing ticket sales,c4ee24af-8fec-45c0-8695-14171d44bfc5,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 仙台公演", 2025/04/17 17:00, 2025/05/25 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB
-チケットぴあ最速先行抽選,b7299a86-53cc-4aad-b659-c1913b69f94c, 2025/03/25 13:25:37,Ticket Pia earliest pre-sale lottery,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/03/24 20:00, 2025/04/06 23:59,https://t.pia.jp/pia/event/event.do?eventCd=2510758
-チケットぴあプレリザーブ２次先行抽選,c7866b38-c44e-494b-b0ed-71d4f008a151, 2025/04/12 01:21:18,Ticket Pia pre-reserve second round priority lottery,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/11 20:00, 2025/04/15 23:59,https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
-一般販売（先着）,eb5ee390-fc92-4da6-9eac-c5578fc9e4ab, 2025/04/12 01:21:29,"General sale (first come, first served)",c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/26 10:00,,https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
-見切れ席（抽選）,fb912983-ece6-489a-b778-5c8c99e59b63, 2025/05/01 10:17:18,Limited visibility seats lottery,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/30 12:00, 2025/05/06 23:59,https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423
-リセール（通常席）,007b2a9c-277a-483d-8a12-f4d124f19e05, 2025/05/04 00:09:19,Resale,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/05/12 12:00, 2025/05/18 11:59,
-リセール（見切れ席）,7bd7749e-68df-42c3-ade2-530258499379, 2025/05/04 00:09:30,Resale (Limited visibility seats),c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/05/16 12:00, 2025/05/18 11:59,
-オンライン視聴チケット販売,0ac344e9-321d-45da-ab08-e8d192af02b2, 2025/05/04 00:08:14,Online viewing ticket sales,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/23 17:00, 2025/06/01 23:59,https://dwango-ticket.jp/project/G5mq6EaxIs
-オンライン視聴チケット販売（Stagecrowd）,3175b0ce-0cb4-4203-bad1-056bfdf08854, 2025/04/23 23:32:09,Online viewing ticket sales (Stagecrowd),c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/23 17:00, 2025/06/01 23:59,https://intl.stagecrowd.live/chronoir-nankayaruevent/
-にじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き）,44a58e43-ec56-4172-befa-6c76822c9e19, 2025/04/23 23:28:59,Nijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included),587c2d54-bd95-44eb-9df8-f575c5b455db,にじホロ交流戦2025 DAY1, 2025/03/24 12:00, 2024/03/31 23:59,https://ticket.fighters.co.jp/lottery/list
-にじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き）,8a51cd84-0638-4576-a1cd-8881ae8865e0, 2025/03/24 12:24:24,Nijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included),ccc45fee-7728-49ce-bf11-61d60f684ec3,にじホロ交流戦2025 DAY2, 2025/03/24 12:00, 2024/03/31 23:59,https://ticket.fighters.co.jp/lottery/list
-バルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能）,7d06205d-82ea-4223-bc06-16d0b1ac6edd, 2025/03/24 12:24:42,"Balcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people)",587c2d54-bd95-44eb-9df8-f575c5b455db,にじホロ交流戦2025 DAY1, 2025/03/24 12:00, 2024/03/31 23:59,https://apply.hkdballpark.com/form_entry/nijiholo2025vip
-バルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能）,43113504-8f37-43c9-aa9f-84323dd3662f, 2025/03/24 12:24:42,"Balcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people)",ccc45fee-7728-49ce-bf11-61d60f684ec3,にじホロ交流戦2025 DAY2, 2025/03/24 12:00, 2024/03/31 23:59,https://apply.hkdballpark.com/form_entry/nijiholo2025vip
-全エリア（先着販売）,6d2d1450-8698-4573-885a-f5e57bc05340, 2025/04/02 20:56:32,"All area (first come, first served)",587c2d54-bd95-44eb-9df8-f575c5b455db,にじホロ交流戦2025 DAY1, 2025/04/05 12:00,,https://www.nijiholo-koryusen.jp
-全エリア（先着販売）,83a3ddd4-fc17-4932-9896-d31f2d86029c, 2025/04/02 20:56:36,"All area (first come, first served)",ccc45fee-7728-49ce-bf11-61d60f684ec3,にじホロ交流戦2025 DAY2, 2025/04/05 12:00,,https://www.nijiholo-koryusen.jp
-チケットぴあ先行抽選,ec6df824-dcd8-4341-a407-e6d3497d403c, 2025/03/31 20:24:06,Ticket Pia pre-sale lottery,7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演, 2025/04/03 12:00, 2025/04/14 23:59,https://w.pia.jp/t/2jidatoka-1st/
-一般販売（先着）,ec6df824-dcd8-4341-a407-e6d3497d403c, 2025/03/31 20:24:13,"General sale (first come, first served)",7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演, 2025/04/29 12:00,,https://w.pia.jp/t/2jidatoka-1st/
-リセール,a3ff220e-6fd7-4780-be95-a5e2da3670ab, 2025/03/31 20:23:47,Resale,7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演,,,
-オンライン視聴チケット販売,ec6df824-dcd8-4341-a407-e6d3497d403c, 2025/03/27 17:41:12,Online viewing ticket sales,7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演,,,
-総合ファンクラブ先行抽選,73e68caa-a149-46c2-ac80-3f75ba40ee2a, 2025/03/26 21:08:51,General fan club pre-sale lottery,c5ab7216-91c0-4bb8-98dd-151b2879740b,伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜, 2025/04/07 12:00, 2025/04/13 23:59,https://eplus.jp/gaku-fushimi/fc/
-イープラス先行抽選,cd13d40e-9258-4ca2-83af-fbf4ae785fc5, 2025/03/26 21:09:27,e+ pre-sale lottery,c5ab7216-91c0-4bb8-98dd-151b2879740b,伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜, 2025/04/28 12:00, 2025/05/06 23:59,https://eplus.jp/gaku-fushimi/
-一般販売（先着）,3d16352e-d426-4407-ae04-73e5b69e6e51, 2025/03/26 21:10:00,"General sale (first come, first served)",c5ab7216-91c0-4bb8-98dd-151b2879740b,伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜, 2025/05/24 12:00,,https://eplus.jp/gaku-fushimi/
+Singin’ in the Rainbow！ 仙台公演", 2025/04/17 17:00, 2025/05/25 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB,0
+チケットぴあ最速先行抽選,b7299a86-53cc-4aad-b659-c1913b69f94c, 2025/05/10 15:27:01,Ticket Pia earliest pre-sale lottery,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/03/24 20:00, 2025/04/06 23:59,https://t.pia.jp/pia/event/event.do?eventCd=2510758,1
+チケットぴあプレリザーブ２次先行抽選,c7866b38-c44e-494b-b0ed-71d4f008a151, 2025/04/12 01:21:18,Ticket Pia pre-reserve second round priority lottery,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/11 20:00, 2025/04/15 23:59,https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423,1
+一般販売（先着）,eb5ee390-fc92-4da6-9eac-c5578fc9e4ab, 2025/04/12 01:21:29,"General sale (first come, first served)",c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/26 10:00,,https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423,1
+見切れ席（抽選）,fb912983-ece6-489a-b778-5c8c99e59b63, 2025/05/01 10:17:18,Limited visibility seats lottery,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/30 12:00, 2025/05/06 23:59,https://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423,1
+リセール（通常席）,007b2a9c-277a-483d-8a12-f4d124f19e05, 2025/05/04 00:09:19,Resale,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/05/12 12:00, 2025/05/18 11:59,,1
+リセール（見切れ席）,7bd7749e-68df-42c3-ade2-530258499379, 2025/05/04 00:09:30,Resale (Limited visibility seats),c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/05/16 12:00, 2025/05/18 11:59,,1
+オンライン視聴チケット販売,0ac344e9-321d-45da-ab08-e8d192af02b2, 2025/05/04 00:08:14,Online viewing ticket sales,c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/23 17:00, 2025/06/01 23:59,https://dwango-ticket.jp/project/G5mq6EaxIs,1
+オンライン視聴チケット販売（Stagecrowd）,3175b0ce-0cb4-4203-bad1-056bfdf08854, 2025/04/23 23:32:09,Online viewing ticket sales (Stagecrowd),c3ff42d3-eb2e-4033-af59-9063f379f809,くろのわーるが武道館でなんかやる, 2025/04/23 17:00, 2025/06/01 23:59,https://intl.stagecrowd.live/chronoir-nankayaruevent/,1
+にじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き）,44a58e43-ec56-4172-befa-6c76822c9e19, 2025/04/23 23:28:59,Nijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included),587c2d54-bd95-44eb-9df8-f575c5b455db,にじホロ交流戦2025 DAY1, 2025/03/24 12:00, 2024/03/31 23:59,https://ticket.fighters.co.jp/lottery/list,0
+にじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き）,8a51cd84-0638-4576-a1cd-8881ae8865e0, 2025/03/24 12:24:24,Nijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included),ccc45fee-7728-49ce-bf11-61d60f684ec3,にじホロ交流戦2025 DAY2, 2025/03/24 12:00, 2024/03/31 23:59,https://ticket.fighters.co.jp/lottery/list,1
+バルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能）,7d06205d-82ea-4223-bc06-16d0b1ac6edd, 2025/03/24 12:24:42,"Balcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people)",587c2d54-bd95-44eb-9df8-f575c5b455db,にじホロ交流戦2025 DAY1, 2025/03/24 12:00, 2024/03/31 23:59,https://apply.hkdballpark.com/form_entry/nijiholo2025vip,0
+バルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能）,43113504-8f37-43c9-aa9f-84323dd3662f, 2025/03/24 12:24:42,"Balcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people)",ccc45fee-7728-49ce-bf11-61d60f684ec3,にじホロ交流戦2025 DAY2, 2025/03/24 12:00, 2024/03/31 23:59,https://apply.hkdballpark.com/form_entry/nijiholo2025vip,1
+全エリア（先着販売）,6d2d1450-8698-4573-885a-f5e57bc05340, 2025/04/02 20:56:32,"All area (first come, first served)",587c2d54-bd95-44eb-9df8-f575c5b455db,にじホロ交流戦2025 DAY1, 2025/04/05 12:00,,https://www.nijiholo-koryusen.jp,0
+全エリア（先着販売）,83a3ddd4-fc17-4932-9896-d31f2d86029c, 2025/04/02 20:56:36,"All area (first come, first served)",ccc45fee-7728-49ce-bf11-61d60f684ec3,にじホロ交流戦2025 DAY2, 2025/04/05 12:00,,https://www.nijiholo-koryusen.jp,1
+チケットぴあ先行抽選,ec6df824-dcd8-4341-a407-e6d3497d403c, 2025/03/31 20:24:06,Ticket Pia pre-sale lottery,7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演, 2025/04/03 12:00, 2025/04/14 23:59,https://w.pia.jp/t/2jidatoka-1st/,0
+一般販売（先着）,ec6df824-dcd8-4341-a407-e6d3497d403c, 2025/03/31 20:24:13,"General sale (first come, first served)",7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演, 2025/04/29 12:00,,https://w.pia.jp/t/2jidatoka-1st/,0
+リセール,a3ff220e-6fd7-4780-be95-a5e2da3670ab, 2025/03/31 20:23:47,Resale,7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演,,,,0
+オンライン視聴チケット販売,ec6df824-dcd8-4341-a407-e6d3497d403c, 2025/03/27 17:41:12,Online viewing ticket sales,7c2dad4f-2601-4a51-a99b-02e94356af7d,2時だとか 1st ワンマンライブ 本公演,,,,0
+総合ファンクラブ先行抽選,73e68caa-a149-46c2-ac80-3f75ba40ee2a, 2025/03/26 21:08:51,General fan club pre-sale lottery,c5ab7216-91c0-4bb8-98dd-151b2879740b,伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜, 2025/04/07 12:00, 2025/04/13 23:59,https://eplus.jp/gaku-fushimi/fc/,1
+イープラス先行抽選,cd13d40e-9258-4ca2-83af-fbf4ae785fc5, 2025/03/26 21:09:27,e+ pre-sale lottery,c5ab7216-91c0-4bb8-98dd-151b2879740b,伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜, 2025/04/28 12:00, 2025/05/06 23:59,https://eplus.jp/gaku-fushimi/,1
+一般販売（先着）,3d16352e-d426-4407-ae04-73e5b69e6e51, 2025/03/26 21:10:00,"General sale (first come, first served)",c5ab7216-91c0-4bb8-98dd-151b2879740b,伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜, 2025/05/24 12:00,,https://eplus.jp/gaku-fushimi/,1
 総合・個人ファンクラブ先行抽選,29edafd1-0728-44d1-92b2-41f0cb473e41, 2025/03/24 12:22:00,General and individual fan club pre-sale lottery,727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 名古屋公演", 2025/03/18 12:00, 2025/04/06 23:59,https://eplus.jp/nijisanji-world-tour/fc/
+Singin’ in the Rainbow！ 名古屋公演", 2025/03/18 12:00, 2025/04/06 23:59,https://eplus.jp/nijisanji-world-tour/fc/,0
 イープラス先行抽選,48717778-4363-42ca-b1ce-e8ca0054a23f, 2025/03/20 14:03:50,e+ pre-sale lottery,727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 名古屋公演", 2025/04/22 12:00, 2025/05/11 23:59,https://eplus.jp/nijisanji-world-tour/
+Singin’ in the Rainbow！ 名古屋公演", 2025/04/22 12:00, 2025/05/11 23:59,https://eplus.jp/nijisanji-world-tour/,0
 一般販売（先着）,f087cd54-f12a-4dc4-8fe0-ab5ae08d3790, 2025/03/20 14:03:59,"General sale (first come, first served)",727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 名古屋公演", 2025/05/25 12:00,,https://eplus.jp/nijisanji-world-tour/
-オンライン視聴チケット販売,94812df6-1d0b-4277-887a-8a125bba9179, 2025/03/27 17:41:14,Online viewing ticket sales,727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 名古屋公演",,,
-｢MOMENTUM｣ シリアル先行抽選,6cd862fe-707d-4a10-9b98-261ee8e8745b, 2025/03/20 14:04:50,"""MOMENTUM"" Serial code pre-sale lottery",d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/03/26 12:00, 2025/04/27 23:59,https://eplus.jp/rofmao/cd/
-総合ファンクラブ先行抽選,d1bd5f29-23d2-4bef-958f-de23130c6eb6, 2025/05/01 10:11:57,General fan club pre-sale lottery,d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/04/30 12:00, 2025/05/11 23:59,https://eplus.jp/rofmao/fc/
-e+アプリ先行抽選,d42ed700-269e-4fb1-b934-cf729f3193ae, 2025/05/01 10:12:06,e+ pre-sale lottery,d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/05/21 12:00, 2025/06/01 23:59,https://eplus.jp/rofmao/
-一般販売（先着）,7fd98bda-7acc-4a0c-9906-bec0edda5528, 2025/05/01 10:12:14,"General sale (first come, first served)",d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/06/14 12:00,,https://eplus.jp/rofmao/
-オンライン視聴チケット販売,4864a535-c906-488c-9d8f-e8f34d4f15ca, 2025/03/27 17:41:15,Online viewing ticket sales,d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless,,,
-総合・個人ファンクラブ先行抽選,35c40e0e-7343-4789-997c-8d5b8608c467, 2025/04/17 22:43:03,General and individual fan club pre-sale lottery,40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 横浜公演", 2025/04/21 12:00, 2025/05/11 23:59,https://eplus.jp/nijisanji-world-tour/fc/
+Singin’ in the Rainbow！ 名古屋公演", 2025/05/25 12:00,,https://eplus.jp/nijisanji-world-tour/,0
+見切れ席販売（先着）,efad7daf-5d91-43fd-9f17-a86655c0039a, 2025/05/10 15:23:34,"Limited visibility seats for sale (first-come, first-served)",727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 名古屋公演",,,https://eplus.jp/nijisanji-world-tour/,0
+立ち位置指定席（先着）,04dafcb4-d58b-4ab9-b242-e614aa2554f2, 2025/05/10 15:23:34,"Standing position assigned seats (first-come, first-served)",727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 名古屋公演",,,https://eplus.jp/nijisanji-world-tour/,0
+リセール,db54a388-5dfe-4834-b4e8-c2a4c311d7e9, 2025/05/10 15:28:52,Resale,727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 名古屋公演",,,,0
+オンライン視聴チケット販売,94812df6-1d0b-4277-887a-8a125bba9179, 2025/05/10 15:28:47,Online viewing ticket sales,727b81ad-7a6e-4f09-9f29-459af03f593d,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 名古屋公演", 2025/05/29 17:00, 2025/07/07 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB,0
+｢MOMENTUM｣ シリアル先行抽選,6cd862fe-707d-4a10-9b98-261ee8e8745b, 2025/05/10 15:28:37,"""MOMENTUM"" Serial code pre-sale lottery",d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/03/26 12:00, 2025/04/27 23:59,https://eplus.jp/rofmao/cd/,1
+総合ファンクラブ先行抽選,d1bd5f29-23d2-4bef-958f-de23130c6eb6, 2025/05/01 10:11:57,General fan club pre-sale lottery,d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/04/30 12:00, 2025/05/11 23:59,https://eplus.jp/rofmao/fc/,1
+e+アプリ先行抽選,d42ed700-269e-4fb1-b934-cf729f3193ae, 2025/05/01 10:12:06,e+ pre-sale lottery,d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/05/21 12:00, 2025/06/01 23:59,https://eplus.jp/rofmao/,1
+一般販売（先着）,7fd98bda-7acc-4a0c-9906-bec0edda5528, 2025/05/01 10:12:14,"General sale (first come, first served)",d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless, 2025/06/14 12:00,,https://eplus.jp/rofmao/,1
+リセール,4e860e88-7402-481b-9fb8-66cae8234deb, 2025/05/10 15:29:19,Resale,d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless,,,,1
+オンライン視聴チケット販売,4864a535-c906-488c-9d8f-e8f34d4f15ca, 2025/03/27 17:41:15,Online viewing ticket sales,d6142773-050f-4c99-86c6-fb9f8cfcc9ce,ROF-MAO 2nd LIVE - Limitless,,,,1
+総合・個人ファンクラブ先行抽選,35c40e0e-7343-4789-997c-8d5b8608c467, 2025/05/10 15:29:06,General and individual fan club pre-sale lottery,40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 横浜公演", 2025/04/21 12:00, 2025/05/11 23:59,https://eplus.jp/nijisanji-world-tour/fc/,0
 イープラス先行抽選,29f85697-7a01-43c8-b46d-e07d7652ef62, 2025/04/17 22:43:51,e+ pre-sale lottery,40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 横浜公演", 2025/05/20 12:00, 2025/06/01 23:59,https://eplus.jp/nijisanji-world-tour/
-一般販売（先着）,7b7e332a-8059-44bb-9961-80f7a6c50f12, 2025/04/17 22:44:02,"General sale (first come, first served)",40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 横浜公演", 2025/06/15 12:00,,https://eplus.jp/nijisanji-world-tour/
-オンライン視聴チケット販売,8dab78ec-d2dd-4575-b59e-e3edb6a7e447, 2025/04/17 22:43:07,Online viewing ticket sales,40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 横浜公演",,,
+Singin’ in the Rainbow！ 横浜公演", 2025/05/20 12:00, 2025/06/01 23:59,https://eplus.jp/nijisanji-world-tour/,0
+一般販売（先着）,7b7e332a-8059-44bb-9961-80f7a6c50f12, 2025/05/10 15:22:01,"General sale (first come, first served)",40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 横浜公演", 2025/06/15 12:00,,https://eplus.jp/nijisanji-world-tour/,0
+見切れ席販売（先着）,9dbe5a94-1608-4777-a5a4-0db141a0951e, 2025/05/10 15:24:12,"Limited visibility seats for sale (first-come, first-served)",40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 横浜公演",,,https://eplus.jp/nijisanji-world-tour/,0
+立ち位置指定席（先着）,b5a4e5de-1d6a-493f-99a5-3e7838371feb, 2025/05/10 15:23:29,"Standing position assigned seats (first-come, first-served)",40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 横浜公演",,,https://eplus.jp/nijisanji-world-tour/,0
+リセール,4540f63f-19c6-47ad-b457-ba5d8ff4f251, 2025/05/10 15:29:32,Resale,40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 横浜公演",,,,0
+オンライン視聴チケット販売,8dab78ec-d2dd-4575-b59e-e3edb6a7e447, 2025/05/10 15:20:46,Online viewing ticket sales,40275588-0052-4ba0-a2f2-a11cce6671e8,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 横浜公演", 2025/06/26 17:00, 2025/08/05 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB,0
+オンライン視聴チケット販売,0dea9da4-436a-43a2-a95b-ffabfc4526ee, 2025/05/10 16:01:13,Online viewing ticket sales,250f4dfb-17ad-4821-9fde-7cc62f5d121f,にじFAN Party 第1弾 ラトナ・プティ,,,,1
+総合・個人ファンクラブ先行抽選,24309ef4-80b2-4ffe-9051-3bd402766147, 2025/05/10 15:26:29,General and individual fan club pre-sale lottery,052fed1f-a1ca-49dd-b65f-0b626d1f77f0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 神戸公演",,,https://eplus.jp/nijisanji-world-tour/,0
+イープラス先行抽選,876d11f5-f7f7-4bf0-861e-dd509d7a1d2e, 2025/05/10 14:55:47,e+ pre-sale lottery,052fed1f-a1ca-49dd-b65f-0b626d1f77f0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 神戸公演",,,https://eplus.jp/nijisanji-world-tour/,0
+一般販売（先着）,25e76d17-2110-41f5-90c1-6fef6a0b6b93, 2025/05/10 14:55:47,"General sale (first come, first served)",052fed1f-a1ca-49dd-b65f-0b626d1f77f0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 神戸公演",,,https://eplus.jp/nijisanji-world-tour/,0
+見切れ席販売（先着）,58d67480-df42-4f93-aab3-2211af8945c7, 2025/05/10 15:25:09,"Limited visibility seats for sale (first-come, first-served)",052fed1f-a1ca-49dd-b65f-0b626d1f77f0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 神戸公演",,,https://eplus.jp/nijisanji-world-tour/,0
+立ち位置指定席（先着）,a3513a54-fffb-472d-9532-6fd47f7c3026, 2025/05/10 15:26:01,"Standing position assigned seats (first-come, first-served)",052fed1f-a1ca-49dd-b65f-0b626d1f77f0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 神戸公演",,,https://eplus.jp/nijisanji-world-tour/,0
+リセール,2ebf346b-70f9-409a-869c-42946a5f8adb, 2025/05/10 15:29:50,Resale,052fed1f-a1ca-49dd-b65f-0b626d1f77f0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 神戸公演",,,,0
+オンライン視聴チケット販売,547b9682-4bfc-415a-bf9f-41dbd83ae2eb, 2025/05/10 15:20:51,Online viewing ticket sales,052fed1f-a1ca-49dd-b65f-0b626d1f77f0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 神戸公演", 2025/08/07 17:00, 2025/09/14 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB,0
+総合・個人ファンクラブ先行抽選,fd1142ba-d086-4a18-b2a3-29a80897a6f9, 2025/05/10 15:29:36,General and individual fan club pre-sale lottery,72460880-d374-4b14-a7fd-cb391d793a0b,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 福岡公演",,,https://eplus.jp/nijisanji-world-tour/,1
+イープラス先行抽選,5c7e02d7-1f15-44a4-aa82-a80af1b74fad, 2025/05/10 14:57:03,e+ pre-sale lottery,72460880-d374-4b14-a7fd-cb391d793a0b,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 福岡公演",,,https://eplus.jp/nijisanji-world-tour/,1
+一般販売（先着）,f011294a-e69c-42ca-9d8a-6cc7a2ddb7d2, 2025/05/10 14:57:03,"General sale (first come, first served)",72460880-d374-4b14-a7fd-cb391d793a0b,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 福岡公演",,,https://eplus.jp/nijisanji-world-tour/,1
+見切れ席販売（先着）,da2afdca-047d-4cd2-ab5e-b8b05692c5ca, 2025/05/10 15:25:11,"Limited visibility seats for sale (first-come, first-served)",72460880-d374-4b14-a7fd-cb391d793a0b,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 福岡公演",,,https://eplus.jp/nijisanji-world-tour/,1
+立ち位置指定席（先着）,de4a610c-3817-4c0f-90fd-16faccf02e6e, 2025/05/10 15:25:41,"Standing position assigned seats (first-come, first-served)",72460880-d374-4b14-a7fd-cb391d793a0b,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 福岡公演",,,https://eplus.jp/nijisanji-world-tour/,1
+リセール,4161b81e-3d6d-40ef-9b33-fc2c744426be, 2025/05/10 15:30:07,Resale,72460880-d374-4b14-a7fd-cb391d793a0b,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 福岡公演",,,,1
+オンライン視聴チケット販売,7674e24e-d49f-4ac2-ba53-c142ae1fcdc2, 2025/05/10 15:20:58,Online viewing ticket sales,72460880-d374-4b14-a7fd-cb391d793a0b,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 福岡公演", 2025/08/21 17:00, 2025/09/28 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB,1
+総合・個人ファンクラブ先行抽選,223fa14c-722c-4c22-b9a0-ed4eae13eefa, 2025/05/10 15:29:56,General and individual fan club pre-sale lottery,60681f23-b184-4de9-84c2-2dedc25147e0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 広島公演",,,https://eplus.jp/nijisanji-world-tour/,0
+イープラス先行抽選,8bb20041-ceb1-434c-864d-b89cb49b99e1, 2025/05/10 14:57:40,e+ pre-sale lottery,60681f23-b184-4de9-84c2-2dedc25147e0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 広島公演",,,https://eplus.jp/nijisanji-world-tour/,0
+一般販売（先着）,995dd927-4bf4-45b3-88f5-3e7213041ff1, 2025/05/10 14:57:41,"General sale (first come, first served)",60681f23-b184-4de9-84c2-2dedc25147e0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 広島公演",,,https://eplus.jp/nijisanji-world-tour/,0
+見切れ席販売（先着）,75a4884e-d3ab-4598-9bc4-82721a45f1aa, 2025/05/10 15:25:13,"Limited visibility seats for sale (first-come, first-served)",60681f23-b184-4de9-84c2-2dedc25147e0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 広島公演",,,https://eplus.jp/nijisanji-world-tour/,0
+立ち位置指定席（先着）,0ef1ceb0-3083-4592-8329-b59f87a3fe0a, 2025/05/10 15:25:47,"Standing position assigned seats (first-come, first-served)",60681f23-b184-4de9-84c2-2dedc25147e0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 広島公演",,,https://eplus.jp/nijisanji-world-tour/,0
+リセール,91bc74fc-d05e-4249-a188-8144a9c3ac57, 2025/05/10 15:30:22,Resale,60681f23-b184-4de9-84c2-2dedc25147e0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 広島公演",,,,0
+オンライン視聴チケット販売,7147cd3a-2c0b-44c4-9e94-c8a948d2afd4, 2025/05/10 15:20:57,Online viewing ticket sales,60681f23-b184-4de9-84c2-2dedc25147e0,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 広島公演", 2025/09/25 17:00, 2025/11/02 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB,0
+総合・個人ファンクラブ先行抽選,abe90c6a-0fd4-4a65-bdc4-13ef7f307bfd, 2025/05/10 15:30:12,General and individual fan club pre-sale lottery,6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 東京公演",,,https://eplus.jp/nijisanji-world-tour/,1
+イープラス先行抽選,2a8ceb57-4760-47ff-8457-5cf6cb9ff916, 2025/05/10 14:58:11,e+ pre-sale lottery,6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 東京公演",,,https://eplus.jp/nijisanji-world-tour/,1
+一般販売（先着）,97c1562a-a647-4ca6-9fac-91d78083a293, 2025/05/10 14:58:11,"General sale (first come, first served)",6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 東京公演",,,https://eplus.jp/nijisanji-world-tour/,1
+見切れ席販売（先着）,b16d760b-2c53-4817-892b-a961b6e97508, 2025/05/10 15:25:15,"Limited visibility seats for sale (first-come, first-served)",6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 東京公演",,,https://eplus.jp/nijisanji-world-tour/,1
+立ち位置指定席（先着）,5ce58a14-2274-4670-8876-067fc996611f, 2025/05/10 15:25:52,"Standing position assigned seats (first-come, first-served)",6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 東京公演",,,https://eplus.jp/nijisanji-world-tour/,1
+リセール,99ce8bd3-0187-4fb1-85f1-25124958a490, 2025/05/10 15:30:38,Resale,6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 東京公演",,,,1
+オンライン視聴チケット販売,5500dbd2-c332-4115-823a-7057d7a29f4d, 2025/05/10 15:30:27,Online viewing ticket sales,6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43,"にじさんじ WORLD TOUR 2025
+Singin’ in the Rainbow！ 東京公演", 2025/12/25 17:00, 2026/02/09 23:59,https://dwango-ticket.jp/project/GAh5hxbfiB,1

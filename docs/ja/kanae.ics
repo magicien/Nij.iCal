@@ -378,7 +378,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
@@ -388,7 +388,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
@@ -398,7 +398,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
+DTSTAMP:20250510T060854Z
 DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
@@ -408,7 +408,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
@@ -418,7 +418,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
@@ -428,7 +428,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:54213bc5-1c81-45c7-9393-9c50371dce01
-DTSTAMP:20250421T121138Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
@@ -438,7 +438,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860191
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
@@ -448,7 +448,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860192
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -458,7 +458,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9642f21-04bb-4209-be96-7f7ff9bf4981
-DTSTAMP:20250503T054851Z
+DTSTAMP:20250510T060902Z
 DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
@@ -468,19 +468,19 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ff42d3-eb2e-4033-af59-9063f379f809
-DTSTAMP:20250423T142713Z
+DTSTAMP:20250510T065538Z
 DTSTART:20250519T090000Z
 DTEND:20250519T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:くろのわーるが武道館でなんかやる
 LOCATION:日本武道館
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nオンラインゲスト：k4sen、SHAKA\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/3/24 20:00〜2025/4/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nチケットぴあプレリザーブ２次先行抽選 (2025/4/11 20:00〜2025/4/15 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n一般販売（先着） (2025/4/26 10:00〜)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n見切れ席（抽選） (2025/4/30 12:00〜2025/5/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nリセール（通常席） (2025/5/12 12:00〜2025/5/18 11:59)\n\nリセール（見切れ席） (2025/5/16 12:00〜2025/5/18 11:59)\n\nオンライン視聴チケット販売 (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://dwango-ticket.jp/project/G5mq6EaxIs\n\nオンライン視聴チケット販売（Stagecrowd） (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://intl.stagecrowd.live/chronoir-nankayaruevent/\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_628\n\n直前放送\nhttps://live.nicovideo.jp/watch/lv347580435\n\n無料パート\nhttps://www.youtube.com/live/x1R4G0buAqA\n\n本編視聴ページ\nhttps://live.nicovideo.jp/watch/lv347527711\nオンラインゲスト：k4sen、SHAKA\n\n最速感想放送\nhttps://live.nicovideo.jp/watch/lv347600031\n\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/3/24 20:00〜2025/4/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventCd=2510758\n\nチケットぴあプレリザーブ２次先行抽選 (2025/4/11 20:00〜2025/4/15 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n一般販売（先着） (2025/4/26 10:00〜)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\n見切れ席（抽選） (2025/4/30 12:00〜2025/5/6 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2558423\n\nリセール（通常席） (2025/5/12 12:00〜2025/5/18 11:59)\n\nリセール（見切れ席） (2025/5/16 12:00〜2025/5/18 11:59)\n\nオンライン視聴チケット販売 (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://dwango-ticket.jp/project/G5mq6EaxIs\n\nオンライン視聴チケット販売（Stagecrowd） (2025/4/23 17:00〜2025/6/1 23:59)\nhttps://intl.stagecrowd.live/chronoir-nankayaruevent/\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n
 URL:https://www.nijisanji.jp/events/chronoir-nankayaruevent/
 END:VEVENT
 BEGIN:VEVENT
 UID:b7299a86-53cc-4aad-b659-c1913b69f941
-DTSTAMP:20250325T042537Z
+DTSTAMP:20250510T062701Z
 DTSTART:20250324T110000Z
 DTEND:20250324T113000Z
 TRANSP:TRANSPARENT
@@ -490,7 +490,7 @@ URL:https://t.pia.jp/pia/event/event.do?eventCd=2510758
 END:VEVENT
 BEGIN:VEVENT
 UID:b7299a86-53cc-4aad-b659-c1913b69f942
-DTSTAMP:20250325T042537Z
+DTSTAMP:20250510T062701Z
 DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
@@ -633,12 +633,12 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演
 LOCATION:Kアリーナ横浜
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/4/21 12:00〜2025/5/11 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\nイープラス先行抽選 (2025/5/20 12:00〜2025/6/1 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\n一般販売（先着） (2025/6/15 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/4/21 12:00〜2025/5/11 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\nイープラス先行抽選 (2025/5/20 12:00〜2025/6/1 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\n一般販売（先着） (2025/6/15 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\nオンライン視聴チケット販売 (2025/6/26 17:00〜2025/8/5 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:35c40e0e-7343-4789-997c-8d5b8608c461
-DTSTAMP:20250417T134303Z
+DTSTAMP:20250510T062906Z
 DTSTART:20250421T030000Z
 DTEND:20250421T033000Z
 TRANSP:TRANSPARENT
@@ -648,7 +648,7 @@ URL:https://eplus.jp/nijisanji-world-tour/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:35c40e0e-7343-4789-997c-8d5b8608c462
-DTSTAMP:20250417T134303Z
+DTSTAMP:20250510T062906Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -678,13 +678,33 @@ URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:7b7e332a-8059-44bb-9961-80f7a6c50f11
-DTSTAMP:20250417T134402Z
+DTSTAMP:20250510T062201Z
 DTSTART:20250615T030000Z
 DTEND:20250615T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演: 一般販売（先着） 開始
 DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:8dab78ec-d2dd-4575-b59e-e3edb6a7e441
+DTSTAMP:20250510T062046Z
+DTSTART:20250626T080000Z
+DTEND:20250626T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演: オンライン視聴チケット販売 開始
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:8dab78ec-d2dd-4575-b59e-e3edb6a7e442
+DTSTAMP:20250510T062046Z
+DTSTART:20250805T145900Z
+DTEND:20250805T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演: オンライン視聴チケット販売 終了
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:b6bb25f7-12cd-44e5-868a-a77464012018
