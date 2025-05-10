@@ -388,7 +388,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
@@ -398,7 +398,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
@@ -408,7 +408,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
+DTSTAMP:20250510T060854Z
 DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
@@ -418,7 +418,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
@@ -428,7 +428,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
@@ -438,7 +438,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:54213bc5-1c81-45c7-9393-9c50371dce01
-DTSTAMP:20250421T121138Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
@@ -448,7 +448,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860191
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
@@ -458,7 +458,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860192
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -468,7 +468,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9642f21-04bb-4209-be96-7f7ff9bf4981
-DTSTAMP:20250503T054851Z
+DTSTAMP:20250510T060902Z
 DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
@@ -485,7 +485,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya
 LOCATION:Aichi Prefectural Art Theater
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Aichi Prefectural Art Theater":geo:35.170818,136.911154
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Mar 18, 2025, 12:00 until Apr 6, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\ne+ pre-sale lottery (from Apr 22, 2025, 12:00 until May 11, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\nGeneral sale (first come, first served) (from May 25, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Mar 18, 2025, 12:00 until Apr 6, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\ne+ pre-sale lottery (from Apr 22, 2025, 12:00 until May 11, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\nGeneral sale (first come, first served) (from May 25, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nOnline viewing ticket sales (from May 29, 2025, 17:00 until Jul 7, 2025, 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -537,6 +537,26 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-world-tour/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
 URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:94812df6-1d0b-4277-887a-8a125bba9171
+DTSTAMP:20250510T062847Z
+DTSTART:20250529T080000Z
+DTEND:20250529T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:94812df6-1d0b-4277-887a-8a125bba9172
+DTSTAMP:20250510T062847Z
+DTSTART:20250707T145900Z
+DTEND:20250707T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Ponto Nei】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5012019

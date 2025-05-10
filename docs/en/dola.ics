@@ -269,7 +269,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
@@ -279,7 +279,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
@@ -289,7 +289,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
+DTSTAMP:20250510T060854Z
 DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
@@ -299,7 +299,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
@@ -309,7 +309,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
@@ -319,7 +319,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:54213bc5-1c81-45c7-9393-9c50371dce01
-DTSTAMP:20250421T121138Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
@@ -329,7 +329,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860191
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
@@ -339,7 +339,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860192
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -349,7 +349,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9642f21-04bb-4209-be96-7f7ff9bf4981
-DTSTAMP:20250503T054851Z
+DTSTAMP:20250510T060902Z
 DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
@@ -366,12 +366,12 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Apr 21, 2025, 12:00 until May 11, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\ne+ pre-sale lottery (from May 20, 2025, 12:00 until Jun 1, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\nGeneral sale (first come, first served) (from Jun 15, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Apr 21, 2025, 12:00 until May 11, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\ne+ pre-sale lottery (from May 20, 2025, 12:00 until Jun 1, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\nGeneral sale (first come, first served) (from Jun 15, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nOnline viewing ticket sales (from Jun 26, 2025, 17:00 until Aug 5, 2025, 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:35c40e0e-7343-4789-997c-8d5b8608c461
-DTSTAMP:20250417T134303Z
+DTSTAMP:20250510T062906Z
 DTSTART:20250421T030000Z
 DTEND:20250421T033000Z
 TRANSP:TRANSPARENT
@@ -381,7 +381,7 @@ URL:https://eplus.jp/nijisanji-world-tour/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:35c40e0e-7343-4789-997c-8d5b8608c462
-DTSTAMP:20250417T134303Z
+DTSTAMP:20250510T062906Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -411,13 +411,33 @@ URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:7b7e332a-8059-44bb-9961-80f7a6c50f11
-DTSTAMP:20250417T134402Z
+DTSTAMP:20250510T062201Z
 DTSTART:20250615T030000Z
 DTEND:20250615T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-world-tour/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:8dab78ec-d2dd-4575-b59e-e3edb6a7e441
+DTSTAMP:20250510T062046Z
+DTSTART:20250626T080000Z
+DTEND:20250626T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:8dab78ec-d2dd-4575-b59e-e3edb6a7e442
+DTSTAMP:20250510T062046Z
+DTSTART:20250805T145900Z
+DTEND:20250805T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:3677a936-8aad-4d95-a996-862e9b012018

@@ -352,7 +352,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
@@ -362,7 +362,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
@@ -372,7 +372,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
+DTSTAMP:20250510T060854Z
 DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
@@ -382,7 +382,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
@@ -392,7 +392,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
@@ -402,7 +402,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:54213bc5-1c81-45c7-9393-9c50371dce01
-DTSTAMP:20250421T121138Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
@@ -412,7 +412,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860191
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
@@ -422,7 +422,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860192
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -432,7 +432,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9642f21-04bb-4209-be96-7f7ff9bf4981
-DTSTAMP:20250503T054851Z
+DTSTAMP:20250510T060902Z
 DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
@@ -454,7 +454,7 @@ URL:https://www.nijisanji.jp/events/tsukino_paperrabbit/
 END:VEVENT
 BEGIN:VEVENT
 UID:4c7a3d64-2e24-4d49-b61f-913c245eb871
-DTSTAMP:20250320T045530Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250227T030000Z
 DTEND:20250227T033000Z
 TRANSP:TRANSPARENT
@@ -464,7 +464,7 @@ URL:https://eplus.jp/mitotsukino-cd/
 END:VEVENT
 BEGIN:VEVENT
 UID:4c7a3d64-2e24-4d49-b61f-913c245eb872
-DTSTAMP:20250320T045530Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250305T145900Z
 DTEND:20250305T152900Z
 TRANSP:TRANSPARENT
@@ -474,7 +474,7 @@ URL:https://eplus.jp/mitotsukino-cd/
 END:VEVENT
 BEGIN:VEVENT
 UID:85ab1446-47ff-44ec-b2cc-979993a04c21
-DTSTAMP:20250320T045646Z
+DTSTAMP:20250510T060904Z
 DTSTART:20250308T030000Z
 DTEND:20250308T033000Z
 TRANSP:TRANSPARENT
@@ -484,7 +484,7 @@ URL:https://eplus.jp/mitotsukino-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:85ab1446-47ff-44ec-b2cc-979993a04c22
-DTSTAMP:20250320T045646Z
+DTSTAMP:20250510T060904Z
 DTSTART:20250316T145900Z
 DTEND:20250316T152900Z
 TRANSP:TRANSPARENT
@@ -494,7 +494,7 @@ URL:https://eplus.jp/mitotsukino-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:ebd9c1bb-84a6-4859-9043-bdb841418141
-DTSTAMP:20250320T045704Z
+DTSTAMP:20250510T060904Z
 DTSTART:20250317T030000Z
 DTEND:20250317T033000Z
 TRANSP:TRANSPARENT
@@ -504,7 +504,7 @@ URL:https://eplus.jp/mitotsukino/
 END:VEVENT
 BEGIN:VEVENT
 UID:ebd9c1bb-84a6-4859-9043-bdb841418142
-DTSTAMP:20250320T045704Z
+DTSTAMP:20250510T060904Z
 DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
@@ -514,7 +514,7 @@ URL:https://eplus.jp/mitotsukino/
 END:VEVENT
 BEGIN:VEVENT
 UID:d9850a65-d67a-41c6-99c5-9363525d34f1
-DTSTAMP:20250320T045721Z
+DTSTAMP:20250510T060907Z
 DTSTART:20250405T030000Z
 DTEND:20250405T033000Z
 TRANSP:TRANSPARENT
@@ -561,8 +561,28 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo
 LOCATION:TOYOTA ARENA TOKYO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nTicket Info:\n\nOnline viewing ticket sales (from Dec 25, 2025, 17:00 until Feb 9, 2026, 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:5500dbd2-c332-4115-823a-7057d7a29f41
+DTSTAMP:20250510T063027Z
+DTSTART:20251225T080000Z
+DTEND:20251225T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:5500dbd2-c332-4115-823a-7057d7a29f42
+DTSTAMP:20250510T063027Z
+DTSTART:20260209T145900Z
+DTEND:20260209T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【Fushimi Gaku】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【Yuhi Riri】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe657f9-4afd-4486-aacd-4d1e81012019

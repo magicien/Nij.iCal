@@ -189,7 +189,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
@@ -199,7 +199,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
@@ -209,7 +209,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
+DTSTAMP:20250510T060854Z
 DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
@@ -219,7 +219,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
@@ -229,7 +229,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
@@ -239,7 +239,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:54213bc5-1c81-45c7-9393-9c50371dce01
-DTSTAMP:20250421T121138Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
@@ -249,7 +249,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860191
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
@@ -259,7 +259,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860192
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -269,7 +269,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9642f21-04bb-4209-be96-7f7ff9bf4981
-DTSTAMP:20250503T054851Z
+DTSTAMP:20250510T060902Z
 DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
@@ -279,14 +279,14 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c4ee24af-8fec-45c0-8695-14171d44bfc5
-DTSTAMP:20250501T012256Z
+DTSTAMP:20250510T065546Z
 DTSTART:20250510T090000Z
 DTEND:20250510T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai
 LOCATION:Sendai Sunplaza Hall
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Sendai Sunplaza Hall":geo:38.257682,140.894160
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\nhttps://shop.nijisanji.jp/TAG_615\n\n\n==========\nTicket Info:\n\nGeneral fan club pre-sale lottery (from Mar 4, 2025, 18:00 until Mar 16, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\ne+ pre-sale lottery (from Mar 24, 2025, 12:00 until Mar 30, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\nGeneral sale (first come, first served) (from Apr 12, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nLimited visibility seats for sale (first-come, first-served) (from Apr 13, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nStanding position assigned seats (first-come, first-served) (from Apr 20, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nOnline viewing ticket sales (from Apr 17, 2025, 17:00 until May 25, 2025, 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\nhttps://shop.nijisanji.jp/TAG_615\n\nVenue Report\nhttps://live.nicovideo.jp/watch/lv347519528\n\nFree Part\nhttps://youtube.com/live/wS2PtqhcBKw\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv347420657\n\n【Uzuki Kou Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv347465817\n\n【Makaino Ririmu Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv347465834\n\n【Lize Helesta Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv347465912\n\n【Kagami Hayato Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv347465922\n\n【Yamagami Karuta Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv347465939\n\n【Furen E Lustario Liver Camera】niconico Live\nhttps://live.nicovideo.jp/watch/lv347466077\n\nPost-Live Discussion\nhttps://cas.nicovideo.jp/lv347518850\n\nHashtag：#SitR仙台\nhttps://x.com/hashtag/SitR仙台\n\n\n==========\nTicket Info:\n\nGeneral fan club pre-sale lottery (from Mar 4, 2025, 18:00 until Mar 16, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\ne+ pre-sale lottery (from Mar 24, 2025, 12:00 until Mar 30, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\nGeneral sale (first come, first served) (from Apr 12, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nLimited visibility seats for sale (first-come, first-served) (from Apr 13, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nStanding position assigned seats (first-come, first-served) (from Apr 20, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nResale (from Apr 28, 2025, 17:00 until May 8, 2025, 11:59)\nhttps://trade.tixplus.jp/artists/tour/11994\n\nOnline viewing ticket sales (from Apr 17, 2025, 17:00 until May 25, 2025, 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -358,6 +358,26 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai: Standing position assigned seats (first-come, first-served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-world-tour/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
 URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe10f64-8c1a-494c-b9bb-8d3d0df888f1
+DTSTAMP:20250510T062812Z
+DTSTART:20250428T080000Z
+DTEND:20250428T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai: Resale starts
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/11994\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://trade.tixplus.jp/artists/tour/11994
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe10f64-8c1a-494c-b9bb-8d3d0df888f2
+DTSTAMP:20250510T062812Z
+DTSTART:20250508T025900Z
+DTEND:20250508T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai: Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/11994\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Uzuki Kou】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【Makaino Ririmu】\nYouTube: https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w\nX: https://twitter.com/makaino_ririmu\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://twitter.com/karuta_Yamagami\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n
+URL:https://trade.tixplus.jp/artists/tour/11994
 END:VEVENT
 BEGIN:VEVENT
 UID:2539a2d8-02c3-4607-b3eb-1b9673d17921

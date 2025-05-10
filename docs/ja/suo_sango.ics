@@ -191,7 +191,7 @@ URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a581
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
@@ -201,7 +201,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fbf93c-97d9-41b5-8995-07f11cd7a582
-DTSTAMP:20250320T045345Z
+DTSTAMP:20250510T060813Z
 DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
@@ -211,7 +211,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:508c0166-d603-42db-ad16-bf9b8611ad61
-DTSTAMP:20250320T045243Z
+DTSTAMP:20250510T060854Z
 DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
@@ -221,7 +221,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a1
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
@@ -231,7 +231,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d807b9d-885c-47ad-b1ab-d3b5795e58a2
-DTSTAMP:20250421T121131Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
@@ -241,7 +241,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:54213bc5-1c81-45c7-9393-9c50371dce01
-DTSTAMP:20250421T121138Z
+DTSTAMP:20250510T060856Z
 DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
@@ -251,7 +251,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860191
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
@@ -261,7 +261,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b44afe0-0706-4c83-ae0e-c2d634860192
-DTSTAMP:20250503T054847Z
+DTSTAMP:20250510T060903Z
 DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
@@ -271,7 +271,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9642f21-04bb-4209-be96-7f7ff9bf4981
-DTSTAMP:20250503T054851Z
+DTSTAMP:20250510T060902Z
 DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
@@ -293,7 +293,7 @@ URL:https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:afff4e53-d0f1-443f-aaf6-6ef15289eb11
-DTSTAMP:20250320T045737Z
+DTSTAMP:20250510T060915Z
 DTSTART:20241009T030000Z
 DTEND:20241009T033000Z
 TRANSP:TRANSPARENT
@@ -302,7 +302,7 @@ DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/higuchi_2024_2025_tou
 END:VEVENT
 BEGIN:VEVENT
 UID:afff4e53-d0f1-443f-aaf6-6ef15289eb12
-DTSTAMP:20250320T045737Z
+DTSTAMP:20250510T060915Z
 DTSTART:20241023T145900Z
 DTEND:20241023T152900Z
 TRANSP:TRANSPARENT
@@ -384,8 +384,28 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演
 LOCATION:広島文化学園HBGホール
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="広島文化学園HBGホール":geo:34.388465,132.448613
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n\n==========\nチケット情報：\n\nオンライン視聴チケット販売 (2025/9/25 17:00〜2025/11/2 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:7147cd3a-2c0b-44c4-9e94-c8a948d2afd1
+DTSTAMP:20250510T062057Z
+DTSTART:20250925T080000Z
+DTEND:20250925T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演: オンライン視聴チケット販売 開始
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:7147cd3a-2c0b-44c4-9e94-c8a948d2afd2
+DTSTAMP:20250510T062057Z
+DTSTART:20251102T145900Z
+DTEND:20251102T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演: オンライン視聴チケット販売 終了
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:9fd51c11-63ca-4d72-84bf-eba0eb012021
