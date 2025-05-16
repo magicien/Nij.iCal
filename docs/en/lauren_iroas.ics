@@ -241,7 +241,7 @@ TRANSP:TRANSPARENT
 SUMMARY:NIJI-DATOKA 1st ONE-MAN LIVE
 LOCATION:Toyosu PIT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Toyosu PIT":geo:35.649603,139.788379
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_595\n\n\n==========\nTicket Info:\n\nTicket Pia pre-sale lottery (from Apr 3, 2025, 12:00 until Apr 14, 2025, 23:59)\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nGeneral sale (first come, first served) (from Apr 29, 2025, 12:00)\nhttps://w.pia.jp/t/2jidatoka-1st/\n\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_595\n\n\n==========\nTicket Info:\n\nTicket Pia pre-sale lottery (from Apr 3, 2025, 12:00 until Apr 14, 2025, 23:59)\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nGeneral sale (first come, first served) (from Apr 29, 2025, 12:00)\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nResale (from May 12, 2025, 12:00)\nhttps://trade.tixplus.jp/artists/tour/12084\n\nOnline viewing ticket sales (from May 14, 2025, 17:00 until Jun 22, 2025, 23:59)\nhttps://dwango-ticket.jp/project/lhCnUWTSQA\n\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/2jidatoka_1st/
 END:VEVENT
 BEGIN:VEVENT
@@ -273,6 +273,36 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJI-DATOKA 1st ONE-MAN LIVE: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://w.pia.jp/t/2jidatoka-1st/\n\nEvent:\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
 URL:https://w.pia.jp/t/2jidatoka-1st/
+END:VEVENT
+BEGIN:VEVENT
+UID:a3ff220e-6fd7-4780-be95-a5e2da3670a1
+DTSTAMP:20250515T154123Z
+DTSTART:20250512T030000Z
+DTEND:20250512T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJI-DATOKA 1st ONE-MAN LIVE: Resale starts
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/12084\n\nEvent:\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+URL:https://trade.tixplus.jp/artists/tour/12084
+END:VEVENT
+BEGIN:VEVENT
+UID:ec6df824-dcd8-4341-a407-e6d3497d4031
+DTSTAMP:20250515T154158Z
+DTSTART:20250514T080000Z
+DTEND:20250514T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJI-DATOKA 1st ONE-MAN LIVE: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/lhCnUWTSQA\n\nEvent:\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+URL:https://dwango-ticket.jp/project/lhCnUWTSQA
+END:VEVENT
+BEGIN:VEVENT
+UID:ec6df824-dcd8-4341-a407-e6d3497d4032
+DTSTAMP:20250515T154158Z
+DTSTART:20250622T145900Z
+DTEND:20250622T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJI-DATOKA 1st ONE-MAN LIVE: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/lhCnUWTSQA\n\nEvent:\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n\n==========\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n
+URL:https://dwango-ticket.jp/project/lhCnUWTSQA
 END:VEVENT
 BEGIN:VEVENT
 UID:7d0c848c-8d5a-41a7-b396-a46afa366a90
