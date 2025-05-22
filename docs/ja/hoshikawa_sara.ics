@@ -154,14 +154,14 @@ URL:https://www.nijisanji.jp/events/nijifantalk_vol3/
 END:VEVENT
 BEGIN:VEVENT
 UID:c261ec89-cb24-4080-8e7d-271e59cfc786
-DTSTAMP:20250322T065933Z
+DTSTAMP:20250522T170313Z
 DTSTART:20230610T090000Z
 DTEND:20230610T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:星川サラ 1st LIVE「星くず Shining Day -きみがみつけた一番星-」
 LOCATION:KT Zepp Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="KT Zepp Yokohama":geo:35.459726,139.626006
-DESCRIPTION:\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTI=?pit_git_type=SERIES\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n
 URL:https://event.nijisanji.app/hoshikuzu_shiningday/
 END:VEVENT
 BEGIN:VEVENT
@@ -395,14 +395,14 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:587c2d54-bd95-44eb-9df8-f575c5b455db
-DTSTAMP:20250409T062636Z
+DTSTAMP:20250522T171108Z
 DTSTART:20250524T050000Z
 DTEND:20250524T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじホロ交流戦2025 DAY1
 LOCATION:エスコンフィールドHOKKAIDO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="エスコンフィールドHOKKAIDO":geo:42.990155,141.549647
-DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\nホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\nhttps://www.nijiholo-koryusen.jp\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\nネット視聴チケット・視聴ページ\nhttps://l-tike.com/event/mevent/?mid=752786\n\nグッズページ\nhttps://official-goods-store.jp/nijiholo/\n\nホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\nhttps://www.nijiholo-koryusen.jp\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -457,14 +457,14 @@ URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
 UID:ccc45fee-7728-49ce-bf11-61d60f684ec3
-DTSTAMP:20250409T062639Z
+DTSTAMP:20250522T171138Z
 DTSTART:20250525T050000Z
 DTEND:20250525T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじホロ交流戦2025 DAY2
 LOCATION:エスコンフィールドHOKKAIDO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="エスコンフィールドHOKKAIDO":geo:42.990155,141.549647
-DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\nホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\nhttps://www.nijiholo-koryusen.jp\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\nネット視聴チケット・視聴ページ\nhttps://l-tike.com/event/mevent/?mid=752786\n\nグッズページ\nhttps://official-goods-store.jp/nijiholo/\n\nホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\nhttps://www.nijiholo-koryusen.jp\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
 URL:https://www.nijiholo-koryusen.jp
 END:VEVENT
 BEGIN:VEVENT
