@@ -74,14 +74,14 @@ URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d8cb783-41d5-419d-a17e-bb554e7d002d
-DTSTAMP:20250322T065736Z
+DTSTAMP:20250522T170249Z
 DTSTART:20230609T090000Z
 DTEND:20230609T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:VΔLZ 1st Live "Issho Nyukon"
 LOCATION:KT Zepp Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="KT Zepp Yokohama":geo:35.459726,139.626006
-DESCRIPTION:\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Genzuki Tojiro】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTE=?pit_git_type=SERIES\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://twitter.com/Kaida_Haru\n\n【Nagao Kei】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【Genzuki Tojiro】\nYouTube: https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg\nX: https://twitter.com/1O46V\n\n
 URL:https://event.nijisanji.app/valz_1stlive/
 END:VEVENT
 BEGIN:VEVENT

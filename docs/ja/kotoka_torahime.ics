@@ -198,7 +198,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b012023
-DTSTAMP:20250316T073049Z
+DTSTAMP:20250522T165811Z
 DTSTART;VALUE=DATE:20230814
 DTEND;VALUE=DATE:20230815
 RRULE:FREQ=YEARLY
@@ -209,7 +209,7 @@ URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022022
-DTSTAMP:20250316T073049Z
+DTSTAMP:20250522T165811Z
 DTSTART:20221206T000300Z
 DTEND:20221206T003300Z
 TRANSP:TRANSPARENT
@@ -219,7 +219,7 @@ URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b032022
-DTSTAMP:20250316T073049Z
+DTSTAMP:20250522T165811Z
 DTSTART:20221210T022100Z
 DTEND:20221210T025100Z
 TRANSP:TRANSPARENT
@@ -229,7 +229,7 @@ URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022023
-DTSTAMP:20250316T073049Z
+DTSTAMP:20250522T165811Z
 DTSTART:20231206T000300Z
 DTEND:20231206T000301Z
 TRANSP:TRANSPARENT
@@ -239,7 +239,7 @@ URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
 UID:c46fa9d9-3d4c-49b5-9be5-391c3b022024
-DTSTAMP:20250316T073049Z
+DTSTAMP:20250522T165811Z
 DTSTART:20241206T000300Z
 DTEND:20241206T000301Z
 TRANSP:TRANSPARENT
@@ -248,113 +248,13 @@ DESCRIPTION:虎姫 コトカ 2周年\n\n初ツイート：2022/12/06 09:03 （�
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022025
-DTSTAMP:20250316T073049Z
-DTSTART:20251206T000300Z
-DTEND:20251206T000301Z
+UID:c46fa9d9-3d4c-49b5-9be5-391c3b992025
+DTSTAMP:20250522T165811Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
 TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 3周年
-DESCRIPTION:虎姫 コトカ 3周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022026
-DTSTAMP:20250316T073049Z
-DTSTART:20261206T000300Z
-DTEND:20261206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 4周年
-DESCRIPTION:虎姫 コトカ 4周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022027
-DTSTAMP:20250316T073049Z
-DTSTART:20271206T000300Z
-DTEND:20271206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 5周年
-DESCRIPTION:虎姫 コトカ 5周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022028
-DTSTAMP:20250316T073049Z
-DTSTART:20281206T000300Z
-DTEND:20281206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 6周年
-DESCRIPTION:虎姫 コトカ 6周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022029
-DTSTAMP:20250316T073049Z
-DTSTART:20291206T000300Z
-DTEND:20291206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 7周年
-DESCRIPTION:虎姫 コトカ 7周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022030
-DTSTAMP:20250316T073049Z
-DTSTART:20301206T000300Z
-DTEND:20301206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 8周年
-DESCRIPTION:虎姫 コトカ 8周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022031
-DTSTAMP:20250316T073049Z
-DTSTART:20311206T000300Z
-DTEND:20311206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 9周年
-DESCRIPTION:虎姫 コトカ 9周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022032
-DTSTAMP:20250316T073049Z
-DTSTART:20321206T000300Z
-DTEND:20321206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 10周年
-DESCRIPTION:虎姫 コトカ 10周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022033
-DTSTAMP:20250316T073049Z
-DTSTART:20331206T000300Z
-DTEND:20331206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 11周年
-DESCRIPTION:虎姫 コトカ 11周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022034
-DTSTAMP:20250316T073049Z
-DTSTART:20341206T000300Z
-DTEND:20341206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 12周年
-DESCRIPTION:虎姫 コトカ 12周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
-URL:https://www.youtube.com/@KotokaTorahime
-END:VEVENT
-BEGIN:VEVENT
-UID:c46fa9d9-3d4c-49b5-9be5-391c3b022035
-DTSTAMP:20250316T073049Z
-DTSTART:20351206T000300Z
-DTEND:20351206T000301Z
-TRANSP:TRANSPARENT
-SUMMARY:虎姫 コトカ 13周年
-DESCRIPTION:虎姫 コトカ 13周年\n\n初ツイート：2022/12/06 09:03 （日本時間）\n初配信：2022/12/10 11:21 （日本時間）\n\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
+SUMMARY:虎姫 コトカ 卒業
+DESCRIPTION:虎姫 コトカ 卒業\n\n==========\n【虎姫 コトカ】\nYouTube: https://www.youtube.com/@KotokaTorahime\nX: https://twitter.com/KotokaTorahime\n\n
 URL:https://www.youtube.com/@KotokaTorahime
 END:VEVENT
 END:VCALENDAR

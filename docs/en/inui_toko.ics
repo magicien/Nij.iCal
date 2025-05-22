@@ -179,14 +179,14 @@ URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
 UID:e12fd5a0-aaa4-427a-9885-8e78d47303f4
-DTSTAMP:20250322T064836Z
+DTSTAMP:20250522T170122Z
 DTSTART:20230315T090000Z
 DTEND:20230315T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nornis 1st LIVE -Transparent Blue-
 LOCATION:Osaka International Convention Center Main Hall
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Osaka International Convention Center Main Hall":geo:34.689696,135.485886
-DESCRIPTION:\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【Asahina Akane】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGU=?pit_git_type=SERIES\n\n==========\n【Machita Chima】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【Asahina Akane】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
 URL:https://www.nornis.com/event/1st_live/
 END:VEVENT
 BEGIN:VEVENT
