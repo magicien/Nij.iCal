@@ -287,6 +287,77 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps:
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:937f70d2-7579-4d88-abf1-52c1afff3110
+DTSTAMP:20250527T122510Z
+DTSTART:20250706T040000Z
+DTEND:20250706T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじFAN TALK Vol.5 (7/6)
+LOCATION:オンライン
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\nチケット情報：\n\nプレミアム年間プラン会員先行抽選 (2025/6/9 17:00〜2025/6/12 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nプレミアム年間プラン会員二次／ベーシックプラン会員抽選 (2025/6/18 17:00〜2025/6/21 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nシリアルナンバー入力 (2025/6/27 17:00〜2025/7/1 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f1
+DTSTAMP:20250527T120532Z
+DTSTART:20250609T080000Z
+DTEND:20250609T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/6): プレミアム年間プラン会員先行抽選 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f2
+DTSTAMP:20250527T120532Z
+DTSTART:20250612T145900Z
+DTEND:20250612T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/6): プレミアム年間プラン会員先行抽選 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c1
+DTSTAMP:20250527T120535Z
+DTSTART:20250618T080000Z
+DTEND:20250618T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/6): プレミアム年間プラン会員二次／ベーシックプラン会員抽選 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c2
+DTSTAMP:20250527T120535Z
+DTSTART:20250621T145900Z
+DTEND:20250621T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/6): プレミアム年間プラン会員二次／ベーシックプラン会員抽選 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de41
+DTSTAMP:20250527T120534Z
+DTSTART:20250627T080000Z
+DTEND:20250627T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/6): シリアルナンバー入力 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de42
+DTSTAMP:20250527T120534Z
+DTSTART:20250701T145900Z
+DTEND:20250701T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/6): シリアルナンバー入力 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://twitter.com/manami_aizono\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n【エリー・コニファー】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://twitter.com/Eli_Conifer\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【北小路ヒスイ】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://twitter.com/Hisui_Kitakoji\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
 UID:fa109de1-d8dd-4f9f-a3f9-fd8db4012019
 DTSTAMP:20250316T022947Z
 DTSTART;VALUE=DATE:20190926

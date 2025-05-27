@@ -376,6 +376,68 @@ DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/FAqflIJ9jk\n\nイベ
 URL:https://dwango-ticket.jp/project/FAqflIJ9jk
 END:VEVENT
 BEGIN:VEVENT
+UID:ccc45fee-7728-49ce-bf11-61d60f684ec3
+DTSTAMP:20250527T175150Z
+DTSTART:20250525T050000Z
+DTEND:20250525T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじホロ交流戦2025 DAY2
+LOCATION:エスコンフィールドHOKKAIDO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="エスコンフィールドHOKKAIDO":geo:42.990155,141.549647
+DESCRIPTION:特設サイト\nhttps://www.nijiholo-koryusen.jp\n\n公式X\nhttps://x.com/nijiholo_koryu\n\nネット視聴チケット\nhttps://l-tike.com/event/mevent/?mid=752786\n\n視聴ページ\nhttps://zaiko.io/event/372024/stream/164136/158811\n\n無料パート\nhttps://www.youtube.com/watch?v=SCCjyV0a9Bc\n\nグッズページ\nhttps://official-goods-store.jp/nijiholo/\n\nホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら、（ビデオ出演）大神ミオ、一条莉々華\n\n==========\nチケット情報：\n\nにじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nバルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） (2025/3/24 12:00〜2024/3/31 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\n全エリア（先着販売） (2025/4/5 12:00〜)\nhttps://www.nijiholo-koryusen.jp\n\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://www.nijiholo-koryusen.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:8a51cd84-0638-4576-a1cd-8881ae8865e1
+DTSTAMP:20250324T032424Z
+DTSTART:20250324T030000Z
+DTEND:20250324T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじホロ交流戦2025 DAY2: にじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） 開始
+DESCRIPTION:チケット:\nhttps://ticket.fighters.co.jp/lottery/list\n\nイベント:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://ticket.fighters.co.jp/lottery/list
+END:VEVENT
+BEGIN:VEVENT
+UID:8a51cd84-0638-4576-a1cd-8881ae8865e2
+DTSTAMP:20250324T032424Z
+DTSTART:20240331T145900Z
+DTEND:20240331T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじホロ交流戦2025 DAY2: にじさんじ/ホロライブ限定応援席チケット（日替わり豪華グッズ付き） 終了
+DESCRIPTION:チケット:\nhttps://ticket.fighters.co.jp/lottery/list\n\nイベント:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://ticket.fighters.co.jp/lottery/list
+END:VEVENT
+BEGIN:VEVENT
+UID:43113504-8f37-43c9-aa9f-84323dd36621
+DTSTAMP:20250324T032442Z
+DTSTART:20250324T030000Z
+DTEND:20250324T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじホロ交流戦2025 DAY2: バルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） 開始
+DESCRIPTION:チケット:\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nイベント:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://apply.hkdballpark.com/form_entry/nijiholo2025vip
+END:VEVENT
+BEGIN:VEVENT
+UID:43113504-8f37-43c9-aa9f-84323dd36622
+DTSTAMP:20250324T032442Z
+DTSTART:20240331T145900Z
+DTEND:20240331T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじホロ交流戦2025 DAY2: バルコニースイート（VIP専用豪華グッズ付き 最大10人利用可能） 終了
+DESCRIPTION:チケット:\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nイベント:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://apply.hkdballpark.com/form_entry/nijiholo2025vip
+END:VEVENT
+BEGIN:VEVENT
+UID:83a3ddd4-fc17-4932-9896-d31f2d860291
+DTSTAMP:20250402T115636Z
+DTSTART:20250405T030000Z
+DTEND:20250405T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじホロ交流戦2025 DAY2: 全エリア（先着販売） 開始
+DESCRIPTION:チケット:\nhttps://www.nijiholo-koryusen.jp\n\nイベント:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://www.nijiholo-koryusen.jp
+END:VEVENT
+BEGIN:VEVENT
 UID:60681f23-b184-4de9-84c2-2dedc25147e0
 DTSTAMP:20250501T012353Z
 DTSTART:20251018T090000Z
@@ -389,7 +451,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:7147cd3a-2c0b-44c4-9e94-c8a948d2afd1
-DTSTAMP:20250510T062057Z
+DTSTAMP:20250527T130319Z
 DTSTART:20250925T080000Z
 DTEND:20250925T083000Z
 TRANSP:TRANSPARENT
@@ -399,7 +461,7 @@ URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:7147cd3a-2c0b-44c4-9e94-c8a948d2afd2
-DTSTAMP:20250510T062057Z
+DTSTAMP:20250527T130319Z
 DTSTART:20251102T145900Z
 DTEND:20251102T152900Z
 TRANSP:TRANSPARENT

@@ -419,7 +419,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ff42d3-eb2e-4033-af59-9063f379f809
-DTSTAMP:20250522T173209Z
+DTSTAMP:20250524T042542Z
 DTSTART:20250519T090000Z
 DTEND:20250519T110000Z
 TRANSP:TRANSPARENT
@@ -578,6 +578,77 @@ TRANSP:TRANSPARENT
 SUMMARY:[チケット]くろのわーるが武道館でなんかやる: オンライン視聴チケット販売（Stagecrowd） 終了
 DESCRIPTION:チケット:\nhttps://intl.stagecrowd.live/chronoir-nankayaruevent/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir-nankayaruevent/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【文野環】\nYouTube: https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg\nX: https://twitter.com/nekokan_chu\n\n【卯月コウ】\nYouTube: https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A\nX: https://twitter.com/udukikohh\n\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【ルンルン】\nYouTube: https://www.youtube.com/@Lunlun_nijisanji\nX: https://twitter.com/mo_lunlun_gu\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://twitter.com/usamirito_power\n\n
 URL:https://intl.stagecrowd.live/chronoir-nankayaruevent/
+END:VEVENT
+BEGIN:VEVENT
+UID:a62a3c09-78f7-473f-a6cd-492c54f5f760
+DTSTAMP:20250527T122517Z
+DTSTART:20250713T040000Z
+DTEND:20250713T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじFAN TALK Vol.5 (7/13)
+LOCATION:オンライン
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\nチケット情報：\n\nプレミアム年間プラン会員先行抽選 (2025/6/9 17:00〜2025/6/12 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nプレミアム年間プラン会員二次／ベーシックプラン会員抽選 (2025/6/18 17:00〜2025/6/21 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nシリアルナンバー入力 (2025/6/27 17:00〜2025/7/1 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f1
+DTSTAMP:20250527T120447Z
+DTSTART:20250609T080000Z
+DTEND:20250609T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/13): プレミアム年間プラン会員先行抽選 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f2
+DTSTAMP:20250527T120447Z
+DTSTART:20250612T145900Z
+DTEND:20250612T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/13): プレミアム年間プラン会員先行抽選 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c1
+DTSTAMP:20250527T120447Z
+DTSTART:20250618T080000Z
+DTEND:20250618T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/13): プレミアム年間プラン会員二次／ベーシックプラン会員抽選 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c2
+DTSTAMP:20250527T120447Z
+DTSTART:20250621T145900Z
+DTEND:20250621T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/13): プレミアム年間プラン会員二次／ベーシックプラン会員抽選 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de41
+DTSTAMP:20250527T120447Z
+DTSTART:20250627T080000Z
+DTEND:20250627T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/13): シリアルナンバー入力 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de42
+DTSTAMP:20250527T120447Z
+DTSTART:20250701T145900Z
+DTEND:20250701T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/13): シリアルナンバー入力 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://twitter.com/sistercleaire\n\n【レヴィ・エリファ】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://twitter.com/Levi_E_2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://twitter.com/Luis_Cammy\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
 END:VEVENT
 BEGIN:VEVENT
 UID:40275588-0052-4ba0-a2f2-a11cce6671e8

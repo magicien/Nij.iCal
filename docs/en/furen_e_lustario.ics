@@ -390,6 +390,68 @@ DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttp
 URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
+UID:ccc45fee-7728-49ce-bf11-61d60f684ec3
+DTSTAMP:20250527T175150Z
+DTSTART:20250525T050000Z
+DTEND:20250525T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Niji Holo Interleague Match 2025
+LOCATION:ES CON FIELD HOKKAIDO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="ES CON FIELD HOKKAIDO":geo:42.990155,141.549647
+DESCRIPTION:Special Site\nhttps://www.nijiholo-koryusen.jp\n\nX Account\nhttps://x.com/nijiholo_koryu\n\nLive streaming tickets\nhttps://l-tike.com/event/mevent/?mid=752786\n\nLive streaming\nhttps://zaiko.io/event/372024/stream/164136/158811\n\nFree part\nhttps://www.youtube.com/watch?v=SCCjyV0a9Bc\n\nMerch page\nhttps://official-goods-store.jp/nijiholo/\n\nHololive talents: Shirakami Fubuki, Amane Kanata, Usada Pekora, (Video Appearance) Ookami Mio, Ichijou Ririka\n\n==========\nTicket Info:\n\nNijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://ticket.fighters.co.jp/lottery/list\n\nBalcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people) (from Mar 24, 2025, 12:00 until Mar 31, 2024, 23:59)\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nAll area (first come, first served) (from Apr 5, 2025, 12:00)\nhttps://www.nijiholo-koryusen.jp\n\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://www.nijiholo-koryusen.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:8a51cd84-0638-4576-a1cd-8881ae8865e1
+DTSTAMP:20250324T032424Z
+DTSTART:20250324T030000Z
+DTEND:20250324T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji Holo Interleague Match 2025: Nijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included) starts
+DESCRIPTION:Ticket:\nhttps://ticket.fighters.co.jp/lottery/list\n\nEvent:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://ticket.fighters.co.jp/lottery/list
+END:VEVENT
+BEGIN:VEVENT
+UID:8a51cd84-0638-4576-a1cd-8881ae8865e2
+DTSTAMP:20250324T032424Z
+DTSTART:20240331T145900Z
+DTEND:20240331T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji Holo Interleague Match 2025: Nijisanji/Hololive exclusive fan seating tickets (with daily changing luxury goods included) ends
+DESCRIPTION:Ticket:\nhttps://ticket.fighters.co.jp/lottery/list\n\nEvent:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://ticket.fighters.co.jp/lottery/list
+END:VEVENT
+BEGIN:VEVENT
+UID:43113504-8f37-43c9-aa9f-84323dd36621
+DTSTAMP:20250324T032442Z
+DTSTART:20250324T030000Z
+DTEND:20250324T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji Holo Interleague Match 2025: Balcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people) starts
+DESCRIPTION:Ticket:\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nEvent:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://apply.hkdballpark.com/form_entry/nijiholo2025vip
+END:VEVENT
+BEGIN:VEVENT
+UID:43113504-8f37-43c9-aa9f-84323dd36622
+DTSTAMP:20250324T032442Z
+DTSTART:20240331T145900Z
+DTEND:20240331T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji Holo Interleague Match 2025: Balcony Suite (with VIP exclusive luxury goods included, maximum capacity 10 people) ends
+DESCRIPTION:Ticket:\nhttps://apply.hkdballpark.com/form_entry/nijiholo2025vip\n\nEvent:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://apply.hkdballpark.com/form_entry/nijiholo2025vip
+END:VEVENT
+BEGIN:VEVENT
+UID:83a3ddd4-fc17-4932-9896-d31f2d860291
+DTSTAMP:20250402T115636Z
+DTSTART:20250405T030000Z
+DTEND:20250405T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji Holo Interleague Match 2025: All area (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://www.nijiholo-koryusen.jp\n\nEvent:\nhttps://www.nijiholo-koryusen.jp\n\n\n==========\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n
+URL:https://www.nijiholo-koryusen.jp
+END:VEVENT
+BEGIN:VEVENT
 UID:a354d803-8ef8-4ca2-9e0a-b95d41012020
 DTSTAMP:20250316T032205Z
 DTSTART;VALUE=DATE:20200310
