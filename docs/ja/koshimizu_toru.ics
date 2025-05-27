@@ -227,7 +227,7 @@ URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:94812df6-1d0b-4277-887a-8a125bba9171
-DTSTAMP:20250510T062847Z
+DTSTAMP:20250527T120341Z
 DTSTART:20250529T080000Z
 DTEND:20250529T083000Z
 TRANSP:TRANSPARENT
@@ -237,13 +237,66 @@ URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:94812df6-1d0b-4277-887a-8a125bba9172
-DTSTAMP:20250510T062847Z
+DTSTAMP:20250527T120341Z
 DTSTART:20250707T145900Z
 DTEND:20250707T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 名古屋公演: オンライン視聴チケット販売 終了
 DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://twitter.com/hakase_fuyuki\n\n【長尾景】\nYouTube: https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg\nX: https://twitter.com/kei_nagao2434\n\n【先斗寧】\nYouTube: https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A\nX: https://twitter.com/ponto_nei\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n
 URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa5c7c2-31b6-47d2-b25b-62986f8ae677
+DTSTAMP:20250527T125714Z
+DTSTART:20250720T030000Z
+DTEND:20250720T104000Z
+TRANSP:TRANSPARENT
+SUMMARY:Idios 1st Mini Album 『By Colors!』発売記念 1on1オンライントーク会
+LOCATION:オンライン
+DESCRIPTION:イベントページ\nhttps://limista.jp/shipping_groups/6056/projects/6014\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://limista.jp/shipping_groups/6056/projects/6014
+END:VEVENT
+BEGIN:VEVENT
+UID:9e86227b-d8e2-45d7-a4a3-c11c6b4281db
+DTSTAMP:20250527T125710Z
+DTSTART:20250830T030000Z
+DTEND:20250830T104000Z
+TRANSP:TRANSPARENT
+SUMMARY:Idios 1st Mini Album 『By Colors!』発売記念 1on1オンライントーク会
+LOCATION:オンライン
+DESCRIPTION:イベントページ\nhttps://limista.jp/shipping_groups/6056/projects/6015\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://limista.jp/shipping_groups/6056/projects/6015
+END:VEVENT
+BEGIN:VEVENT
+UID:a0089b31-6727-43e0-bb4d-25fb6d7188b2
+DTSTAMP:20250527T125929Z
+DTSTART:20251116T060000Z
+DTEND:20251116T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Idios 1st Mini Album 『By Colors!』発売記念トークイベント
+LOCATION:不明
+DESCRIPTION:イベントページ\nhttps://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246\n\n==========\nチケット情報：\n\nシリアル抽選 (2025/5/27 17:00〜2025/10/5 23:59)\nhttps://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246\n\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246
+END:VEVENT
+BEGIN:VEVENT
+UID:e36b0ce3-a60c-4152-b1ab-c6a5752c5601
+DTSTAMP:20250527T130344Z
+DTSTART:20250527T080000Z
+DTEND:20250527T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Idios 1st Mini Album 『By Colors!』発売記念トークイベント: シリアル抽選 開始
+DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246\n\nイベント:\nhttps://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246
+END:VEVENT
+BEGIN:VEVENT
+UID:e36b0ce3-a60c-4152-b1ab-c6a5752c5602
+DTSTAMP:20250527T130344Z
+DTSTART:20251005T145900Z
+DTEND:20251005T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Idios 1st Mini Album 『By Colors!』発売記念トークイベント: シリアル抽選 終了
+DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246\n\nイベント:\nhttps://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246\n\n\n==========\n【小清水透】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【獅子堂あかり】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ソフィア・ヴァレンタイン】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【倉持めると】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246
 END:VEVENT
 BEGIN:VEVENT
 UID:2333619c-c6e9-4592-91d0-ba641e012023

@@ -311,6 +311,77 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps:
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:0ab5cc72-4a54-4a7e-8cb2-785c67aaafbd
+DTSTAMP:20250527T122514Z
+DTSTART:20250712T040000Z
+DTEND:20250712T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじFAN TALK Vol.5 (7/12)
+LOCATION:オンライン
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\nチケット情報：\n\nプレミアム年間プラン会員先行抽選 (2025/6/9 17:00〜2025/6/12 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nプレミアム年間プラン会員二次／ベーシックプラン会員抽選 (2025/6/18 17:00〜2025/6/21 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nシリアルナンバー入力 (2025/6/27 17:00〜2025/7/1 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f1
+DTSTAMP:20250527T120539Z
+DTSTART:20250609T080000Z
+DTEND:20250609T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/12): プレミアム年間プラン会員先行抽選 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f2
+DTSTAMP:20250527T120539Z
+DTSTART:20250612T145900Z
+DTEND:20250612T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/12): プレミアム年間プラン会員先行抽選 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c1
+DTSTAMP:20250527T120439Z
+DTSTART:20250618T080000Z
+DTEND:20250618T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/12): プレミアム年間プラン会員二次／ベーシックプラン会員抽選 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c2
+DTSTAMP:20250527T120439Z
+DTSTART:20250621T145900Z
+DTEND:20250621T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/12): プレミアム年間プラン会員二次／ベーシックプラン会員抽選 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de41
+DTSTAMP:20250527T120441Z
+DTSTART:20250627T080000Z
+DTEND:20250627T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/12): シリアルナンバー入力 開始
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de42
+DTSTAMP:20250527T120441Z
+DTSTART:20250701T145900Z
+DTEND:20250701T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじFAN TALK Vol.5 (7/12): シリアルナンバー入力 終了
+DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【ニュイ・ソシエール】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://twitter.com/Nui_Sociere\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://twitter.com/FumiVirtual\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
 UID:f05863c2-7133-4b1c-ac82-6fe4f5012019
 DTSTAMP:20250316T023237Z
 DTSTART;VALUE=DATE:20191031

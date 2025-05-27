@@ -303,6 +303,77 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisan
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:8f9c6c35-44e9-4af0-8150-bade56ec2992
+DTSTAMP:20250527T122507Z
+DTSTART:20250705T040000Z
+DTEND:20250705T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Niji FAN Talk Vol.5 (Jul 5)
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n==========\nTicket Info:\n\nPremium annual plan member pre-sale lottery (from Jun 9, 2025, 17:00 until Jun 12, 2025, 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nPremium annual plan member secondary lottery / Basic plan member lottery (from Jun 18, 2025, 17:00 until Jun 21, 2025, 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nSerial number input (from Jun 27, 2025, 17:00 until Jul 1, 2025, 23:59)\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n\n==========\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n【Onomachi Haruka】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f1
+DTSTAMP:20250527T120530Z
+DTSTART:20250609T080000Z
+DTEND:20250609T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji FAN Talk Vol.5 (Jul 5): Premium annual plan member pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n【Onomachi Haruka】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:edc52622-4af7-41d2-86c9-08ea264af4f2
+DTSTAMP:20250527T120530Z
+DTSTART:20250612T145900Z
+DTEND:20250612T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji FAN Talk Vol.5 (Jul 5): Premium annual plan member pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n【Onomachi Haruka】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c1
+DTSTAMP:20250527T120531Z
+DTSTART:20250618T080000Z
+DTEND:20250618T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji FAN Talk Vol.5 (Jul 5): Premium annual plan member secondary lottery / Basic plan member lottery starts
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n【Onomachi Haruka】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:358588b1-4e22-4908-ae07-6c3c3bb9f3c2
+DTSTAMP:20250527T120531Z
+DTSTART:20250621T145900Z
+DTEND:20250621T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji FAN Talk Vol.5 (Jul 5): Premium annual plan member secondary lottery / Basic plan member lottery ends
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n【Onomachi Haruka】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de41
+DTSTAMP:20250527T120531Z
+DTSTART:20250627T080000Z
+DTEND:20250627T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji FAN Talk Vol.5 (Jul 5): Serial number input starts
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n【Onomachi Haruka】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
+UID:10428337-0206-4e3a-8094-036fac25de42
+DTSTAMP:20250527T120531Z
+DTSTART:20250701T145900Z
+DTEND:20250701T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Niji FAN Talk Vol.5 (Jul 5): Serial number input ends
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n\n==========\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://twitter.com/Suzuna_Nanase\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://twitter.com/emma_august_\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://twitter.com/kurusu72me\n\n【Onomachi Haruka】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://twitter.com/kanda_shoichi\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
+END:VEVENT
+BEGIN:VEVENT
 UID:5fc6cf4e-cb77-4929-9756-55cf8e012020
 DTSTAMP:20250316T024627Z
 DTSTART;VALUE=DATE:20200514
