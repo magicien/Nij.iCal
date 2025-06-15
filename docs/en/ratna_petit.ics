@@ -244,14 +244,65 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:250f4dfb-17ad-4821-9fde-7cc62f5d121f
-DTSTAMP:20250327T093434Z
+DTSTAMP:20250615T151328Z
 DTSTART:20250802T090000Z
 DTEND:20250802T110000Z
 TRANSP:TRANSPARENT
-SUMMARY:NIJI FAN PARTY Vol.1 - Ratna Petit
+SUMMARY:Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”
 LOCATION:TFT HALL 500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TFT HALL 500":geo:35.630470,139.789370
-DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001157.000030865.html\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\nOnline Viewing Tickets\n\nMerch page\n\nVenue Report\n\nFree Part\n\nniconico Live\n\nHashtag：#ラトナ・プティ1st_EVENT\nhttps://x.com/hashtag/ラトナ・プティ1st_EVENT\n\n\n==========\nTicket Info:\n\nPlayguide first-round advance lottery (from Jun 13, 2025, 22:30 until Jun 22, 2025, 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nPlayguide second-round advance lottery (from Jun 25, 2025, 12:00 until Jun 30, 2025, 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nGeneral sale (first come, first served) (from Jul 12, 2025, 12:00)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/
+END:VEVENT
+BEGIN:VEVENT
+UID:f46af8da-2ef7-4139-9bae-60075b724e41
+DTSTAMP:20250615T140822Z
+DTSTART:20250613T133000Z
+DTEND:20250613T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: Playguide first-round advance lottery starts
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:f46af8da-2ef7-4139-9bae-60075b724e42
+DTSTAMP:20250615T140822Z
+DTSTART:20250622T145900Z
+DTEND:20250622T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: Playguide first-round advance lottery ends
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed6e458-ef3f-4c55-b591-7ddf02a5c1e1
+DTSTAMP:20250615T140846Z
+DTSTART:20250625T030000Z
+DTEND:20250625T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: Playguide second-round advance lottery starts
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed6e458-ef3f-4c55-b591-7ddf02a5c1e2
+DTSTAMP:20250615T140846Z
+DTSTART:20250630T145900Z
+DTEND:20250630T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: Playguide second-round advance lottery ends
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:0751eccd-0840-448a-98fd-c7d9ec353a31
+DTSTAMP:20250615T143402Z
+DTSTART:20250712T030000Z
+DTEND:20250712T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac012019
