@@ -3016,8 +3016,20 @@ DESCRIPTION:チケット:\nhttps://www.nijisanji.jp/events/nijifantalk_vol5/\n\n
 URL:https://www.nijisanji.jp/events/nijifantalk_vol5/
 END:VEVENT
 BEGIN:VEVENT
+UID:a731fa7a-2674-4f1b-9d78-5fcb9854aed5
+DTSTAMP:20250615T151418Z
+DTSTART:20250712T070000Z
+DTEND:20250712T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 上海公演
+LOCATION:上海・国家会展中心
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="上海・国家会展中心":geo:31.191731,121.297517
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/shanghai-jp/\n\n視聴ページ（bilibili、無料）\nhttps://live.bilibili.com/21496316\n\nハッシュタグ：#SitR上海\nhttps://x.com/hashtag/SitR上海\n\n\n==========\n【海妹四葉】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【ルカ・カネシロ】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/shanghai-jp/
+END:VEVENT
+BEGIN:VEVENT
 UID:a62a3c09-78f7-473f-a6cd-492c54f5f760
-DTSTAMP:20250527T122517Z
+DTSTAMP:20250615T141847Z
 DTSTART:20250713T040000Z
 DTEND:20250713T083000Z
 TRANSP:TRANSPARENT
@@ -3188,7 +3200,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演
 LOCATION:Kアリーナ横浜
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\nhttps://shop.nijisanji.jp/TAG_616\n\n直前放送\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\n最速感想放送\n\nハッシュタグ：#SitR横浜\nhttps://x.com/hashtag/SitR横浜\n\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/4/21 12:00〜2025/5/11 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\nイープラス先行抽選 (2025/5/20 12:00〜2025/6/1 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\n一般販売（先着） (2025/6/15 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\nオンライン視聴チケット販売 (2025/6/26 17:00〜2025/8/5 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\nhttps://shop.nijisanji.jp/TAG_616\n\n直前放送\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\n最速感想放送\n\nハッシュタグ：#SitR横浜\nhttps://x.com/hashtag/SitR横浜\n\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/4/21 12:00〜2025/5/11 23:59)\nhttps://eplus.jp/nijisanji-world-tour/fc/\n\nイープラス先行抽選 (2025/5/20 12:00〜2025/6/1 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\n一般販売（先着） (2025/6/15 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\n見切れ席販売（先着） (2025/6/15 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\nオンライン視聴チケット販売 (2025/6/26 17:00〜2025/8/5 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -3242,6 +3254,16 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベン�
 URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
+UID:9dbe5a94-1608-4777-a5a4-0db141a09511
+DTSTAMP:20250615T141001Z
+DTSTART:20250615T030000Z
+DTEND:20250615T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 横浜公演: 見切れ席販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【社築】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【本間ひまわり】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
 UID:8dab78ec-d2dd-4575-b59e-e3edb6a7e441
 DTSTAMP:20250510T062046Z
 DTSTART:20250626T080000Z
@@ -3263,14 +3285,65 @@ URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:250f4dfb-17ad-4821-9fde-7cc62f5d121f
-DTSTAMP:20250327T093434Z
+DTSTAMP:20250615T151328Z
 DTSTART:20250802T090000Z
 DTEND:20250802T110000Z
 TRANSP:TRANSPARENT
-SUMMARY:にじFAN Party 第1弾 ラトナ・プティ
+SUMMARY:ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜
 LOCATION:TFT ホール 500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TFT ホール 500":geo:35.630470,139.789370
-DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001157.000030865.html\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\nオンラインチケット購入ページ\n\nグッズページ\n\n直前放送\n\n無料パート\n\n本編視聴ページ\n\nハッシュタグ：#ラトナ・プティ1st_EVENT\nhttps://x.com/hashtag/ラトナ・プティ1st_EVENT\n\n\n==========\nチケット情報：\n\nプレイガイド一次先行抽選 (2025/6/13 22:30〜2025/6/22 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nプレイガイド二次先行抽選 (2025/6/25 12:00〜2025/6/30 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\n一般販売（先着） (2025/7/12 12:00〜)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/
+END:VEVENT
+BEGIN:VEVENT
+UID:f46af8da-2ef7-4139-9bae-60075b724e41
+DTSTAMP:20250615T140822Z
+DTSTART:20250613T133000Z
+DTEND:20250613T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜: プレイガイド一次先行抽選 開始
+DESCRIPTION:チケット:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:f46af8da-2ef7-4139-9bae-60075b724e42
+DTSTAMP:20250615T140822Z
+DTSTART:20250622T145900Z
+DTEND:20250622T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜: プレイガイド一次先行抽選 終了
+DESCRIPTION:チケット:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed6e458-ef3f-4c55-b591-7ddf02a5c1e1
+DTSTAMP:20250615T140846Z
+DTSTART:20250625T030000Z
+DTEND:20250625T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜: プレイガイド二次先行抽選 開始
+DESCRIPTION:チケット:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed6e458-ef3f-4c55-b591-7ddf02a5c1e2
+DTSTAMP:20250615T140846Z
+DTSTART:20250630T145900Z
+DTEND:20250630T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜: プレイガイド二次先行抽選 終了
+DESCRIPTION:チケット:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:0751eccd-0840-448a-98fd-c7d9ec353a31
+DTSTAMP:20250615T143402Z
+DTSTART:20250712T030000Z
+DTEND:20250712T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nイベント:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
 END:VEVENT
 BEGIN:VEVENT
 UID:9e86227b-d8e2-45d7-a4a3-c11c6b4281db
@@ -3297,7 +3370,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:24309ef4-80b2-4ffe-9051-3bd402766141
-DTSTAMP:20250602T015838Z
+DTSTAMP:20250615T143320Z
 DTSTART:20250530T030000Z
 DTEND:20250530T033000Z
 TRANSP:TRANSPARENT
@@ -3307,7 +3380,7 @@ URL:https://eplus.jp/sf/web/live/irg/nwt25/order
 END:VEVENT
 BEGIN:VEVENT
 UID:24309ef4-80b2-4ffe-9051-3bd402766142
-DTSTAMP:20250602T015838Z
+DTSTAMP:20250615T143320Z
 DTSTART:20250615T145900Z
 DTEND:20250615T152900Z
 TRANSP:TRANSPARENT

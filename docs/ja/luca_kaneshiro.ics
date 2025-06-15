@@ -231,6 +231,18 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps:
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
+UID:a731fa7a-2674-4f1b-9d78-5fcb9854aed5
+DTSTAMP:20250615T151418Z
+DTSTART:20250712T070000Z
+DTEND:20250712T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 上海公演
+LOCATION:上海・国家会展中心
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="上海・国家会展中心":geo:31.191731,121.297517
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/shanghai-jp/\n\n視聴ページ（bilibili、無料）\nhttps://live.bilibili.com/21496316\n\nハッシュタグ：#SitR上海\nhttps://x.com/hashtag/SitR上海\n\n\n==========\n【海妹四葉】\nYouTube: https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g\nX: https://twitter.com/Yotsuha_Umise\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【ルカ・カネシロ】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/shanghai-jp/
+END:VEVENT
+BEGIN:VEVENT
 UID:25c46543-888d-469c-9953-22c321012022
 DTSTAMP:20250316T071904Z
 DTSTART;VALUE=DATE:20220410
