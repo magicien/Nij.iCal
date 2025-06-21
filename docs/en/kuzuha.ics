@@ -712,7 +712,7 @@ URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:8dab78ec-d2dd-4575-b59e-e3edb6a7e441
-DTSTAMP:20250510T062046Z
+DTSTAMP:20250621T152701Z
 DTSTART:20250626T080000Z
 DTEND:20250626T083000Z
 TRANSP:TRANSPARENT
@@ -722,13 +722,79 @@ URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:8dab78ec-d2dd-4575-b59e-e3edb6a7e442
-DTSTAMP:20250510T062046Z
+DTSTAMP:20250621T152701Z
 DTSTART:20250805T145900Z
 DTEND:20250805T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama: Online viewing ticket sales ends
 DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://twitter.com/___dola\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Yashiro Kizuku】\nYouTube: https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA\nX: https://twitter.com/846kizuq\n\n【Honma Himawari】\nYouTube: https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w\nX: https://twitter.com/honmahimawari\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n
 URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:9cbe9340-2c3a-44cb-beb6-c1308c82d7a1
+DTSTAMP:20250621T153353Z
+DTSTART:20250725T070000Z
+DTEND:20250725T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Koshien 2025 Live Viewing Day1
+LOCATION:Izumi Garden Gallery
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Izumi Garden Gallery":geo:35.664692,139.740868
+DESCRIPTION:Article of the event（KONAMI）\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nNon-Nijisanji performers: Tenkai Tsukasa (Organizer)\n\n==========\nTicket Info:\n\nGeneral sale (first come, first served) (from Jun 27, 2025, 10:00)\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:277f154f-62b1-42f9-abd5-9bc96636bf81
+DTSTAMP:20250621T152759Z
+DTSTART:20250627T010000Z
+DTEND:20250627T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Koshien 2025 Live Viewing Day1: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nEvent:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:82b632b7-05aa-4517-9663-66655b10efb8
+DTSTAMP:20250621T153357Z
+DTSTART:20250726T070000Z
+DTEND:20250726T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Koshien 2025 Live Viewing Day2
+LOCATION:Izumi Garden Gallery
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Izumi Garden Gallery":geo:35.664692,139.740868
+DESCRIPTION:Article of the event（KONAMI）\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nNon-Nijisanji performers: Tenkai Tsukasa (Organizer)\n\n==========\nTicket Info:\n\nGeneral sale (first come, first served) (from Jun 27, 2025, 10:00)\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:903c069a-d207-404e-8b74-8d03dca63a91
+DTSTAMP:20250621T152800Z
+DTSTART:20250627T010000Z
+DTEND:20250627T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Koshien 2025 Live Viewing Day2: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nEvent:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc8ade1-10ac-40d2-bdcb-f41986213dac
+DTSTAMP:20250621T153357Z
+DTSTART:20250727T070000Z
+DTEND:20250727T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Koshien 2025 Live Viewing Day3
+LOCATION:Izumi Garden Gallery
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Izumi Garden Gallery":geo:35.664692,139.740868
+DESCRIPTION:Article of the event（KONAMI）\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nNon-Nijisanji performers: Tenkai Tsukasa (Organizer)\n\n==========\nTicket Info:\n\nGeneral sale (first come, first served) (from Jun 27, 2025, 10:00)\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9397c2-025a-4bee-ba09-9fdf2cac06e1
+DTSTAMP:20250621T152800Z
+DTSTART:20250627T010000Z
+DTEND:20250627T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Koshien 2025 Live Viewing Day3: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nEvent:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n==========\n【Maimoto Keisuke】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【Ex Albio】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
 END:VEVENT
 BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147012018
