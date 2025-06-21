@@ -435,6 +435,72 @@ DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/2jidatoka_1st/\n\n�
 URL:https://www.nijisanji.jp/events/2jidatoka_1st/
 END:VEVENT
 BEGIN:VEVENT
+UID:9cbe9340-2c3a-44cb-beb6-c1308c82d7a1
+DTSTAMP:20250621T153353Z
+DTSTART:20250725T070000Z
+DTEND:20250725T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ甲子園2025 ライブビューイング Day1
+LOCATION:泉ガーデンギャラリー
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="泉ガーデンギャラリー":geo:35.664692,139.740868
+DESCRIPTION:ニュースページ（KONAMI）\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nにじさんじ以外の出演者：天開司（主催）\n\n==========\nチケット情報：\n\n一般販売（先着） (2025/6/27 10:00〜)\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n\n==========\n【舞元啓介】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【レオス・ヴィンセント】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:277f154f-62b1-42f9-abd5-9bc96636bf81
+DTSTAMP:20250621T152759Z
+DTSTART:20250627T010000Z
+DTEND:20250627T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ甲子園2025 ライブビューイング Day1: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nイベント:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n==========\n【舞元啓介】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【レオス・ヴィンセント】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:82b632b7-05aa-4517-9663-66655b10efb8
+DTSTAMP:20250621T153357Z
+DTSTART:20250726T070000Z
+DTEND:20250726T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ甲子園2025 ライブビューイング Day2
+LOCATION:泉ガーデンギャラリー
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="泉ガーデンギャラリー":geo:35.664692,139.740868
+DESCRIPTION:ニュースページ（KONAMI）\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nにじさんじ以外の出演者：天開司（主催）\n\n==========\nチケット情報：\n\n一般販売（先着） (2025/6/27 10:00〜)\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n\n==========\n【舞元啓介】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【レオス・ヴィンセント】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:903c069a-d207-404e-8b74-8d03dca63a91
+DTSTAMP:20250621T152800Z
+DTSTART:20250627T010000Z
+DTEND:20250627T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ甲子園2025 ライブビューイング Day2: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nイベント:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n==========\n【舞元啓介】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【レオス・ヴィンセント】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc8ade1-10ac-40d2-bdcb-f41986213dac
+DTSTAMP:20250621T153357Z
+DTSTART:20250727T070000Z
+DTEND:20250727T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ甲子園2025 ライブビューイング Day3
+LOCATION:泉ガーデンギャラリー
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="泉ガーデンギャラリー":geo:35.664692,139.740868
+DESCRIPTION:ニュースページ（KONAMI）\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nにじさんじ以外の出演者：天開司（主催）\n\n==========\nチケット情報：\n\n一般販売（先着） (2025/6/27 10:00〜)\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n\n==========\n【舞元啓介】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【レオス・ヴィンセント】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9397c2-025a-4bee-ba09-9fdf2cac06e1
+DTSTAMP:20250621T152800Z
+DTSTART:20250627T010000Z
+DTEND:20250627T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ甲子園2025 ライブビューイング Day3: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\nイベント:\nhttps://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201\n\n\n==========\n【舞元啓介】\nYouTube: https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g\nX: https://twitter.com/maimoto_k\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://twitter.com/vamp_kuzu\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【エクス・アルビオ】\nYouTube: https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ\nX: https://twitter.com/ex_albio\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【レオス・ヴィンセント】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://twitter.com/Leos_Vincent\n\n
+URL:https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
+END:VEVENT
+BEGIN:VEVENT
 UID:4faaf9be-8ff0-4f91-bb64-9d0be2012020
 DTSTAMP:20250316T041201Z
 DTSTART;VALUE=DATE:20200725
