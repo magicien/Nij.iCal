@@ -244,14 +244,14 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:250f4dfb-17ad-4821-9fde-7cc62f5d121f
-DTSTAMP:20250621T151503Z
+DTSTAMP:20250629T054021Z
 DTSTART:20250802T090000Z
 DTEND:20250802T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”
 LOCATION:TFT HALL 500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TFT HALL 500":geo:35.630470,139.789370
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\nOnline Viewing Tickets\n\nMerch page\n\nVenue Report\n\nFree Part\n\nniconico Live\n\nHashtag：#ラトナ・プティ1st_EVENT\nhttps://x.com/hashtag/ラトナ・プティ1st_EVENT\n\n\n==========\nTicket Info:\n\nPlayguide first-round advance lottery (from Jun 13, 2025, 22:30 until Jun 22, 2025, 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nPlayguide second-round advance lottery (from Jun 25, 2025, 12:00 until Jun 30, 2025, 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nGeneral sale (first come, first served) (from Jul 12, 2025, 12:00)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/wbmQOiuTHq\n\nMerch page\n\nVenue Report\n\nFree Part\n\nniconico Live\n\nHashtag：#ラトナ・プティ1st_EVENT\nhttps://x.com/hashtag/ラトナ・プティ1st_EVENT\n\n\n==========\nTicket Info:\n\nPlayguide first-round advance lottery (from Jun 13, 2025, 22:30 until Jun 22, 2025, 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nPlayguide second-round advance lottery (from Jun 25, 2025, 12:00 until Jun 30, 2025, 23:59)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nGeneral sale (first come, first served) (from Jul 12, 2025, 12:00)\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nOnline viewing ticket sales (from Jun 27, 2025, 17:00 until Aug 17, 2025, 23:59)\nhttps://dwango-ticket.jp/project/wbmQOiuTHq\n\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/
 END:VEVENT
 BEGIN:VEVENT
@@ -303,6 +303,26 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://t.pia.jp/en/pia/event/event.do?eventCd=2522398\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
 URL:https://t.pia.jp/en/pia/event/event.do?eventCd=2522398
+END:VEVENT
+BEGIN:VEVENT
+UID:0dea9da4-436a-43a2-a95b-ffabfc4526e1
+DTSTAMP:20250629T053629Z
+DTSTART:20250627T080000Z
+DTEND:20250627T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/wbmQOiuTHq\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://dwango-ticket.jp/project/wbmQOiuTHq
+END:VEVENT
+BEGIN:VEVENT
+UID:0dea9da4-436a-43a2-a95b-ffabfc4526e2
+DTSTAMP:20250629T053629Z
+DTSTART:20250817T145900Z
+DTEND:20250817T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/wbmQOiuTHq\n\nEvent:\nhttps://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/\n\n\n==========\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n
+URL:https://dwango-ticket.jp/project/wbmQOiuTHq
 END:VEVENT
 BEGIN:VEVENT
 UID:df065134-a5ef-449f-ae5c-c47aac012019
