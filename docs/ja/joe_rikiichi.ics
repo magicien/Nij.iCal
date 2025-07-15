@@ -451,8 +451,58 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演
 LOCATION:広島文化学園HBGホール
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="広島文化学園HBGホール":geo:34.388465,132.448613
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n直前放送\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\n最速感想放送\n\nハッシュタグ：#SitR広島\nhttps://x.com/hashtag/SitR広島\n\n\n==========\nチケット情報：\n\nオンライン視聴チケット販売 (2025/9/25 17:00〜2025/11/2 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n直前放送\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\n最速感想放送\n\nハッシュタグ：#SitR広島\nhttps://x.com/hashtag/SitR広島\n\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/7/16 12:00〜2025/8/3 23:59)\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nイープラス先行抽選 (2025/8/20 12:00〜2025/8/31 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\n一般販売（先着） (2025/9/20 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\nオンライン視聴チケット販売 (2025/9/25 17:00〜2025/11/2 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:223fa14c-722c-4c22-b9a0-ed4eae13eef1
+DTSTAMP:20250715T163053Z
+DTSTART:20250716T030000Z
+DTEND:20250716T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演: 総合・個人ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/sf/web/live/irg/nwt25/order
+END:VEVENT
+BEGIN:VEVENT
+UID:223fa14c-722c-4c22-b9a0-ed4eae13eef2
+DTSTAMP:20250715T163053Z
+DTSTART:20250803T145900Z
+DTEND:20250803T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演: 総合・個人ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/sf/web/live/irg/nwt25/order
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb20041-ceb1-434c-864d-b89cb49b99e1
+DTSTAMP:20250715T163109Z
+DTSTART:20250820T030000Z
+DTEND:20250820T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb20041-ceb1-434c-864d-b89cb49b99e2
+DTSTAMP:20250715T163109Z
+DTSTART:20250831T145900Z
+DTEND:20250831T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:995dd927-4bf4-45b3-88f5-3e7213041ff1
+DTSTAMP:20250715T163120Z
+DTSTART:20250920T030000Z
+DTEND:20250920T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 広島公演: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【周央サンゴ】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:7147cd3a-2c0b-44c4-9e94-c8a948d2afd1
