@@ -254,8 +254,58 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima
 LOCATION:Hiroshima Bunka Gakuen HGB Hall
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Hiroshima Bunka Gakuen HGB Hall":geo:34.388465,132.448613
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\nVenue Report\n\nFree Part\n\nniconico Live\n\n【Liver Camera】niconico Live\n\nPost-Live Discussion\n\nHashtag：#SitR広島\nhttps://x.com/hashtag/SitR広島\n\n\n==========\nTicket Info:\n\nOnline viewing ticket sales (from Sep 25, 2025, 17:00 until Nov 2, 2025, 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_614\n\nVenue Report\n\nFree Part\n\nniconico Live\n\n【Liver Camera】niconico Live\n\nPost-Live Discussion\n\nHashtag：#SitR広島\nhttps://x.com/hashtag/SitR広島\n\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Jul 16, 2025, 12:00 until Aug 3, 2025, 23:59)\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\ne+ pre-sale lottery (from Aug 20, 2025, 12:00 until Aug 31, 2025, 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\nGeneral sale (first come, first served) (from Sep 20, 2025, 12:00)\nhttps://eplus.jp/nijisanji-world-tour/\n\nOnline viewing ticket sales (from Sep 25, 2025, 17:00 until Nov 2, 2025, 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:223fa14c-722c-4c22-b9a0-ed4eae13eef1
+DTSTAMP:20250715T163053Z
+DTSTART:20250716T030000Z
+DTEND:20250716T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima: General and individual fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/sf/web/live/irg/nwt25/order
+END:VEVENT
+BEGIN:VEVENT
+UID:223fa14c-722c-4c22-b9a0-ed4eae13eef2
+DTSTAMP:20250715T163053Z
+DTSTART:20250803T145900Z
+DTEND:20250803T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima: General and individual fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/sf/web/live/irg/nwt25/order
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb20041-ceb1-434c-864d-b89cb49b99e1
+DTSTAMP:20250715T163109Z
+DTSTART:20250820T030000Z
+DTEND:20250820T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima: e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-world-tour/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb20041-ceb1-434c-864d-b89cb49b99e2
+DTSTAMP:20250715T163109Z
+DTSTART:20250831T145900Z
+DTEND:20250831T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima: e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-world-tour/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:995dd927-4bf4-45b3-88f5-3e7213041ff1
+DTSTAMP:20250715T163120Z
+DTSTART:20250920T030000Z
+DTEND:20250920T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-world-tour/\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://twitter.com/Suo_Sango\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:7147cd3a-2c0b-44c4-9e94-c8a948d2afd1
