@@ -233,7 +233,7 @@ URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:50b97efe-da5c-4d24-8892-b0aace012021
-DTSTAMP:20250316T071440Z
+DTSTAMP:20250805T114002Z
 DTSTART;VALUE=DATE:20211102
 DTEND;VALUE=DATE:20211103
 RRULE:FREQ=YEARLY
@@ -244,7 +244,7 @@ URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
 END:VEVENT
 BEGIN:VEVENT
 UID:50b97efe-da5c-4d24-8892-b0aace022021
-DTSTAMP:20250316T071440Z
+DTSTAMP:20250805T114002Z
 DTSTART:20211006T020000Z
 DTEND:20211006T023000Z
 TRANSP:TRANSPARENT
@@ -254,7 +254,7 @@ URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
 END:VEVENT
 BEGIN:VEVENT
 UID:50b97efe-da5c-4d24-8892-b0aace032021
-DTSTAMP:20250316T071440Z
+DTSTAMP:20250805T114002Z
 DTSTART:20211009T033700Z
 DTEND:20211009T040700Z
 TRANSP:TRANSPARENT
@@ -264,7 +264,7 @@ URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
 END:VEVENT
 BEGIN:VEVENT
 UID:50b97efe-da5c-4d24-8892-b0aace022022
-DTSTAMP:20250316T071440Z
+DTSTAMP:20250805T114002Z
 DTSTART:20221006T020000Z
 DTEND:20221006T020001Z
 TRANSP:TRANSPARENT
@@ -274,7 +274,7 @@ URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
 END:VEVENT
 BEGIN:VEVENT
 UID:50b97efe-da5c-4d24-8892-b0aace022023
-DTSTAMP:20250316T071440Z
+DTSTAMP:20250805T114002Z
 DTSTART:20231006T020000Z
 DTEND:20231006T020001Z
 TRANSP:TRANSPARENT
@@ -284,7 +284,7 @@ URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
 END:VEVENT
 BEGIN:VEVENT
 UID:50b97efe-da5c-4d24-8892-b0aace022024
-DTSTAMP:20250316T071440Z
+DTSTAMP:20250805T114002Z
 DTSTART:20241006T020000Z
 DTEND:20241006T020001Z
 TRANSP:TRANSPARENT
@@ -293,113 +293,13 @@ DESCRIPTION:Reimu Endou 3rd Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)
 URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
 END:VEVENT
 BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022025
-DTSTAMP:20250316T071440Z
-DTSTART:20251006T020000Z
-DTEND:20251006T020001Z
+UID:50b97efe-da5c-4d24-8892-b0aace992025
+DTSTAMP:20250805T114002Z
+DTSTART;VALUE=DATE:20250817
+DTEND;VALUE=DATE:20250818
 TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 4th Anniversary
-DESCRIPTION:Reimu Endou 4th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022026
-DTSTAMP:20250316T071440Z
-DTSTART:20261006T020000Z
-DTEND:20261006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 5th Anniversary
-DESCRIPTION:Reimu Endou 5th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022027
-DTSTAMP:20250316T071440Z
-DTSTART:20271006T020000Z
-DTEND:20271006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 6th Anniversary
-DESCRIPTION:Reimu Endou 6th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022028
-DTSTAMP:20250316T071440Z
-DTSTART:20281006T020000Z
-DTEND:20281006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 7th Anniversary
-DESCRIPTION:Reimu Endou 7th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022029
-DTSTAMP:20250316T071440Z
-DTSTART:20291006T020000Z
-DTEND:20291006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 8th Anniversary
-DESCRIPTION:Reimu Endou 8th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022030
-DTSTAMP:20250316T071440Z
-DTSTART:20301006T020000Z
-DTEND:20301006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 9th Anniversary
-DESCRIPTION:Reimu Endou 9th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022031
-DTSTAMP:20250316T071440Z
-DTSTART:20311006T020000Z
-DTEND:20311006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 10th Anniversary
-DESCRIPTION:Reimu Endou 10th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022032
-DTSTAMP:20250316T071440Z
-DTSTART:20321006T020000Z
-DTEND:20321006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 11th Anniversary
-DESCRIPTION:Reimu Endou 11th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022033
-DTSTAMP:20250316T071440Z
-DTSTART:20331006T020000Z
-DTEND:20331006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 12th Anniversary
-DESCRIPTION:Reimu Endou 12th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022034
-DTSTAMP:20250316T071440Z
-DTSTART:20341006T020000Z
-DTEND:20341006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 13th Anniversary
-DESCRIPTION:Reimu Endou 13th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
-URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
-END:VEVENT
-BEGIN:VEVENT
-UID:50b97efe-da5c-4d24-8892-b0aace022035
-DTSTAMP:20250316T071440Z
-DTSTART:20351006T020000Z
-DTEND:20351006T020001Z
-TRANSP:TRANSPARENT
-SUMMARY:Reimu Endou 14th Anniversary
-DESCRIPTION:Reimu Endou 14th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:00 (JST)\nFirst stream: Oct 9, 2021, 12:37 (JST)\n\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
+SUMMARY:Reimu Endou Graduation
+DESCRIPTION:Reimu Endou Graduation\n\n==========\n【Reimu Endou】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n
 URL:https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA
 END:VEVENT
 END:VCALENDAR
