@@ -3850,8 +3850,20 @@ DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/sphone/contents/fai
 URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246
 END:VEVENT
 BEGIN:VEVENT
+UID:6589ac94-d369-47c0-8bde-fa56c4d6ed94
+DTSTAMP:20250809T163319Z
+DTSTART:20260117T090000Z
+DTEND:20260117T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:加賀美ハヤト 1st One Man Live "ALPHA ONE"
+LOCATION:TOYOTA ARENA TOKYO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\nオンラインチケット購入ページ\n\nグッズページ\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\nハッシュタグ：#加賀美ハヤト_1stライブ\nhttps://x.com/hashtag/加賀美ハヤト_1stライブ\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://www.nijisanji.jp/events/kagami_alphaone/
+END:VEVENT
+BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250531T171328Z
+DTSTAMP:20250809T130101Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
