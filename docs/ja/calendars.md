@@ -250,4 +250,8 @@
 <tr class='liver-item' tags='セイブル,seible,せいぶる'><td>セイブル</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/seible.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/seible.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='一橋綾人,hitotsubashi ayato,ひとつばしあやと'><td>一橋綾人</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/hitotsubashi_ayato.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/hitotsubashi_ayato.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='五木左京,itsuki sakyo,いつきさきょう'><td>五木左京</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/itsuki_sakyo.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/itsuki_sakyo.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='蝸堂みかる,kadou mikaru,かどうみかる'><td>蝸堂みかる</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/kadou_mikaru.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/kadou_mikaru.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='猫屋敷美紅,nekoyashiki miku,ねこやしきみく'><td>猫屋敷美紅</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/nekoyashiki_miku.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/nekoyashiki_miku.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='夜牛詩乃,yagyu shino,やぎゅうしの'><td>夜牛詩乃</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/yagyu_shino.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/yagyu_shino.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='十河ののは,togawa nonoha,とがわののは'><td>十河ののは</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/togawa_nonoha.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/togawa_nonoha.ics'>英語</a></td></tr>
 </tbody></table></div>
