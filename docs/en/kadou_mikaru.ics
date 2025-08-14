@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Kadou Mikaru
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018012026
+DTSTAMP:20250814T105044Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru Birthday
+DESCRIPTION:Kadou Mikaru Birthday\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022025
+DTSTAMP:20250814T105044Z
+DTSTART:20250814T090500Z
+DTEND:20250814T093500Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru Debut
+DESCRIPTION:Kadou Mikaru Debut\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018032025
+DTSTAMP:20250814T105044Z
+DTSTART:20250815T090000Z
+DTEND:20250815T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru Debut stream
+DESCRIPTION:Kadou Mikaru Debut stream\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022026
+DTSTAMP:20250814T105044Z
+DTSTART:20260814T090500Z
+DTEND:20260814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 1st Anniversary
+DESCRIPTION:Kadou Mikaru 1st Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022027
+DTSTAMP:20250814T105044Z
+DTSTART:20270814T090500Z
+DTEND:20270814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 2nd Anniversary
+DESCRIPTION:Kadou Mikaru 2nd Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022028
+DTSTAMP:20250814T105044Z
+DTSTART:20280814T090500Z
+DTEND:20280814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 3rd Anniversary
+DESCRIPTION:Kadou Mikaru 3rd Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022029
+DTSTAMP:20250814T105044Z
+DTSTART:20290814T090500Z
+DTEND:20290814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 4th Anniversary
+DESCRIPTION:Kadou Mikaru 4th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022030
+DTSTAMP:20250814T105044Z
+DTSTART:20300814T090500Z
+DTEND:20300814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 5th Anniversary
+DESCRIPTION:Kadou Mikaru 5th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022031
+DTSTAMP:20250814T105044Z
+DTSTART:20310814T090500Z
+DTEND:20310814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 6th Anniversary
+DESCRIPTION:Kadou Mikaru 6th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022032
+DTSTAMP:20250814T105044Z
+DTSTART:20320814T090500Z
+DTEND:20320814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 7th Anniversary
+DESCRIPTION:Kadou Mikaru 7th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022033
+DTSTAMP:20250814T105044Z
+DTSTART:20330814T090500Z
+DTEND:20330814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 8th Anniversary
+DESCRIPTION:Kadou Mikaru 8th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022034
+DTSTAMP:20250814T105044Z
+DTSTART:20340814T090500Z
+DTEND:20340814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 9th Anniversary
+DESCRIPTION:Kadou Mikaru 9th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+BEGIN:VEVENT
+UID:c21fe986-097e-41fa-8ac4-e82018022035
+DTSTAMP:20250814T105044Z
+DTSTART:20350814T090500Z
+DTEND:20350814T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Kadou Mikaru 10th Anniversary
+DESCRIPTION:Kadou Mikaru 10th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:05 (JST)\nFirst stream: Aug 15, 2025, 18:00 (JST)\n\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n
+URL:https://www.youtube.com/@KadouMikaru
+END:VEVENT
+END:VCALENDAR

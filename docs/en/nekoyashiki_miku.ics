@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Nekoyashiki Miku
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842012026
+DTSTAMP:20250814T104728Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku Birthday
+DESCRIPTION:Nekoyashiki Miku Birthday\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022025
+DTSTAMP:20250814T104728Z
+DTSTART:20250814T090700Z
+DTEND:20250814T093700Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku Debut
+DESCRIPTION:Nekoyashiki Miku Debut\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842032025
+DTSTAMP:20250814T104728Z
+DTSTART:20250815T103000Z
+DTEND:20250815T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku Debut stream
+DESCRIPTION:Nekoyashiki Miku Debut stream\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022026
+DTSTAMP:20250814T104728Z
+DTSTART:20260814T090700Z
+DTEND:20260814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 1st Anniversary
+DESCRIPTION:Nekoyashiki Miku 1st Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022027
+DTSTAMP:20250814T104728Z
+DTSTART:20270814T090700Z
+DTEND:20270814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 2nd Anniversary
+DESCRIPTION:Nekoyashiki Miku 2nd Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022028
+DTSTAMP:20250814T104728Z
+DTSTART:20280814T090700Z
+DTEND:20280814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 3rd Anniversary
+DESCRIPTION:Nekoyashiki Miku 3rd Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022029
+DTSTAMP:20250814T104728Z
+DTSTART:20290814T090700Z
+DTEND:20290814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 4th Anniversary
+DESCRIPTION:Nekoyashiki Miku 4th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022030
+DTSTAMP:20250814T104728Z
+DTSTART:20300814T090700Z
+DTEND:20300814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 5th Anniversary
+DESCRIPTION:Nekoyashiki Miku 5th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022031
+DTSTAMP:20250814T104728Z
+DTSTART:20310814T090700Z
+DTEND:20310814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 6th Anniversary
+DESCRIPTION:Nekoyashiki Miku 6th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022032
+DTSTAMP:20250814T104728Z
+DTSTART:20320814T090700Z
+DTEND:20320814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 7th Anniversary
+DESCRIPTION:Nekoyashiki Miku 7th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022033
+DTSTAMP:20250814T104728Z
+DTSTART:20330814T090700Z
+DTEND:20330814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 8th Anniversary
+DESCRIPTION:Nekoyashiki Miku 8th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022034
+DTSTAMP:20250814T104728Z
+DTSTART:20340814T090700Z
+DTEND:20340814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 9th Anniversary
+DESCRIPTION:Nekoyashiki Miku 9th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce85979-69ae-400f-b074-dba842022035
+DTSTAMP:20250814T104728Z
+DTSTART:20350814T090700Z
+DTEND:20350814T090701Z
+TRANSP:TRANSPARENT
+SUMMARY:Nekoyashiki Miku 10th Anniversary
+DESCRIPTION:Nekoyashiki Miku 10th Anniversary\n\nFirst tweet: Aug 14, 2025, 18:07 (JST)\nFirst stream: Aug 15, 2025, 19:30 (JST)\n\n\n==========\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://www.youtube.com/@NekoyashikiMiku
+END:VEVENT
+END:VCALENDAR
