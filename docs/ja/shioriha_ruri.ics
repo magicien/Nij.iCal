@@ -340,18 +340,6 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【�
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20250817T141008Z
-DTSTART:20260515T010000Z
-DTEND:20260515T090000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 1日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
 DTSTAMP:20250817T142102Z
 DTSTART:20260515T090000Z
@@ -364,12 +352,12 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【�
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20250817T141013Z
+UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
+DTSTAMP:20250817T164621Z
 DTSTART:20260516T010000Z
 DTEND:20260516T090000Z
 TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 2日目
+SUMMARY:にじさんじフェス2026 1日目
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
@@ -388,10 +376,22 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【�
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
+DTSTAMP:20250817T164626Z
+DTSTART:20260517T010000Z
+DTEND:20260517T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス2026 2日目
+LOCATION:幕張メッセ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:81d30029-d717-46a2-bdab-210c91df3c3d
-DTSTAMP:20250817T142110Z
-DTSTART:20260516T090000Z
-DTEND:20260516T110000Z
+DTSTAMP:20250817T164554Z
+DTSTART:20260517T090000Z
+DTEND:20260517T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2026 ライブ4
 LOCATION:幕張メッセイベントホール
