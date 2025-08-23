@@ -3859,8 +3859,52 @@ DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nイベ
 URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
+UID:a818b585-d74c-4436-b98e-d2df69daf357
+DTSTAMP:20250823T080123Z
+DTSTART:20251019T021000Z
+DTEND:20251019T030000Z
+TRANSP:TRANSPARENT
+SUMMARY:緋八マナ＆伊波ライ トークライブ1
+LOCATION:広島県民文化センターふくやま
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="広島県民文化センターふくやま":geo:34.486523,133.362059
+DESCRIPTION:特設サイト\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\nチケット購入ページ\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n==========\nチケット情報：\n\nチケット販売 (2025/8/23 10:00〜)\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n\n==========\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://fukuyamanime.jp/event2025/nijisanji/
+END:VEVENT
+BEGIN:VEVENT
+UID:0ddc39f5-cc95-4488-8e23-c453573c53c1
+DTSTAMP:20250823T075938Z
+DTSTART:20250823T010000Z
+DTEND:20250823T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]緋八マナ＆伊波ライ トークライブ1: チケット販売 開始
+DESCRIPTION:チケット:\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\nイベント:\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\n\n==========\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://furec.cineticket.jp/cm/theater/cinemamode/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:a31ebd92-caf2-40fd-ad06-6c6418e690b4
+DTSTAMP:20250823T080206Z
+DTSTART:20251019T040000Z
+DTEND:20251019T045000Z
+TRANSP:TRANSPARENT
+SUMMARY:緋八マナ＆伊波ライ トークライブ2
+LOCATION:広島県民文化センターふくやま
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="広島県民文化センターふくやま":geo:34.486523,133.362059
+DESCRIPTION:特設サイト\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\nチケット購入ページ\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n==========\nチケット情報：\n\nチケット販売 (2025/8/23 10:00〜)\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n\n==========\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://fukuyamanime.jp/event2025/nijisanji/
+END:VEVENT
+BEGIN:VEVENT
+UID:72612d5f-be5a-4a28-b6c9-7e69d340cb71
+DTSTAMP:20250823T075940Z
+DTSTART:20250823T010000Z
+DTEND:20250823T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]緋八マナ＆伊波ライ トークライブ2: チケット販売 開始
+DESCRIPTION:チケット:\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\nイベント:\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\n\n==========\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://furec.cineticket.jp/cm/theater/cinemamode/schedule
+END:VEVENT
+BEGIN:VEVENT
 UID:a0089b31-6727-43e0-bb4d-25fb6d7188b2
-DTSTAMP:20250527T125929Z
+DTSTAMP:20250823T075145Z
 DTSTART:20251116T060000Z
 DTEND:20251116T090000Z
 TRANSP:TRANSPARENT
@@ -3871,7 +3915,7 @@ URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:e36b0ce3-a60c-4152-b1ab-c6a5752c5601
-DTSTAMP:20250527T130344Z
+DTSTAMP:20250823T075931Z
 DTSTART:20250527T080000Z
 DTEND:20250527T083000Z
 TRANSP:TRANSPARENT
@@ -3881,7 +3925,7 @@ URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:e36b0ce3-a60c-4152-b1ab-c6a5752c5602
-DTSTAMP:20250527T130344Z
+DTSTAMP:20250823T075931Z
 DTSTART:20251005T145900Z
 DTEND:20251005T152900Z
 TRANSP:TRANSPARENT

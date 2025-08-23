@@ -297,6 +297,50 @@ DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttp
 URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
+UID:a818b585-d74c-4436-b98e-d2df69daf357
+DTSTAMP:20250823T080123Z
+DTSTART:20251019T021000Z
+DTEND:20251019T030000Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana & Inami Rai Talk Live 1
+LOCATION:Hiroshima Prefectural Cultural Center Fukuyama
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Hiroshima Prefectural Cultural Center Fukuyama":geo:34.486523,133.362059
+DESCRIPTION:Special Site\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\nTickets\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n==========\nTicket Info:\n\nTicket sales (from Aug 23, 2025, 10:00)\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://fukuyamanime.jp/event2025/nijisanji/
+END:VEVENT
+BEGIN:VEVENT
+UID:0ddc39f5-cc95-4488-8e23-c453573c53c1
+DTSTAMP:20250823T075938Z
+DTSTART:20250823T010000Z
+DTEND:20250823T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hibachi Mana & Inami Rai Talk Live 1: Ticket sales starts
+DESCRIPTION:Ticket:\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\nEvent:\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://furec.cineticket.jp/cm/theater/cinemamode/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:a31ebd92-caf2-40fd-ad06-6c6418e690b4
+DTSTAMP:20250823T080206Z
+DTSTART:20251019T040000Z
+DTEND:20251019T045000Z
+TRANSP:TRANSPARENT
+SUMMARY:Hibachi Mana & Inami Rai Talk Live 2
+LOCATION:Hiroshima Prefectural Cultural Center Fukuyama
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Hiroshima Prefectural Cultural Center Fukuyama":geo:34.486523,133.362059
+DESCRIPTION:Special Site\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\nTickets\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n==========\nTicket Info:\n\nTicket sales (from Aug 23, 2025, 10:00)\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://fukuyamanime.jp/event2025/nijisanji/
+END:VEVENT
+BEGIN:VEVENT
+UID:72612d5f-be5a-4a28-b6c9-7e69d340cb71
+DTSTAMP:20250823T075940Z
+DTSTART:20250823T010000Z
+DTEND:20250823T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hibachi Mana & Inami Rai Talk Live 2: Ticket sales starts
+DESCRIPTION:Ticket:\nhttps://furec.cineticket.jp/cm/theater/cinemamode/schedule\n\nEvent:\nhttps://fukuyamanime.jp/event2025/nijisanji/\n\n\n==========\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://twitter.com/Hibachi_Mana\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://twitter.com/rai_173\n\n
+URL:https://furec.cineticket.jp/cm/theater/cinemamode/schedule
+END:VEVENT
+BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
 DTSTAMP:20250817T142101Z
 DTSTART:20260514T090000Z
