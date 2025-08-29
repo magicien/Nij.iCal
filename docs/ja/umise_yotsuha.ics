@@ -221,6 +221,86 @@ DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
+UID:9d8733dc-3426-4d7f-b107-0374ae490e4e
+DTSTAMP:20250829T130129Z
+DTSTART:20250922T100000Z
+DTEND:20250922T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1
+LOCATION:各映画館
+DESCRIPTION:ニュースサイト\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nチケット購入ページ\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nチケット情報：\n\nプレイガイド先行（抽選） (2025/8/29 12:00〜2025/9/7 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n映画館販売（先着） (2025/9/20 0:00〜)\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3dad727d-1e82-48dd-8507-f2268c36e6d1
+DTSTAMP:20250829T130440Z
+DTSTART:20250829T030000Z
+DTEND:20250829T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: プレイガイド先行（抽選） 開始
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:3dad727d-1e82-48dd-8507-f2268c36e6d2
+DTSTAMP:20250829T130440Z
+DTSTART:20250907T145900Z
+DTEND:20250907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: プレイガイド先行（抽選） 終了
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:96faa32e-c07b-4f06-ab9c-515406c0ac41
+DTSTAMP:20250829T130727Z
+DTSTART:20250919T150000Z
+DTEND:20250919T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
+DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
+DTSTAMP:20250829T130236Z
+DTSTART:20250923T080000Z
+DTEND:20250923T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2
+LOCATION:各映画館
+DESCRIPTION:ニュースサイト\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nチケット購入ページ\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nチケット情報：\n\nプレイガイド先行（抽選） (2025/8/29 12:00〜2025/9/7 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n映画館販売（先着） (2025/9/20 0:00〜)\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e9332ace-bb51-42ee-9e15-35dba857e771
+DTSTAMP:20250829T130547Z
+DTSTART:20250829T030000Z
+DTEND:20250829T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: プレイガイド先行（抽選） 開始
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:e9332ace-bb51-42ee-9e15-35dba857e772
+DTSTAMP:20250829T130547Z
+DTSTART:20250907T145900Z
+DTEND:20250907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: プレイガイド先行（抽選） 終了
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:24f46bd8-4e18-46b0-9632-5dd13141f911
+DTSTAMP:20250829T130756Z
+DTSTART:20250919T150000Z
+DTEND:20250919T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
+DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+END:VEVENT
+BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
 DTSTAMP:20250817T142101Z
 DTSTART:20260514T090000Z
