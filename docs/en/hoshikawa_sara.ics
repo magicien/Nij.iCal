@@ -662,7 +662,7 @@ URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:4161b81e-3d6d-40ef-9b33-fc2c744426b1
-DTSTAMP:20250821T085309Z
+DTSTAMP:20250829T130435Z
 DTSTART:20250821T080000Z
 DTEND:20250821T083000Z
 TRANSP:TRANSPARENT
@@ -672,7 +672,7 @@ URL:https://trade.tixplus.jp/artists/tour/11994
 END:VEVENT
 BEGIN:VEVENT
 UID:4161b81e-3d6d-40ef-9b33-fc2c744426b2
-DTSTAMP:20250821T085309Z
+DTSTAMP:20250829T130435Z
 DTSTART:20250911T025900Z
 DTEND:20250911T032900Z
 TRANSP:TRANSPARENT
@@ -682,7 +682,7 @@ URL:https://trade.tixplus.jp/artists/tour/11994
 END:VEVENT
 BEGIN:VEVENT
 UID:7674e24e-d49f-4ac2-ba53-c142ae1fcdc1
-DTSTAMP:20250629T065545Z
+DTSTAMP:20250829T130439Z
 DTSTART:20250821T080000Z
 DTEND:20250821T083000Z
 TRANSP:TRANSPARENT
@@ -692,13 +692,93 @@ URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
 UID:7674e24e-d49f-4ac2-ba53-c142ae1fcdc2
-DTSTAMP:20250629T065545Z
+DTSTAMP:20250829T130439Z
 DTSTART:20250928T145900Z
 DTEND:20250928T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Fukuoka: Online viewing ticket sales ends
 DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nEvent:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://twitter.com/kakeru_yumeoi\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Oliver Evans】\nYouTube: https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA\nX: https://twitter.com/oliverD_23\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
 URL:https://dwango-ticket.jp/project/GAh5hxbfiB
+END:VEVENT
+BEGIN:VEVENT
+UID:9d8733dc-3426-4d7f-b107-0374ae490e4e
+DTSTAMP:20250829T130129Z
+DTSTART:20250922T100000Z
+DTEND:20250922T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1
+LOCATION:Various movie theaters
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3dad727d-1e82-48dd-8507-f2268c36e6d1
+DTSTAMP:20250829T130440Z
+DTSTART:20250829T030000Z
+DTEND:20250829T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:3dad727d-1e82-48dd-8507-f2268c36e6d2
+DTSTAMP:20250829T130440Z
+DTSTART:20250907T145900Z
+DTEND:20250907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:96faa32e-c07b-4f06-ab9c-515406c0ac41
+DTSTAMP:20250829T130727Z
+DTSTART:20250919T150000Z
+DTEND:20250919T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
+DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
+DTSTAMP:20250829T130236Z
+DTSTART:20250923T080000Z
+DTEND:20250923T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
+LOCATION:Various movie theaters
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e9332ace-bb51-42ee-9e15-35dba857e771
+DTSTAMP:20250829T130547Z
+DTSTART:20250829T030000Z
+DTEND:20250829T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:e9332ace-bb51-42ee-9e15-35dba857e772
+DTSTAMP:20250829T130547Z
+DTSTART:20250907T145900Z
+DTEND:20250907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://l-tike.com/cinema/mevent/?mid=762309
+END:VEVENT
+BEGIN:VEVENT
+UID:24f46bd8-4e18-46b0-9632-5dd13141f911
+DTSTAMP:20250829T130756Z
+DTSTART:20250919T150000Z
+DTEND:20250919T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
+DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
