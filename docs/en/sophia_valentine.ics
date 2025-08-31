@@ -311,8 +311,101 @@ SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:aa6ea3ba-d953-4156-8b44-87a4dc5c9e6c
+DTSTAMP:20250831T113925Z
+DTSTART:20251107T100000Z
+DTEND:20251107T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Idios 1st LIVE "Seize the day" Day 1
+LOCATION:Toyosu PIT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Toyosu PIT":geo:35.649603,139.788379
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Sep 3, 2025, 12:00 until Sep 24, 2025, 23:59)\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nTicket Pia pre-reserve first round priority lottery (from Sep 27, 2025, 12:00 until Oct 1, 2025, 23:59)\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nTicket Pia pre-reserve second round priority lottery (from Oct 4, 2025, 12:00 until Oct 8, 2025, 23:59)\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nGeneral sale (first come, first served) (from Oct 19, 2025, 10:00)\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:af70b8b4-b60f-4818-8702-3b5c90e69641
+DTSTAMP:20250831T113935Z
+DTSTART:20250903T030000Z
+DTEND:20250903T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Idios 1st LIVE "Seize the day" Day 1: Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nEvent:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:af70b8b4-b60f-4818-8702-3b5c90e69642
+DTSTAMP:20250831T113935Z
+DTSTART:20250924T145900Z
+DTEND:20250924T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Idios 1st LIVE "Seize the day" Day 1: Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nEvent:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:897b2b55-645f-4e22-8e35-6c2007516ec1
+DTSTAMP:20250831T113936Z
+DTSTART:20250927T030000Z
+DTEND:20250927T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Idios 1st LIVE "Seize the day" Day 1: Ticket Pia pre-reserve first round priority lottery starts
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nEvent:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:897b2b55-645f-4e22-8e35-6c2007516ec2
+DTSTAMP:20250831T113936Z
+DTSTART:20251001T145900Z
+DTEND:20251001T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Idios 1st LIVE "Seize the day" Day 1: Ticket Pia pre-reserve first round priority lottery ends
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nEvent:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5181f0a-052e-4fa1-9ae0-915964c11d61
+DTSTAMP:20250831T113936Z
+DTSTART:20251004T030000Z
+DTEND:20251004T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Idios 1st LIVE "Seize the day" Day 1: Ticket Pia pre-reserve second round priority lottery starts
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nEvent:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5181f0a-052e-4fa1-9ae0-915964c11d62
+DTSTAMP:20250831T113936Z
+DTSTART:20251008T145900Z
+DTEND:20251008T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Idios 1st LIVE "Seize the day" Day 1: Ticket Pia pre-reserve second round priority lottery ends
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nEvent:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:c373eadb-881c-4188-a204-4c900421ba61
+DTSTAMP:20250831T113938Z
+DTSTART:20251019T010000Z
+DTEND:20251019T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Idios 1st LIVE "Seize the day" Day 1: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\nEvent:\nhttps://www.nijisanji.jp/events/Idios_1stlive/\n\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+URL:https://www.nijisanji.jp/events/Idios_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d8bfea5-c165-4386-870e-625bc73651b0
+DTSTAMP:20250831T110028Z
+DTSTART:20251108T090000Z
+DTEND:20251108T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Idios 1st LIVE "Seize the day" Day 2
+LOCATION:Toyosu PIT
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Toyosu PIT":geo:35.649603,139.788379
+DESCRIPTION:\n\n==========\n【Koshimizu Toru】\nYouTube: https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ\nX: https://twitter.com/toru_2434\n\n【Shishido Akari】\nYouTube: https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ\nX: https://twitter.com/44do_akari\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://twitter.com/65_kaburaki\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://twitter.com/1garashi_Rika\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Sophia Valentine】\nYouTube: https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA\nX: https://twitter.com/SophiaV214\n\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://twitter.com/k_meruto\n\n
+END:VEVENT
+BEGIN:VEVENT
 UID:a0089b31-6727-43e0-bb4d-25fb6d7188b2
-DTSTAMP:20250823T075145Z
+DTSTAMP:20250831T105950Z
 DTSTART:20251116T060000Z
 DTEND:20251116T090000Z
 TRANSP:TRANSPARENT
@@ -323,7 +416,7 @@ URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:e36b0ce3-a60c-4152-b1ab-c6a5752c5601
-DTSTAMP:20250823T075931Z
+DTSTAMP:20250831T112042Z
 DTSTART:20250527T080000Z
 DTEND:20250527T083000Z
 TRANSP:TRANSPARENT
@@ -333,7 +426,7 @@ URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:e36b0ce3-a60c-4152-b1ab-c6a5752c5602
-DTSTAMP:20250823T075931Z
+DTSTAMP:20250831T112042Z
 DTSTART:20251005T145900Z
 DTEND:20251005T152900Z
 TRANSP:TRANSPARENT
