@@ -324,80 +324,8 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
-DTSTAMP:20250817T142101Z
-DTSTART:20260514T090000Z
-DTEND:20260514T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ1
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
-DTSTAMP:20250817T142102Z
-DTSTART:20260515T090000Z
-DTEND:20260515T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ2
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20250817T164621Z
-DTSTART:20260516T010000Z
-DTEND:20260516T090000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 1日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
-DTSTAMP:20250817T142111Z
-DTSTART:20260516T090000Z
-DTEND:20260516T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ3
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20250817T164626Z
-DTSTART:20260517T010000Z
-DTEND:20260517T090000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 2日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:81d30029-d717-46a2-bdab-210c91df3c3d
-DTSTAMP:20250817T164554Z
-DTSTART:20260517T090000Z
-DTEND:20260517T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ4
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3012020
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART;VALUE=DATE:20200422
 DTEND;VALUE=DATE:20200423
 RRULE:FREQ=YEARLY
@@ -408,7 +336,7 @@ URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3022019
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART:20191128T070000Z
 DTEND:20191128T073000Z
 TRANSP:TRANSPARENT
@@ -418,7 +346,7 @@ URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3032019
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART:20191130T105900Z
 DTEND:20191130T112900Z
 TRANSP:TRANSPARENT
@@ -428,7 +356,7 @@ URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3022020
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART:20201128T070000Z
 DTEND:20201128T070001Z
 TRANSP:TRANSPARENT
@@ -438,7 +366,7 @@ URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3022021
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART:20211128T070000Z
 DTEND:20211128T070001Z
 TRANSP:TRANSPARENT
@@ -448,7 +376,7 @@ URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3022022
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART:20221128T070000Z
 DTEND:20221128T070001Z
 TRANSP:TRANSPARENT
@@ -458,7 +386,7 @@ URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3022023
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART:20231128T070000Z
 DTEND:20231128T070001Z
 TRANSP:TRANSPARENT
@@ -468,7 +396,7 @@ URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
 UID:9d162f8d-d200-4370-a257-e613e3022024
-DTSTAMP:20250316T031855Z
+DTSTAMP:20250908T140609Z
 DTSTART:20241128T070000Z
 DTEND:20241128T070001Z
 TRANSP:TRANSPARENT
@@ -477,113 +405,13 @@ DESCRIPTION:グウェル・オス・ガール 5周年\n\n初ツイート：2019/
 URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022025
-DTSTAMP:20250316T031855Z
-DTSTART:20251128T070000Z
-DTEND:20251128T070001Z
+UID:9d162f8d-d200-4370-a257-e613e3992025
+DTSTAMP:20250908T140609Z
+DTSTART;VALUE=DATE:20251009
+DTEND;VALUE=DATE:20251010
 TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 6周年
-DESCRIPTION:グウェル・オス・ガール 6周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022026
-DTSTAMP:20250316T031855Z
-DTSTART:20261128T070000Z
-DTEND:20261128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 7周年
-DESCRIPTION:グウェル・オス・ガール 7周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022027
-DTSTAMP:20250316T031855Z
-DTSTART:20271128T070000Z
-DTEND:20271128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 8周年
-DESCRIPTION:グウェル・オス・ガール 8周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022028
-DTSTAMP:20250316T031855Z
-DTSTART:20281128T070000Z
-DTEND:20281128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 9周年
-DESCRIPTION:グウェル・オス・ガール 9周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022029
-DTSTAMP:20250316T031855Z
-DTSTART:20291128T070000Z
-DTEND:20291128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 10周年
-DESCRIPTION:グウェル・オス・ガール 10周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022030
-DTSTAMP:20250316T031855Z
-DTSTART:20301128T070000Z
-DTEND:20301128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 11周年
-DESCRIPTION:グウェル・オス・ガール 11周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022031
-DTSTAMP:20250316T031855Z
-DTSTART:20311128T070000Z
-DTEND:20311128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 12周年
-DESCRIPTION:グウェル・オス・ガール 12周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022032
-DTSTAMP:20250316T031855Z
-DTSTART:20321128T070000Z
-DTEND:20321128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 13周年
-DESCRIPTION:グウェル・オス・ガール 13周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022033
-DTSTAMP:20250316T031855Z
-DTSTART:20331128T070000Z
-DTEND:20331128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 14周年
-DESCRIPTION:グウェル・オス・ガール 14周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022034
-DTSTAMP:20250316T031855Z
-DTSTART:20341128T070000Z
-DTEND:20341128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 15周年
-DESCRIPTION:グウェル・オス・ガール 15周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
-URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
-END:VEVENT
-BEGIN:VEVENT
-UID:9d162f8d-d200-4370-a257-e613e3022035
-DTSTAMP:20250316T031855Z
-DTSTART:20351128T070000Z
-DTEND:20351128T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:グウェル・オス・ガール 16周年
-DESCRIPTION:グウェル・オス・ガール 16周年\n\n初ツイート：2019/11/28 16:00 （日本時間）\n初配信：2019/11/30 19:59 （日本時間）\n\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
+SUMMARY:グウェル・オス・ガール 卒業
+DESCRIPTION:グウェル・オス・ガール 卒業\n\n==========\n【グウェル・オス・ガール】\nYouTube: https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw\nX: https://twitter.com/Gwelu_os_gar\n\n
 URL:https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw
 END:VEVENT
 END:VCALENDAR
