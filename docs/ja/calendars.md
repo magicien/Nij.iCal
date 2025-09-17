@@ -254,4 +254,8 @@
 <tr class='liver-item' tags='猫屋敷美紅,nekoyashiki miku,ねこやしきみく'><td>猫屋敷美紅</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/nekoyashiki_miku.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/nekoyashiki_miku.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='夜牛詩乃,yagyu shino,やぎゅうしの'><td>夜牛詩乃</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/yagyu_shino.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/yagyu_shino.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='十河ののは,togawa nonoha,とがわののは'><td>十河ののは</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/togawa_nonoha.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/togawa_nonoha.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='皇れお,sumeragi reo,すめらぎれお'><td>皇れお</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/sumeragi_reo.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/sumeragi_reo.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='篠宮ゆの,shinomiya yuno,しのみやゆの'><td>篠宮ゆの</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/shinomiya_yuno.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/shinomiya_yuno.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='城瀬いすみ,shirose isumi,しろせいすみ'><td>城瀬いすみ</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/shirose_isumi.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/shirose_isumi.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='花籠つばさ,hanakago tsubasa,はなかごつばさ'><td>花籠つばさ</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/hanakago_tsubasa.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/hanakago_tsubasa.ics'>英語</a></td></tr>
 </tbody></table></div>

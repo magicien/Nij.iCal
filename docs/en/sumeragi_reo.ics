@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Sumeragi Reo
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:9d8733dc-3426-4d7f-b107-0374ae490e4e
+DTSTAMP:20250829T130129Z
+DTSTART:20250922T100000Z
+DTEND:20250922T140000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1
+LOCATION:Various movie theaters
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:96faa32e-c07b-4f06-ab9c-515406c0ac41
+DTSTAMP:20250829T130727Z
+DTSTART:20250919T150000Z
+DTEND:20250919T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
+DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
+DTSTAMP:20250829T130236Z
+DTSTART:20250923T080000Z
+DTEND:20250923T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
+LOCATION:Various movie theaters
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:24f46bd8-4e18-46b0-9632-5dd13141f911
+DTSTAMP:20250829T130756Z
+DTSTART:20250919T150000Z
+DTEND:20250919T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
+DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
+DTSTAMP:20250817T142101Z
+DTSTART:20260514T090000Z
+DTEND:20260514T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Live 1
+LOCATION:Makuhari Messe Event Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
+DTSTAMP:20250817T142102Z
+DTSTART:20260515T090000Z
+DTEND:20260515T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Live 2
+LOCATION:Makuhari Messe Event Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
+DTSTAMP:20250817T164621Z
+DTSTART:20260516T010000Z
+DTEND:20260516T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Day 1
+LOCATION:Makuhari Messe
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
+DTSTAMP:20250817T142111Z
+DTSTART:20260516T090000Z
+DTEND:20260516T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Live 3
+LOCATION:Makuhari Messe Event Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
+DTSTAMP:20250817T164626Z
+DTSTART:20260517T010000Z
+DTEND:20260517T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Day 2
+LOCATION:Makuhari Messe
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:81d30029-d717-46a2-bdab-210c91df3c3d
+DTSTAMP:20250817T164554Z
+DTSTART:20260517T090000Z
+DTEND:20260517T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Live 4
+LOCATION:Makuhari Messe Event Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4012026
+DTSTAMP:20250917T123438Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo Birthday
+DESCRIPTION:Sumeragi Reo Birthday\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022025
+DTSTAMP:20250917T123438Z
+DTSTART:20250917T080500Z
+DTEND:20250917T083500Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo Debut
+DESCRIPTION:Sumeragi Reo Debut\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4032025
+DTSTAMP:20250917T123438Z
+DTSTART:20250919T090000Z
+DTEND:20250919T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo Debut stream
+DESCRIPTION:Sumeragi Reo Debut stream\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022026
+DTSTAMP:20250917T123438Z
+DTSTART:20260917T080500Z
+DTEND:20260917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 1st Anniversary
+DESCRIPTION:Sumeragi Reo 1st Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022027
+DTSTAMP:20250917T123438Z
+DTSTART:20270917T080500Z
+DTEND:20270917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 2nd Anniversary
+DESCRIPTION:Sumeragi Reo 2nd Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022028
+DTSTAMP:20250917T123438Z
+DTSTART:20280917T080500Z
+DTEND:20280917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 3rd Anniversary
+DESCRIPTION:Sumeragi Reo 3rd Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022029
+DTSTAMP:20250917T123438Z
+DTSTART:20290917T080500Z
+DTEND:20290917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 4th Anniversary
+DESCRIPTION:Sumeragi Reo 4th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022030
+DTSTAMP:20250917T123438Z
+DTSTART:20300917T080500Z
+DTEND:20300917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 5th Anniversary
+DESCRIPTION:Sumeragi Reo 5th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022031
+DTSTAMP:20250917T123438Z
+DTSTART:20310917T080500Z
+DTEND:20310917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 6th Anniversary
+DESCRIPTION:Sumeragi Reo 6th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022032
+DTSTAMP:20250917T123438Z
+DTSTART:20320917T080500Z
+DTEND:20320917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 7th Anniversary
+DESCRIPTION:Sumeragi Reo 7th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022033
+DTSTAMP:20250917T123438Z
+DTSTART:20330917T080500Z
+DTEND:20330917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 8th Anniversary
+DESCRIPTION:Sumeragi Reo 8th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022034
+DTSTAMP:20250917T123438Z
+DTSTART:20340917T080500Z
+DTEND:20340917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 9th Anniversary
+DESCRIPTION:Sumeragi Reo 9th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0feb9-4aac-490c-a9c6-bc56c4022035
+DTSTAMP:20250917T123438Z
+DTSTART:20350917T080500Z
+DTEND:20350917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Sumeragi Reo 10th Anniversary
+DESCRIPTION:Sumeragi Reo 10th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 18:00 (JST)\n\n\n==========\n【Sumeragi Reo】\nYouTube: https://www.youtube.com/@SumeragiReo\nX: https://x.com/sumeragi_0o\n\n
+URL:https://www.youtube.com/@SumeragiReo
+END:VEVENT
+END:VCALENDAR
