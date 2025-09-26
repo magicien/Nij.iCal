@@ -347,6 +347,18 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:6fa1aade-285f-4db7-a624-a32e43e1e68f
+DTSTAMP:20250926T112218Z
+DTSTART:20260122T090000Z
+DTEND:20260122T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:LOCK ON FLEEK GAME FESTA
+LOCATION:パシフィコ横浜 国立大ホール
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="パシフィコ横浜 国立大ホール":geo:35.458678,139.637314
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/lockonfleekgamefesta/\n\nオンラインチケット購入ページ\n\nグッズページ\n\n無料パート\n\n本編視聴ページ\n\nハッシュタグ：#ロクフリゲームフェスタ\nhttps://x.com/hashtag/ロクフリゲームフェスタ\n\n\n==========\n【レイン・パターソン】\nYouTube: https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w\nX: https://twitter.com/Lain_Paterson\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n【アルス・アルマル】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【ラトナ・プティ】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+URL:https://www.nijisanji.jp/events/lockonfleekgamefesta/
+END:VEVENT
+BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
 DTSTAMP:20250817T142101Z
 DTSTART:20260514T090000Z
@@ -360,7 +372,7 @@ URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
-DTSTAMP:20250817T142102Z
+DTSTAMP:20250926T111946Z
 DTSTART:20260515T090000Z
 DTEND:20260515T110000Z
 TRANSP:TRANSPARENT

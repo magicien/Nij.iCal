@@ -415,6 +415,18 @@ SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:6fa1aade-285f-4db7-a624-a32e43e1e68f
+DTSTAMP:20250926T112218Z
+DTSTART:20260122T090000Z
+DTEND:20260122T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:LOCK ON FLEEK GAME FESTA
+LOCATION:PACIFICO Yokohama National Convention Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="PACIFICO Yokohama National Convention Hall":geo:35.458678,139.637314
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/lockonfleekgamefesta/\n\nOnline Viewing Tickets\n\nMerch page\n\nFree Part\n\nniconico Live\n\n【Liver Camera】niconico Live\n\nHashtag：#ロクフリゲームフェスタ\nhttps://x.com/hashtag/ロクフリゲームフェスタ\n\n==========\n【Lain Paterson】\nYouTube: https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w\nX: https://twitter.com/Lain_Paterson\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://twitter.com/Lauren_iroas\n\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://twitter.com/ars_almal\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://twitter.com/honmono_ibrahim\n\n【Ratna Petit】\nYouTube: https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw\nX: https://twitter.com/ratna_petit\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://twitter.com/Kagetsu_2434\n\n
+URL:https://www.nijisanji.jp/events/lockonfleekgamefesta/
+END:VEVENT
+BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
 DTSTAMP:20250817T142101Z
 DTSTART:20260514T090000Z
@@ -428,7 +440,7 @@ URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
-DTSTAMP:20250817T142102Z
+DTSTAMP:20250926T111946Z
 DTSTART:20260515T090000Z
 DTEND:20260515T110000Z
 TRANSP:TRANSPARENT
