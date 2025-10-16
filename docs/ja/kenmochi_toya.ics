@@ -898,8 +898,58 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演
 LOCATION:TOYOTA ARENA TOKYO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n直前放送\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\n最速感想放送\n\nハッシュタグ：#SitR東京\nhttps://x.com/hashtag/SitR東京\n\n\n==========\nチケット情報：\n\nオンライン視聴チケット販売 (2025/12/25 17:00〜2026/2/9 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_614\n\n直前放送\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\n最速感想放送\n\nハッシュタグ：#SitR東京\nhttps://x.com/hashtag/SitR東京\n\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/10/17 12:00〜2025/11/3 23:59)\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nイープラス先行抽選 (2025/11/12 12:00〜2025/11/23 23:59)\nhttps://eplus.jp/nijisanji-world-tour/\n\n一般販売（先着） (2025/12/20 12:00〜)\nhttps://eplus.jp/nijisanji-world-tour/\n\nオンライン視聴チケット販売 (2025/12/25 17:00〜2026/2/9 23:59)\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
 URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:abe90c6a-0fd4-4a65-bdc4-13ef7f307bf1
+DTSTAMP:20251016T110910Z
+DTSTART:20251017T030000Z
+DTEND:20251017T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演: 総合・個人ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://eplus.jp/sf/web/live/irg/nwt25/order
+END:VEVENT
+BEGIN:VEVENT
+UID:abe90c6a-0fd4-4a65-bdc4-13ef7f307bf2
+DTSTAMP:20251016T110910Z
+DTSTART:20251103T145900Z
+DTEND:20251103T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演: 総合・個人ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/sf/web/live/irg/nwt25/order\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://eplus.jp/sf/web/live/irg/nwt25/order
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8ceb57-4760-47ff-8457-5cf6cb9ff911
+DTSTAMP:20251016T110917Z
+DTSTART:20251112T030000Z
+DTEND:20251112T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8ceb57-4760-47ff-8457-5cf6cb9ff912
+DTSTAMP:20251016T110917Z
+DTSTART:20251123T145900Z
+DTEND:20251123T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:97c1562a-a647-4ca6-9fac-91d78083a291
+DTSTAMP:20251016T110925Z
+DTSTART:20251220T030000Z
+DTEND:20251220T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ 東京公演: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-world-tour/\n\nイベント:\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://twitter.com/ienaga_mugi23\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://twitter.com/rei_Toya_rei\n\n【伏見ガク】\nYouTube: https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w\nX: https://twitter.com/gaku_fushimi\n\n【夕陽リリ】\nYouTube: https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ\nX: https://twitter.com/yuuhi_riri\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n
+URL:https://eplus.jp/nijisanji-world-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:5500dbd2-c332-4115-823a-7057d7a29f41
