@@ -4128,8 +4128,20 @@ DESCRIPTION:Ticket:\nhttps://www.animate-onlineshop.jp/sphone/contents/fair_even
 URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246
 END:VEVENT
 BEGIN:VEVENT
+UID:d91bb73c-aa08-48d3-8ed6-b5a7d9d21c74
+DTSTAMP:20251017T050755Z
+DTSTART:20251207T093000Z
+DTEND:20251207T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Seoul
+LOCATION:KINTEX 1
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="KINTEX 1":geo:37.668875,126.746113
+DESCRIPTION:"Special Site\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\nOn-site Event Page (Anime x Game Festival Korea 2025)\nhttps://www.agfkorea.com\n\nOnline Viewing (Free)\n\nMerch page\n\nHashtag：#SitRソウル\nhttps://x.com/hashtag/SitRソウル\n\n\n==========\n【Sakura Ritsuki】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n【Min Suha】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n【Uki Violeta】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n【Maria Marionette】\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\nX: https://twitter.com/MariaMari0nette\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
 UID:6589ac94-d369-47c0-8bde-fa56c4d6ed94
-DTSTAMP:20250926T104359Z
+DTSTAMP:20251017T045600Z
 DTSTART:20260117T090000Z
 DTEND:20260117T110000Z
 TRANSP:TRANSPARENT
@@ -4141,7 +4153,7 @@ URL:https://www.nijisanji.jp/events/kagami_alphaone/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250809T130101Z
+DTSTAMP:20251017T050625Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
