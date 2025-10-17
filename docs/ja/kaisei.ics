@@ -232,6 +232,18 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:d91bb73c-aa08-48d3-8ed6-b5a7d9d21c74
+DTSTAMP:20251017T050755Z
+DTSTART:20251207T093000Z
+DTEND:20251207T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ ソウル公演
+LOCATION:KINTEX 第一展示場
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="KINTEX 第一展示場":geo:37.668875,126.746113
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n現地イベントページ（Anime x Game Festival Korea 2025）\nhttps://www.agfkorea.com\n\nオンライン配信（無料）\n\nグッズページ\n\nハッシュタグ：#SitRソウル\nhttps://x.com/hashtag/SitRソウル\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n【セフィナ】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n【マリア マリオネット】\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\nX: https://twitter.com/MariaMari0nette\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
 DTSTAMP:20250817T142101Z
 DTSTART:20260514T090000Z

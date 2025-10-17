@@ -4128,8 +4128,20 @@ DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/sphone/contents/fai
 URL:https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246
 END:VEVENT
 BEGIN:VEVENT
+UID:d91bb73c-aa08-48d3-8ed6-b5a7d9d21c74
+DTSTAMP:20251017T050755Z
+DTSTART:20251207T093000Z
+DTEND:20251207T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ WORLD TOUR 2025\nSingin’ in the Rainbow！ ソウル公演
+LOCATION:KINTEX 第一展示場
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="KINTEX 第一展示場":geo:37.668875,126.746113
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijisanji_worldtour2025/\n\n現地イベントページ（Anime x Game Festival Korea 2025）\nhttps://www.agfkorea.com\n\nオンライン配信（無料）\n\nグッズページ\n\nハッシュタグ：#SitRソウル\nhttps://x.com/hashtag/SitRソウル\n\n\n==========\n【桜凛月】\nYouTube: https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ\nX: https://twitter.com/sakura_ritsuki\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n【ミン スゥーハ】\nYouTube: https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A\nX: https://twitter.com/SuhaMin2434\n\n【セフィナ】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://twitter.com/Seffyna2434\n\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n【マリア マリオネット】\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\nX: https://twitter.com/MariaMari0nette\n\n
+URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
+END:VEVENT
+BEGIN:VEVENT
 UID:6589ac94-d369-47c0-8bde-fa56c4d6ed94
-DTSTAMP:20250926T104359Z
+DTSTAMP:20251017T045600Z
 DTSTART:20260117T090000Z
 DTEND:20260117T110000Z
 TRANSP:TRANSPARENT
@@ -4141,7 +4153,7 @@ URL:https://www.nijisanji.jp/events/kagami_alphaone/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
-DTSTAMP:20250809T130101Z
+DTSTAMP:20251017T050625Z
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
 TRANSP:TRANSPARENT
