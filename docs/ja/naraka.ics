@@ -335,80 +335,8 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
-DTSTAMP:20250817T142101Z
-DTSTART:20260514T090000Z
-DTEND:20260514T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ1
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
-DTSTAMP:20250926T111946Z
-DTSTART:20260515T090000Z
-DTEND:20260515T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ2
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20250817T164621Z
-DTSTART:20260516T010000Z
-DTEND:20260516T090000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 1日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
-DTSTAMP:20250817T142111Z
-DTSTART:20260516T090000Z
-DTEND:20260516T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ3
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20250817T164626Z
-DTSTART:20260517T010000Z
-DTEND:20260517T090000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 2日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:81d30029-d717-46a2-bdab-210c91df3c3d
-DTSTAMP:20250817T164554Z
-DTSTART:20260517T090000Z
-DTEND:20260517T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ4
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154012020
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART;VALUE=DATE:20200710
 DTEND;VALUE=DATE:20200711
 RRULE:FREQ=YEARLY
@@ -419,7 +347,7 @@ URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154022019
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART:20191226T070000Z
 DTEND:20191226T073000Z
 TRANSP:TRANSPARENT
@@ -429,7 +357,7 @@ URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154032019
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART:20191229T121000Z
 DTEND:20191229T124000Z
 TRANSP:TRANSPARENT
@@ -439,7 +367,7 @@ URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154022020
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART:20201226T070000Z
 DTEND:20201226T070001Z
 TRANSP:TRANSPARENT
@@ -449,7 +377,7 @@ URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154022021
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART:20211226T070000Z
 DTEND:20211226T070001Z
 TRANSP:TRANSPARENT
@@ -459,7 +387,7 @@ URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154022022
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART:20221226T070000Z
 DTEND:20221226T070001Z
 TRANSP:TRANSPARENT
@@ -469,7 +397,7 @@ URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154022023
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART:20231226T070000Z
 DTEND:20231226T070001Z
 TRANSP:TRANSPARENT
@@ -479,7 +407,7 @@ URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbc06c3-1b8a-474d-92fe-91a154022024
-DTSTAMP:20250316T031951Z
+DTSTAMP:20251020T060340Z
 DTSTART:20241226T070000Z
 DTEND:20241226T070001Z
 TRANSP:TRANSPARENT
@@ -488,113 +416,13 @@ DESCRIPTION:奈羅花 5周年\n\n初ツイート：2019/12/26 16:00 （日本時
 URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022025
-DTSTAMP:20250316T031951Z
-DTSTART:20251226T070000Z
-DTEND:20251226T070001Z
+UID:cdbc06c3-1b8a-474d-92fe-91a154992025
+DTSTAMP:20251020T060340Z
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
 TRANSP:TRANSPARENT
-SUMMARY:奈羅花 6周年
-DESCRIPTION:奈羅花 6周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022026
-DTSTAMP:20250316T031951Z
-DTSTART:20261226T070000Z
-DTEND:20261226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 7周年
-DESCRIPTION:奈羅花 7周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022027
-DTSTAMP:20250316T031951Z
-DTSTART:20271226T070000Z
-DTEND:20271226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 8周年
-DESCRIPTION:奈羅花 8周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022028
-DTSTAMP:20250316T031951Z
-DTSTART:20281226T070000Z
-DTEND:20281226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 9周年
-DESCRIPTION:奈羅花 9周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022029
-DTSTAMP:20250316T031951Z
-DTSTART:20291226T070000Z
-DTEND:20291226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 10周年
-DESCRIPTION:奈羅花 10周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022030
-DTSTAMP:20250316T031951Z
-DTSTART:20301226T070000Z
-DTEND:20301226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 11周年
-DESCRIPTION:奈羅花 11周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022031
-DTSTAMP:20250316T031951Z
-DTSTART:20311226T070000Z
-DTEND:20311226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 12周年
-DESCRIPTION:奈羅花 12周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022032
-DTSTAMP:20250316T031951Z
-DTSTART:20321226T070000Z
-DTEND:20321226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 13周年
-DESCRIPTION:奈羅花 13周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022033
-DTSTAMP:20250316T031951Z
-DTSTART:20331226T070000Z
-DTEND:20331226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 14周年
-DESCRIPTION:奈羅花 14周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022034
-DTSTAMP:20250316T031951Z
-DTSTART:20341226T070000Z
-DTEND:20341226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 15周年
-DESCRIPTION:奈羅花 15周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
-URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbc06c3-1b8a-474d-92fe-91a154022035
-DTSTAMP:20250316T031951Z
-DTSTART:20351226T070000Z
-DTEND:20351226T070001Z
-TRANSP:TRANSPARENT
-SUMMARY:奈羅花 16周年
-DESCRIPTION:奈羅花 16周年\n\n初ツイート：2019/12/26 16:00 （日本時間）\n初配信：2019/12/29 21:10 （日本時間）\n\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
+SUMMARY:奈羅花 卒業
+DESCRIPTION:奈羅花 卒業\n\n==========\n【奈羅花】\nYouTube: https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg\nX: https://twitter.com/Naraka_2434\n\n
 URL:https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg
 END:VEVENT
 END:VCALENDAR
