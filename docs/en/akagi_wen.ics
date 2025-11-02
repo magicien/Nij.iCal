@@ -244,6 +244,47 @@ SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:49237017-ae7d-4e21-9f93-3b50d61741ac
+DTSTAMP:20251102T014913Z
+DTSTART:20251231T143000Z
+DTEND:20251231T163000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI COUNTDOWN LIVE "CROSSING TONES"
+LOCATION:Various movie theaters (AEON Cinema)
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/crossingtones/\n\nOnline Viewint Tickets\nhttps://dwango-ticket.jp/project/UDL008uMGq\n\nFree Part\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv348883216\n\nHashtag：#年越しARライブ\nhttps://x.com/hashtag/年越しARライブ\n\n\n==========\nTicket Info:\n\nTicket Pia earliest pre-sale lottery (from Oct 28, 2025, 18:00 until Nov 9, 2025, 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\nGeneral sale (first come, first served) (from Nov 22, 2025, 12:00)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\n\n\n==========\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://www.nijisanji.jp/events/crossingtones/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf662b2-f3ff-44f9-a698-95a408213df1
+DTSTAMP:20251102T021701Z
+DTSTART:20251028T090000Z
+DTEND:20251028T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI COUNTDOWN LIVE "CROSSING TONES": Ticket Pia earliest pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\nEvent:\nhttps://www.nijisanji.jp/events/crossingtones/\n\n\n==========\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf662b2-f3ff-44f9-a698-95a408213df2
+DTSTAMP:20251102T021701Z
+DTSTART:20251109T145900Z
+DTEND:20251109T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI COUNTDOWN LIVE "CROSSING TONES": Ticket Pia earliest pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\nEvent:\nhttps://www.nijisanji.jp/events/crossingtones/\n\n\n==========\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246
+END:VEVENT
+BEGIN:VEVENT
+UID:eceaf691-28c1-43e0-97dc-b2a8b40ab021
+DTSTAMP:20251102T015643Z
+DTSTART:20251122T030000Z
+DTEND:20251122T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]NIJISANJI COUNTDOWN LIVE "CROSSING TONES": General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\nEvent:\nhttps://www.nijisanji.jp/events/crossingtones/\n\n\n==========\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246
+END:VEVENT
+BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
 DTSTAMP:20250817T142101Z
 DTSTART:20260514T090000Z
