@@ -232,6 +232,47 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:49237017-ae7d-4e21-9f93-3b50d61741ac
+DTSTAMP:20251102T014913Z
+DTSTART:20251231T143000Z
+DTEND:20251231T163000Z
+TRANSP:TRANSPARENT
+SUMMARY:NIJISANJI COUNTDOWN LIVE "CROSSING TONES"
+LOCATION:各映画館（イオンシネマ）
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/crossingtones/\n\nネット配信チケット購入ページ\nhttps://dwango-ticket.jp/project/UDL008uMGq\n\n無料パート\n\n本編視聴ページ\nhttps://live.nicovideo.jp/watch/lv348883216\n\nHashtag：#年越しARライブ\nhttps://x.com/hashtag/年越しARライブ\n\n\n==========\nチケット情報：\n\nチケットぴあ最速先行抽選 (2025/10/28 18:00〜2025/11/9 23:59)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\n一般販売（先着） (2025/11/22 12:00〜)\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【珠乃井ナナ】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://www.nijisanji.jp/events/crossingtones/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf662b2-f3ff-44f9-a698-95a408213df1
+DTSTAMP:20251102T021701Z
+DTSTART:20251028T090000Z
+DTEND:20251028T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]NIJISANJI COUNTDOWN LIVE "CROSSING TONES": チケットぴあ最速先行抽選 開始
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\nイベント:\nhttps://www.nijisanji.jp/events/crossingtones/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【珠乃井ナナ】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf662b2-f3ff-44f9-a698-95a408213df2
+DTSTAMP:20251102T021701Z
+DTSTART:20251109T145900Z
+DTEND:20251109T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]NIJISANJI COUNTDOWN LIVE "CROSSING TONES": チケットぴあ最速先行抽選 終了
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\nイベント:\nhttps://www.nijisanji.jp/events/crossingtones/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【珠乃井ナナ】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246
+END:VEVENT
+BEGIN:VEVENT
+UID:eceaf691-28c1-43e0-97dc-b2a8b40ab021
+DTSTAMP:20251102T015643Z
+DTSTART:20251122T030000Z
+DTEND:20251122T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]NIJISANJI COUNTDOWN LIVE "CROSSING TONES": 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246\n\nイベント:\nhttps://www.nijisanji.jp/events/crossingtones/\n\n\n==========\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://twitter.com/1000000lome\n\n【渡会雲雀】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://twitter.com/akagi_wen\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://twitter.com/Rou_2434\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://twitter.com/Ruri_4ori8\n\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n【珠乃井ナナ】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://twitter.com/7_tamanoi\n\n
+URL:https://t.pia.jp/pia/event/event.do?eventBundleCd=b2563246
+END:VEVENT
+BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
 DTSTAMP:20250817T142101Z
 DTSTART:20260514T090000Z
