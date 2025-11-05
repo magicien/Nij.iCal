@@ -4229,8 +4229,78 @@ TRANSP:TRANSPARENT
 SUMMARY:KAGAMI HAYATO 1st One Man Live "ALPHA ONE"
 LOCATION:TOYOTA ARENA TOKYO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\nOnline Viewing Tickets\n\nMerch page\n\nFree Part\n\nniconico Live\n\n【Liver Camera】niconico Live\n\nHashtag：#加賀美ハヤト_1stライブ\nhttps://x.com/hashtag/加賀美ハヤト_1stライブ\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\nOnline Viewing Tickets\n\nMerch page\n\nFree Part\n\nniconico Live\n\n【Liver Camera】niconico Live\n\nHashtag：#加賀美ハヤト_1stライブ\nhttps://x.com/hashtag/加賀美ハヤト_1stライブ\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Nov 5, 2025, 12:00 until Nov 30, 2025, 23:59)\nhttps://eplus.jp/kagami_alphaone/al/\n\nGeneral fan club pre-sale lottery (from Dec 3, 2025, 12:00 until Dec 8, 2025, 23:59)\nhttps://eplus.jp/kagami_alphaone/\n\ne+ pre-sale lottery (from Dec 10, 2025, 12:00 until Dec 15, 2025, 23:59)\nhttps://eplus.jp/kagami_alphaone/\n\nGeneral sale (first come, first served) (from Dec 27, 2025, 12:00)\nhttps://eplus.jp/kagami_alphaone/\n\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.nijisanji.jp/events/kagami_alphaone/
+END:VEVENT
+BEGIN:VEVENT
+UID:99c22174-5468-4270-82dd-d55b63eb3451
+DTSTAMP:20251105T102033Z
+DTSTART:20251105T030000Z
+DTEND:20251105T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]KAGAMI HAYATO 1st One Man Live "ALPHA ONE": Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kagami_alphaone/al/\n\nEvent:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://eplus.jp/kagami_alphaone/al/
+END:VEVENT
+BEGIN:VEVENT
+UID:99c22174-5468-4270-82dd-d55b63eb3452
+DTSTAMP:20251105T102033Z
+DTSTART:20251130T145900Z
+DTEND:20251130T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]KAGAMI HAYATO 1st One Man Live "ALPHA ONE": Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kagami_alphaone/al/\n\nEvent:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://eplus.jp/kagami_alphaone/al/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b46b016-c743-4c56-a1c7-577e4421b4c1
+DTSTAMP:20251105T102017Z
+DTSTART:20251203T030000Z
+DTEND:20251203T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]KAGAMI HAYATO 1st One Man Live "ALPHA ONE": General fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kagami_alphaone/\n\nEvent:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://eplus.jp/kagami_alphaone/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b46b016-c743-4c56-a1c7-577e4421b4c2
+DTSTAMP:20251105T102017Z
+DTSTART:20251208T145900Z
+DTEND:20251208T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]KAGAMI HAYATO 1st One Man Live "ALPHA ONE": General fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kagami_alphaone/\n\nEvent:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://eplus.jp/kagami_alphaone/
+END:VEVENT
+BEGIN:VEVENT
+UID:252823f8-4813-49db-8bab-0b8fd9277261
+DTSTAMP:20251105T102105Z
+DTSTART:20251210T030000Z
+DTEND:20251210T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]KAGAMI HAYATO 1st One Man Live "ALPHA ONE": e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kagami_alphaone/\n\nEvent:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://eplus.jp/kagami_alphaone/
+END:VEVENT
+BEGIN:VEVENT
+UID:252823f8-4813-49db-8bab-0b8fd9277262
+DTSTAMP:20251105T102105Z
+DTSTART:20251215T145900Z
+DTEND:20251215T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]KAGAMI HAYATO 1st One Man Live "ALPHA ONE": e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kagami_alphaone/\n\nEvent:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://eplus.jp/kagami_alphaone/
+END:VEVENT
+BEGIN:VEVENT
+UID:0f8c2c58-5119-4f06-85f2-087dcc031c81
+DTSTAMP:20251105T102125Z
+DTSTART:20251227T030000Z
+DTEND:20251227T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]KAGAMI HAYATO 1st One Man Live "ALPHA ONE": General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kagami_alphaone/\n\nEvent:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://eplus.jp/kagami_alphaone/
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
