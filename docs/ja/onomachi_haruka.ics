@@ -428,80 +428,8 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
-DTSTAMP:20251110T133244Z
-DTSTART:20260514T090000Z
-DTEND:20260514T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ1
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
-DTSTAMP:20250926T111946Z
-DTSTART:20260515T090000Z
-DTEND:20260515T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ2
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20250817T164621Z
-DTSTART:20260516T010000Z
-DTEND:20260516T090000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 1日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
-DTSTAMP:20250817T142111Z
-DTSTART:20260516T090000Z
-DTEND:20260516T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ3
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20250817T164626Z
-DTSTART:20260517T010000Z
-DTEND:20260517T090000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 2日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:81d30029-d717-46a2-bdab-210c91df3c3d
-DTSTAMP:20250817T164554Z
-DTSTART:20260517T090000Z
-DTEND:20260517T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ4
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998012019
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART;VALUE=DATE:20190408
 DTEND;VALUE=DATE:20190409
 RRULE:FREQ=YEARLY
@@ -512,7 +440,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022019
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20190128T101600Z
 DTEND:20190128T104600Z
 TRANSP:TRANSPARENT
@@ -522,7 +450,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998032019
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20190130T130000Z
 DTEND:20190130T133000Z
 TRANSP:TRANSPARENT
@@ -532,7 +460,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022020
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20200128T101600Z
 DTEND:20200128T101601Z
 TRANSP:TRANSPARENT
@@ -542,7 +470,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022021
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20210128T101600Z
 DTEND:20210128T101601Z
 TRANSP:TRANSPARENT
@@ -552,7 +480,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022022
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20220128T101600Z
 DTEND:20220128T101601Z
 TRANSP:TRANSPARENT
@@ -562,7 +490,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022023
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20230128T101600Z
 DTEND:20230128T101601Z
 TRANSP:TRANSPARENT
@@ -572,7 +500,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022024
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20240128T101600Z
 DTEND:20240128T101601Z
 TRANSP:TRANSPARENT
@@ -582,7 +510,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022025
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20250128T101600Z
 DTEND:20250128T101601Z
 TRANSP:TRANSPARENT
@@ -592,7 +520,7 @@ URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998022026
-DTSTAMP:20250316T022334Z
+DTSTAMP:20251129T115719Z
 DTSTART:20260128T101600Z
 DTEND:20260128T101601Z
 TRANSP:TRANSPARENT
@@ -601,93 +529,13 @@ DESCRIPTION:小野町春香 7周年\n\n初ツイート：2019/01/28 19:16 （日
 URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022027
-DTSTAMP:20250316T022334Z
-DTSTART:20270128T101600Z
-DTEND:20270128T101601Z
+UID:fc4d2986-c09f-450f-8c96-7ed998992026
+DTSTAMP:20251129T115719Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
 TRANSP:TRANSPARENT
-SUMMARY:小野町春香 8周年
-DESCRIPTION:小野町春香 8周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022028
-DTSTAMP:20250316T022334Z
-DTSTART:20280128T101600Z
-DTEND:20280128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 9周年
-DESCRIPTION:小野町春香 9周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022029
-DTSTAMP:20250316T022334Z
-DTSTART:20290128T101600Z
-DTEND:20290128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 10周年
-DESCRIPTION:小野町春香 10周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022030
-DTSTAMP:20250316T022334Z
-DTSTART:20300128T101600Z
-DTEND:20300128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 11周年
-DESCRIPTION:小野町春香 11周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022031
-DTSTAMP:20250316T022334Z
-DTSTART:20310128T101600Z
-DTEND:20310128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 12周年
-DESCRIPTION:小野町春香 12周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022032
-DTSTAMP:20250316T022334Z
-DTSTART:20320128T101600Z
-DTEND:20320128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 13周年
-DESCRIPTION:小野町春香 13周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022033
-DTSTAMP:20250316T022334Z
-DTSTART:20330128T101600Z
-DTEND:20330128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 14周年
-DESCRIPTION:小野町春香 14周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022034
-DTSTAMP:20250316T022334Z
-DTSTART:20340128T101600Z
-DTEND:20340128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 15周年
-DESCRIPTION:小野町春香 15周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
-URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4d2986-c09f-450f-8c96-7ed998022035
-DTSTAMP:20250316T022334Z
-DTSTART:20350128T101600Z
-DTEND:20350128T101601Z
-TRANSP:TRANSPARENT
-SUMMARY:小野町春香 16周年
-DESCRIPTION:小野町春香 16周年\n\n初ツイート：2019/01/28 19:16 （日本時間）\n初配信：2019/01/30 22:00 （日本時間）\n\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
+SUMMARY:小野町春香 卒業
+DESCRIPTION:小野町春香 卒業\n\n==========\n【小野町春香】\nYouTube: https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ\nX: https://twitter.com/onomachi_haruka\n\n
 URL:https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ
 END:VEVENT
 BEGIN:VEVENT
