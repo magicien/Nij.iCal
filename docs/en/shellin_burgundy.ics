@@ -540,75 +540,107 @@ SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
-DTSTAMP:20251110T133244Z
-DTSTART:20260514T090000Z
-DTEND:20260514T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes 2026 Live 1
-LOCATION:Makuhari Messe Event Hall
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
-DTSTAMP:20250926T111946Z
-DTSTART:20260515T090000Z
-DTEND:20260515T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes 2026 Live 2
-LOCATION:Makuhari Messe Event Hall
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20250817T164621Z
+DTSTAMP:20251130T144135Z
 DTSTART:20260516T010000Z
 DTEND:20260516T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2026 Day 1
-LOCATION:Makuhari Messe
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+LOCATION:Makuhari Messe Exhibition Halls 1-8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nGeneral sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nGeneral and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\ne+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nGeneral sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
-DTSTAMP:20250817T142111Z
-DTSTART:20260516T090000Z
-DTEND:20260516T110000Z
+UID:44e0717e-8f18-48e8-a8f4-483160ed44f1
+DTSTAMP:20251130T135145Z
+DTSTART:20260113T110000Z
+DTEND:20260113T113000Z
 TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes 2026 Live 3
-LOCATION:Makuhari Messe Event Hall
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:44e0717e-8f18-48e8-a8f4-483160ed44f2
+DTSTAMP:20251130T135145Z
+DTSTART:20260121T145900Z
+DTEND:20260121T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd859652-19db-4cc4-acc7-12592daf43e1
+DTSTAMP:20251130T134903Z
+DTSTART:20260214T030000Z
+DTEND:20260214T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room/
+END:VEVENT
+BEGIN:VEVENT
+UID:6650f028-fb3a-4e52-8b57-f3ae47021fa1
+DTSTAMP:20251130T135301Z
+DTSTART:20260204T090000Z
+DTEND:20260204T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:6650f028-fb3a-4e52-8b57-f3ae47021fa2
+DTSTAMP:20251130T135301Z
+DTSTART:20260215T145900Z
+DTEND:20260215T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:5845705e-eb1c-4a58-b5a5-2055ca48ea21
+DTSTAMP:20251130T135311Z
+DTSTART:20260304T030000Z
+DTEND:20260304T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:5845705e-eb1c-4a58-b5a5-2055ca48ea22
+DTSTAMP:20251130T135311Z
+DTSTART:20260310T145900Z
+DTEND:20260310T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:907fc646-2f98-4e08-924f-cb57ce85e4e1
+DTSTAMP:20251130T135314Z
+DTSTART:20260328T010000Z
+DTEND:20260328T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero/
 END:VEVENT
 BEGIN:VEVENT
 UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20250817T164626Z
+DTSTAMP:20251130T144137Z
 DTSTART:20260517T010000Z
 DTEND:20260517T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2026 Day 2
-LOCATION:Makuhari Messe
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
+LOCATION:Makuhari Messe Exhibition Halls 1-8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
 DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:81d30029-d717-46a2-bdab-210c91df3c3d
-DTSTAMP:20250817T164554Z
-DTSTART:20260517T090000Z
-DTEND:20260517T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:Nijisanji Fes 2026 Live 4
-LOCATION:Makuhari Messe Event Hall
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Event Hall":geo:35.646867,140.034609
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT

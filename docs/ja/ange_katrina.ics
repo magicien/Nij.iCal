@@ -383,75 +383,169 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
-DTSTAMP:20251110T133244Z
-DTSTART:20260514T090000Z
-DTEND:20260514T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ1
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
-DTSTAMP:20250926T111946Z
-DTSTART:20260515T090000Z
-DTEND:20260515T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ2
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20250817T164621Z
+DTSTAMP:20251130T144135Z
 DTSTART:20260516T010000Z
 DTEND:20260516T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2026 1日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+LOCATION:幕張メッセ 国際展示場 展示ホール1～8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nチケット情報：\n\n「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) (2026/2/14 12:00〜)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:44e0717e-8f18-48e8-a8f4-483160ed44f1
+DTSTAMP:20251130T135145Z
+DTSTART:20260113T110000Z
+DTEND:20260113T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:44e0717e-8f18-48e8-a8f4-483160ed44f2
+DTSTAMP:20251130T135145Z
+DTSTART:20260121T145900Z
+DTEND:20260121T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd859652-19db-4cc4-acc7-12592daf43e1
+DTSTAMP:20251130T134903Z
+DTSTART:20260214T030000Z
+DTEND:20260214T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room/
+END:VEVENT
+BEGIN:VEVENT
+UID:6650f028-fb3a-4e52-8b57-f3ae47021fa1
+DTSTAMP:20251130T135301Z
+DTSTART:20260204T090000Z
+DTEND:20260204T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:6650f028-fb3a-4e52-8b57-f3ae47021fa2
+DTSTAMP:20251130T135301Z
+DTSTART:20260215T145900Z
+DTEND:20260215T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:5845705e-eb1c-4a58-b5a5-2055ca48ea21
+DTSTAMP:20251130T135311Z
+DTSTART:20260304T030000Z
+DTEND:20260304T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:5845705e-eb1c-4a58-b5a5-2055ca48ea22
+DTSTAMP:20251130T135311Z
+DTSTART:20260310T145900Z
+DTEND:20260310T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:907fc646-2f98-4e08-924f-cb57ce85e4e1
+DTSTAMP:20251130T135314Z
+DTSTART:20260328T010000Z
+DTEND:20260328T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
-DTSTAMP:20250817T142111Z
-DTSTART:20260516T090000Z
-DTEND:20260516T110000Z
+DTSTAMP:20251130T132925Z
+DTSTART:20260516T080000Z
+DTEND:20260516T100000Z
 TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ3
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
+SUMMARY:にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1
+LOCATION:幕張メッセ 国際展示場 展示ホール7～8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール7～8":geo:35.647009,140.034142
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_840\n\nオンライン視聴ページ\n\nハッシュタグ：#CONCERTO_Day1\nhttps://x.com/hashtag/CONCERTO_Day1\n\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/11/30 20:00〜2025/12/14 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\nイープラス先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\n一般販売（先着） (2026/2/14 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【アンジュ・カトリーナ】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://twitter.com/ange_katrina_\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【ヤン ナリ】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://twitter.com/NariYang2434\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【狂蘭 メロコ】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://fes.nijisanji.jp/2026/special-stage/#s-stage3
+END:VEVENT
+BEGIN:VEVENT
+UID:77fd23da-9879-49c4-b296-eea9081abcd1
+DTSTAMP:20251130T134441Z
+DTSTART:20251130T110000Z
+DTEND:20251130T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1: 総合・個人ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【アンジュ・カトリーナ】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://twitter.com/ange_katrina_\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【ヤン ナリ】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://twitter.com/NariYang2434\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【狂蘭 メロコ】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:77fd23da-9879-49c4-b296-eea9081abcd2
+DTSTAMP:20251130T134441Z
+DTSTART:20251214T145900Z
+DTEND:20251214T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1: 総合・個人ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【アンジュ・カトリーナ】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://twitter.com/ange_katrina_\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【ヤン ナリ】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://twitter.com/NariYang2434\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【狂蘭 メロコ】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:70fa4d1e-4ba7-4f28-9ba9-b9b0ff2dc051
+DTSTAMP:20251130T134256Z
+DTSTART:20260113T110000Z
+DTEND:20260113T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【アンジュ・カトリーナ】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://twitter.com/ange_katrina_\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【ヤン ナリ】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://twitter.com/NariYang2434\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【狂蘭 メロコ】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:70fa4d1e-4ba7-4f28-9ba9-b9b0ff2dc052
+DTSTAMP:20251130T134256Z
+DTSTART:20260121T145900Z
+DTEND:20260121T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【アンジュ・カトリーナ】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://twitter.com/ange_katrina_\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【ヤン ナリ】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://twitter.com/NariYang2434\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【狂蘭 メロコ】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:c60df553-ed53-47d7-bca4-c20255b85331
+DTSTAMP:20251130T142029Z
+DTSTART:20260214T010000Z
+DTEND:20260214T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【アンジュ・カトリーナ】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://twitter.com/ange_katrina_\n\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n【フレン・E・ルスタリオ】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://twitter.com/furen_2434\n\n【ヤン ナリ】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://twitter.com/NariYang2434\n\n【石神のぞみ】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://twitter.com/I_Nozomi_\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【狂蘭 メロコ】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://twitter.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage/
 END:VEVENT
 BEGIN:VEVENT
 UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20250817T164626Z
+DTSTAMP:20251130T144137Z
 DTSTART:20260517T010000Z
 DTEND:20260517T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2026 2日目
-LOCATION:幕張メッセ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
+LOCATION:幕張メッセ 国際展示場 展示ホール1～8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
-URL:https://fes.nijisanji.jp/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:81d30029-d717-46a2-bdab-210c91df3c3d
-DTSTAMP:20250817T164554Z
-DTSTART:20260517T090000Z
-DTEND:20260517T110000Z
-TRANSP:TRANSPARENT
-SUMMARY:にじさんじフェス2026 ライブ4
-LOCATION:幕張メッセイベントホール
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセイベントホール":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT

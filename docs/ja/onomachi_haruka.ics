@@ -428,6 +428,56 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:44e0717e-8f18-48e8-a8f4-483160ed44f1
+DTSTAMP:20251130T135145Z
+DTSTART:20260113T110000Z
+DTEND:20260113T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:44e0717e-8f18-48e8-a8f4-483160ed44f2
+DTSTAMP:20251130T135145Z
+DTSTART:20260121T145900Z
+DTEND:20260121T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd859652-19db-4cc4-acc7-12592daf43e1
+DTSTAMP:20251130T134903Z
+DTSTART:20260214T030000Z
+DTEND:20260214T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/room/
+END:VEVENT
+BEGIN:VEVENT
+UID:6650f028-fb3a-4e52-8b57-f3ae47021fa1
+DTSTAMP:20251130T135301Z
+DTSTART:20260204T090000Z
+DTEND:20260204T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:6650f028-fb3a-4e52-8b57-f3ae47021fa2
+DTSTAMP:20251130T135301Z
+DTSTART:20260215T145900Z
+DTEND:20260215T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
+END:VEVENT
+BEGIN:VEVENT
 UID:fc4d2986-c09f-450f-8c96-7ed998012019
 DTSTAMP:20251129T115719Z
 DTSTART;VALUE=DATE:20190408
