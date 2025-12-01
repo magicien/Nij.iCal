@@ -984,12 +984,12 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2026 1日目
 LOCATION:幕張メッセ 国際展示場 展示ホール1～8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nチケット情報：\n\n「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) (2026/2/14 12:00〜)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nチケット情報：\n\n「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) (2026/2/14 12:00〜)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\n入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\n入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:44e0717e-8f18-48e8-a8f4-483160ed44f1
-DTSTAMP:20251130T135145Z
+DTSTAMP:20251201T050908Z
 DTSTART:20260113T110000Z
 DTEND:20260113T113000Z
 TRANSP:TRANSPARENT
@@ -999,7 +999,7 @@ URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:44e0717e-8f18-48e8-a8f4-483160ed44f2
-DTSTAMP:20251130T135145Z
+DTSTAMP:20251201T050908Z
 DTSTART:20260121T145900Z
 DTEND:20260121T152900Z
 TRANSP:TRANSPARENT
@@ -1009,7 +1009,7 @@ URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:bd859652-19db-4cc4-acc7-12592daf43e1
-DTSTAMP:20251130T134903Z
+DTSTAMP:20251201T050913Z
 DTSTART:20260214T030000Z
 DTEND:20260214T033000Z
 TRANSP:TRANSPARENT
@@ -1019,7 +1019,7 @@ URL:https://eplus.jp/nijisanji-fes2026/room/
 END:VEVENT
 BEGIN:VEVENT
 UID:6650f028-fb3a-4e52-8b57-f3ae47021fa1
-DTSTAMP:20251130T135301Z
+DTSTAMP:20251201T050951Z
 DTSTART:20260204T090000Z
 DTEND:20260204T093000Z
 TRANSP:TRANSPARENT
@@ -1029,7 +1029,7 @@ URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:6650f028-fb3a-4e52-8b57-f3ae47021fa2
-DTSTAMP:20251130T135301Z
+DTSTAMP:20251201T050951Z
 DTSTART:20260215T145900Z
 DTEND:20260215T152900Z
 TRANSP:TRANSPARENT
@@ -1039,7 +1039,7 @@ URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:5845705e-eb1c-4a58-b5a5-2055ca48ea21
-DTSTAMP:20251130T135311Z
+DTSTAMP:20251201T050954Z
 DTSTART:20260304T030000Z
 DTEND:20260304T033000Z
 TRANSP:TRANSPARENT
@@ -1049,7 +1049,7 @@ URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
 UID:5845705e-eb1c-4a58-b5a5-2055ca48ea22
-DTSTAMP:20251130T135311Z
+DTSTAMP:20251201T050954Z
 DTSTART:20260310T145900Z
 DTEND:20260310T152900Z
 TRANSP:TRANSPARENT
@@ -1059,13 +1059,63 @@ URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
 UID:907fc646-2f98-4e08-924f-cb57ce85e4e1
-DTSTAMP:20251130T135314Z
+DTSTAMP:20251201T050956Z
 DTSTART:20260328T010000Z
 DTEND:20260328T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) 開始
 DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff359a90-4f31-4552-8234-b77d2b8c7871
+DTSTAMP:20251201T051018Z
+DTSTART:20260204T090000Z
+DTEND:20260204T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff359a90-4f31-4552-8234-b77d2b8c7872
+DTSTAMP:20251201T051018Z
+DTSTART:20260215T145900Z
+DTEND:20260215T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:cefc1524-7cec-4342-8038-f22ab9494101
+DTSTAMP:20251201T051020Z
+DTSTART:20260304T030000Z
+DTEND:20260304T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:cefc1524-7cec-4342-8038-f22ab9494102
+DTSTAMP:20251201T051020Z
+DTSTART:20260310T145900Z
+DTEND:20260310T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd5981fe-4cdb-415b-b189-cc5e64308371
+DTSTAMP:20251201T051023Z
+DTSTART:20260328T010000Z
+DTEND:20260328T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　一般販売(先着) 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry/
 END:VEVENT
 BEGIN:VEVENT
 UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2

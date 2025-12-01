@@ -1014,88 +1014,138 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2026 Day 1
 LOCATION:Makuhari Messe Exhibition Halls 1-8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nGeneral sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nGeneral and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\ne+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nGeneral sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nTicket Info:\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEntry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEntry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEntry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:44e0717e-8f18-48e8-a8f4-483160ed44f1
-DTSTAMP:20251130T135145Z
+DTSTAMP:20251201T050908Z
 DTSTART:20260113T110000Z
 DTEND:20260113T113000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery starts
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:44e0717e-8f18-48e8-a8f4-483160ed44f2
-DTSTAMP:20251130T135145Z
+DTSTAMP:20251201T050908Z
 DTSTART:20260121T145900Z
 DTEND:20260121T152900Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery ends
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery ends
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:bd859652-19db-4cc4-acc7-12592daf43e1
-DTSTAMP:20251130T134903Z
+DTSTAMP:20251201T050913Z
 DTSTART:20260214T030000Z
 DTEND:20260214T033000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General sale (first come, first served) starts
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room/
 END:VEVENT
 BEGIN:VEVENT
 UID:6650f028-fb3a-4e52-8b57-f3ae47021fa1
-DTSTAMP:20251130T135301Z
+DTSTAMP:20251201T050951Z
 DTSTART:20260204T090000Z
 DTEND:20260204T093000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery starts
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:6650f028-fb3a-4e52-8b57-f3ae47021fa2
-DTSTAMP:20251130T135301Z
+DTSTAMP:20251201T050951Z
 DTSTART:20260215T145900Z
 DTEND:20260215T152900Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General and individual fan club pre-sale lottery ends
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery ends
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:5845705e-eb1c-4a58-b5a5-2055ca48ea21
-DTSTAMP:20251130T135311Z
+DTSTAMP:20251201T050954Z
 DTSTART:20260304T030000Z
 DTEND:20260304T033000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: e+ pre-sale lottery starts
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
 UID:5845705e-eb1c-4a58-b5a5-2055ca48ea22
-DTSTAMP:20251130T135311Z
+DTSTAMP:20251201T050954Z
 DTSTART:20260310T145900Z
 DTEND:20260310T152900Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: e+ pre-sale lottery ends
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery ends
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
 UID:907fc646-2f98-4e08-924f-cb57ce85e4e1
-DTSTAMP:20251130T135314Z
+DTSTAMP:20251201T050956Z
 DTSTART:20260328T010000Z
 DTEND:20260328T013000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: General sale (first come, first served) starts
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff359a90-4f31-4552-8234-b77d2b8c7871
+DTSTAMP:20251201T051018Z
+DTSTART:20260204T090000Z
+DTEND:20260204T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff359a90-4f31-4552-8234-b77d2b8c7872
+DTSTAMP:20251201T051018Z
+DTSTART:20260215T145900Z
+DTEND:20260215T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:cefc1524-7cec-4342-8038-f22ab9494101
+DTSTAMP:20251201T051020Z
+DTSTART:20260304T030000Z
+DTEND:20260304T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:cefc1524-7cec-4342-8038-f22ab9494102
+DTSTAMP:20251201T051020Z
+DTSTART:20260310T145900Z
+DTEND:20260310T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd5981fe-4cdb-415b-b189-cc5e64308371
+DTSTAMP:20251201T051023Z
+DTSTART:20260328T010000Z
+DTEND:20260328T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://eplus.jp/nijisanji-fes2026/entry/
 END:VEVENT
 BEGIN:VEVENT
 UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
