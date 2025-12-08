@@ -4910,4 +4910,15 @@ SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day2: General sale (fi
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage4\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://twitter.com/333akina\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Fura Kanato】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://twitter.com/KNTFR2434\n\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://twitter.com/Saiki_Supadari\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://twitter.com/Show_SylveSTAR\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n【Alban Knox】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://twitter.com/alban_knox\n\n
 URL:https://eplus.jp/nijisanji-fes2026/stage/
 END:VEVENT
+BEGIN:VEVENT
+UID:6a4f7191-b4a8-47ca-851f-3e4c701001e1
+DTSTAMP:20251207T085202Z
+DTSTART:20260731T090000Z
+DTEND:20260731T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 2nd LIVE
+LOCATION:Tokyo International Forum Hall A
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
+DESCRIPTION:Article of the event\nhttps://kanae.lantis.jp/news/369/\n\nSpecial Site\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\nHashtag：\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+END:VEVENT
 END:VCALENDAR
