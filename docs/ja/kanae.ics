@@ -1227,6 +1227,17 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタ�
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:6a4f7191-b4a8-47ca-851f-3e4c701001e1
+DTSTAMP:20251207T085202Z
+DTSTART:20260731T090000Z
+DTEND:20260731T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:叶 2nd LIVE
+LOCATION:東京国際フォーラム ホールA
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京国際フォーラム ホールA":geo:35.677433,139.763351
+DESCRIPTION:ニュースページ\nhttps://kanae.lantis.jp/news/369/\n\n特設サイト\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\nハッシュタグ：\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://twitter.com/kanae_2434\n\n
+END:VEVENT
+BEGIN:VEVENT
 UID:b6bb25f7-12cd-44e5-868a-a77464012018
 DTSTAMP:20250315T143157Z
 DTSTART;VALUE=DATE:20180707
