@@ -325,6 +325,17 @@ SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:f5b9afc7-4095-4338-87ae-4ec784d7961e
+DTSTAMP:20251217T055943Z
+DTSTART:20260106T110000Z
+DTEND:20260106T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:VOLTACTION×3SKM FUSION LIVE “IMPACT” 
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_853\n\nYouTube (Free)\nhttps://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/\n\nHashtag：#VOLTACTIONx3SKM\nhttps://x.com/hashtag/VOLTACTIONx3SKM\n\n==========\n【Fura Kanato】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://twitter.com/KNTFR2434\n\n【Watarai Hibari】\nYouTube: https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA\nX: https://twitter.com/watarai_hibari\n\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://twitter.com/Shikinagi_2434\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://twitter.com/SerAph_DazZ\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://twitter.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://twitter.com/Kaisei_2434\n\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://twitter.com/Ness_Sakaki\n\n
+URL:https://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/
+END:VEVENT
+BEGIN:VEVENT
 UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
 DTSTAMP:20251130T144135Z
 DTSTART:20260516T010000Z
