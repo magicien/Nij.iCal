@@ -625,6 +625,18 @@ DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/GAh5hxbfiB\n\nイベ
 URL:https://dwango-ticket.jp/project/GAh5hxbfiB
 END:VEVENT
 BEGIN:VEVENT
+UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
+DTSTAMP:20251226T050853Z
+DTSTART:20260102T023000Z
+DTEND:20260126T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展 in Taipei
+LOCATION:台北流行音楽中心文化館 2階特別展示室
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="台北流行音楽中心文化館 2階特別展示室":geo:25.052639,121.598507
+DESCRIPTION:特設サイト\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\n開館時間（台北時間）\n・1月2日（金）～1月11日（日）10:30～21:00\n・1月12日（月）～1月26日（月） 10:30～20:30\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://capsuleleu.kktix.cc/events/nijifesexintaipei
+END:VEVENT
+BEGIN:VEVENT
 UID:aea96588-cfb9-4b78-accc-8f1b8196d9f8
 DTSTAMP:20251207T055303Z
 DTSTART:20260515T090000Z
