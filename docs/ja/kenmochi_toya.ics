@@ -890,6 +890,18 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
+DTSTAMP:20251226T050853Z
+DTSTART:20260102T023000Z
+DTEND:20260126T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展 in Taipei
+LOCATION:台北流行音楽中心文化館 2階特別展示室
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="台北流行音楽中心文化館 2階特別展示室":geo:25.052639,121.598507
+DESCRIPTION:特設サイト\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\n開館時間（台北時間）\n・1月2日（金）～1月11日（日）10:30～21:00\n・1月12日（月）～1月26日（月） 10:30～20:30\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://capsuleleu.kktix.cc/events/nijifesexintaipei
+END:VEVENT
+BEGIN:VEVENT
 UID:6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43
 DTSTAMP:20251017T050625Z
 DTSTART:20260118T090000Z
@@ -903,7 +915,7 @@ URL:https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:abe90c6a-0fd4-4a65-bdc4-13ef7f307bf1
-DTSTAMP:20251016T110910Z
+DTSTAMP:20251226T053445Z
 DTSTART:20251017T030000Z
 DTEND:20251017T033000Z
 TRANSP:TRANSPARENT
@@ -913,7 +925,7 @@ URL:https://eplus.jp/sf/web/live/irg/nwt25/order
 END:VEVENT
 BEGIN:VEVENT
 UID:abe90c6a-0fd4-4a65-bdc4-13ef7f307bf2
-DTSTAMP:20251016T110910Z
+DTSTAMP:20251226T053445Z
 DTSTART:20251103T145900Z
 DTEND:20251103T152900Z
 TRANSP:TRANSPARENT

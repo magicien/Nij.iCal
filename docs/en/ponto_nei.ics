@@ -412,6 +412,18 @@ SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
+DTSTAMP:20251226T050853Z
+DTSTART:20260102T023000Z
+DTEND:20260126T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes Exhibition in Taipei
+LOCATION:Taipei Music Center, Culture Hall, 2nd Floor Special Exhibition Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Taipei Music Center, Culture Hall, 2nd Floor Special Exhibition Hall":geo:25.052639,121.598507
+DESCRIPTION:Special Site\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\nOpening Hours (Taipei Time)\n- January 2 (Fri) - January 11 (Sun) 10:30-21:00\n- January 12 (Mon) - January 26 (Mon) 10:30-20:30\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://capsuleleu.kktix.cc/events/nijifesexintaipei
+END:VEVENT
+BEGIN:VEVENT
 UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
 DTSTAMP:20251130T144135Z
 DTSTART:20260516T010000Z

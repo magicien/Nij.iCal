@@ -779,15 +779,27 @@ SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
+UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
+DTSTAMP:20251226T050853Z
+DTSTART:20260102T023000Z
+DTEND:20260126T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス展 in Taipei
+LOCATION:台北流行音楽中心文化館 2階特別展示室
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="台北流行音楽中心文化館 2階特別展示室":geo:25.052639,121.598507
+DESCRIPTION:特設サイト\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\n開館時間（台北時間）\n・1月2日（金）～1月11日（日）10:30～21:00\n・1月12日（月）～1月26日（月） 10:30～20:30\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+URL:https://capsuleleu.kktix.cc/events/nijifesexintaipei
+END:VEVENT
+BEGIN:VEVENT
 UID:6589ac94-d369-47c0-8bde-fa56c4d6ed94
-DTSTAMP:20251217T053331Z
+DTSTAMP:20251226T052601Z
 DTSTART:20260117T090000Z
 DTEND:20260117T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:加賀美ハヤト 1st One Man Live "ALPHA ONE"
 LOCATION:TOYOTA ARENA TOKYO
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOYOTA ARENA TOKYO":geo:35.626033,139.783139
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_819\n\nオンラインチケット購入ページ\n\n無料パート\n\n本編視聴ページ\n\n【ライバーカメラ】視聴ページ\n\nハッシュタグ：#加賀美ハヤト_1stライブ\nhttps://x.com/hashtag/加賀美ハヤト_1stライブ\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2025/11/5 12:00〜2025/11/30 23:59)\nhttps://eplus.jp/kagami_alphaone/al/\n\n総合ファンクラブ先行抽選 (2025/12/3 12:00〜2025/12/8 23:59)\nhttps://eplus.jp/kagami_alphaone/\n\nイープラス先行抽選 (2025/12/10 12:00〜2025/12/15 23:59)\nhttps://eplus.jp/kagami_alphaone/\n\n一般販売（先着） (2025/12/27 12:00〜)\nhttps://eplus.jp/kagami_alphaone/\n\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_819\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/P7sIMtI3zO\n\n直前放送 (MC：佐伯イッテツ、レポーター：百花繚乱）\nhttps://live.nicovideo.jp/watch/lv349333362\n\n無料パート\n\n本編視聴ページ\nhttps://live.nicovideo.jp/watch/lv349210573\n\n【ライバーカメラ】視聴ページ\nhttps://live.nicovideo.jp/watch/lv349215540\n\n会場定点カメラ視聴ページ\nhttps://live.nicovideo.jp/watch/lv349215606\n\n最速感想放送（出演：甲斐田晴、北見遊征、早乙女ベリー）\nhttps://live.nicovideo.jp/watch/lv349361196\n\nハッシュタグ：#加賀美ハヤト_1stライブ\nhttps://x.com/hashtag/加賀美ハヤト_1stライブ\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2025/11/5 12:00〜2025/11/30 23:59)\nhttps://eplus.jp/kagami_alphaone/al/\n\n総合ファンクラブ先行抽選 (2025/12/3 12:00〜2025/12/8 23:59)\nhttps://eplus.jp/kagami_alphaone/\n\nイープラス先行抽選 (2025/12/10 12:00〜2025/12/15 23:59)\nhttps://eplus.jp/kagami_alphaone/\n\n一般販売（先着） (2025/12/27 12:00〜)\nhttps://eplus.jp/kagami_alphaone/\n\nライブビューイングチケット販売 (2025/12/26 12:00〜)\nhttps://m.megabox.co.kr/movie-detail?rpstMovieNo=25102700\n\nオンライン視聴チケット販売 (2025/12/25 17:00〜2026/2/1 23:59)\nhttps://dwango-ticket.jp/project/P7sIMtI3zO\n\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://www.nijisanji.jp/events/kagami_alphaone/
 END:VEVENT
 BEGIN:VEVENT
@@ -859,6 +871,36 @@ TRANSP:TRANSPARENT
 SUMMARY:[チケット]加賀美ハヤト 1st One Man Live "ALPHA ONE": 一般販売（先着） 開始
 DESCRIPTION:チケット:\nhttps://eplus.jp/kagami_alphaone/\n\nイベント:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
 URL:https://eplus.jp/kagami_alphaone/
+END:VEVENT
+BEGIN:VEVENT
+UID:0668f6a5-bdaf-4cb2-a1f5-31dddaf8d591
+DTSTAMP:20251226T053726Z
+DTSTART:20251226T030000Z
+DTEND:20251226T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]加賀美ハヤト 1st One Man Live "ALPHA ONE": ライブビューイングチケット販売 開始
+DESCRIPTION:チケット:\nhttps://m.megabox.co.kr/movie-detail?rpstMovieNo=25102700\n\nイベント:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://m.megabox.co.kr/movie-detail?rpstMovieNo=25102700
+END:VEVENT
+BEGIN:VEVENT
+UID:0b8f5ce8-ad57-4c3b-8d71-158d56d6c331
+DTSTAMP:20251226T053137Z
+DTSTART:20251225T080000Z
+DTEND:20251225T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]加賀美ハヤト 1st One Man Live "ALPHA ONE": オンライン視聴チケット販売 開始
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/P7sIMtI3zO\n\nイベント:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://dwango-ticket.jp/project/P7sIMtI3zO
+END:VEVENT
+BEGIN:VEVENT
+UID:0b8f5ce8-ad57-4c3b-8d71-158d56d6c332
+DTSTAMP:20251226T053137Z
+DTSTART:20260201T145900Z
+DTEND:20260201T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]加賀美ハヤト 1st One Man Live "ALPHA ONE": オンライン視聴チケット販売 終了
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/P7sIMtI3zO\n\nイベント:\nhttps://www.nijisanji.jp/events/kagami_alphaone/\n\n\n==========\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://twitter.com/H_KAGAMI2434\n\n
+URL:https://dwango-ticket.jp/project/P7sIMtI3zO
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
