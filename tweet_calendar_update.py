@@ -2,6 +2,7 @@ import arrow
 import os
 import sys
 import tweepy
+from settings import debug
 
 def main() -> int:
     pr_body = os.environ["PR_BODY"]
@@ -18,6 +19,12 @@ def main() -> int:
     
     ja_text = f"カレンダーを更新しました: {ja_body}"
     en_text = f"The calendar data has been updated: {en_body}"
+
+    if debug:
+        print(ja_text)
+        print(en_text)
+
+        return 0
 
     try:
         ja_client = tweepy.Client(

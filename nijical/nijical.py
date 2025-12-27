@@ -24,6 +24,40 @@ class NijiCal:
         self.ticket_data_path = ticket_data_path
         self.url_prefix = url_prefix
 
+    def _validate_and_get_column_indices(
+        self, columns: list[str], expected_columns: list[str], csv_name: str
+    ) -> dict[str, int]:
+        """
+        Validate CSV columns and return a mapping from column name to index.
+
+        Args:
+            columns: Actual column names from the CSV
+            expected_columns: Expected column names
+            csv_name: Name of the CSV file (for error messages)
+
+        Returns:
+            Dictionary mapping column name to index
+
+        Raises:
+            ValueError: If columns don't match expected columns
+        """
+        # Check if all expected columns exist
+        missing_columns = set(expected_columns) - set(columns)
+        if missing_columns:
+            raise ValueError(
+                f"Error in {csv_name}: Missing expected columns: {', '.join(missing_columns)}"
+            )
+
+        # Check if there are any unexpected columns
+        unexpected_columns = set(columns) - set(expected_columns)
+        if unexpected_columns:
+            raise ValueError(
+                f"Error in {csv_name}: Unexpected columns found: {', '.join(unexpected_columns)}"
+            )
+
+        # Create column name to index mapping
+        return {col: idx for idx, col in enumerate(columns)}
+
     def generate_all(self) -> int:
         talents = self.fetch_talents()
         tickets = self.fetch_tickets()
@@ -133,20 +167,49 @@ class NijiCal:
         data = pd.read_csv(self.talent_data_path, encoding="utf_8_sig")
         tzinfo = "+09:00"
 
+        # Define expected columns
+        expected_columns = [
+            "名前",
+            "UID",
+            "データ更新日時",
+            "ローマ字",
+            "ふりがな",
+            "誕生日",
+            "特殊誕生日",
+            "特殊誕生日（英語）",
+            "活動開始日時",
+            "初配信日時",
+            "YouTube",
+            "X",
+            "補足",
+            "補足（英語）",
+            "卒業",
+        ]
+
+        # Validate columns and get indices
+        col_map = self._validate_and_get_column_indices(
+            data.columns.tolist(), expected_columns, "talents.csv"
+        )
+
         talents: dict[str, Talent] = {}
-        for row in data.itertuples():
-            timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
-            first_tweet_datetime = arrow.get(row[9], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+        for row in data.itertuples(index=False):
+            timestamp = arrow.get(
+                row[col_map["データ更新日時"]], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo
+            )
+            first_tweet_datetime = arrow.get(
+                row[col_map["活動開始日時"]], "YYYY/MM/DD HH:mm", tzinfo=tzinfo
+            )
             first_stream_datetime = arrow.get(
-                row[10], "YYYY/MM/DD HH:mm", tzinfo=tzinfo
+                row[col_map["初配信日時"]], "YYYY/MM/DD HH:mm", tzinfo=tzinfo
             )
 
             birthday: arrow.Arrow | None = None
-            if type(row[6]) is str and len(row[6]) > 0:
-                if row[6] == "2/29":
+            birthday_value = row[col_map["誕生日"]]
+            if type(birthday_value) is str and len(birthday_value) > 0:
+                if birthday_value == "2/29":
                     birthday = arrow.get(2020, 2, 29, tzinfo=tzinfo)
                 else:
-                    birthday = arrow.get(row[6], "M/D", tzinfo=tzinfo)
+                    birthday = arrow.get(birthday_value, "M/D", tzinfo=tzinfo)
                     birthday = arrow.get(
                         first_tweet_datetime.year,
                         birthday.month,
@@ -159,23 +222,26 @@ class NijiCal:
                         birthday = birthday.shift(years=1)
 
             graduation_date: arrow.Arrow | None = None
-            if type(row[15]) is str and len(row[15]) > 0:
-                graduation_date = arrow.get(row[15], "YYYY/MM/DD", tzinfo=tzinfo)
+            graduation_value = row[col_map["卒業"]]
+            if type(graduation_value) is str and len(graduation_value) > 0:
+                graduation_date = arrow.get(
+                    graduation_value, "YYYY/MM/DD", tzinfo=tzinfo
+                )
 
             talent = Talent(
-                uid=row[2],
-                name=row[1],
-                eng_name=row[4],
-                furigana=row[5],
+                uid=row[col_map["UID"]],
+                name=row[col_map["名前"]],
+                eng_name=row[col_map["ローマ字"]],
+                furigana=row[col_map["ふりがな"]],
                 birthday=birthday,
-                birthday_label=row[7],
-                eng_birthday_label=row[8],
+                birthday_label=row[col_map["特殊誕生日"]],
+                eng_birthday_label=row[col_map["特殊誕生日（英語）"]],
                 first_tweet_datetime=first_tweet_datetime,
                 first_stream_datetime=first_stream_datetime,
-                youtube_url=row[11],
-                twitter_url=row[12],
-                description=row[13],
-                eng_description=row[14],
+                youtube_url=row[col_map["YouTube"]],
+                twitter_url=row[col_map["X"]],
+                description=row[col_map["補足"]],
+                eng_description=row[col_map["補足（英語）"]],
                 graduation_date=graduation_date,
                 timestamp=timestamp,
             )
@@ -189,13 +255,42 @@ class NijiCal:
         data = pd.read_csv(self.event_data_path, encoding="utf_8_sig")
         tzinfo = "+09:00"
 
+        # Define expected columns
+        expected_columns = [
+            "イベント名",
+            "UID",
+            "データ更新日時",
+            "イベント名（英語）",
+            "開始日時",
+            "終了日時",
+            "場所",
+            "場所（英語）",
+            "geo",
+            "説明文",
+            "説明文（英語）",
+            "URL",
+            "参加者",
+            "ハッシュタグ",
+        ]
+
+        # Validate columns and get indices
+        col_map = self._validate_and_get_column_indices(
+            data.columns.tolist(), expected_columns, "events.csv"
+        )
+
         events: list[Event] = []
-        for row in data.itertuples():
-            uid = row[2]
-            timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
-            begin = arrow.get(row[5], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
-            end = arrow.get(row[6], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
-            talent_names = list(name.strip() for name in row[13].split(","))
+        for row in data.itertuples(index=False):
+            uid = row[col_map["UID"]]
+            timestamp = arrow.get(
+                row[col_map["データ更新日時"]], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo
+            )
+            begin = arrow.get(
+                row[col_map["開始日時"]], "YYYY/MM/DD HH:mm", tzinfo=tzinfo
+            )
+            end = arrow.get(row[col_map["終了日時"]], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            talent_names = list(
+                name.strip() for name in row[col_map["参加者"]].split(",")
+            )
 
             event_talents: list[Talent] = []
             for talent_name in talent_names:
@@ -205,6 +300,12 @@ class NijiCal:
             if uid in tickets:
                 event_tickets = tickets[uid]
 
+            summary_value = row[col_map["イベント名"]]
+            eng_summary_value = row[col_map["イベント名（英語）"]]
+            description_value = row[col_map["説明文"]]
+            eng_description_value = row[col_map["説明文（英語）"]]
+            hashtag_value = row[col_map["ハッシュタグ"]]
+
             event = Event(
                 uid=uid,
                 timestamp=timestamp,
@@ -213,14 +314,17 @@ class NijiCal:
                 all_day=False,
                 yearly=False,
                 repeat_until=None,
-                summary=row[1] if type(row[1]) is str else "",
-                eng_summary=row[4] if type(row[4]) is str else "",
-                location=row[7],
-                eng_location=row[8],
-                geo=row[9],
-                description=row[10] if type(row[10]) is str else "",
-                eng_description=row[11] if type(row[11]) is str else "",
-                url=row[12],
+                summary=summary_value if type(summary_value) is str else "",
+                eng_summary=eng_summary_value if type(eng_summary_value) is str else "",
+                location=row[col_map["場所"]],
+                eng_location=row[col_map["場所（英語）"]],
+                geo=row[col_map["geo"]],
+                description=description_value if type(description_value) is str else "",
+                eng_description=eng_description_value
+                if type(eng_description_value) is str
+                else "",
+                url=row[col_map["URL"]],
+                hashtag=hashtag_value if type(hashtag_value) is str else None,
                 talents=event_talents,
                 tickets=event_tickets,
                 event_type=EventType.EVENT,
@@ -303,31 +407,54 @@ class NijiCal:
         data = pd.read_csv(self.ticket_data_path, encoding="utf_8_sig")
         tzinfo = "+09:00"
 
+        # Define expected columns
+        expected_columns = [
+            "タイトル",
+            "UID",
+            "更新日時",
+            "タイトル（英語）",
+            "イベントUID",
+            "イベント名（自動、確認用）",
+            "開始日時",
+            "終了日時",
+            "URL",
+            "色分け用",
+        ]
+
+        # Validate columns and get indices
+        col_map = self._validate_and_get_column_indices(
+            data.columns.tolist(), expected_columns, "tickets.csv"
+        )
+
         tickets: dict[str, list[Talent]] = {}
-        for row in data.itertuples():
-            event_uid = row[5]
-            timestamp = arrow.get(row[3], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo)
+        for row in data.itertuples(index=False):
+            event_uid = row[col_map["イベントUID"]]
+            timestamp = arrow.get(
+                row[col_map["更新日時"]], "YYYY/MM/DD HH:mm:ss", tzinfo=tzinfo
+            )
 
             begin: arrow.Arrow | None = None
-            if type(row[7]) is str and len(row[7]) > 0:
-                begin = arrow.get(row[7], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            begin_value = row[col_map["開始日時"]]
+            if type(begin_value) is str and len(begin_value) > 0:
+                begin = arrow.get(begin_value, "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
 
             end: arrow.Arrow | None = None
-            if type(row[8]) is str and len(row[8]) > 0:
-                end = arrow.get(row[8], "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
+            end_value = row[col_map["終了日時"]]
+            if type(end_value) is str and len(end_value) > 0:
+                end = arrow.get(end_value, "YYYY/MM/DD HH:mm", tzinfo=tzinfo)
 
             if begin is None and end is None:
                 continue
 
             ticket = Ticket(
-                uid=row[2],
+                uid=row[col_map["UID"]],
                 timestamp=timestamp,
                 event_uid=event_uid,
                 begin=begin,
                 end=end,
-                summary=row[1],
-                eng_summary=row[4],
-                url=row[9],
+                summary=row[col_map["タイトル"]],
+                eng_summary=row[col_map["タイトル（英語）"]],
+                url=row[col_map["URL"]],
             )
 
             if event_uid not in tickets:
@@ -600,12 +727,24 @@ class NijiCal:
         en_text = ""
         for ev in sorted_live_events:
             duration = ev.end - ev.begin
+
+            # Add hashtag to summary if present
+            hashtag_suffix = ""
+            if (
+                ev.hashtag is not None
+                and type(ev.hashtag) is str
+                and len(ev.hashtag.strip()) > 0
+            ):
+                hashtag_suffix = f" #{ev.hashtag.strip()}"
+
             if not ev.all_day and duration.days < 1 and ev.begin.day == date.day:
-                ja_text += f"{ev.begin.format('HH:mm')} {ev.summary}\n"
-                en_text += f"{ev.begin.format('HH:mm')} JST {ev.eng_summary}\n"
+                ja_text += f"{ev.begin.format('HH:mm')} {ev.summary}{hashtag_suffix}\n"
+                en_text += (
+                    f"{ev.begin.format('HH:mm')} JST {ev.eng_summary}{hashtag_suffix}\n"
+                )
             else:
-                ja_text += f"{ev.summary}\n"
-                en_text += f"{ev.eng_summary}\n"
+                ja_text += f"{ev.summary}{hashtag_suffix}\n"
+                en_text += f"{ev.eng_summary}{hashtag_suffix}\n"
 
             if type(ev.url) is str and len(ev.url) > 0:
                 ja_text += f"{ev.url}\n"
