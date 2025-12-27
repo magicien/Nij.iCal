@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20210106
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nun Bora Birthday
-DESCRIPTION:Nun Bora Birthday\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:Nun Bora Birthday\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200731T101000Z
 DTEND:20200731T104000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nun Bora Debut
-DESCRIPTION:Nun Bora Debut\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:Nun Bora Debut\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200808T040000Z
 DTEND:20200808T043000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nun Bora Debut stream
-DESCRIPTION:Nun Bora Debut stream\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:Nun Bora Debut stream\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210731T101000Z
 DTEND:20210731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:Nun Bora 1st Anniversary
-DESCRIPTION:Nun Bora 1st Anniversary\n\nFirst tweet: Jul 31, 2020, 19:10 (JST)\nFirst stream: Aug 8, 2020, 13:00 (JST)\n\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:Nun Bora 1st Anniversary\n\nFirst tweet: Jul 31, 2020, 19:10 (JST)\nFirst stream: Aug 8, 2020, 13:00 (JST)\n\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20211130
 DTEND;VALUE=DATE:20211201
 TRANSP:TRANSPARENT
 SUMMARY:Nun Bora Graduation
-DESCRIPTION:Nun Bora Graduation\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:Nun Bora Graduation\n\n==========\n【Nun Bora】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 END:VCALENDAR

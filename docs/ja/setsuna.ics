@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in よみうりランド にじさんじWEEK ~みんなで行こうにじさんじランド~
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:c57415fd-77bf-43e5-9023-bf0532012018
@@ -23,7 +23,7 @@ DTEND;VALUE=DATE:20181224
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:雪汝 誕生日
-DESCRIPTION:雪汝 誕生日\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:雪汝 誕生日\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ DTSTART:20180730T120600Z
 DTEND:20180730T123600Z
 TRANSP:TRANSPARENT
 SUMMARY:雪汝 活動開始
-DESCRIPTION:雪汝 活動開始\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:雪汝 活動開始\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DTSTART:20180830T050000Z
 DTEND:20180830T053000Z
 TRANSP:TRANSPARENT
 SUMMARY:雪汝 初配信
-DESCRIPTION:雪汝 初配信\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:雪汝 初配信\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTART:20190730T120600Z
 DTEND:20190730T120601Z
 TRANSP:TRANSPARENT
 SUMMARY:雪汝 1周年
-DESCRIPTION:雪汝 1周年\n\n初ツイート：2018/07/30 21:06 （日本時間）\n初配信：2018/08/30 14:00 （日本時間）\n\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:雪汝 1周年\n\n初ツイート：2018/07/30 21:06 （日本時間）\n初配信：2018/08/30 14:00 （日本時間）\n\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -63,17 +63,17 @@ DTSTART;VALUE=DATE:20191030
 DTEND;VALUE=DATE:20191031
 TRANSP:TRANSPARENT
 SUMMARY:雪汝 卒業
-DESCRIPTION:雪汝 卒業\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:雪汝 卒業\n\n==========\n【雪汝】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20211115
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:イ オン 誕生日
-DESCRIPTION:イ オン 誕生日\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://twitter.com/LeeOn2434\n\n
+DESCRIPTION:イ オン 誕生日\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://x.com/LeeOn2434\n\n
 URL:https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20210825T113300Z
 DTEND:20210825T120300Z
 TRANSP:TRANSPARENT
 SUMMARY:イ オン 活動開始
-DESCRIPTION:イ オン 活動開始\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://twitter.com/LeeOn2434\n\n
+DESCRIPTION:イ オン 活動開始\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://x.com/LeeOn2434\n\n
 URL:https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20210901T123000Z
 DTEND:20210901T130000Z
 TRANSP:TRANSPARENT
 SUMMARY:イ オン 初配信
-DESCRIPTION:イ オン 初配信\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://twitter.com/LeeOn2434\n\n
+DESCRIPTION:イ オン 初配信\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://x.com/LeeOn2434\n\n
 URL:https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20220330
 DTEND;VALUE=DATE:20220331
 TRANSP:TRANSPARENT
 SUMMARY:イ オン 卒業
-DESCRIPTION:イ オン 卒業\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://twitter.com/LeeOn2434\n\n
+DESCRIPTION:イ オン 卒業\n\n==========\n【イ オン】\nYouTube: https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg\nX: https://x.com/LeeOn2434\n\n
 URL:https://www.youtube.com/channel/UCCJcCWrbQzz6eDhX4M1CUwg
 END:VEVENT
 END:VCALENDAR

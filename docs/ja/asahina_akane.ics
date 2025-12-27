@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND:20211003T070000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじFAN Talk
 LOCATION:オンライン
-DESCRIPTION:\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://twitter.com/mahiroyukishiro\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://twitter.com/Chihiro_yuki23\n\n
+DESCRIPTION:\n\n==========\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://x.com/elu_world\n\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://x.com/mahiroyukishiro\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n【勇気ちひろ】\nYouTube: https://www.youtube.com/@YukiChihiro\nX: https://x.com/Chihiro_yuki23\n\n
 URL:https://event.nijisanji.app/nijifantalk_2021/
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ DTEND:20220423T082000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじFAN Talk Vol.2
 LOCATION:オンライン
-DESCRIPTION:\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://twitter.com/elu_world\n\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://twitter.com/suzukautako\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://twitter.com/Sara_Hoshikawa\n\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://twitter.com/midori_2434\n\n
+DESCRIPTION:\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://x.com/elu_world\n\n【鈴鹿詩子】\nYouTube: https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA\nX: https://x.com/suzukautako\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n
 URL:https://event.nijisanji.app/nijifantalk_vol2/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2022
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 1
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n司会：竜胆尊/剣持刀也\n出演：モイラ/鈴谷アキ/月ノ美兎/樋口楓/勇気ちひろ/家長むぎ/夕陽リリ/伏見ガク/剣持刀也/物述有栖/ギルザレンⅢ世/文野環/森中花咲/叶/赤羽葉子/卯月コウ/鈴木勝/ドーラ/轟京子/シスター・クレア/社築/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/でびでび・でびる/桜凛月/町田ちま/夢追翔/ベルモンド・バンデラス/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/アルス・アルマル/相羽ういは/天宮こころ/エリー・コニファー/早瀬走/健屋花那/星川サラ/ルイス・キャミー/魔使マオ/白雪巴/グウェル・オス・ガール/ましろ爻/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/周央サンゴ/東堂コハク/北小路ヒスイ/西園チグサ/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n司会：竜胆尊/剣持刀也\n出演：モイラ/鈴谷アキ/月ノ美兎/樋口楓/勇気ちひろ/家長むぎ/夕陽リリ/伏見ガク/剣持刀也/物述有栖/ギルザレンⅢ世/文野環/森中花咲/叶/赤羽葉子/卯月コウ/鈴木勝/ドーラ/轟京子/シスター・クレア/社築/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/でびでび・でびる/桜凛月/町田ちま/夢追翔/ベルモンド・バンデラス/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/アルス・アルマル/相羽ういは/天宮こころ/エリー・コニファー/早瀬走/健屋花那/星川サラ/ルイス・キャミー/魔使マオ/白雪巴/グウェル・オス・ガール/ましろ爻/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/周央サンゴ/東堂コハク/北小路ヒスイ/西園チグサ/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +80,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 2
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n司会：竜胆尊/剣持刀也\n出演：月ノ美兎/える/渋谷ハジメ/夕陽リリ/伏見ガク/剣持刀也/叶/赤羽葉子/卯月コウ/緑仙/鷹宮リオン/ドーラ/シスター・クレア/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/舞元啓介/竜胆尊/町田ちま/ジョー・力一/夢追翔/ベルモンド・バンデラス/小野町春香/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/相羽ういは/天宮こころ/ラトナ・プティ/健屋花那/フミ/星川サラ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/フレン・E・ルスタリオ/弦月藤士郎/甲斐田晴/西園チグサ/レオス・ヴィンセント/オリバー・エバンス\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n司会：竜胆尊/剣持刀也\n出演：月ノ美兎/える/渋谷ハジメ/夕陽リリ/伏見ガク/剣持刀也/叶/赤羽葉子/卯月コウ/緑仙/鷹宮リオン/ドーラ/シスター・クレア/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/舞元啓介/竜胆尊/町田ちま/ジョー・力一/夢追翔/ベルモンド・バンデラス/小野町春香/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/相羽ういは/天宮こころ/ラトナ・プティ/健屋花那/フミ/星川サラ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/フレン・E・ルスタリオ/弦月藤士郎/甲斐田晴/西園チグサ/レオス・ヴィンセント/オリバー・エバンス\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +91,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 3
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n司会：竜胆尊/剣持刀也\n出演：樋口楓/える/伏見ガク/森中花咲/叶/鈴木勝/緑仙/ドーラ/花畑チャイカ/笹木咲/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/竜胆尊/桜凛月/ジョー・力一/夢追翔/小野町春香/戌亥とこ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉加瀬冬雪/加賀美ハヤト/相羽ういは/天宮こころ/エリー・コニファー/ラトナ・プティ/早瀬走/健屋花那/フミ/星川サラ/山神カルタ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/奈羅花/来栖夏芽/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/レオス・ヴィンセント/オリバー・エバンス/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n司会：竜胆尊/剣持刀也\n出演：樋口楓/える/伏見ガク/森中花咲/叶/鈴木勝/緑仙/ドーラ/花畑チャイカ/笹木咲/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/竜胆尊/桜凛月/ジョー・力一/夢追翔/小野町春香/戌亥とこ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉加瀬冬雪/加賀美ハヤト/相羽ういは/天宮こころ/エリー・コニファー/ラトナ・プティ/早瀬走/健屋花那/フミ/星川サラ/山神カルタ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/奈羅花/来栖夏芽/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/レオス・ヴィンセント/オリバー・エバンス/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nornis 1st LIVE -Transparent Blue-
 LOCATION:グランキューブ大阪 メインホール
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="グランキューブ大阪 メインホール":geo:34.689696,135.485886
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGU=?pit_git_type=SERIES\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://twitter.com/chima_machita23\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGU=?pit_git_type=SERIES\n\n==========\n【町田ちま】\nYouTube: https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\nX: https://x.com/chima_machita23\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n
 URL:https://www.nornis.com/event/1st_live/
 END:VEVENT
 BEGIN:VEVENT
@@ -114,7 +114,7 @@ DTEND;VALUE=DATE:20201216
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:朝日南アカネ 誕生日
-DESCRIPTION:朝日南アカネ 誕生日\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:朝日南アカネ 誕生日\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n
 URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +124,7 @@ DTSTART:20200806T070000Z
 DTEND:20200806T073000Z
 TRANSP:TRANSPARENT
 SUMMARY:朝日南アカネ 活動開始
-DESCRIPTION:朝日南アカネ 活動開始\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:朝日南アカネ 活動開始\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n
 URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
 END:VEVENT
 BEGIN:VEVENT
@@ -134,7 +134,7 @@ DTSTART:20200810T040100Z
 DTEND:20200810T043100Z
 TRANSP:TRANSPARENT
 SUMMARY:朝日南アカネ 初配信
-DESCRIPTION:朝日南アカネ 初配信\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:朝日南アカネ 初配信\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n
 URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
 END:VEVENT
 BEGIN:VEVENT
@@ -144,7 +144,7 @@ DTSTART:20210806T070000Z
 DTEND:20210806T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:朝日南アカネ 1周年
-DESCRIPTION:朝日南アカネ 1周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/10 13:01 （日本時間）\n\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:朝日南アカネ 1周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/10 13:01 （日本時間）\n\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n
 URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
 END:VEVENT
 BEGIN:VEVENT
@@ -154,7 +154,7 @@ DTSTART:20220806T070000Z
 DTEND:20220806T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:朝日南アカネ 2周年
-DESCRIPTION:朝日南アカネ 2周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/10 13:01 （日本時間）\n\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:朝日南アカネ 2周年\n\n初ツイート：2020/08/06 16:00 （日本時間）\n初配信：2020/08/10 13:01 （日本時間）\n\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n
 URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
 END:VEVENT
 BEGIN:VEVENT
@@ -164,7 +164,7 @@ DTSTART;VALUE=DATE:20230524
 DTEND;VALUE=DATE:20230525
 TRANSP:TRANSPARENT
 SUMMARY:朝日南アカネ 卒業
-DESCRIPTION:朝日南アカネ 卒業\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://twitter.com/Akane_Asahina__\n\n
+DESCRIPTION:朝日南アカネ 卒業\n\n==========\n【朝日南アカネ】\nYouTube: https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\nX: https://x.com/Akane_Asahina__\n\n
 URL:https://www.youtube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ
 END:VEVENT
 END:VCALENDAR

@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20211124
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:ソン ミア 誕生日
-DESCRIPTION:ソン ミア 誕生日\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:ソン ミア 誕生日\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20210423T073600Z
 DTEND:20210423T080600Z
 TRANSP:TRANSPARENT
 SUMMARY:ソン ミア 活動開始
-DESCRIPTION:ソン ミア 活動開始\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:ソン ミア 活動開始\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20210430T120000Z
 DTEND:20210430T123000Z
 TRANSP:TRANSPARENT
 SUMMARY:ソン ミア 初配信
-DESCRIPTION:ソン ミア 初配信\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:ソン ミア 初配信\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART:20220423T073600Z
 DTEND:20220423T073601Z
 TRANSP:TRANSPARENT
 SUMMARY:ソン ミア 1周年
-DESCRIPTION:ソン ミア 1周年\n\n初ツイート：2021/04/23 16:36 （日本時間）\n初配信：2021/04/30 21:00 （日本時間）\n\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:ソン ミア 1周年\n\n初ツイート：2021/04/23 16:36 （日本時間）\n初配信：2021/04/30 21:00 （日本時間）\n\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -52,7 +52,7 @@ DTSTART;VALUE=DATE:20220501
 DTEND;VALUE=DATE:20220502
 TRANSP:TRANSPARENT
 SUMMARY:ソン ミア 卒業
-DESCRIPTION:ソン ミア 卒業\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:ソン ミア 卒業\n\n==========\n【ソン ミア】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 END:VCALENDAR

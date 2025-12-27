@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI SHOW DOWN NijiQuiz Stage
 LOCATION:Zepp DiverCity (TOKYO)
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp DiverCity (TOKYO)":geo:35.624704,139.774649
-DESCRIPTION:\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://twitter.com/sukosuko_sukoya\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://twitter.com/Fuwa_Minato\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://twitter.com/zulmihp1nlmot5y\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://twitter.com/Lize_Helesta\n\n
+DESCRIPTION:\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://x.com/joerikiichi\n\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://x.com/sukosuko_sukoya\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Hanabatake Chaika】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://x.com/zulmihp1nlmot5y\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n
 URL:https://event.nijisanji.app/showdown/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ DTEND;VALUE=DATE:20190929
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai Birthday
-DESCRIPTION:Mayuzumi Kai Birthday\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai Birthday\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ DTSTART:20190724T080000Z
 DTEND:20190724T083000Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai Debut
-DESCRIPTION:Mayuzumi Kai Debut\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai Debut\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +78,7 @@ DTSTART:20190728T131900Z
 DTEND:20190728T134900Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai Debut stream
-DESCRIPTION:Mayuzumi Kai Debut stream\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai Debut stream\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
@@ -88,7 +88,7 @@ DTSTART:20200724T080000Z
 DTEND:20200724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai 1st Anniversary
-DESCRIPTION:Mayuzumi Kai 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +98,7 @@ DTSTART:20210724T080000Z
 DTEND:20210724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai 2nd Anniversary
-DESCRIPTION:Mayuzumi Kai 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +108,7 @@ DTSTART:20220724T080000Z
 DTEND:20220724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai 3rd Anniversary
-DESCRIPTION:Mayuzumi Kai 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 22:19 (JST)\n\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +118,7 @@ DTSTART;VALUE=DATE:20220728
 DTEND;VALUE=DATE:20220729
 TRANSP:TRANSPARENT
 SUMMARY:Mayuzumi Kai Graduation
-DESCRIPTION:Mayuzumi Kai Graduation\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://twitter.com/mayuzumi_X\n\n
+DESCRIPTION:Mayuzumi Kai Graduation\n\n==========\n【Mayuzumi Kai】\nYouTube: https://www.youtube.com/c/MayuzumiX\nX: https://x.com/mayuzumi_X\n\n
 URL:https://www.youtube.com/c/MayuzumiX
 END:VEVENT
 END:VCALENDAR

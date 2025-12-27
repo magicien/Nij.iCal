@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20200220
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:ハン チホ 誕生日
-DESCRIPTION:ハン チホ 誕生日\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://twitter.com/HanChiho2434\n\n
+DESCRIPTION:ハン チホ 誕生日\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://x.com/HanChiho2434\n\n
 URL:https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200125T134100Z
 DTEND:20200125T141100Z
 TRANSP:TRANSPARENT
 SUMMARY:ハン チホ 活動開始
-DESCRIPTION:ハン チホ 活動開始\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://twitter.com/HanChiho2434\n\n
+DESCRIPTION:ハン チホ 活動開始\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://x.com/HanChiho2434\n\n
 URL:https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200127T110000Z
 DTEND:20200127T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:ハン チホ 初配信
-DESCRIPTION:ハン チホ 初配信\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://twitter.com/HanChiho2434\n\n
+DESCRIPTION:ハン チホ 初配信\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://x.com/HanChiho2434\n\n
 URL:https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210125T134100Z
 DTEND:20210125T134101Z
 TRANSP:TRANSPARENT
 SUMMARY:ハン チホ 1周年
-DESCRIPTION:ハン チホ 1周年\n\n初ツイート：2020/01/25 22:41 （日本時間）\n初配信：2020/01/27 20:00 （日本時間）\n\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://twitter.com/HanChiho2434\n\n
+DESCRIPTION:ハン チホ 1周年\n\n初ツイート：2020/01/25 22:41 （日本時間）\n初配信：2020/01/27 20:00 （日本時間）\n\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://x.com/HanChiho2434\n\n
 URL:https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART:20220125T134100Z
 DTEND:20220125T134101Z
 TRANSP:TRANSPARENT
 SUMMARY:ハン チホ 2周年
-DESCRIPTION:ハン チホ 2周年\n\n初ツイート：2020/01/25 22:41 （日本時間）\n初配信：2020/01/27 20:00 （日本時間）\n\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://twitter.com/HanChiho2434\n\n
+DESCRIPTION:ハン チホ 2周年\n\n初ツイート：2020/01/25 22:41 （日本時間）\n初配信：2020/01/27 20:00 （日本時間）\n\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://x.com/HanChiho2434\n\n
 URL:https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ
 END:VEVENT
 BEGIN:VEVENT
@@ -85,7 +85,7 @@ DTSTART;VALUE=DATE:20220430
 DTEND;VALUE=DATE:20220501
 TRANSP:TRANSPARENT
 SUMMARY:ハン チホ 卒業
-DESCRIPTION:ハン チホ 卒業\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://twitter.com/HanChiho2434\n\n
+DESCRIPTION:ハン チホ 卒業\n\n==========\n【ハン チホ】\nYouTube: https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ\nX: https://x.com/HanChiho2434\n\n
 URL:https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ
 END:VEVENT
 END:VCALENDAR

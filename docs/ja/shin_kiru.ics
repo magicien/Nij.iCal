@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20210531
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:シン ギル 誕生日
-DESCRIPTION:シン ギル 誕生日\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://twitter.com/KiruShin2434\n\n
+DESCRIPTION:シン ギル 誕生日\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://x.com/KiruShin2434\n\n
 URL:https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20201009T103000Z
 DTEND:20201009T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:シン ギル 活動開始
-DESCRIPTION:シン ギル 活動開始\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://twitter.com/KiruShin2434\n\n
+DESCRIPTION:シン ギル 活動開始\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://x.com/KiruShin2434\n\n
 URL:https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20201016T120000Z
 DTEND:20201016T123000Z
 TRANSP:TRANSPARENT
 SUMMARY:シン ギル 初配信
-DESCRIPTION:シン ギル 初配信\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://twitter.com/KiruShin2434\n\n
+DESCRIPTION:シン ギル 初配信\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://x.com/KiruShin2434\n\n
 URL:https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20211009T103000Z
 DTEND:20211009T103001Z
 TRANSP:TRANSPARENT
 SUMMARY:シン ギル 1周年
-DESCRIPTION:シン ギル 1周年\n\n初ツイート：2020/10/09 19:30 （日本時間）\n初配信：2020/10/16 21:00 （日本時間）\n\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://twitter.com/KiruShin2434\n\n
+DESCRIPTION:シン ギル 1周年\n\n初ツイート：2020/10/09 19:30 （日本時間）\n初配信：2020/10/16 21:00 （日本時間）\n\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://x.com/KiruShin2434\n\n
 URL:https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20220331
 DTEND;VALUE=DATE:20220401
 TRANSP:TRANSPARENT
 SUMMARY:シン ギル 卒業
-DESCRIPTION:シン ギル 卒業\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://twitter.com/KiruShin2434\n\n
+DESCRIPTION:シン ギル 卒業\n\n==========\n【シン ギル】\nYouTube: https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ\nX: https://x.com/KiruShin2434\n\n
 URL:https://www.youtube.com/channel/UCi6nV5Z2dzFuXBzLG3P9zqQ
 END:VEVENT
 END:VCALENDAR

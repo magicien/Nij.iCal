@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20180905
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Hassaku Yuzu Birthday
-DESCRIPTION:Hassaku Yuzu Birthday\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://twitter.com/839yuzu\n\n
+DESCRIPTION:Hassaku Yuzu Birthday\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://x.com/839yuzu\n\n
 URL:https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20180603T090100Z
 DTEND:20180603T093100Z
 TRANSP:TRANSPARENT
 SUMMARY:Hassaku Yuzu Debut
-DESCRIPTION:Hassaku Yuzu Debut\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://twitter.com/839yuzu\n\n
+DESCRIPTION:Hassaku Yuzu Debut\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://x.com/839yuzu\n\n
 URL:https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20180606T120000Z
 DTEND:20180606T123000Z
 TRANSP:TRANSPARENT
 SUMMARY:Hassaku Yuzu Debut stream
-DESCRIPTION:Hassaku Yuzu Debut stream\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://twitter.com/839yuzu\n\n
+DESCRIPTION:Hassaku Yuzu Debut stream\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://x.com/839yuzu\n\n
 URL:https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg
 END:VEVENT
 BEGIN:VEVENT
@@ -42,17 +42,17 @@ DTSTART;VALUE=DATE:20190507
 DTEND;VALUE=DATE:20190508
 TRANSP:TRANSPARENT
 SUMMARY:Hassaku Yuzu Graduation
-DESCRIPTION:Hassaku Yuzu Graduation\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://twitter.com/839yuzu\n\n
+DESCRIPTION:Hassaku Yuzu Graduation\n\n==========\n【Hassaku Yuzu】\nYouTube: https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg\nX: https://x.com/839yuzu\n\n
 URL:https://www.youtube.com/channel/UCFaDvgez8USXHiKidt0NtZg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

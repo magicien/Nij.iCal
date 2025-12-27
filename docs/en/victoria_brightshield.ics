@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2023
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND;VALUE=DATE:20240319
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Victoria Brightshield Birthday
-DESCRIPTION:Victoria Brightshield Birthday\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
+DESCRIPTION:Victoria Brightshield Birthday\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://x.com/VBrightshield\n\n
 URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
@@ -34,7 +34,7 @@ DTSTART:20231026T000200Z
 DTEND:20231026T003200Z
 TRANSP:TRANSPARENT
 SUMMARY:Victoria Brightshield Debut
-DESCRIPTION:Victoria Brightshield Debut\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
+DESCRIPTION:Victoria Brightshield Debut\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://x.com/VBrightshield\n\n
 URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ DTSTART:20231028T023900Z
 DTEND:20231028T030900Z
 TRANSP:TRANSPARENT
 SUMMARY:Victoria Brightshield Debut stream
-DESCRIPTION:Victoria Brightshield Debut stream\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
+DESCRIPTION:Victoria Brightshield Debut stream\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://x.com/VBrightshield\n\n
 URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DTSTART:20241026T000200Z
 DTEND:20241026T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:Victoria Brightshield 1st Anniversary
-DESCRIPTION:Victoria Brightshield 1st Anniversary\n\nFirst tweet: Oct 26, 2023, 9:02 (JST)\nFirst stream: Oct 28, 2023, 11:39 (JST)\n\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
+DESCRIPTION:Victoria Brightshield 1st Anniversary\n\nFirst tweet: Oct 26, 2023, 9:02 (JST)\nFirst stream: Oct 28, 2023, 11:39 (JST)\n\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://x.com/VBrightshield\n\n
 URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 BEGIN:VEVENT
@@ -64,7 +64,7 @@ DTSTART;VALUE=DATE:20241109
 DTEND;VALUE=DATE:20241110
 TRANSP:TRANSPARENT
 SUMMARY:Victoria Brightshield Graduation
-DESCRIPTION:Victoria Brightshield Graduation\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://twitter.com/VBrightshield\n\n
+DESCRIPTION:Victoria Brightshield Graduation\n\n==========\n【Victoria Brightshield】\nYouTube: https://www.youtube.com/@VictoriaBrightshield\nX: https://x.com/VBrightshield\n\n
 URL:https://www.youtube.com/@VictoriaBrightshield
 END:VEVENT
 END:VCALENDAR

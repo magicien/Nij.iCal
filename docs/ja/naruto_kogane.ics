@@ -11,7 +11,7 @@ DTSTART:20180809T071100Z
 DTEND:20180809T074100Z
 TRANSP:TRANSPARENT
 SUMMARY:鳴門こがね 活動開始
-DESCRIPTION:鳴門こがね 活動開始\n\n==========\n【鳴門こがね】\nYouTube: https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q\nX: https://twitter.com/nArUtO_kOgAnE\n\n
+DESCRIPTION:鳴門こがね 活動開始\n\n==========\n【鳴門こがね】\nYouTube: https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q\nX: https://x.com/nArUtO_kOgAnE\n\n
 URL:https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q
 END:VEVENT
 BEGIN:VEVENT
@@ -21,7 +21,7 @@ DTSTART:20180815T010100Z
 DTEND:20180815T013100Z
 TRANSP:TRANSPARENT
 SUMMARY:鳴門こがね 初配信
-DESCRIPTION:鳴門こがね 初配信\n\n==========\n【鳴門こがね】\nYouTube: https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q\nX: https://twitter.com/nArUtO_kOgAnE\n\n
+DESCRIPTION:鳴門こがね 初配信\n\n==========\n【鳴門こがね】\nYouTube: https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q\nX: https://x.com/nArUtO_kOgAnE\n\n
 URL:https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +31,7 @@ DTSTART;VALUE=DATE:20181231
 DTEND;VALUE=DATE:20190101
 TRANSP:TRANSPARENT
 SUMMARY:鳴門こがね 卒業
-DESCRIPTION:鳴門こがね 卒業\n\n==========\n【鳴門こがね】\nYouTube: https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q\nX: https://twitter.com/nArUtO_kOgAnE\n\n
+DESCRIPTION:鳴門こがね 卒業\n\n==========\n【鳴門こがね】\nYouTube: https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q\nX: https://x.com/nArUtO_kOgAnE\n\n
 URL:https://www.youtube.com/channel/UCF1JdALrXgub24weQpqDy9Q
 END:VEVENT
 END:VCALENDAR

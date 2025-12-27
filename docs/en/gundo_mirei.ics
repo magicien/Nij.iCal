@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1ecbe2c4-68bf-4d58-af9d-97f9b9a64285
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Nagoya LIVE
 LOCATION:Zepp Nagoya
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Zepp Nagoya":geo:35.163209,136.884450
-DESCRIPTION:Special Site\nhttps://event.nijisanji.app/japantour2020/\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://twitter.com/takamiyarion\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://twitter.com/rindoumikoto\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://twitter.com/joerikiichi\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/japantour2020/\n\n==========\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://x.com/takamiyarion\n\n【Rindou Mikoto】\nYouTube: https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A\nX: https://x.com/rindoumikoto\n\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://x.com/joerikiichi\n\n
 URL:https://event.nijisanji.app/japantour2020/
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +36,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +92,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ DTEND;VALUE=DATE:20190615
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei Birthday
-DESCRIPTION:Gundo Mirei Birthday\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei Birthday\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
@@ -113,7 +113,7 @@ DTSTART:20190118T070400Z
 DTEND:20190118T073400Z
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei Debut
-DESCRIPTION:Gundo Mirei Debut\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei Debut\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,7 @@ DTSTART:20190120T130000Z
 DTEND:20190120T133000Z
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei Debut stream
-DESCRIPTION:Gundo Mirei Debut stream\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei Debut stream\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +133,7 @@ DTSTART:20200118T070400Z
 DTEND:20200118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei 1st Anniversary
-DESCRIPTION:Gundo Mirei 1st Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei 1st Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +143,7 @@ DTSTART:20210118T070400Z
 DTEND:20210118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei 2nd Anniversary
-DESCRIPTION:Gundo Mirei 2nd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei 2nd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +153,7 @@ DTSTART:20220118T070400Z
 DTEND:20220118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei 3rd Anniversary
-DESCRIPTION:Gundo Mirei 3rd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei 3rd Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
@@ -163,7 +163,7 @@ DTSTART:20230118T070400Z
 DTEND:20230118T070401Z
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei 4th Anniversary
-DESCRIPTION:Gundo Mirei 4th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei 4th Anniversary\n\nFirst tweet: Jan 18, 2019, 16:04 (JST)\nFirst stream: Jan 20, 2019, 22:00 (JST)\n\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
@@ -173,17 +173,17 @@ DTSTART;VALUE=DATE:20230621
 DTEND;VALUE=DATE:20230622
 TRANSP:TRANSPARENT
 SUMMARY:Gundo Mirei Graduation
-DESCRIPTION:Gundo Mirei Graduation\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://twitter.com/g9v9g_mirei\n\n
+DESCRIPTION:Gundo Mirei Graduation\n\n==========\n【Gundo Mirei】\nYouTube: https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nX: https://x.com/g9v9g_mirei\n\n
 URL:https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

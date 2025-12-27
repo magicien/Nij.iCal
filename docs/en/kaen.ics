@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20200903
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Kaen Birthday
-DESCRIPTION:Kaen Birthday\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:Kaen Birthday\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20200125T151800Z
 DTEND:20200125T154800Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaen Debut
-DESCRIPTION:Kaen Debut\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:Kaen Debut\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20200129T060000Z
 DTEND:20200129T063000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaen Debut stream
-DESCRIPTION:Kaen Debut stream\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:Kaen Debut stream\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20200717
 DTEND;VALUE=DATE:20200718
 TRANSP:TRANSPARENT
 SUMMARY:Kaen Graduation
-DESCRIPTION:Kaen Graduation\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:Kaen Graduation\n\n==========\n【Kaen】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 END:VCALENDAR

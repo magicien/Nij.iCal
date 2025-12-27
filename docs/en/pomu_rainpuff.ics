@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2023
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DTEND;VALUE=DATE:20210713
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff Birthday
-DESCRIPTION:Pomu Rainpuff Birthday\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff Birthday\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://x.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -79,7 +79,7 @@ DTSTART:20210512T130900Z
 DTEND:20210512T133900Z
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff Debut
-DESCRIPTION:Pomu Rainpuff Debut\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff Debut\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://x.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +89,7 @@ DTSTART:20210516T021000Z
 DTEND:20210516T024000Z
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff Debut stream
-DESCRIPTION:Pomu Rainpuff Debut stream\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff Debut stream\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://x.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DTSTART:20220512T130900Z
 DTEND:20220512T130901Z
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff 1st Anniversary
-DESCRIPTION:Pomu Rainpuff 1st Anniversary\n\nFirst tweet: May 12, 2021, 22:09 (JST)\nFirst stream: May 16, 2021, 11:10 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff 1st Anniversary\n\nFirst tweet: May 12, 2021, 22:09 (JST)\nFirst stream: May 16, 2021, 11:10 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://x.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +109,7 @@ DTSTART:20230512T130900Z
 DTEND:20230512T130901Z
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff 2nd Anniversary
-DESCRIPTION:Pomu Rainpuff 2nd Anniversary\n\nFirst tweet: May 12, 2021, 22:09 (JST)\nFirst stream: May 16, 2021, 11:10 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff 2nd Anniversary\n\nFirst tweet: May 12, 2021, 22:09 (JST)\nFirst stream: May 16, 2021, 11:10 (JST)\n\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://x.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -119,7 +119,7 @@ DTSTART;VALUE=DATE:20240120
 DTEND;VALUE=DATE:20240121
 TRANSP:TRANSPARENT
 SUMMARY:Pomu Rainpuff Graduation
-DESCRIPTION:Pomu Rainpuff Graduation\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://twitter.com/PomuRainpuff\n\n
+DESCRIPTION:Pomu Rainpuff Graduation\n\n==========\n【Pomu Rainpuff】\nYouTube: https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ\nX: https://x.com/PomuRainpuff\n\n
 URL:https://www.youtube.com/channel/UCP4nMSTdwU1KqYWu3UH5DHQ
 END:VEVENT
 END:VCALENDAR

@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2022
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 1
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n司会：竜胆尊/剣持刀也\n出演：モイラ/鈴谷アキ/月ノ美兎/樋口楓/勇気ちひろ/家長むぎ/夕陽リリ/伏見ガク/剣持刀也/物述有栖/ギルザレンⅢ世/文野環/森中花咲/叶/赤羽葉子/卯月コウ/鈴木勝/ドーラ/轟京子/シスター・クレア/社築/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/でびでび・でびる/桜凛月/町田ちま/夢追翔/ベルモンド・バンデラス/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/アルス・アルマル/相羽ういは/天宮こころ/エリー・コニファー/早瀬走/健屋花那/星川サラ/ルイス・キャミー/魔使マオ/白雪巴/グウェル・オス・ガール/ましろ爻/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/周央サンゴ/東堂コハク/北小路ヒスイ/西園チグサ/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n司会：竜胆尊/剣持刀也\n出演：モイラ/鈴谷アキ/月ノ美兎/樋口楓/勇気ちひろ/家長むぎ/夕陽リリ/伏見ガク/剣持刀也/物述有栖/ギルザレンⅢ世/文野環/森中花咲/叶/赤羽葉子/卯月コウ/鈴木勝/ドーラ/轟京子/シスター・クレア/社築/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/でびでび・でびる/桜凛月/町田ちま/夢追翔/ベルモンド・バンデラス/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/アルス・アルマル/相羽ういは/天宮こころ/エリー・コニファー/早瀬走/健屋花那/星川サラ/ルイス・キャミー/魔使マオ/白雪巴/グウェル・オス・ガール/ましろ爻/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/周央サンゴ/東堂コハク/北小路ヒスイ/西園チグサ/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 2
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n司会：竜胆尊/剣持刀也\n出演：月ノ美兎/える/渋谷ハジメ/夕陽リリ/伏見ガク/剣持刀也/叶/赤羽葉子/卯月コウ/緑仙/鷹宮リオン/ドーラ/シスター・クレア/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/舞元啓介/竜胆尊/町田ちま/ジョー・力一/夢追翔/ベルモンド・バンデラス/小野町春香/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/相羽ういは/天宮こころ/ラトナ・プティ/健屋花那/フミ/星川サラ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/フレン・E・ルスタリオ/弦月藤士郎/甲斐田晴/西園チグサ/レオス・ヴィンセント/オリバー・エバンス\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n司会：竜胆尊/剣持刀也\n出演：月ノ美兎/える/渋谷ハジメ/夕陽リリ/伏見ガク/剣持刀也/叶/赤羽葉子/卯月コウ/緑仙/鷹宮リオン/ドーラ/シスター・クレア/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/舞元啓介/竜胆尊/町田ちま/ジョー・力一/夢追翔/ベルモンド・バンデラス/小野町春香/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/相羽ういは/天宮こころ/ラトナ・プティ/健屋花那/フミ/星川サラ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/フレン・E・ルスタリオ/弦月藤士郎/甲斐田晴/西園チグサ/レオス・ヴィンセント/オリバー・エバンス\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 3
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n司会：竜胆尊/剣持刀也\n出演：樋口楓/える/伏見ガク/森中花咲/叶/鈴木勝/緑仙/ドーラ/花畑チャイカ/笹木咲/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/竜胆尊/桜凛月/ジョー・力一/夢追翔/小野町春香/戌亥とこ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉加瀬冬雪/加賀美ハヤト/相羽ういは/天宮こころ/エリー・コニファー/ラトナ・プティ/早瀬走/健屋花那/フミ/星川サラ/山神カルタ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/奈羅花/来栖夏芽/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/レオス・ヴィンセント/オリバー・エバンス/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n司会：竜胆尊/剣持刀也\n出演：樋口楓/える/伏見ガク/森中花咲/叶/鈴木勝/緑仙/ドーラ/花畑チャイカ/笹木咲/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/竜胆尊/桜凛月/ジョー・力一/夢追翔/小野町春香/戌亥とこ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉加瀬冬雪/加賀美ハヤト/相羽ういは/天宮こころ/エリー・コニファー/ラトナ・プティ/早瀬走/健屋花那/フミ/星川サラ/山神カルタ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/奈羅花/来栖夏芽/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/レオス・ヴィンセント/オリバー・エバンス/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2023
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DTEND:20240414T040000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI EN AR LIVE “COLORS” PASTEL STAGE & VIVID STAGE
 LOCATION:オンライン
-DESCRIPTION:\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【ロゼミ ラブロック】\nYouTube: https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg\nX: https://twitter.com/Rosemi_Lovelock\n\n【遠藤霊夢】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://twitter.com/ReimuEndou\n\n【エナー・アールウェット】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://twitter.com/EnnaAlouette\n\n【ミリー・パフェ】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://twitter.com/Vox_Akuma\n\n【ルカ・カネシロ】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://twitter.com/Luca_Kaneshiro\n\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://twitter.com/Ike_Eveland\n\n【闇ノシュウ】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://twitter.com/Shu_Yamino\n\n【アルバーン・ノックス】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://twitter.com/alban_knox\n\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://twitter.com/sonny_brisko\n\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://twitter.com/uki_violeta\n\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://twitter.com/fulgur_ovid\n\n
+DESCRIPTION:\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://x.com/EliraPendora\n\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【ロゼミ ラブロック】\nYouTube: https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg\nX: https://x.com/Rosemi_Lovelock\n\n【遠藤霊夢】\nYouTube: https://www.youtube.com/channel/UCBURM8S4LH7cRZ0Clea9RDA\nX: https://x.com/ReimuEndou\n\n【エナー・アールウェット】\nYouTube: https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow\nX: https://x.com/EnnaAlouette\n\n【ミリー・パフェ】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://x.com/MillieParfait\n\n【ヴォックス・アクマ】\nYouTube: https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA\nX: https://x.com/Vox_Akuma\n\n【ルカ・カネシロ】\nYouTube: https://www.youtube.com/channel/UC7Gb7Uawe20QyFibhLl1lzA\nX: https://x.com/Luca_Kaneshiro\n\n【アイク・イーヴランド】\nYouTube: https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA\nX: https://x.com/Ike_Eveland\n\n【闇ノシュウ】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://x.com/Shu_Yamino\n\n【アルバーン・ノックス】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n【サニー・ブリスコー】\nYouTube: https://www.youtube.com/channel/UCuuAb_72QzK0M1USPMEl1yw\nX: https://x.com/sonny_brisko\n\n【浮奇・ヴィオレタ】\nYouTube: https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ\nX: https://x.com/uki_violeta\n\n【ファルガー・オーヴィド】\nYouTube: https://www.youtube.com/channel/UCGhqxhovNfaPBpxfCruy9EA\nX: https://x.com/fulgur_ovid\n\n
 URL:https://www.nijisanji.jp/events/EN_COLORS/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +80,7 @@ DTEND:20240706T210000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI EN SUMMER JAM Group1
 LOCATION:オンライン
-DESCRIPTION:\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://twitter.com/EliraPendora\n\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://twitter.com/Petra_Gurin\n\n【ロゼミ ラブロック】\nYouTube: https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg\nX: https://twitter.com/Rosemi_Lovelock\n\n【ミリー・パフェ】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://twitter.com/MillieParfait\n\n
+DESCRIPTION:\n\n==========\n【エリーラ ペンドラ】\nYouTube: https://www.youtube.com/channel/UCIeSUTOTkF9Hs7q3SGcO-Ow\nX: https://x.com/EliraPendora\n\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n【ペトラ グリン】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【ロゼミ ラブロック】\nYouTube: https://www.youtube.com/channel/UC4WvIIAo89_AzGUh1AZ6Dkg\nX: https://x.com/Rosemi_Lovelock\n\n【ミリー・パフェ】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://x.com/MillieParfait\n\n
 URL:https://www.youtube.com/live/HrmvTgp06bg
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +91,7 @@ DTEND:20241220T124000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ歌謡祭2024 Day1
 LOCATION:オンライン
-DESCRIPTION:赤の組織\nえま★おうがすと／魔使マオ／ルイス・キャミー\n\n∀zalea\n夕陽リリ／天ヶ瀬むゆ／倉持めると\n\nいずれ菖蒲か杜若\n司賀りこ／ルンルン／珠乃井ナナ／綺沙良／梢桃音\n\nit's 1ove\n魔界ノりりむ／葉加瀬冬雪／フレン・E・ルスタリオ／レイン・パターソン\n\nVΔLZ\n弦月藤士郎／長尾景／甲斐田晴\n\nUNEI48\n笹木咲／奈羅花／先斗寧／鏑木ろこ／小清水透\n\nAngelfeesh\nフィナーナ 竜宮／アイア アマレ\n\nおせき班\nでびでび・でびる／夜見れな／シェリン・バーガンディ／魔使マオ\n\nOBSYDIA\nペトラ グリン／ロゼミ ラブロック\n\n織姫星\nフミ／星川サラ／山神カルタ\n\nかえみとがびと\n樋口楓／月ノ美兎／剣持刀也／伏見ガク\n\n楽団V!VO\n鈴木勝／セラフ・ダズルガーデン／エリー・コニファー／立伝都々／えま★おうがすと\n\n共通衣装SPユニット(町田、夢追、白雪、不破)\n町田ちま／夢追翔／白雪巴／不破湊\n\n月華美人\n竜胆尊／赤羽葉子／椎名唯華\n\nコウandヒバ\n卯月コウ／渡会雲雀\n\nこじらせハラスメント feat.魔界ノりりむ\n緑仙／魔界ノりりむ／弦月藤士郎\n\nざぶぅん\n伊波ライ／緋八マナ\n\nCUV2\nクロード クローマーク／浮奇・ヴィオレタ／ヴォックス・アクマ／ヴェザリウス バンデージ\n\n四季オリ花\n四季凪アキラ／オリバー・エバンス／健屋花那\n\nSilverDevilS\nアルス・アルマル／でびでび・でびる／葉山舞鈴／舞元啓介\n\nすこらび\n壱百満天原サロメ／ソフィア・ヴァレンタイン\n\nZuttomo\nペトラ グリン／遠藤霊夢／ミリー・パフェ／エナー・アールウェット\n\n双龍会\nリゼ・ヘルエスタ／加賀美ハヤト\n\nダブルデート♡\n樋口楓／戌亥とこ／星川サラ／フレン・E・ルスタリオ\n\nTSN\n夕陽リリ／叶／ローレン・イロアス\n\nDの石\n桜凛月／ベルモンド・バンデラス\n\nにじいろパルフェ\nえる／森中花咲／シスター・クレア／本間ひまわり／雪城眞尋／天ヶ瀬むゆ／海妹四葉\n\n七次元生徒会\n樋口楓／叶／緑仙／三枝明那／レオス・ヴィンセント／周央サンゴ\n\nNIJIAU\nルカ・カネシロ／サニー・ブリスコー／マリア マリオネット／レン ゾット\n\nにじプロセカ部\nドーラ／轟京子／社築／エリー・コニファー\n\n早瀬走ソロ\n早瀬走\n\n風楽奏斗ソロ\n風楽奏斗\n\nぷてみこ\nラトナ・プティ／竜胆尊\n\nMAS-RAO(仮)\n舞元啓介／ジョー・力一／オリバー・エバンス／レオス・ヴィンセント\n\nMaria Marionetteソロ\nマリア マリオネット\n\nYAMILLION\n闇ノシュウ／ヴェール ヴァーミリオン\n\n夢追翔ソロ\n夢追翔\n\nレヴィ・エリファソロ\nレヴィ・エリファ\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:赤の組織\nえま★おうがすと／魔使マオ／ルイス・キャミー\n\n∀zalea\n夕陽リリ／天ヶ瀬むゆ／倉持めると\n\nいずれ菖蒲か杜若\n司賀りこ／ルンルン／珠乃井ナナ／綺沙良／梢桃音\n\nit's 1ove\n魔界ノりりむ／葉加瀬冬雪／フレン・E・ルスタリオ／レイン・パターソン\n\nVΔLZ\n弦月藤士郎／長尾景／甲斐田晴\n\nUNEI48\n笹木咲／奈羅花／先斗寧／鏑木ろこ／小清水透\n\nAngelfeesh\nフィナーナ 竜宮／アイア アマレ\n\nおせき班\nでびでび・でびる／夜見れな／シェリン・バーガンディ／魔使マオ\n\nOBSYDIA\nペトラ グリン／ロゼミ ラブロック\n\n織姫星\nフミ／星川サラ／山神カルタ\n\nかえみとがびと\n樋口楓／月ノ美兎／剣持刀也／伏見ガク\n\n楽団V!VO\n鈴木勝／セラフ・ダズルガーデン／エリー・コニファー／立伝都々／えま★おうがすと\n\n共通衣装SPユニット(町田、夢追、白雪、不破)\n町田ちま／夢追翔／白雪巴／不破湊\n\n月華美人\n竜胆尊／赤羽葉子／椎名唯華\n\nコウandヒバ\n卯月コウ／渡会雲雀\n\nこじらせハラスメント feat.魔界ノりりむ\n緑仙／魔界ノりりむ／弦月藤士郎\n\nざぶぅん\n伊波ライ／緋八マナ\n\nCUV2\nクロード クローマーク／浮奇・ヴィオレタ／ヴォックス・アクマ／ヴェザリウス バンデージ\n\n四季オリ花\n四季凪アキラ／オリバー・エバンス／健屋花那\n\nSilverDevilS\nアルス・アルマル／でびでび・でびる／葉山舞鈴／舞元啓介\n\nすこらび\n壱百満天原サロメ／ソフィア・ヴァレンタイン\n\nZuttomo\nペトラ グリン／遠藤霊夢／ミリー・パフェ／エナー・アールウェット\n\n双龍会\nリゼ・ヘルエスタ／加賀美ハヤト\n\nダブルデート♡\n樋口楓／戌亥とこ／星川サラ／フレン・E・ルスタリオ\n\nTSN\n夕陽リリ／叶／ローレン・イロアス\n\nDの石\n桜凛月／ベルモンド・バンデラス\n\nにじいろパルフェ\nえる／森中花咲／シスター・クレア／本間ひまわり／雪城眞尋／天ヶ瀬むゆ／海妹四葉\n\n七次元生徒会\n樋口楓／叶／緑仙／三枝明那／レオス・ヴィンセント／周央サンゴ\n\nNIJIAU\nルカ・カネシロ／サニー・ブリスコー／マリア マリオネット／レン ゾット\n\nにじプロセカ部\nドーラ／轟京子／社築／エリー・コニファー\n\n早瀬走ソロ\n早瀬走\n\n風楽奏斗ソロ\n風楽奏斗\n\nぷてみこ\nラトナ・プティ／竜胆尊\n\nMAS-RAO(仮)\n舞元啓介／ジョー・力一／オリバー・エバンス／レオス・ヴィンセント\n\nMaria Marionetteソロ\nマリア マリオネット\n\nYAMILLION\n闇ノシュウ／ヴェール ヴァーミリオン\n\n夢追翔ソロ\n夢追翔\n\nレヴィ・エリファソロ\nレヴィ・エリファ\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.nijisanji.jp/events/nmf2024/
 END:VEVENT
 BEGIN:VEVENT
@@ -102,7 +102,7 @@ DTEND:20241221T080000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ歌謡祭2024 Day2
 LOCATION:オンライン
-DESCRIPTION:RKS\n静凛／叶／渋谷ハジメ\n\nAia Amare ソロ\nアイア アマレ\n\nあっちゃんよっちゃん\nアンジュ・カトリーナ／海妹四葉\n\nIdios\n小清水透／獅子堂あかり／鏑木ろこ／五十嵐梨花／石神のぞみ／ソフィア・ヴァレンタイン／倉持めると\n\nUki Violetaソロ\n浮奇・ヴィオレタ\n\nEthyria\n遠藤霊夢／エナー・アールウェット／ミリー・パフェ\n\nS.B.S.P\n葉加瀬冬雪／フレン・E・ルスタリオ／石神のぞみ／倉持めると\n\nエデン組\nオリバー・エバンス／ローレン・イロアス／レオス・ヴィンセント／レイン・パターソン\n\n加賀美ハヤトソロ\n加賀美ハヤト\n\n北小路ヒスイソロ\n北小路ヒスイ\n\nくずもち\n葛葉／剣持刀也\n\nくれらい\nシェリン・バーガンディ／ルイス・キャミー\n\n弦月藤士郎ソロ\n弦月藤士郎\n\n黒夢町\n黒井しば／夢追翔／町田ちま\n\nさくゆいおりこう\n笹木咲／椎名唯華／魔界ノりりむ／卯月コウ\n\nさんばかJK組\n月ノ美兎／静凛／樋口楓／アンジュ・カトリーナ／戌亥とこ／リゼ・ヘルエスタ\n\n雑キープ\n花畑チャイカ／社築／加賀美ハヤト\n\n女王と会長\n白雪巴／来栖夏芽\n\nずきゅばっきゅん\n夕陽リリ／本間ひまわり／奈羅花／獅子堂あかり\n\nStarfeesh\nアスター アルカディア／フィナーナ 竜宮\n\nSpeciale\n七瀬すず菜／早乙女ベリー／雲母たまこ／酒寄颯馬／渚トラウト\n\nD.D.D\n鈴木勝／ドーラ／ベルモンド・バンデラス\n\nDOOM&BLOOM\nロゼミ ラブロック／ドッピオ ドロップサイト\n\nTwilime\n山神カルタ／東堂コハク\n\nナトナリ\n風楽奏斗／ヤン ナリ\n\nにじさんじ異世界ファンタジー女子組\nリゼ・ヘルエスタ／ニュイ・ソシエール／アルス・アルマル／フレン・E・ルスタリオ\n\nにじさんじオカルト研究部 with ましろ\nギルザレンⅢ世／伏見ガク／森中花咲／赤羽葉子／ましろ爻\n\nにじさんじバイト組\n赤城ウェン／宇佐美リト／星導ショウ／叢雲カゲツ\n\nにじさんじロケット軍団\n長尾景／文野環／フミ\n\n2時だとか\nローレン・イロアス／渡会雲雀／不破湊／イブラヒム\n\nNijiNOVA\nルカ・カネシロ／闇ノシュウ／サニー・ブリスコー／レン ゾット\n\nにじレジ(株)\n花畑チャイカ／椎名唯華／夜見れな\n\nふわぐさ\n不破湊／三枝明那\n\nぽさんけ\n天宮こころ／エリー・コニファー／ラトナ・プティ\n\nまいちぐ\n舞元啓介／西園チグサ\n\nMEDCS\n狂蘭 メロコ／エリーラ ペンドラ／ドッピオ ドロップサイト／クロード クローマーク／サニー・ブリスコー\n\nらぶスノ\n愛園愛美／白雪巴\n\nRRR\n鷹宮リオン／竜胆尊／ジョー・力一\n\nレヴィスター\nレヴィ・エリファ／空星きらめ\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:RKS\n静凛／叶／渋谷ハジメ\n\nAia Amare ソロ\nアイア アマレ\n\nあっちゃんよっちゃん\nアンジュ・カトリーナ／海妹四葉\n\nIdios\n小清水透／獅子堂あかり／鏑木ろこ／五十嵐梨花／石神のぞみ／ソフィア・ヴァレンタイン／倉持めると\n\nUki Violetaソロ\n浮奇・ヴィオレタ\n\nEthyria\n遠藤霊夢／エナー・アールウェット／ミリー・パフェ\n\nS.B.S.P\n葉加瀬冬雪／フレン・E・ルスタリオ／石神のぞみ／倉持めると\n\nエデン組\nオリバー・エバンス／ローレン・イロアス／レオス・ヴィンセント／レイン・パターソン\n\n加賀美ハヤトソロ\n加賀美ハヤト\n\n北小路ヒスイソロ\n北小路ヒスイ\n\nくずもち\n葛葉／剣持刀也\n\nくれらい\nシェリン・バーガンディ／ルイス・キャミー\n\n弦月藤士郎ソロ\n弦月藤士郎\n\n黒夢町\n黒井しば／夢追翔／町田ちま\n\nさくゆいおりこう\n笹木咲／椎名唯華／魔界ノりりむ／卯月コウ\n\nさんばかJK組\n月ノ美兎／静凛／樋口楓／アンジュ・カトリーナ／戌亥とこ／リゼ・ヘルエスタ\n\n雑キープ\n花畑チャイカ／社築／加賀美ハヤト\n\n女王と会長\n白雪巴／来栖夏芽\n\nずきゅばっきゅん\n夕陽リリ／本間ひまわり／奈羅花／獅子堂あかり\n\nStarfeesh\nアスター アルカディア／フィナーナ 竜宮\n\nSpeciale\n七瀬すず菜／早乙女ベリー／雲母たまこ／酒寄颯馬／渚トラウト\n\nD.D.D\n鈴木勝／ドーラ／ベルモンド・バンデラス\n\nDOOM&BLOOM\nロゼミ ラブロック／ドッピオ ドロップサイト\n\nTwilime\n山神カルタ／東堂コハク\n\nナトナリ\n風楽奏斗／ヤン ナリ\n\nにじさんじ異世界ファンタジー女子組\nリゼ・ヘルエスタ／ニュイ・ソシエール／アルス・アルマル／フレン・E・ルスタリオ\n\nにじさんじオカルト研究部 with ましろ\nギルザレンⅢ世／伏見ガク／森中花咲／赤羽葉子／ましろ爻\n\nにじさんじバイト組\n赤城ウェン／宇佐美リト／星導ショウ／叢雲カゲツ\n\nにじさんじロケット軍団\n長尾景／文野環／フミ\n\n2時だとか\nローレン・イロアス／渡会雲雀／不破湊／イブラヒム\n\nNijiNOVA\nルカ・カネシロ／闇ノシュウ／サニー・ブリスコー／レン ゾット\n\nにじレジ(株)\n花畑チャイカ／椎名唯華／夜見れな\n\nふわぐさ\n不破湊／三枝明那\n\nぽさんけ\n天宮こころ／エリー・コニファー／ラトナ・プティ\n\nまいちぐ\n舞元啓介／西園チグサ\n\nMEDCS\n狂蘭 メロコ／エリーラ ペンドラ／ドッピオ ドロップサイト／クロード クローマーク／サニー・ブリスコー\n\nらぶスノ\n愛園愛美／白雪巴\n\nRRR\n鷹宮リオン／竜胆尊／ジョー・力一\n\nレヴィスター\nレヴィ・エリファ／空星きらめ\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.nijisanji.jp/events/nmf2024/
 END:VEVENT
 BEGIN:VEVENT
@@ -113,7 +113,7 @@ DTEND:20241222T081000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ歌謡祭2024 Day3
 LOCATION:オンライン
-DESCRIPTION:視聴ページ\nhttps://www.youtube.com/watch?v=Cj6qVVDU3as\n\nウォーターポテト\nミン スゥーハ／ハ ユン\n\nVox Akumaソロ\nヴォックス・アクマ\n\nVOLTACTION\n渡会雲雀／風楽奏斗／四季凪アキラ／セラフ・ダズルガーデン\n\nえるハジ\nえる／渋谷ハジメ\n\nErgK\n卯月コウ／ましろ爻／レオス・ヴィンセント\n\n解散GIG\n椎名唯華／笹木咲／緑仙／赤羽葉子\n\n甲斐田晴ソロ\n甲斐田晴\n\nかなえぼし\n叶／星川サラ\n\nかみなり\n神田笑一／ヤン ナリ\n\n共通衣装SPユニット(社、夢追、三枝、シェリン)\n社築／夢追翔／三枝明那／シェリン・バーガンディ\n\nきらきら温泉\n空星きらめ／小野町春香\n\nKrisis\nユウ Q ウィルソン／ベンタクロウ ブリンガー／ヴェザリウス バンデージ\n\nSEUP\n闇ノシュウ／エリーラ ペンドラ／浮奇・ヴィオレタ／ペトラ グリン\n\n健屋花那ソロ\n健屋花那\n\nSMC組\n葉加瀬冬雪／夜見れな／加賀美ハヤト\n\n3SKM\n榊ネス／北見遊征／魁星\n\nセライノミライ\nナ セラ／ライ ガリレイ\n\n世怜音女学院演劇同好会\n周央サンゴ／北小路ヒスイ／西園チグサ／東堂コハク\n\nDuskMania\nマリア マリオネット／ドッピオ ドロップサイト\n\nちぇりーペぇ\nアンジュ・カトリーナ／ニュイ・ソシエール\n\nデレム カド ソロ\nデレム カド\n\nトラップ組\nガオン／オ ジユ\n\nNeapolitan Ice Cream\nアイク・イーヴランド／虎姫 コトカ\n\n名前のない組\nシスター・クレア／える／ドーラ／花畑チャイカ\n\nNIJISANJI EN GIRLS\nエリーラ ペンドラ／フィナーナ 竜宮／ロゼミ ラブロック／ペトラ グリン／エナー・アールウェット／遠藤霊夢／ミリー・パフェ／アイア アマレ(2D)／マリア マリオネット(2D)／スカーレ ヨナグニ(2D)／虎姫 コトカ(2D)／狂蘭 メロコ(2D)\n\n音色は紫\nイ ロハ／明楽レイ\n\nNornis\n戌亥とこ／町田ちま\n\nハッピートリガー\n家長むぎ／剣持刀也／夕陽リリ／伏見ガク\n\nハナ マキアソロ\nハナ マキア\n\nVabel\nオリバー・エバンス／ベルモンド・バンデラス\n\nFa/Sol/La\nレヴィ・エリファ／早瀬走／ドーラ\n\nフミソロ\nフミ\n\n文野環ソロ\n文野環\n\nぽんぴりか\n本間ひまわり／五十嵐梨花\n\nみたらし団\n立伝都々／栞葉るり／ミラン・ケストレル\n\nMECHATU-A\n佐伯イッテツ／赤城ウェン／宇佐美リト／緋八マナ／星導ショウ／叢雲カゲツ／小柳ロウ／伊波ライ\n\nめにまにカンパニー\n桜凛月／長尾景／セフィナ\n\nやまなつ\n山神カルタ／来栖夏芽\n\nライフさんきょうだい\n瀬戸美夜子／愛園愛美／グウェル・オス・ガール\n\nりねしば\n矢車りね／黒井しば\n\nRosemi Lovelockソロ\nロゼミ ラブロック\n\nロリコロール\n天宮こころ／レイン・パターソン／ルイス・キャミー\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:視聴ページ\nhttps://www.youtube.com/watch?v=Cj6qVVDU3as\n\nウォーターポテト\nミン スゥーハ／ハ ユン\n\nVox Akumaソロ\nヴォックス・アクマ\n\nVOLTACTION\n渡会雲雀／風楽奏斗／四季凪アキラ／セラフ・ダズルガーデン\n\nえるハジ\nえる／渋谷ハジメ\n\nErgK\n卯月コウ／ましろ爻／レオス・ヴィンセント\n\n解散GIG\n椎名唯華／笹木咲／緑仙／赤羽葉子\n\n甲斐田晴ソロ\n甲斐田晴\n\nかなえぼし\n叶／星川サラ\n\nかみなり\n神田笑一／ヤン ナリ\n\n共通衣装SPユニット(社、夢追、三枝、シェリン)\n社築／夢追翔／三枝明那／シェリン・バーガンディ\n\nきらきら温泉\n空星きらめ／小野町春香\n\nKrisis\nユウ Q ウィルソン／ベンタクロウ ブリンガー／ヴェザリウス バンデージ\n\nSEUP\n闇ノシュウ／エリーラ ペンドラ／浮奇・ヴィオレタ／ペトラ グリン\n\n健屋花那ソロ\n健屋花那\n\nSMC組\n葉加瀬冬雪／夜見れな／加賀美ハヤト\n\n3SKM\n榊ネス／北見遊征／魁星\n\nセライノミライ\nナ セラ／ライ ガリレイ\n\n世怜音女学院演劇同好会\n周央サンゴ／北小路ヒスイ／西園チグサ／東堂コハク\n\nDuskMania\nマリア マリオネット／ドッピオ ドロップサイト\n\nちぇりーペぇ\nアンジュ・カトリーナ／ニュイ・ソシエール\n\nデレム カド ソロ\nデレム カド\n\nトラップ組\nガオン／オ ジユ\n\nNeapolitan Ice Cream\nアイク・イーヴランド／虎姫 コトカ\n\n名前のない組\nシスター・クレア／える／ドーラ／花畑チャイカ\n\nNIJISANJI EN GIRLS\nエリーラ ペンドラ／フィナーナ 竜宮／ロゼミ ラブロック／ペトラ グリン／エナー・アールウェット／遠藤霊夢／ミリー・パフェ／アイア アマレ(2D)／マリア マリオネット(2D)／スカーレ ヨナグニ(2D)／虎姫 コトカ(2D)／狂蘭 メロコ(2D)\n\n音色は紫\nイ ロハ／明楽レイ\n\nNornis\n戌亥とこ／町田ちま\n\nハッピートリガー\n家長むぎ／剣持刀也／夕陽リリ／伏見ガク\n\nハナ マキアソロ\nハナ マキア\n\nVabel\nオリバー・エバンス／ベルモンド・バンデラス\n\nFa/Sol/La\nレヴィ・エリファ／早瀬走／ドーラ\n\nフミソロ\nフミ\n\n文野環ソロ\n文野環\n\nぽんぴりか\n本間ひまわり／五十嵐梨花\n\nみたらし団\n立伝都々／栞葉るり／ミラン・ケストレル\n\nMECHATU-A\n佐伯イッテツ／赤城ウェン／宇佐美リト／緋八マナ／星導ショウ／叢雲カゲツ／小柳ロウ／伊波ライ\n\nめにまにカンパニー\n桜凛月／長尾景／セフィナ\n\nやまなつ\n山神カルタ／来栖夏芽\n\nライフさんきょうだい\n瀬戸美夜子／愛園愛美／グウェル・オス・ガール\n\nりねしば\n矢車りね／黒井しば\n\nRosemi Lovelockソロ\nロゼミ ラブロック\n\nロリコロール\n天宮こころ／レイン・パターソン／ルイス・キャミー\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.nijisanji.jp/events/nmf2024/
 END:VEVENT
 BEGIN:VEVENT
@@ -125,19 +125,19 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ 7th Anniversary Festival（にじさんじフェス2025）
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250306T035749Z
+DTSTAMP:20251227T084503Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展
 LOCATION:六本木ミュージアム
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="六本木ミュージアム":geo:35.659695,139.734002
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\n==========\nチケット情報：\n\n4月分チケット先行抽選 (2025/3/20 12:00〜2025/3/23 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n4月分チケット一般販売（先着） (2025/3/31 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n5月分チケット先行抽選 (2025/3/28 12:00〜2025/4/6 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n5月分チケット一般販売（先着） (2025/4/19 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n6月分チケット先行抽選 (2025/5/3 12:00〜2025/5/11 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n6月分チケット一般販売（先着） (2025/5/24 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n開館時間\n・平日：10-18時（最終入場 17:30）\n・土日祝およびGW期間：10-20時（最終入場 19:30）\n\nハッシュタグ：#にじフェス展\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B9%E5%B1%95\n\n==========\nチケット情報：\n\n4月分チケット先行抽選 (2025/3/20 12:00〜2025/3/23 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n4月分チケット一般販売（先着） (2025/3/31 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n5月分チケット先行抽選 (2025/3/28 12:00〜2025/4/6 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n5月分チケット一般販売（先着） (2025/4/19 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n6月分チケット先行抽選 (2025/5/3 12:00〜2025/5/11 23:59)\nhttps://eplus.jp/nijifes_ex/\n\n6月分チケット一般販売（先着） (2025/5/24 12:00〜)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 4月分チケット先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -157,7 +157,7 @@ DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 4月分チケット先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -167,7 +167,7 @@ DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 4月分チケット一般販売（先着） 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -177,7 +177,7 @@ DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 5月分チケット先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -187,7 +187,7 @@ DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 5月分チケット先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -197,7 +197,7 @@ DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 5月分チケット一般販売（先着） 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -207,7 +207,7 @@ DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 6月分チケット先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -217,7 +217,7 @@ DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 6月分チケット先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -227,7 +227,7 @@ DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス展: 6月分チケット一般販売（先着） 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijifes_ex/\n\nイベント:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -238,7 +238,7 @@ DTEND:20250922T140000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1
 LOCATION:各映画館
-DESCRIPTION:ニュースサイト\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nチケット購入ページ\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nチケット情報：\n\nプレイガイド先行（抽選） (2025/8/29 12:00〜2025/9/7 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n映画館販売（先着） (2025/9/20 0:00〜)\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:ニュースサイト\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nチケット購入ページ\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nチケット情報：\n\nプレイガイド先行（抽選） (2025/8/29 12:00〜2025/9/7 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n映画館販売（先着） (2025/9/20 0:00〜)\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
@@ -248,7 +248,7 @@ DTSTART:20250829T030000Z
 DTEND:20250829T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: プレイガイド先行（抽選） 開始
-DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -258,7 +258,7 @@ DTSTART:20250907T145900Z
 DTEND:20250907T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: プレイガイド先行（抽選） 終了
-DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -268,7 +268,7 @@ DTSTART:20250919T150000Z
 DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
-DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -278,7 +278,7 @@ DTEND:20250923T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2
 LOCATION:各映画館
-DESCRIPTION:ニュースサイト\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nチケット購入ページ\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nチケット情報：\n\nプレイガイド先行（抽選） (2025/8/29 12:00〜2025/9/7 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n映画館販売（先着） (2025/9/20 0:00〜)\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:ニュースサイト\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nチケット購入ページ\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nチケット情報：\n\nプレイガイド先行（抽選） (2025/8/29 12:00〜2025/9/7 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n映画館販売（先着） (2025/9/20 0:00〜)\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
@@ -288,7 +288,7 @@ DTSTART:20250829T030000Z
 DTEND:20250829T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: プレイガイド先行（抽選） 開始
-DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -298,7 +298,7 @@ DTSTART:20250907T145900Z
 DTEND:20250907T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: プレイガイド先行（抽選） 終了
-DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -308,7 +308,7 @@ DTSTART:20250919T150000Z
 DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
-DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -319,19 +319,19 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス展 in Taipei
 LOCATION:台北流行音楽中心文化館 2階特別展示室
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="台北流行音楽中心文化館 2階特別展示室":geo:25.052639,121.598507
-DESCRIPTION:特設サイト\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\n開館時間（台北時間）\n・1月2日（金）～1月11日（日）10:30～21:00\n・1月12日（月）～1月26日（月） 10:30～20:30\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:特設サイト\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\n開館時間（台北時間）\n・1月2日（金）～1月11日（日）10:30～21:00\n・1月12日（月）～1月26日（月） 10:30～20:30\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://capsuleleu.kktix.cc/events/nijifesexintaipei
 END:VEVENT
 BEGIN:VEVENT
 UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20251130T144135Z
+DTSTAMP:20251227T082716Z
 DTSTART:20260516T010000Z
 DTEND:20260516T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2026 1日目
 LOCATION:幕張メッセ 国際展示場 展示ホール1～8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nチケット情報：\n\n「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) (2026/2/14 12:00〜)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\n入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\n入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\nチケット情報：\n\n「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) (2026/2/14 12:00〜)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\n入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\n入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -341,7 +341,7 @@ DTSTART:20260113T110000Z
 DTEND:20260113T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -351,7 +351,7 @@ DTSTART:20260121T145900Z
 DTEND:20260121T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -361,7 +361,7 @@ DTSTART:20260214T030000Z
 DTEND:20260214T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room/
 END:VEVENT
 BEGIN:VEVENT
@@ -371,7 +371,7 @@ DTSTART:20260204T090000Z
 DTEND:20260204T093000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -381,7 +381,7 @@ DTSTART:20260215T145900Z
 DTEND:20260215T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -391,7 +391,7 @@ DTSTART:20260304T030000Z
 DTEND:20260304T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -401,7 +401,7 @@ DTSTART:20260310T145900Z
 DTEND:20260310T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -411,7 +411,7 @@ DTSTART:20260328T010000Z
 DTEND:20260328T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero/
 END:VEVENT
 BEGIN:VEVENT
@@ -421,7 +421,7 @@ DTSTART:20260204T090000Z
 DTEND:20260204T093000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -431,7 +431,7 @@ DTSTART:20260215T145900Z
 DTEND:20260215T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -441,7 +441,7 @@ DTSTART:20260304T030000Z
 DTEND:20260304T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　イープラス先行抽選 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -451,7 +451,7 @@ DTSTART:20260310T145900Z
 DTEND:20260310T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　イープラス先行抽選 終了
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -461,19 +461,19 @@ DTSTART:20260328T010000Z
 DTEND:20260328T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　一般販売(先着) 開始
-DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry/
 END:VEVENT
 BEGIN:VEVENT
 UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20251130T144137Z
+DTSTAMP:20251227T082730Z
 DTSTART:20260517T010000Z
 DTEND:20260517T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2026 2日目
 LOCATION:幕張メッセ 国際展示場 展示ホール1～8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -484,7 +484,7 @@ DTEND;VALUE=DATE:20210622
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 誕生日
-DESCRIPTION:フィナーナ 竜宮 誕生日\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 誕生日\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -494,7 +494,7 @@ DTSTART:20210512T131000Z
 DTEND:20210512T134000Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 活動開始
-DESCRIPTION:フィナーナ 竜宮 活動開始\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 活動開始\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -504,7 +504,7 @@ DTSTART:20210516T010000Z
 DTEND:20210516T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 初配信
-DESCRIPTION:フィナーナ 竜宮 初配信\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 初配信\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -514,7 +514,7 @@ DTSTART:20220512T131000Z
 DTEND:20220512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 1周年
-DESCRIPTION:フィナーナ 竜宮 1周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 1周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -524,7 +524,7 @@ DTSTART:20230512T131000Z
 DTEND:20230512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 2周年
-DESCRIPTION:フィナーナ 竜宮 2周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 2周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -534,7 +534,7 @@ DTSTART:20240512T131000Z
 DTEND:20240512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 3周年
-DESCRIPTION:フィナーナ 竜宮 3周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 3周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -544,7 +544,7 @@ DTSTART:20250512T131000Z
 DTEND:20250512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 4周年
-DESCRIPTION:フィナーナ 竜宮 4周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 4周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -554,7 +554,7 @@ DTSTART:20260512T131000Z
 DTEND:20260512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 5周年
-DESCRIPTION:フィナーナ 竜宮 5周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 5周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -564,7 +564,7 @@ DTSTART:20270512T131000Z
 DTEND:20270512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 6周年
-DESCRIPTION:フィナーナ 竜宮 6周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 6周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -574,7 +574,7 @@ DTSTART:20280512T131000Z
 DTEND:20280512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 7周年
-DESCRIPTION:フィナーナ 竜宮 7周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 7周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -584,7 +584,7 @@ DTSTART:20290512T131000Z
 DTEND:20290512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 8周年
-DESCRIPTION:フィナーナ 竜宮 8周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 8周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -594,7 +594,7 @@ DTSTART:20300512T131000Z
 DTEND:20300512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 9周年
-DESCRIPTION:フィナーナ 竜宮 9周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 9周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -604,7 +604,7 @@ DTSTART:20310512T131000Z
 DTEND:20310512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 10周年
-DESCRIPTION:フィナーナ 竜宮 10周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 10周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -614,7 +614,7 @@ DTSTART:20320512T131000Z
 DTEND:20320512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 11周年
-DESCRIPTION:フィナーナ 竜宮 11周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 11周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -624,7 +624,7 @@ DTSTART:20330512T131000Z
 DTEND:20330512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 12周年
-DESCRIPTION:フィナーナ 竜宮 12周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 12周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -634,7 +634,7 @@ DTSTART:20340512T131000Z
 DTEND:20340512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 13周年
-DESCRIPTION:フィナーナ 竜宮 13周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 13周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +644,7 @@ DTSTART:20350512T131000Z
 DTEND:20350512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 14周年
-DESCRIPTION:フィナーナ 竜宮 14周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://twitter.com/FinanaRyugu\n\n
+DESCRIPTION:フィナーナ 竜宮 14周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 END:VCALENDAR

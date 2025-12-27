@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20201227
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Lee Siu Birthday
-DESCRIPTION:Lee Siu Birthday\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:Lee Siu Birthday\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200520T062000Z
 DTEND:20200520T065000Z
 TRANSP:TRANSPARENT
 SUMMARY:Lee Siu Debut
-DESCRIPTION:Lee Siu Debut\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:Lee Siu Debut\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200522T105700Z
 DTEND:20200522T112700Z
 TRANSP:TRANSPARENT
 SUMMARY:Lee Siu Debut stream
-DESCRIPTION:Lee Siu Debut stream\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:Lee Siu Debut stream\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210520T062000Z
 DTEND:20210520T062001Z
 TRANSP:TRANSPARENT
 SUMMARY:Lee Siu 1st Anniversary
-DESCRIPTION:Lee Siu 1st Anniversary\n\nFirst tweet: May 20, 2020, 15:20 (JST)\nFirst stream: May 22, 2020, 19:57 (JST)\n\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:Lee Siu 1st Anniversary\n\nFirst tweet: May 20, 2020, 15:20 (JST)\nFirst stream: May 22, 2020, 19:57 (JST)\n\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20220320
 DTEND;VALUE=DATE:20220321
 TRANSP:TRANSPARENT
 SUMMARY:Lee Siu Graduation
-DESCRIPTION:Lee Siu Graduation\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:Lee Siu Graduation\n\n==========\n【Lee Siu】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 END:VCALENDAR

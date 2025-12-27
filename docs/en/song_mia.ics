@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20211124
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Song Mia Birthday
-DESCRIPTION:Song Mia Birthday\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:Song Mia Birthday\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20210423T073600Z
 DTEND:20210423T080600Z
 TRANSP:TRANSPARENT
 SUMMARY:Song Mia Debut
-DESCRIPTION:Song Mia Debut\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:Song Mia Debut\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20210430T120000Z
 DTEND:20210430T123000Z
 TRANSP:TRANSPARENT
 SUMMARY:Song Mia Debut stream
-DESCRIPTION:Song Mia Debut stream\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:Song Mia Debut stream\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART:20220423T073600Z
 DTEND:20220423T073601Z
 TRANSP:TRANSPARENT
 SUMMARY:Song Mia 1st Anniversary
-DESCRIPTION:Song Mia 1st Anniversary\n\nFirst tweet: Apr 23, 2021, 16:36 (JST)\nFirst stream: Apr 30, 2021, 21:00 (JST)\n\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:Song Mia 1st Anniversary\n\nFirst tweet: Apr 23, 2021, 16:36 (JST)\nFirst stream: Apr 30, 2021, 21:00 (JST)\n\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 BEGIN:VEVENT
@@ -52,7 +52,7 @@ DTSTART;VALUE=DATE:20220501
 DTEND;VALUE=DATE:20220502
 TRANSP:TRANSPARENT
 SUMMARY:Song Mia Graduation
-DESCRIPTION:Song Mia Graduation\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://twitter.com/SongMia2434\n\n
+DESCRIPTION:Song Mia Graduation\n\n==========\n【Song Mia】\nYouTube: https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA\nX: https://x.com/SongMia2434\n\n
 URL:https://www.youtube.com/channel/UCyqzU2nq7eGNi4kN0uHx7TA
 END:VEVENT
 END:VCALENDAR

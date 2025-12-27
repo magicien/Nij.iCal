@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20180605
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:海夜叉神 誕生日
-DESCRIPTION:海夜叉神 誕生日\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://twitter.com/god_yaksa23\n\n
+DESCRIPTION:海夜叉神 誕生日\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://x.com/god_yaksa23\n\n
 URL:https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20180603T030600Z
 DTEND:20180603T033600Z
 TRANSP:TRANSPARENT
 SUMMARY:海夜叉神 活動開始
-DESCRIPTION:海夜叉神 活動開始\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://twitter.com/god_yaksa23\n\n
+DESCRIPTION:海夜叉神 活動開始\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://x.com/god_yaksa23\n\n
 URL:https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20180607T140000Z
 DTEND:20180607T143000Z
 TRANSP:TRANSPARENT
 SUMMARY:海夜叉神 初配信
-DESCRIPTION:海夜叉神 初配信\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://twitter.com/god_yaksa23\n\n
+DESCRIPTION:海夜叉神 初配信\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://x.com/god_yaksa23\n\n
 URL:https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA
 END:VEVENT
 BEGIN:VEVENT
@@ -42,17 +42,17 @@ DTSTART;VALUE=DATE:20190409
 DTEND;VALUE=DATE:20190410
 TRANSP:TRANSPARENT
 SUMMARY:海夜叉神 卒業
-DESCRIPTION:海夜叉神 卒業\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://twitter.com/god_yaksa23\n\n
+DESCRIPTION:海夜叉神 卒業\n\n==========\n【海夜叉神】\nYouTube: https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA\nX: https://x.com/god_yaksa23\n\n
 URL:https://www.youtube.com/channel/UCqEp6RdtsMbUNrCdCswr6pA
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

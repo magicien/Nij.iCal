@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2022
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND;VALUE=DATE:20220605
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:遊間ユーゴ 誕生日
-DESCRIPTION:遊間ユーゴ 誕生日\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://twitter.com/Yugo_Asuma\n\n
+DESCRIPTION:遊間ユーゴ 誕生日\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://x.com/Yugo_Asuma\n\n
 URL:https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA
 END:VEVENT
 BEGIN:VEVENT
@@ -34,7 +34,7 @@ DTSTART:20220222T020300Z
 DTEND:20220222T023300Z
 TRANSP:TRANSPARENT
 SUMMARY:遊間ユーゴ 活動開始
-DESCRIPTION:遊間ユーゴ 活動開始\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://twitter.com/Yugo_Asuma\n\n
+DESCRIPTION:遊間ユーゴ 活動開始\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://x.com/Yugo_Asuma\n\n
 URL:https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ DTSTART:20220227T122000Z
 DTEND:20220227T125000Z
 TRANSP:TRANSPARENT
 SUMMARY:遊間ユーゴ 初配信
-DESCRIPTION:遊間ユーゴ 初配信\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://twitter.com/Yugo_Asuma\n\n
+DESCRIPTION:遊間ユーゴ 初配信\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://x.com/Yugo_Asuma\n\n
 URL:https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DTSTART;VALUE=DATE:20221214
 DTEND;VALUE=DATE:20221215
 TRANSP:TRANSPARENT
 SUMMARY:遊間ユーゴ 卒業
-DESCRIPTION:遊間ユーゴ 卒業\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://twitter.com/Yugo_Asuma\n\n
+DESCRIPTION:遊間ユーゴ 卒業\n\n==========\n【遊間ユーゴ】\nYouTube: https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA\nX: https://x.com/Yugo_Asuma\n\n
 URL:https://www.youtube.com/channel/UCSc_KzY_9WYAx9LghggjVRA
 END:VEVENT
 END:VCALENDAR

@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20200322
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Vihaan Birthday
-DESCRIPTION:Vihaan Birthday\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
+DESCRIPTION:Vihaan Birthday\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://x.com/Vihaan_VTuber\n\n
 URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200123T093500Z
 DTEND:20200123T100500Z
 TRANSP:TRANSPARENT
 SUMMARY:Vihaan Debut
-DESCRIPTION:Vihaan Debut\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
+DESCRIPTION:Vihaan Debut\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://x.com/Vihaan_VTuber\n\n
 URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200125T083000Z
 DTEND:20200125T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:Vihaan Debut stream
-DESCRIPTION:Vihaan Debut stream\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
+DESCRIPTION:Vihaan Debut stream\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://x.com/Vihaan_VTuber\n\n
 URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210123T093500Z
 DTEND:20210123T093501Z
 TRANSP:TRANSPARENT
 SUMMARY:Vihaan 1st Anniversary
-DESCRIPTION:Vihaan 1st Anniversary\n\nFirst tweet: Jan 23, 2020, 18:35 (JST)\nFirst stream: Jan 25, 2020, 17:30 (JST)\n\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
+DESCRIPTION:Vihaan 1st Anniversary\n\nFirst tweet: Jan 23, 2020, 18:35 (JST)\nFirst stream: Jan 25, 2020, 17:30 (JST)\n\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://x.com/Vihaan_VTuber\n\n
 URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20210430
 DTEND;VALUE=DATE:20210501
 TRANSP:TRANSPARENT
 SUMMARY:Vihaan Graduation
-DESCRIPTION:Vihaan Graduation\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://twitter.com/Vihaan_VTuber\n\n
+DESCRIPTION:Vihaan Graduation\n\n==========\n【Vihaan】\nYouTube: https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw\nX: https://x.com/Vihaan_VTuber\n\n
 URL:https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw
 END:VEVENT
 END:VCALENDAR

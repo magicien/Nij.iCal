@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20200828
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:ユ ルリ 誕生日
-DESCRIPTION:ユ ルリ 誕生日\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://twitter.com/RuriYu2434\n\n
+DESCRIPTION:ユ ルリ 誕生日\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://x.com/RuriYu2434\n\n
 URL:https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20200123T053600Z
 DTEND:20200123T060600Z
 TRANSP:TRANSPARENT
 SUMMARY:ユ ルリ 活動開始
-DESCRIPTION:ユ ルリ 活動開始\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://twitter.com/RuriYu2434\n\n
+DESCRIPTION:ユ ルリ 活動開始\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://x.com/RuriYu2434\n\n
 URL:https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20200125T110000Z
 DTEND:20200125T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:ユ ルリ 初配信
-DESCRIPTION:ユ ルリ 初配信\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://twitter.com/RuriYu2434\n\n
+DESCRIPTION:ユ ルリ 初配信\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://x.com/RuriYu2434\n\n
 URL:https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20200717
 DTEND;VALUE=DATE:20200718
 TRANSP:TRANSPARENT
 SUMMARY:ユ ルリ 卒業
-DESCRIPTION:ユ ルリ 卒業\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://twitter.com/RuriYu2434\n\n
+DESCRIPTION:ユ ルリ 卒業\n\n==========\n【ユ ルリ】\nYouTube: https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA\nX: https://x.com/RuriYu2434\n\n
 URL:https://www.youtube.com/channel/UCIJ9zP6gIkT8BB4Lz4UYPhA
 END:VEVENT
 END:VCALENDAR
