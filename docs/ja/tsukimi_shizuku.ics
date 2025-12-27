@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in よみうりランド にじさんじWEEK ~みんなで行こうにじさんじランド~
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:da044c51-5ba0-443b-bf9a-5d3140012019
@@ -23,7 +23,7 @@ DTEND;VALUE=DATE:20190816
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:月見しずく 誕生日
-DESCRIPTION:月見しずく 誕生日\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:月見しずく 誕生日\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ DTSTART:20180831T092300Z
 DTEND:20180831T095300Z
 TRANSP:TRANSPARENT
 SUMMARY:月見しずく 活動開始
-DESCRIPTION:月見しずく 活動開始\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:月見しずく 活動開始\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DTSTART:20180908T130000Z
 DTEND:20180908T133000Z
 TRANSP:TRANSPARENT
 SUMMARY:月見しずく 初配信
-DESCRIPTION:月見しずく 初配信\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:月見しずく 初配信\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTART:20190831T092300Z
 DTEND:20190831T092301Z
 TRANSP:TRANSPARENT
 SUMMARY:月見しずく 1周年
-DESCRIPTION:月見しずく 1周年\n\n初ツイート：2018/08/31 18:23 （日本時間）\n初配信：2018/09/08 22:00 （日本時間）\n\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:月見しずく 1周年\n\n初ツイート：2018/08/31 18:23 （日本時間）\n初配信：2018/09/08 22:00 （日本時間）\n\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -63,17 +63,17 @@ DTSTART;VALUE=DATE:20200113
 DTEND;VALUE=DATE:20200114
 TRANSP:TRANSPARENT
 SUMMARY:月見しずく 卒業
-DESCRIPTION:月見しずく 卒業\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:月見しずく 卒業\n\n==========\n【月見しずく】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

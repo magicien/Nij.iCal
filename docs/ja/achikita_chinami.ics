@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in よみうりランド にじさんじWEEK ~みんなで行こうにじさんじランド~
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:170898f9-c64c-481e-a658-f7b52b012018
@@ -23,7 +23,7 @@ DTEND;VALUE=DATE:20181031
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:遠北千南 誕生日
-DESCRIPTION:遠北千南 誕生日\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://twitter.com/ac1kt\n\n
+DESCRIPTION:遠北千南 誕生日\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://x.com/ac1kt\n\n
 URL:https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ DTSTART:20180831T070000Z
 DTEND:20180831T073000Z
 TRANSP:TRANSPARENT
 SUMMARY:遠北千南 活動開始
-DESCRIPTION:遠北千南 活動開始\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://twitter.com/ac1kt\n\n
+DESCRIPTION:遠北千南 活動開始\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://x.com/ac1kt\n\n
 URL:https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DTSTART:20180905T120000Z
 DTEND:20180905T123000Z
 TRANSP:TRANSPARENT
 SUMMARY:遠北千南 初配信
-DESCRIPTION:遠北千南 初配信\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://twitter.com/ac1kt\n\n
+DESCRIPTION:遠北千南 初配信\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://x.com/ac1kt\n\n
 URL:https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTART:20190831T070000Z
 DTEND:20190831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:遠北千南 1周年
-DESCRIPTION:遠北千南 1周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/05 21:00 （日本時間）\n\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://twitter.com/ac1kt\n\n
+DESCRIPTION:遠北千南 1周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/05 21:00 （日本時間）\n\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://x.com/ac1kt\n\n
 URL:https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg
 END:VEVENT
 BEGIN:VEVENT
@@ -63,17 +63,17 @@ DTSTART;VALUE=DATE:20200331
 DTEND;VALUE=DATE:20200401
 TRANSP:TRANSPARENT
 SUMMARY:遠北千南 卒業
-DESCRIPTION:遠北千南 卒業\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://twitter.com/ac1kt\n\n
+DESCRIPTION:遠北千南 卒業\n\n==========\n【遠北千南】\nYouTube: https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg\nX: https://x.com/ac1kt\n\n
 URL:https://www.youtube.com/channel/UCuz0vzQgC8LRdS6lVV0UkUg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

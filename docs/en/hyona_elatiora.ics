@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -57,7 +57,7 @@ DTEND;VALUE=DATE:20211025
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Hyona Elatiora Birthday
-DESCRIPTION:Hyona Elatiora Birthday\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+DESCRIPTION:Hyona Elatiora Birthday\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://x.com/HyonaElatiora\n\n
 URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
 END:VEVENT
 BEGIN:VEVENT
@@ -67,7 +67,7 @@ DTSTART:20210728T093400Z
 DTEND:20210728T100400Z
 TRANSP:TRANSPARENT
 SUMMARY:Hyona Elatiora Debut
-DESCRIPTION:Hyona Elatiora Debut\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+DESCRIPTION:Hyona Elatiora Debut\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://x.com/HyonaElatiora\n\n
 URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
 END:VEVENT
 BEGIN:VEVENT
@@ -77,7 +77,7 @@ DTSTART:20210731T115900Z
 DTEND:20210731T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:Hyona Elatiora Debut stream
-DESCRIPTION:Hyona Elatiora Debut stream\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+DESCRIPTION:Hyona Elatiora Debut stream\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://x.com/HyonaElatiora\n\n
 URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DTSTART:20220728T093400Z
 DTEND:20220728T093401Z
 TRANSP:TRANSPARENT
 SUMMARY:Hyona Elatiora 1st Anniversary
-DESCRIPTION:Hyona Elatiora 1st Anniversary\n\nFirst tweet: Jul 28, 2021, 18:34 (JST)\nFirst stream: Jul 31, 2021, 20:59 (JST)\n\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+DESCRIPTION:Hyona Elatiora 1st Anniversary\n\nFirst tweet: Jul 28, 2021, 18:34 (JST)\nFirst stream: Jul 31, 2021, 20:59 (JST)\n\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://x.com/HyonaElatiora\n\n
 URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
 END:VEVENT
 BEGIN:VEVENT
@@ -97,7 +97,7 @@ DTSTART:20230728T093400Z
 DTEND:20230728T093401Z
 TRANSP:TRANSPARENT
 SUMMARY:Hyona Elatiora 2nd Anniversary
-DESCRIPTION:Hyona Elatiora 2nd Anniversary\n\nFirst tweet: Jul 28, 2021, 18:34 (JST)\nFirst stream: Jul 31, 2021, 20:59 (JST)\n\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+DESCRIPTION:Hyona Elatiora 2nd Anniversary\n\nFirst tweet: Jul 28, 2021, 18:34 (JST)\nFirst stream: Jul 31, 2021, 20:59 (JST)\n\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://x.com/HyonaElatiora\n\n
 URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
 END:VEVENT
 BEGIN:VEVENT
@@ -107,7 +107,7 @@ DTSTART;VALUE=DATE:20231029
 DTEND;VALUE=DATE:20231030
 TRANSP:TRANSPARENT
 SUMMARY:Hyona Elatiora Graduation
-DESCRIPTION:Hyona Elatiora Graduation\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://twitter.com/HyonaElatiora\n\n
+DESCRIPTION:Hyona Elatiora Graduation\n\n==========\n【Hyona Elatiora】\nYouTube: https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg\nX: https://x.com/HyonaElatiora\n\n
 URL:https://www.youtube.com/channel/UCIBj1-d71vKjRftiauF50pg
 END:VEVENT
 END:VCALENDAR

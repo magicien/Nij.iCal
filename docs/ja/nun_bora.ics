@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20210106
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:ヌン ボラ 誕生日
-DESCRIPTION:ヌン ボラ 誕生日\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:ヌン ボラ 誕生日\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200731T101000Z
 DTEND:20200731T104000Z
 TRANSP:TRANSPARENT
 SUMMARY:ヌン ボラ 活動開始
-DESCRIPTION:ヌン ボラ 活動開始\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:ヌン ボラ 活動開始\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200808T040000Z
 DTEND:20200808T043000Z
 TRANSP:TRANSPARENT
 SUMMARY:ヌン ボラ 初配信
-DESCRIPTION:ヌン ボラ 初配信\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:ヌン ボラ 初配信\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210731T101000Z
 DTEND:20210731T101001Z
 TRANSP:TRANSPARENT
 SUMMARY:ヌン ボラ 1周年
-DESCRIPTION:ヌン ボラ 1周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/08 13:00 （日本時間）\n\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:ヌン ボラ 1周年\n\n初ツイート：2020/07/31 19:10 （日本時間）\n初配信：2020/08/08 13:00 （日本時間）\n\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20211130
 DTEND;VALUE=DATE:20211201
 TRANSP:TRANSPARENT
 SUMMARY:ヌン ボラ 卒業
-DESCRIPTION:ヌン ボラ 卒業\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://twitter.com/BoraNun2434\n\n
+DESCRIPTION:ヌン ボラ 卒業\n\n==========\n【ヌン ボラ】\nYouTube: https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg\nX: https://x.com/BoraNun2434\n\n
 URL:https://www.youtube.com/channel/UC1ZV7KBscK0EMoJKFu1DnDg
 END:VEVENT
 END:VCALENDAR

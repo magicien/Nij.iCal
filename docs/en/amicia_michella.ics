@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +36,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +80,7 @@ DTEND;VALUE=DATE:20191228
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella Birthday
-DESCRIPTION:Amicia Michella Birthday\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella Birthday\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://x.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
@@ -90,7 +90,7 @@ DTSTART:20191218T102700Z
 DTEND:20191218T105700Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella Debut
-DESCRIPTION:Amicia Michella Debut\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella Debut\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://x.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
@@ -100,7 +100,7 @@ DTSTART:20191221T125800Z
 DTEND:20191221T132800Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella Debut stream
-DESCRIPTION:Amicia Michella Debut stream\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella Debut stream\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://x.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +110,7 @@ DTSTART:20201218T102700Z
 DTEND:20201218T102701Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella 1st Anniversary
-DESCRIPTION:Amicia Michella 1st Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella 1st Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://x.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
@@ -120,7 +120,7 @@ DTSTART:20211218T102700Z
 DTEND:20211218T102701Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella 2nd Anniversary
-DESCRIPTION:Amicia Michella 2nd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella 2nd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://x.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
@@ -130,7 +130,7 @@ DTSTART:20221218T102700Z
 DTEND:20221218T102701Z
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella 3rd Anniversary
-DESCRIPTION:Amicia Michella 3rd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella 3rd Anniversary\n\nFirst tweet: Dec 18, 2019, 19:27 (JST)\nFirst stream: Dec 21, 2019, 21:58 (JST)\n\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://x.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 BEGIN:VEVENT
@@ -140,7 +140,7 @@ DTSTART;VALUE=DATE:20230716
 DTEND;VALUE=DATE:20230717
 TRANSP:TRANSPARENT
 SUMMARY:Amicia Michella Graduation
-DESCRIPTION:Amicia Michella Graduation\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://twitter.com/AmiciaMichella\n\n
+DESCRIPTION:Amicia Michella Graduation\n\n==========\n【Amicia Michella】\nYouTube: https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ\nX: https://x.com/AmiciaMichella\n\n
 URL:https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ
 END:VEVENT
 END:VCALENDAR

@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20201207
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Lorou Birthday
-DESCRIPTION:Lorou Birthday\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:Lorou Birthday\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20200125T133500Z
 DTEND:20200125T140500Z
 TRANSP:TRANSPARENT
 SUMMARY:Lorou Debut
-DESCRIPTION:Lorou Debut\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:Lorou Debut\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20200125T150000Z
 DTEND:20200125T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:Lorou Debut stream
-DESCRIPTION:Lorou Debut stream\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:Lorou Debut stream\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20200717
 DTEND;VALUE=DATE:20200718
 TRANSP:TRANSPARENT
 SUMMARY:Lorou Graduation
-DESCRIPTION:Lorou Graduation\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:Lorou Graduation\n\n==========\n【Lorou】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 END:VCALENDAR

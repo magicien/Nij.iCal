@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20190305
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Kudou Chitose Birthday
-DESCRIPTION:Kudou Chitose Birthday\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:Kudou Chitose Birthday\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20190108T070300Z
 DTEND:20190108T073300Z
 TRANSP:TRANSPARENT
 SUMMARY:Kudou Chitose Debut
-DESCRIPTION:Kudou Chitose Debut\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:Kudou Chitose Debut\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20190110T130000Z
 DTEND:20190110T133000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kudou Chitose Debut stream
-DESCRIPTION:Kudou Chitose Debut stream\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:Kudou Chitose Debut stream\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
@@ -42,17 +42,17 @@ DTSTART;VALUE=DATE:20190831
 DTEND;VALUE=DATE:20190901
 TRANSP:TRANSPARENT
 SUMMARY:Kudou Chitose Graduation
-DESCRIPTION:Kudou Chitose Graduation\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:Kudou Chitose Graduation\n\n==========\n【Kudou Chitose】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

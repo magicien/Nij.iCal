@@ -1,78 +1,79 @@
-イベント名,UID,データ更新日時,イベント名（英語）,開始日時,終了日時,場所,場所（英語）,geo,説明文,説明文（英語）,URL,参加者
-Kaede Higuchi 1st Live “KANA-DERO”,ceb6c76a-5f3d-41b2-8912-e7ae04b585f2, 2025/03/27 18:30:12,Kaede Higuchi 1st Live “KANA-DERO”,2019/01/12 17:00, 2019/01/12 19:00,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911","特設サイト
+イベント名,UID,データ更新日時,イベント名（英語）,開始日時,終了日時,場所,場所（英語）,geo,説明文,説明文（英語）,URL,参加者,ハッシュタグ
+月ノ美兎の朝まで起立しナイト（仮）,b42bbf1f-f97f-481e-87b8-1b380b8e579c, 2025/12/28 01:01:00,Tsukino Mito's Stand Up All Night (Tentative),2018/06/02 00:30,2018/06/02 02:30,阿佐ヶ谷ロフトA,Asagaya LOFT A,"35.703442,139.637032",,,https://nijisanji.fanbox.cc/posts/45773,月ノ美兎,
+Kaede Higuchi 1st Live “KANA-DERO”,ceb6c76a-5f3d-41b2-8912-e7ae04b585f2, 2025/12/27 16:57:26,Kaede Higuchi 1st Live “KANA-DERO”,2019/01/12 17:00, 2019/01/12 19:00,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911","特設サイト
 https://event.nijisanji.app/kanadero/","Special Site
-https://event.nijisanji.app/kanadero/",https://event.nijisanji.app/kanadero/,"樋口楓, 月ノ美兎, 静凛, える"
-樋口楓VRライブ「ReStart Line」,b76cddac-91ee-409a-9546-a87337b7d18e, 2025/03/27 18:30:20,"Higuchi Kaede VR Live ""ReStart Line""",2019/06/29 19:30, 2019/06/29 21:30,オンライン,Online,,,,,"樋口楓, 鈴鹿詩子"
-ド葛本社1stオフラインミーティング 昼の部,8fccb27a-f138-4d09-8b45-bf19f9b0afe1, 2025/03/21 18:55:40,Dokuzuhonsha 1st Offline Meeting Daytime Stage,2019/08/12 13:00,2019/08/12 15:00,神田明神ホール,KANDAMYOUJIN HALL,"35.701836,139.767254",,,,"ドーラ, 葛葉, 本間ひまわり, 社築"
-ド葛本社1stオフラインミーティング 夜の部,6e5a6a1a-5403-4640-88ce-333001ff9758, 2025/03/21 18:55:42,Dokuzuhonsha 1st Offline Meeting Nighttime Stage,2019/08/12 18:00,2019/08/12 20:00,神田明神ホール,KANDAMYOUJIN HALL,"35.701836,139.767254",,,,"ドーラ, 葛葉, 本間ひまわり, 社築"
-京まふ2019前夜祭「ド葛本社のドタバタ家族旅行in京都 」,d659b30a-22af-41c3-b2b4-717a3e6385d6, 2025/03/21 23:03:51,"Kyomafu 2019 Eve Festival: ""The Chaotic Family Trip to Kyoto by Dokuzuhonsha""",2019/09/20 18:30,2019/09/20 20:30,ロームシアター京都　メインホール,ROHM Theatre Kyoto,"35.014469,135.780642",,,https://kyomaf.kyoto/2019/pre-event/,"ドーラ, 葛葉, 本間ひまわり, 社築, 樋口楓"
-京まふ2019 コラボカフェ『にじさんじ おこしやす喫茶』,7efec380-e8e6-41f6-8390-21e3d6c2fee8, 2025/03/21 23:04:34,"Kyomafu 2019 Collaboration Cafe: ""Nijisanji Welcome Tea House""",2019/09/21 13:00,2019/09/21 17:00,みやこめっせ１F,Miyako Messe,"35.012815,135.780882",,,https://kyomaf.kyoto/2019/food_goods/characafe/nijisanji-cafe/,"ベルモンド・バンデラス, 戌亥とこ, 樋口楓, 本間ひまわり"
-京まふ2019 コラボカフェ『にじさんじ おこしやす喫茶』,be0a9bca-7523-4cea-831e-a89d4c52b105, 2025/03/21 23:04:36,"Kyomafu 2019 Collaboration Cafe: ""Nijisanji Welcome Tea House""",2019/09/22 11:00,2019/09/22 15:00,みやこめっせ１F,Miyako Messe,"35.012815,135.780882",,,https://kyomaf.kyoto/2019/food_goods/characafe/nijisanji-cafe/,"本間ひまわり, 御伽原江良, 花畑チャイカ, 樋口楓"
+https://event.nijisanji.app/kanadero/",https://event.nijisanji.app/kanadero/,"樋口楓, 月ノ美兎, 静凛, える",KANADERO
+樋口楓VRライブ「ReStart Line」,b76cddac-91ee-409a-9546-a87337b7d18e, 2025/12/27 17:20:05,"Higuchi Kaede VR Live ""ReStart Line""",2019/06/29 19:30, 2019/06/29 21:30,オンライン,Online,,,,,"樋口楓, 鈴鹿詩子",樋口楓VRライブReStartLine
+ド葛本社1stオフラインミーティング 昼の部,8fccb27a-f138-4d09-8b45-bf19f9b0afe1, 2025/03/21 18:55:40,Dokuzuhonsha 1st Offline Meeting Daytime Stage,2019/08/12 13:00,2019/08/12 15:00,神田明神ホール,KANDAMYOUJIN HALL,"35.701836,139.767254",,,,"ドーラ, 葛葉, 本間ひまわり, 社築",
+ド葛本社1stオフラインミーティング 夜の部,6e5a6a1a-5403-4640-88ce-333001ff9758, 2025/03/21 18:55:42,Dokuzuhonsha 1st Offline Meeting Nighttime Stage,2019/08/12 18:00,2019/08/12 20:00,神田明神ホール,KANDAMYOUJIN HALL,"35.701836,139.767254",,,,"ドーラ, 葛葉, 本間ひまわり, 社築",
+京まふ2019前夜祭「ド葛本社のドタバタ家族旅行in京都 」,d659b30a-22af-41c3-b2b4-717a3e6385d6, 2025/03/21 23:03:51,"Kyomafu 2019 Eve Festival: ""The Chaotic Family Trip to Kyoto by Dokuzuhonsha""",2019/09/20 18:30,2019/09/20 20:30,ロームシアター京都　メインホール,ROHM Theatre Kyoto,"35.014469,135.780642",,,https://kyomaf.kyoto/2019/pre-event/,"ドーラ, 葛葉, 本間ひまわり, 社築, 樋口楓",
+京まふ2019 コラボカフェ『にじさんじ おこしやす喫茶』,7efec380-e8e6-41f6-8390-21e3d6c2fee8, 2025/03/21 23:04:34,"Kyomafu 2019 Collaboration Cafe: ""Nijisanji Welcome Tea House""",2019/09/21 13:00,2019/09/21 17:00,みやこめっせ１F,Miyako Messe,"35.012815,135.780882",,,https://kyomaf.kyoto/2019/food_goods/characafe/nijisanji-cafe/,"ベルモンド・バンデラス, 戌亥とこ, 樋口楓, 本間ひまわり",
+京まふ2019 コラボカフェ『にじさんじ おこしやす喫茶』,be0a9bca-7523-4cea-831e-a89d4c52b105, 2025/03/21 23:04:36,"Kyomafu 2019 Collaboration Cafe: ""Nijisanji Welcome Tea House""",2019/09/22 11:00,2019/09/22 15:00,みやこめっせ１F,Miyako Messe,"35.012815,135.780882",,,https://kyomaf.kyoto/2019/food_goods/characafe/nijisanji-cafe/,"本間ひまわり, 御伽原江良, 花畑チャイカ, 樋口楓",
 にじさんじ Music Festival at 幕張メッセ,b534dcd6-6dab-41c2-966e-969b3aaa39f5, 2025/03/21 23:28:02,Nijisanji Music Festival at Makuhari Messe,2019/10/02 19:00,2019/10/02 21:00,幕張メッセイベントホール,Makuhari Messe Event Hall,"35.646867,140.034609","ニュースページ
 https://prtimes.jp/main/html/rd/p/000003409.000002581.html","Article of the event
-https://prtimes.jp/main/html/rd/p/000003409.000002581.html",https://prtimes.jp/main/html/rd/p/000003409.000002581.html,"月ノ美兎, 勇気ちひろ, える, 樋口楓, 静凛, 鈴鹿詩子, 宇志海いちご, 家長むぎ, 物述有栖, 剣持刀也, 森中花咲, 叶, 本間ひまわり, 葛葉, 椎名唯華, ドーラ, シスター・クレア, 花畑チャイカ, 緑仙, 竜胆尊"
-VtuberLand 2019 in よみうりランド にじさんじWEEK ~みんなで行こうにじさんじランド~,5e58541b-16e2-46fb-95f3-9c3910c79e17, 2025/03/21 23:06:03,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK,2019/10/19 09:00,2019/10/26 21:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,にじさんじ
-VtuberLand 2019 in よみうりランド にじさんじWEEK ホールイベント 第1部,902ff480-05f5-44ad-bb1e-7292da9b5ca4, 2025/03/21 23:06:34,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 1,2019/10/26 13:00,2019/10/26 15:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,"叶, 葛葉"
-VtuberLand 2019 in よみうりランド にじさんじWEEK ホールイベント 第2部,8aeff74e-213d-492b-b77b-bb5cca39ae11, 2025/03/21 23:06:37,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 2,2019/10/26 16:00,2019/10/26 18:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,"物述有栖, 夢追翔, 童田明治, 御伽原江良"
-VtuberLand 2019 in よみうりランド にじさんじWEEK ホールイベント 第3部,73c545e5-466b-4c00-ab50-ba563fe4dc9a, 2025/03/21 23:06:38,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 3,2019/10/26 18:15,2019/10/26 20:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,"樋口楓, 笹木咲, 椎名唯華, 鷹宮リオン"
-kawaii cafe2019,6242b31a-f18c-4dbf-aceb-fe01feb751f8, 2025/03/27 18:21:56,kawaii cafe2019,2019/11/22 12:00,2019/12/15 18:00,キュープラザ原宿,Q Plaza HARAJUKU,"35.667020,139.704169",,,https://collabo-cafe.com/events/collabo/nijisanji-kawaii-cafe-harajuku-area-q2019/,"樋口楓, 本間ひまわり, 戌亥とこ, 御伽原江良, 花畑チャイカ, ベルモンド・バンデラス"
+https://prtimes.jp/main/html/rd/p/000003409.000002581.html",https://prtimes.jp/main/html/rd/p/000003409.000002581.html,"月ノ美兎, 勇気ちひろ, える, 樋口楓, 静凛, 鈴鹿詩子, 宇志海いちご, 家長むぎ, 物述有栖, 剣持刀也, 森中花咲, 叶, 本間ひまわり, 葛葉, 椎名唯華, ドーラ, シスター・クレア, 花畑チャイカ, 緑仙, 竜胆尊",
+VtuberLand 2019 in よみうりランド にじさんじWEEK ~みんなで行こうにじさんじランド~,5e58541b-16e2-46fb-95f3-9c3910c79e17, 2025/03/21 23:06:03,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK,2019/10/19 09:00,2019/10/26 21:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,にじさんじ,
+VtuberLand 2019 in よみうりランド にじさんじWEEK ホールイベント 第1部,902ff480-05f5-44ad-bb1e-7292da9b5ca4, 2025/03/21 23:06:34,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 1,2019/10/26 13:00,2019/10/26 15:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,"叶, 葛葉",
+VtuberLand 2019 in よみうりランド にじさんじWEEK ホールイベント 第2部,8aeff74e-213d-492b-b77b-bb5cca39ae11, 2025/03/21 23:06:37,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 2,2019/10/26 16:00,2019/10/26 18:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,"物述有栖, 夢追翔, 童田明治, 御伽原江良",
+VtuberLand 2019 in よみうりランド にじさんじWEEK ホールイベント 第3部,73c545e5-466b-4c00-ab50-ba563fe4dc9a, 2025/03/21 23:06:38,VtuberLand 2019 in Yomiuriland - Nijisanji WEEK Hall Event Part 3,2019/10/26 18:15,2019/10/26 20:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,"樋口楓, 笹木咲, 椎名唯華, 鷹宮リオン",
+kawaii cafe2019,6242b31a-f18c-4dbf-aceb-fe01feb751f8, 2025/03/27 18:21:56,kawaii cafe2019,2019/11/22 12:00,2019/12/15 18:00,キュープラザ原宿,Q Plaza HARAJUKU,"35.667020,139.704169",,,https://collabo-cafe.com/events/collabo/nijisanji-kawaii-cafe-harajuku-area-q2019/,"樋口楓, 本間ひまわり, 戌亥とこ, 御伽原江良, 花畑チャイカ, ベルモンド・バンデラス",
 Virtual to LIVE in 両国国技館 2019,006e798a-f751-4ecd-a15b-c3b3733273b4, 2025/03/21 23:07:30,Virtual to LIVE in Ryogoku Kokugikan 2019,2019/12/08 17:00,2019/12/08 19:00,両国国技館,Ryogoku Kokugikan,"35.697042,139.793242","特設サイト
 https://event.nijisanji.app/vtlryougoku2019/","Special Site
-https://event.nijisanji.app/vtlryougoku2019/",https://event.nijisanji.app/vtlryougoku2019/,"月ノ美兎, 樋口楓, 静凛, 剣持刀也, 勇気ちひろ, える, 鈴鹿詩子, 森中花咲, 椎名唯華, 笹木咲, ジョー・力一, 鈴原るる, 夢月ロア, 御伽原江良, 戌亥とこ"
-『にじさんじMusicWeek』1st Day『メジャーデビューするのは誰だ!? Rain Drops メンバーお披露目SP』,dc20ff89-4e40-4c0e-86dc-3800e03172b1, 2025/03/22 19:08:20,"""Nijisanji Music Week"" 1st Day ""Who Will Make Their Major Debut!? Rain Drops Members Introduction Special""",2020/01/23 20:00,2020/01/23 21:00,オンライン,Online,,,,https://www.youtube.com/watch?v=bzGP-llr7YM,"ジョー・力一, 樋口楓, える, 鈴木勝, 緑仙, 童田明治, 三枝明那"
-"『にじさんじMusicWeek』2nd Day『樋口楓""MARBLE"" 制作裏ばなし！BIGゲストもいるよ！』",6da2195c-8706-4bc5-aa00-a62051473605, 2025/03/22 19:08:21,"""Nijisanji Music Week"" 2nd Day ""Higuchi Kaede 'MARBLE' Behind-the-Scenes Stories! There Will Be BIG Guests Too!""",2020/01/24 21:00,2020/01/24 22:00,オンライン,Online,,,,https://www.youtube.com/watch?v=1KOC5jMI2zg,樋口楓
+https://event.nijisanji.app/vtlryougoku2019/",https://event.nijisanji.app/vtlryougoku2019/,"月ノ美兎, 樋口楓, 静凛, 剣持刀也, 勇気ちひろ, える, 鈴鹿詩子, 森中花咲, 椎名唯華, 笹木咲, ジョー・力一, 鈴原るる, 夢月ロア, 御伽原江良, 戌亥とこ",
+『にじさんじMusicWeek』1st Day『メジャーデビューするのは誰だ!? Rain Drops メンバーお披露目SP』,dc20ff89-4e40-4c0e-86dc-3800e03172b1, 2025/03/22 19:08:20,"""Nijisanji Music Week"" 1st Day ""Who Will Make Their Major Debut!? Rain Drops Members Introduction Special""",2020/01/23 20:00,2020/01/23 21:00,オンライン,Online,,,,https://www.youtube.com/watch?v=bzGP-llr7YM,"ジョー・力一, 樋口楓, える, 鈴木勝, 緑仙, 童田明治, 三枝明那",
+"『にじさんじMusicWeek』2nd Day『樋口楓""MARBLE"" 制作裏ばなし！BIGゲストもいるよ！』",6da2195c-8706-4bc5-aa00-a62051473605, 2025/03/22 19:08:21,"""Nijisanji Music Week"" 2nd Day ""Higuchi Kaede 'MARBLE' Behind-the-Scenes Stories! There Will Be BIG Guests Too!""",2020/01/24 21:00,2020/01/24 22:00,オンライン,Online,,,,https://www.youtube.com/watch?v=1KOC5jMI2zg,樋口楓,
 『にじさんじMusicWeek』3rd Day①『☆ぷちふる株主総会☆～ちょっとツラ貸せよ～』,72a92620-d5d0-42e4-a771-76059a53b312, 2025/03/22 19:07:45,"""Nijisanji Music Week"" 3rd Day ① ""☆Petit Fleurs Shareholders Meeting☆ Lend Me Your Face for a Bit""",2020/01/25 15:30,2020/01/25 17:30,恵比寿ザ・ガーデンホール,Yebisu Garden Place - The Garden Hall,"35.641531,139.713551","ニュースページ
 https://prtimes.jp/main/html/rd/p/000000114.000030865.html","Article of the event
-https://prtimes.jp/main/html/rd/p/000000114.000030865.html",https://prtimes.jp/main/html/rd/p/000000114.000030865.html,"森中花咲, 御伽原江良"
+https://prtimes.jp/main/html/rd/p/000000114.000030865.html",https://prtimes.jp/main/html/rd/p/000000114.000030865.html,"森中花咲, 御伽原江良",
 『にじさんじMusicWeek』3rd Day②『月ノ美兎アーティスト生活向上委員会』,41914a7a-d6a3-4253-9c22-0bf554964810, 2025/03/21 23:32:53,"""Nijisanji Music Week"" 3rd Day ② ""Tsukino Mito Artist Life Improvement Committee""",2020/01/25 19:30,2020/01/25 21:30,恵比寿ザ・ガーデンホール,Yebisu Garden Place - The Garden Hall,"35.641531,139.713551","ニュースページ
 https://prtimes.jp/main/html/rd/p/000000113.000030865.html","Article of the event
-https://prtimes.jp/main/html/rd/p/000000113.000030865.html",https://prtimes.jp/main/html/rd/p/000000113.000030865.html,"月ノ美兎, 本間ひまわり"
+https://prtimes.jp/main/html/rd/p/000000113.000030865.html",https://prtimes.jp/main/html/rd/p/000000113.000030865.html,"月ノ美兎, 本間ひまわり",
 にじさんじ JAPAN TOUR 2020 Shout in the Rainbow! 札幌LIVE,2e34a19f-2126-4927-8dc3-a43ab06dbc75, 2025/03/21 23:34:27,Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Sapporo LIVE,2020/02/09 17:00,2020/02/09 19:00,Zepp Sapporo,Zepp Sapporo,"43.049590,141.353439","特設サイト
 https://event.nijisanji.app/japantour2020/","Special Site
-https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"御伽原江良, 童田明治, 物述有栖, 緑仙, シスター・クレア"
+https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"御伽原江良, 童田明治, 物述有栖, 緑仙, シスター・クレア",
 にじさんじ JAPAN TOUR 2020 Shout in the Rainbow! 福岡LIVE,2b7809e6-bd7d-4b6d-bc97-fb4d2984e209, 2025/03/21 23:36:09,Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Fukuoka LIVE,2020/02/13 19:00,2020/02/13 21:00,Zepp Fukuoka,Zepp Fukuoka,"33.593267,130.363110","特設サイト
 https://event.nijisanji.app/japantour2020/","Special Site
-https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"剣持刀也, 叶, 葛葉, 加賀美ハヤト"
+https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"剣持刀也, 叶, 葛葉, 加賀美ハヤト",
 にじさんじ JAPAN TOUR 2020 Shout in the Rainbow! 難波LIVE,520a6ea6-ebdc-41ec-bb78-3ca4d53220b2, 2025/03/21 23:37:16,Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Namba LIVE,2020/02/21 19:00,2020/02/21 21:00,Zepp Namba,Zepp Namba,"34.657373,135.501235","特設サイト
 https://event.nijisanji.app/japantour2020/","Special Site
-https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"鈴原るる, 本間ひまわり, ドーラ, える, 花畑チャイカ"
+https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"鈴原るる, 本間ひまわり, ドーラ, える, 花畑チャイカ",
 にじさんじ JAPAN TOUR 2020 Shout in the Rainbow! 名古屋LIVE,1ecbe2c4-68bf-4d58-af9d-97f9b9a64285, 2025/03/21 23:38:25,Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Nagoya LIVE,2020/02/26 19:00,2020/02/26 21:00,Zepp Nagoya,Zepp Nagoya,"35.163209,136.884450","特設サイト
 https://event.nijisanji.app/japantour2020/","Special Site
-https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"椎名唯華, 郡道美玲, 鷹宮リオン, 竜胆尊, ジョー・力一"
+https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"椎名唯華, 郡道美玲, 鷹宮リオン, 竜胆尊, ジョー・力一",
 にじさんじ JAPAN TOUR 2020 Shout in the Rainbow! 難波追加公演,9e7d45b7-50a6-4dd4-9d24-8b83fc429c17, 2025/03/21 23:40:36,Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Namba Extra LIVE,2020/04/05 17:00,2020/04/05 19:00,Zepp Namba,Zepp Namba,"34.657373,135.501235","特設サイト
 https://event.nijisanji.app/japantour2020/","Special Site
-https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"月ノ美兎, 樋口楓, 静凛, 森中花咲, 鈴鹿詩子, モイラ"
-にじめぐり京都,c4387a74-a673-4cbe-b69c-79ea9db8b220, 2025/03/21 23:45:52,NIJI-MEGURI Kyoto,2020/09/17 09:00,2020/09/17 18:00,京都市周辺,Kyoto,"34.985342,135.758312",,,https://event.nijisanji.app/nijimeguri-kyoto/,"樋口楓, 剣持刀也, 叶, 葛葉, 本間ひまわり, 加賀美ハヤト"
-京まふ2020 もちのわーる男子旅,06a3b43b-2b7d-4a0a-8839-750f059fdec8, 2025/03/21 23:50:35,Kyomafu 2020 MochiNoir men's travel,2020/09/18 18:00,2020/09/18 20:00,ロームシアター京都,ROHM Theatre Kyoto,"35.014469,135.780642",,,,"葛葉, 叶, 剣持刀也"
-京まふ2020 きょうはすめし,e47eeac3-54fd-41bb-988f-2da83a8eee59, 2025/03/21 23:51:32,Kyomafu 2020 Today is Sumeshi,2020/09/19 17:00,2020/09/19 19:00,ロームシアター京都,ROHM Theatre Kyoto,"35.014469,135.780642",,,,"加賀美ハヤト, 夜見れな, 葉加瀬冬雪"
-京まふ2020 すごいなこれは！紅葉してきた！,9f830508-b270-4e89-983d-aa90ecd85af3, 2025/03/21 23:52:16,Kyomafu 2020 Amazing! The leaves are turning red!,2020/09/20 17:00,2020/09/20 19:00,ロームシアター京都,ROHM Theatre Kyoto,"35.014469,135.780642",,,,"舞元啓介, ジョー・力一"
-にじさんじ SMASH The PAINT!! リリースパーティ,04d8f134-e968-4729-ba83-0193ef2b7ec6, 2025/03/21 23:55:05,Nijisanji SMASH The PAINT!! Release Party,2020/09/22 16:00,2020/09/22 20:15,TOKYO DOME CITY HALL,TOKYO DOME CITY HALL,"35.702869,139.754393",,,https://event.nijisanji.app/smashthepaint/,"月ノ美兎, 鷹宮リオン"
-『Talk aVout!!』vol.1 昼の部,010d16eb-538a-4b27-9102-4e6203026e5a, 2025/03/21 23:58:48,"""Talk aVout!!"" vol.1 Daytime Stage",2020/11/01 13:00,2020/11/01 15:00,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"轟京子, 社築, シスター・クレア"
-『Talk aVout!!』vol.1 夜の部,f26afc76-8f64-468a-8755-1b6971a16cc5, 2025/03/21 23:59:30,"""Talk aVout!!"" vol.1 Nighttime Stage",2020/11/01 17:30,2020/11/01 19:30,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"エリー・コニファー, ニュイ・ソシエール, 奈羅花"
-『Talk aVout!!』vol.2 昼の部,43703823-540f-4ebe-b07b-026598d50629, 2025/03/21 23:59:50,"""Talk aVout!!"" vol.2 Daytime Stage",2020/11/01 13:00,2020/11/01 15:00,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"夢追翔, 舞元啓介, グウェル・オス・ガール"
-『Talk aVout!!』vol.2 夜の部,93a150cf-67cf-4bfe-9804-c03c232f87bb, 2025/03/22 00:00:00,"""Talk aVout!!"" vol.2 Nighttime Stage",2020/11/01 17:30,2020/11/01 19:30,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"早瀬走, 健屋花那, シェリン・バーガンディ"
-みんなでかがやけくれっしぇんど！ ～うたえ！さわげ！おどれ！～cresc. 1st LIVE in VARK,49ab2147-e847-40e3-9d76-0eaeea461768, 2025/03/22 19:08:35,Let's All Shine cresc.! Sing! Make Noise! Dance! cresc. 1st LIVE in VARK,2020/11/07 19:00,2020/11/07 21:00,オンライン,Online,,,,,"シスター・クレア, 緑仙, ドーラ"
-「petit fleurs」ファーストライブ『リシアンサス』,4b13226c-107f-4dcf-8bac-cf542c9a56ee, 2025/03/22 00:06:24,petit fleurs' First Live 'Lisianthus,2020/11/20 18:00,2020/11/20 20:00,TACHIKAWA STAGE GARDEN,TACHIKAWA STAGE GARDEN,"35.704748,139.411955",,,https://nbcuni-music.com/petit_fleurs/live/01.html,"森中花咲, 御伽原江良"
-にじさんじランドVOL.1 in よみうりランド,a907d697-d970-49f7-858d-abeaeb5cf8bc, 2025/03/22 00:14:05,Nijisanji Land VOL.1 in Yomiuriland,2020/11/28 09:00, 2020/12/13 21:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,にじさんじ
-ヤシロ＆ササキのレバガチャダイパン ～みんなで行こうぜ社ん家～,fded25b3-46f1-4555-816d-96643c8cdf35, 2025/03/22 14:28:10,Yashiro&Sasaki's Lever-gacha-daipan - Let's All Go to Yashiro's House,2020/12/08 19:00,2020/12/08 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/levergachadaipan/yashironchi/,"社築, 笹木咲, 椎名唯華, 花畑チャイカ, シェリン・バーガンディ, 樋口楓"
-剣持刀也リアルソロイベント【虚空集会】,c488fc76-137a-4403-b3a3-5c1d232179f3, 2025/03/22 14:30:33,Kenmochi Toya Real Solo Event [Kokuumisa],2020/12/09 19:00,2020/12/09 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/kenmochi_missa/,"剣持刀也, 葛葉, 月ノ美兎, 伏見ガク"
-Inui Toko 1st Solo Live “who i am”,852cb5ab-6603-470d-a3a2-19e5e9e9ac54, 2025/03/22 00:13:27,Inui Toko 1st Solo Live “who i am”,2020/12/10 19:00,2020/12/10 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/inui_whoiam/,"戌亥とこ, アンジュ・カトリーナ, リゼ・ヘルエスタ, 樋口楓"
-Kaede Higuchi Live 2021 “AIM”,b872446d-04b4-4dbc-8731-15665b07738e, 2025/03/22 00:13:29,Kaede Higuchi Live 2021 “AIM”,2021/02/19 17:30,2021/02/19 19:30,TACHIKAWA STAGE GARDEN,TACHIKAWA STAGE GARDEN,"35.704748,139.411955",,,https://www.lantis.jp/special/aim_live2021/,樋口楓
-にじさんじ Anniversary Festival 2021 前夜祭 feat.FLOW,485e9a9e-d7ea-4da5-8c45-9b73990ec055, 2025/03/22 14:31:13,Nijisanji Anniversary Festival 2021 Eve Celebration feat. FLOW,2021/02/26 17:30,2021/02/26 19:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp/eve-festival/,"樋口楓, 剣持刀也, 緑仙, 三枝明那, 加賀美ハヤト, 星川サラ"
-にじさんじ Anniversary Festival 2021,1c0d0cec-4528-427d-9125-67c0474e89e2, 2025/03/22 14:31:20,Nijisanji Anniversary Festival 2021,2021/02/27 10:00,2021/02/28 20:15,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,にじさんじ
-にじさんじ Anniversary Festival 2021 レバガチャダイパンステージ,5da1406f-1729-4057-9356-161506a08ff9, 2025/03/22 14:31:54,Nijisanji Anniversary Festival 2021 Lever-gacha-daipan Stage,2021/02/27 10:30,2021/02/27 12:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,"社築, 笹木咲, 桜凛月, 鈴原るる, 御伽原江良, 不破湊"
-にじさんじ Anniversary Festival 2021 王立魔法騎士学園ステージ,ddcfa0f1-8d74-469b-a908-b83101227e69, 2025/03/22 14:32:23,Nijisanji Anniversary Festival 2021 Royal Magic Knight Academy Stage,2021/02/27 13:00,2021/02/27 14:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,"イブラヒム, 鷹宮リオン, 葉加瀬冬雪, フレン・E・ルスタリオ, メリッサ・キンレンカ, 夜見れな"
-「にじさんじ JAPAN TOUR 2020 Shout in the Rainbow！」東京リベンジ公演,a82649d5-3e5c-4e89-9d95-3386c9212d10, 2025/03/22 00:52:52,Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Tokyo Make-up Live,2021/02/27 17:00,2021/02/27 19:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp/tokyo-revenge/,"リゼ・ヘルエスタ, 戌亥とこ, アンジュ・カトリーナ, 笹木咲, ベルモンド・バンデラス"
+https://event.nijisanji.app/japantour2020/",https://event.nijisanji.app/japantour2020/,"月ノ美兎, 樋口楓, 静凛, 森中花咲, 鈴鹿詩子, モイラ",
+にじめぐり京都,c4387a74-a673-4cbe-b69c-79ea9db8b220, 2025/03/21 23:45:52,NIJI-MEGURI Kyoto,2020/09/17 09:00,2020/09/17 18:00,京都市周辺,Kyoto,"34.985342,135.758312",,,https://event.nijisanji.app/nijimeguri-kyoto/,"樋口楓, 剣持刀也, 叶, 葛葉, 本間ひまわり, 加賀美ハヤト",
+京まふ2020 もちのわーる男子旅,06a3b43b-2b7d-4a0a-8839-750f059fdec8, 2025/03/21 23:50:35,Kyomafu 2020 MochiNoir men's travel,2020/09/18 18:00,2020/09/18 20:00,ロームシアター京都,ROHM Theatre Kyoto,"35.014469,135.780642",,,,"葛葉, 叶, 剣持刀也",
+京まふ2020 きょうはすめし,e47eeac3-54fd-41bb-988f-2da83a8eee59, 2025/03/21 23:51:32,Kyomafu 2020 Today is Sumeshi,2020/09/19 17:00,2020/09/19 19:00,ロームシアター京都,ROHM Theatre Kyoto,"35.014469,135.780642",,,,"加賀美ハヤト, 夜見れな, 葉加瀬冬雪",
+京まふ2020 すごいなこれは！紅葉してきた！,9f830508-b270-4e89-983d-aa90ecd85af3, 2025/03/21 23:52:16,Kyomafu 2020 Amazing! The leaves are turning red!,2020/09/20 17:00,2020/09/20 19:00,ロームシアター京都,ROHM Theatre Kyoto,"35.014469,135.780642",,,,"舞元啓介, ジョー・力一",
+にじさんじ SMASH The PAINT!! リリースパーティ,04d8f134-e968-4729-ba83-0193ef2b7ec6, 2025/03/21 23:55:05,Nijisanji SMASH The PAINT!! Release Party,2020/09/22 16:00,2020/09/22 20:15,TOKYO DOME CITY HALL,TOKYO DOME CITY HALL,"35.702869,139.754393",,,https://event.nijisanji.app/smashthepaint/,"月ノ美兎, 鷹宮リオン",
+『Talk aVout!!』vol.1 昼の部,010d16eb-538a-4b27-9102-4e6203026e5a, 2025/03/21 23:58:48,"""Talk aVout!!"" vol.1 Daytime Stage",2020/11/01 13:00,2020/11/01 15:00,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"轟京子, 社築, シスター・クレア",
+『Talk aVout!!』vol.1 夜の部,f26afc76-8f64-468a-8755-1b6971a16cc5, 2025/03/21 23:59:30,"""Talk aVout!!"" vol.1 Nighttime Stage",2020/11/01 17:30,2020/11/01 19:30,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"エリー・コニファー, ニュイ・ソシエール, 奈羅花",
+『Talk aVout!!』vol.2 昼の部,43703823-540f-4ebe-b07b-026598d50629, 2025/03/21 23:59:50,"""Talk aVout!!"" vol.2 Daytime Stage",2020/11/01 13:00,2020/11/01 15:00,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"夢追翔, 舞元啓介, グウェル・オス・ガール",
+『Talk aVout!!』vol.2 夜の部,93a150cf-67cf-4bfe-9804-c03c232f87bb, 2025/03/22 00:00:00,"""Talk aVout!!"" vol.2 Nighttime Stage",2020/11/01 17:30,2020/11/01 19:30,ベルサール飯田橋ファースト,Bellsalle Iidabashi First,"35.705379,139.745104",,,https://event.nijisanji.app/talkavout/,"早瀬走, 健屋花那, シェリン・バーガンディ",
+みんなでかがやけくれっしぇんど！ ～うたえ！さわげ！おどれ！～cresc. 1st LIVE in VARK,49ab2147-e847-40e3-9d76-0eaeea461768, 2025/03/22 19:08:35,Let's All Shine cresc.! Sing! Make Noise! Dance! cresc. 1st LIVE in VARK,2020/11/07 19:00,2020/11/07 21:00,オンライン,Online,,,,,"シスター・クレア, 緑仙, ドーラ",
+「petit fleurs」ファーストライブ『リシアンサス』,4b13226c-107f-4dcf-8bac-cf542c9a56ee, 2025/03/22 00:06:24,petit fleurs' First Live 'Lisianthus,2020/11/20 18:00,2020/11/20 20:00,TACHIKAWA STAGE GARDEN,TACHIKAWA STAGE GARDEN,"35.704748,139.411955",,,https://nbcuni-music.com/petit_fleurs/live/01.html,"森中花咲, 御伽原江良",
+にじさんじランドVOL.1 in よみうりランド,a907d697-d970-49f7-858d-abeaeb5cf8bc, 2025/03/22 00:14:05,Nijisanji Land VOL.1 in Yomiuriland,2020/11/28 09:00, 2020/12/13 21:00,よみうりランド,Yomiuriland,"35.626021,139.518117",,,,にじさんじ,
+ヤシロ＆ササキのレバガチャダイパン ～みんなで行こうぜ社ん家～,fded25b3-46f1-4555-816d-96643c8cdf35, 2025/03/22 14:28:10,Yashiro&Sasaki's Lever-gacha-daipan - Let's All Go to Yashiro's House,2020/12/08 19:00,2020/12/08 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/levergachadaipan/yashironchi/,"社築, 笹木咲, 椎名唯華, 花畑チャイカ, シェリン・バーガンディ, 樋口楓",
+剣持刀也リアルソロイベント【虚空集会】,c488fc76-137a-4403-b3a3-5c1d232179f3, 2025/03/22 14:30:33,Kenmochi Toya Real Solo Event [Kokuumisa],2020/12/09 19:00,2020/12/09 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/kenmochi_missa/,"剣持刀也, 葛葉, 月ノ美兎, 伏見ガク",
+Inui Toko 1st Solo Live “who i am”,852cb5ab-6603-470d-a3a2-19e5e9e9ac54, 2025/03/22 00:13:27,Inui Toko 1st Solo Live “who i am”,2020/12/10 19:00,2020/12/10 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/inui_whoiam/,"戌亥とこ, アンジュ・カトリーナ, リゼ・ヘルエスタ, 樋口楓",
+Kaede Higuchi Live 2021 “AIM”,b872446d-04b4-4dbc-8731-15665b07738e, 2025/03/22 00:13:29,Kaede Higuchi Live 2021 “AIM”,2021/02/19 17:30,2021/02/19 19:30,TACHIKAWA STAGE GARDEN,TACHIKAWA STAGE GARDEN,"35.704748,139.411955",,,https://www.lantis.jp/special/aim_live2021/,樋口楓,
+にじさんじ Anniversary Festival 2021 前夜祭 feat.FLOW,485e9a9e-d7ea-4da5-8c45-9b73990ec055, 2025/03/22 14:31:13,Nijisanji Anniversary Festival 2021 Eve Celebration feat. FLOW,2021/02/26 17:30,2021/02/26 19:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp/eve-festival/,"樋口楓, 剣持刀也, 緑仙, 三枝明那, 加賀美ハヤト, 星川サラ",
+にじさんじ Anniversary Festival 2021,1c0d0cec-4528-427d-9125-67c0474e89e2, 2025/03/22 14:31:20,Nijisanji Anniversary Festival 2021,2021/02/27 10:00,2021/02/28 20:15,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,にじさんじ,
+にじさんじ Anniversary Festival 2021 レバガチャダイパンステージ,5da1406f-1729-4057-9356-161506a08ff9, 2025/03/22 14:31:54,Nijisanji Anniversary Festival 2021 Lever-gacha-daipan Stage,2021/02/27 10:30,2021/02/27 12:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,"社築, 笹木咲, 桜凛月, 鈴原るる, 御伽原江良, 不破湊",
+にじさんじ Anniversary Festival 2021 王立魔法騎士学園ステージ,ddcfa0f1-8d74-469b-a908-b83101227e69, 2025/03/22 14:32:23,Nijisanji Anniversary Festival 2021 Royal Magic Knight Academy Stage,2021/02/27 13:00,2021/02/27 14:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,"イブラヒム, 鷹宮リオン, 葉加瀬冬雪, フレン・E・ルスタリオ, メリッサ・キンレンカ, 夜見れな",
+「にじさんじ JAPAN TOUR 2020 Shout in the Rainbow！」東京リベンジ公演,a82649d5-3e5c-4e89-9d95-3386c9212d10, 2025/03/22 00:52:52,Nijisanji JAPAN TOUR 2020 Shout in the Rainbow! Tokyo Make-up Live,2021/02/27 17:00,2021/02/27 19:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp/tokyo-revenge/,"リゼ・ヘルエスタ, 戌亥とこ, アンジュ・カトリーナ, 笹木咲, ベルモンド・バンデラス",
 にじさんじ Anniversary Festival 2021 ド葛本社ステージ,17d73f94-f035-4bb0-b31d-3ba9125e74d4, 2025/03/25 14:34:11,Nijisanji Anniversary Festival 2021 Dokuzuhonsha Stage,2021/02/28 10:00,2021/02/28 11:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjU=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjU=?pit_git_type=SERIES",https://anniversaryfes.nijisanji.jp,"ドーラ, 葛葉, 本間ひまわり, 社築"
-にじさんじ Anniversary Festival 2021 SilverDevils & 電音部ステージ,a9a92a22-1c2f-4fab-b82a-7c0b36d71d14, 2025/03/25 14:34:11,Nijisanji Anniversary Festival 2021 SilverDevils & DEN-ON-BU Stage,2021/02/28 12:30,2021/02/28 14:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,"アルス・アルマル, でびでび・でびる, 葉山舞鈴, 舞元啓介, シスター・クレア, 健屋花那, 星川サラ"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjU=?pit_git_type=SERIES",https://anniversaryfes.nijisanji.jp,"ドーラ, 葛葉, 本間ひまわり, 社築",
+にじさんじ Anniversary Festival 2021 SilverDevils & 電音部ステージ,a9a92a22-1c2f-4fab-b82a-7c0b36d71d14, 2025/03/25 14:34:11,Nijisanji Anniversary Festival 2021 SilverDevils & DEN-ON-BU Stage,2021/02/28 12:30,2021/02/28 14:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://anniversaryfes.nijisanji.jp,"アルス・アルマル, でびでび・でびる, 葉山舞鈴, 舞元啓介, シスター・クレア, 健屋花那, 星川サラ",
 にじさんじ Anniversary Festival 2021 月ノ美兎 & 樋口楓 & Rain Drops ステージ,74f0d37f-4810-4c65-adc8-878c93b3b94a, 2025/03/25 14:34:12,Nijisanji Anniversary Festival 2021 Tsukino Mito & Higuchi Kaede & Rain Drops Stage,2021/02/28 17:30,2021/02/28 19:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjc=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjc=?pit_git_type=SERIES",https://anniversaryfes.nijisanji.jp,"月ノ美兎, 樋口楓, 緑仙, 三枝明那, 鈴木勝, える, ジョー・力一"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjc=?pit_git_type=SERIES",https://anniversaryfes.nijisanji.jp,"月ノ美兎, 樋口楓, 緑仙, 三枝明那, 鈴木勝, える, ジョー・力一",
 にじさんじ Anniversary Festival 2021 VACHSSステージ,e220411e-8067-4a46-81b7-45a34914d4de, 2025/03/25 14:34:15,Nijisanji Anniversary Festival 2021 VACHSS Stage,2021/02/28 15:00,2021/02/28 16:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjY=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjY=?pit_git_type=SERIES",https://anniversaryfes.nijisanji.jp,"剣持刀也, 葛葉, 叶, 夢追翔, 加賀美ハヤト, 不破湊"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjY=?pit_git_type=SERIES",https://anniversaryfes.nijisanji.jp,"剣持刀也, 葛葉, 叶, 夢追翔, 加賀美ハヤト, 不破湊",
 にじさんじ AR STAGE “LIGHT UP TONES” Day 1,70eff429-787c-41cc-a9ae-ec4ecdbac8ae, 2025/03/25 14:32:50,Nijisanji AR STAGE “LIGHT UP TONES” Day 1,2021/07/31 17:00,2021/07/31 19:00,オンライン,Online,,"特設サイト
 https://event.nijisanji.app/arstage_lightuptones/
 
@@ -81,7 +82,7 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDA
 https://event.nijisanji.app/arstage_lightuptones/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTg3MndwZDI%3D",https://event.nijisanji.app/arstage_lightuptones/,"樋口楓, 緑仙, 花畑チャイカ, 町田ちま, ジョー・力一, 夢追翔, レヴィ・エリファ, 加賀美ハヤト"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTg3MndwZDI%3D",https://event.nijisanji.app/arstage_lightuptones/,"樋口楓, 緑仙, 花畑チャイカ, 町田ちま, ジョー・力一, 夢追翔, レヴィ・エリファ, 加賀美ハヤト",
 にじさんじ AR STAGE “LIGHT UP TONES” Day 2,a4404637-cd8d-445b-a334-8e1aeb031517, 2025/03/25 14:32:32,Nijisanji AR STAGE “LIGHT UP TONES” Day 2,2021/08/01 17:00,2021/08/01 19:00,オンライン,Online,,"特設サイト
 https://event.nijisanji.app/arstage_lightuptones/
 
@@ -90,39 +91,33 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDA
 https://event.nijisanji.app/arstage_lightuptones/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbThmOXowcGk%3D",https://event.nijisanji.app/arstage_lightuptones/,"月ノ美兎, 剣持刀也, 叶, ドーラ, 魔界ノりりむ, 葛葉, 椎名唯華"
-Rain Dropsファーストワンマンライブ『雨天決行』,9750f2d9-0a98-4354-9e2a-13bb40f6a5c9, 2025/03/27 18:24:11,Rain Drops First Solo Concert 'Rain or Shine',2021/08/26 18:00,2021/08/26 20:00,東京ガーデンシアター,Tokyo Garden Theater,"35.637767,139.792083",,,https://www.universal-music.co.jp/raindrops/news/2021-06-18/,"緑仙, 三枝明那, 童田明治, 鈴木勝, える, ジョー・力一"
-NIJISANJI SHOW DOWN にじクイステージ,43720d7b-bc5a-4788-a253-70f82911d275, 2025/03/27 18:31:27,NIJISANJI SHOW DOWN NijiQuiz Stage,2021/09/04 13:00,2021/09/04 15:00,Zepp DiverCity (TOKYO),Zepp DiverCity (TOKYO),"35.624704,139.774649",,,https://event.nijisanji.app/showdown/,"ジョー・力一, 黛灰, 健屋花那, 不破湊, 花畑チャイカ, リゼ・ヘルエスタ"
-NIJISANJI SHOW DOWN レバガチャダイパンステージ,33877d45-4d2c-42cc-a8e9-e7d08d19f53f, 2025/03/27 18:31:28,NIJISANJI SHOW DOWN Lever-gacha-daipan Stage,2021/09/04 18:00,2021/09/04 20:00,Zepp DiverCity (TOKYO),Zepp DiverCity (TOKYO),"35.624704,139.774649",,,https://event.nijisanji.app/showdown/,"社築, 笹木咲, シェリン・バーガンディ, イブラヒム, エクス・アルビオ, ニュイ・ソシエール, 葉山舞鈴"
-Rin Shizuka Solo Event “Recollection”,362d60a5-a4d7-4b8c-87d3-4f7302ef76f5, 2025/05/23 01:59:53,Rin Shizuka Solo Event “Recollection”,2021/09/11 17:00,2021/09/11 19:00,Zepp Nagoya,Zepp Nagoya,"35.163209,136.884450","特設サイト
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbThmOXowcGk%3D",https://event.nijisanji.app/arstage_lightuptones/,"月ノ美兎, 剣持刀也, 叶, ドーラ, 魔界ノりりむ, 葛葉, 椎名唯華",
+Rain Dropsファーストワンマンライブ『雨天決行』,9750f2d9-0a98-4354-9e2a-13bb40f6a5c9, 2025/03/27 18:24:11,Rain Drops First Solo Concert 'Rain or Shine',2021/08/26 18:00,2021/08/26 20:00,東京ガーデンシアター,Tokyo Garden Theater,"35.637767,139.792083",,,https://www.universal-music.co.jp/raindrops/news/2021-06-18/,"緑仙, 三枝明那, 童田明治, 鈴木勝, える, ジョー・力一",
+NIJISANJI SHOW DOWN にじクイステージ,43720d7b-bc5a-4788-a253-70f82911d275, 2025/03/27 18:31:27,NIJISANJI SHOW DOWN NijiQuiz Stage,2021/09/04 13:00,2021/09/04 15:00,Zepp DiverCity (TOKYO),Zepp DiverCity (TOKYO),"35.624704,139.774649",,,https://event.nijisanji.app/showdown/,"ジョー・力一, 黛灰, 健屋花那, 不破湊, 花畑チャイカ, リゼ・ヘルエスタ",
+NIJISANJI SHOW DOWN レバガチャダイパンステージ,33877d45-4d2c-42cc-a8e9-e7d08d19f53f, 2025/03/27 18:31:28,NIJISANJI SHOW DOWN Lever-gacha-daipan Stage,2021/09/04 18:00,2021/09/04 20:00,Zepp DiverCity (TOKYO),Zepp DiverCity (TOKYO),"35.624704,139.774649",,,https://event.nijisanji.app/showdown/,"社築, 笹木咲, シェリン・バーガンディ, イブラヒム, エクス・アルビオ, ニュイ・ソシエール, 葉山舞鈴",
+Rin Shizuka Solo Event “Recollection”,362d60a5-a4d7-4b8c-87d3-4f7302ef76f5, 2025/12/27 17:46:50,Rin Shizuka Solo Event “Recollection”,2021/09/11 17:00,2021/09/11 19:00,Zepp Nagoya,Zepp Nagoya,"35.163209,136.884450","特設サイト
 https://event.nijisanji.app/shizuka_recollection/
-
-ハッシュタグ：#しずりんソロイベント
-https://x.com/search?q=%23しずりんソロイベント
 
 Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGQ=?pit_git_type=SERIES
 ","Special Site
 https://event.nijisanji.app/shizuka_recollection/
 
-Hashtag：#しずりんソロイベント
-https://x.com/search?q=%23しずりんソロイベント
-
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGQ=?pit_git_type=SERIES",https://event.nijisanji.app/shizuka_recollection/,"静凛, 森中花咲, 叶, 渋谷ハジメ, 月ノ美兎, 樋口楓, ドーラ, ジョー・力一, 加賀美ハヤト"
-名探偵シェリン＆三枝 最初の事件～いなくなった文野環をさがせ！～ 1回目,07b5afde-f3c9-4671-8f28-911500b46dbc, 2025/03/23 14:19:08,Detective Shellin & Saegusa: The First Case - Find the Missing Fumino Tamaki! 1st Session,2021/09/18 11:00,2021/09/18 13:00,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911",,,https://event.nijisanji.app/nekowosagase/,"三枝明那, シェリン・バーガンディ, 文野環, でびでび・でびる, ベルモンド・バンデラス, 森中花咲"
-名探偵シェリン＆三枝 最初の事件～いなくなった文野環をさがせ！～ 2回目,e190c6b9-eef9-43e8-ab8b-c05caf45d605, 2025/03/22 14:48:07,Detective Shellin & Saegusa: The First Case - Find the Missing Fumino Tamaki! 2nd Session,2021/09/18 14:30,2021/09/18 16:30,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911",,,https://event.nijisanji.app/nekowosagase/,"三枝明那, シェリン・バーガンディ, 文野環, でびでび・でびる, ベルモンド・バンデラス, 家長むぎ"
-名探偵シェリン＆三枝 最初の事件～いなくなった文野環をさがせ！～ 3回目,a163aaf7-63cb-41f0-ab27-794065827e97, 2025/03/22 14:48:14,Detective Shellin & Saegusa: The First Case - Find the Missing Fumino Tamaki! 3rd Session,2021/09/18 18:00,2021/09/18 20:00,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911",,,https://event.nijisanji.app/nekowosagase/,"三枝明那, シェリン・バーガンディ, 文野環, でびでび・でびる, ベルモンド・バンデラス, 森中花咲, 家長むぎ"
-にじFAN Talk,bc979f4b-61dc-40c0-b8ca-c30201d8152b, 2025/03/22 19:15:09,Niji FAN Talk,2021/10/02 13:00,2021/10/02 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"鈴鹿詩子, 椎名唯華, 夢追翔"
-にじFAN Talk,8d3095ca-3afd-4ece-b892-f06c0ea1a319, 2025/03/22 19:15:12,Niji FAN Talk,2021/10/03 13:00,2021/10/03 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"える, 雪城眞尋, 星川サラ, 朝日南アカネ, 勇気ちひろ"
-にじFAN Talk,a4d6d830-d91f-4824-bb87-a76ef2b37c3b, 2025/03/22 14:59:09,Niji FAN Talk,2021/10/16 13:00,2021/10/16 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"葉山舞鈴, 神田笑一, ニュイ・ソシエール, 鷹宮リオン, 鈴谷アキ"
-にじFAN Talk,9170c054-1d71-45e5-8c48-58b2ffe1d2d7, 2025/03/22 14:59:24,Niji FAN Talk,2021/10/17 13:00,2021/10/17 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"エリー・コニファー, 緑仙, 安土桃, シスター・クレア, 早瀬走"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGQ=?pit_git_type=SERIES",https://event.nijisanji.app/shizuka_recollection/,"静凛, 森中花咲, 叶, 渋谷ハジメ, 月ノ美兎, 樋口楓, ドーラ, ジョー・力一, 加賀美ハヤト",しずりんソロイベント
+名探偵シェリン＆三枝 最初の事件～いなくなった文野環をさがせ！～ 1回目,07b5afde-f3c9-4671-8f28-911500b46dbc, 2025/03/23 14:19:08,Detective Shellin & Saegusa: The First Case - Find the Missing Fumino Tamaki! 1st Session,2021/09/18 11:00,2021/09/18 13:00,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911",,,https://event.nijisanji.app/nekowosagase/,"三枝明那, シェリン・バーガンディ, 文野環, でびでび・でびる, ベルモンド・バンデラス, 森中花咲",
+名探偵シェリン＆三枝 最初の事件～いなくなった文野環をさがせ！～ 2回目,e190c6b9-eef9-43e8-ab8b-c05caf45d605, 2025/03/22 14:48:07,Detective Shellin & Saegusa: The First Case - Find the Missing Fumino Tamaki! 2nd Session,2021/09/18 14:30,2021/09/18 16:30,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911",,,https://event.nijisanji.app/nekowosagase/,"三枝明那, シェリン・バーガンディ, 文野環, でびでび・でびる, ベルモンド・バンデラス, 家長むぎ",
+名探偵シェリン＆三枝 最初の事件～いなくなった文野環をさがせ！～ 3回目,a163aaf7-63cb-41f0-ab27-794065827e97, 2025/03/22 14:48:14,Detective Shellin & Saegusa: The First Case - Find the Missing Fumino Tamaki! 3rd Session,2021/09/18 18:00,2021/09/18 20:00,Zepp Osaka Bayside,Zepp Osaka Bayside,"34.661996,135.434911",,,https://event.nijisanji.app/nekowosagase/,"三枝明那, シェリン・バーガンディ, 文野環, でびでび・でびる, ベルモンド・バンデラス, 森中花咲, 家長むぎ",
+にじFAN Talk,bc979f4b-61dc-40c0-b8ca-c30201d8152b, 2025/03/22 19:15:09,Niji FAN Talk,2021/10/02 13:00,2021/10/02 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"鈴鹿詩子, 椎名唯華, 夢追翔",
+にじFAN Talk,8d3095ca-3afd-4ece-b892-f06c0ea1a319, 2025/03/22 19:15:12,Niji FAN Talk,2021/10/03 13:00,2021/10/03 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"える, 雪城眞尋, 星川サラ, 朝日南アカネ, 勇気ちひろ",
+にじFAN Talk,a4d6d830-d91f-4824-bb87-a76ef2b37c3b, 2025/03/22 14:59:09,Niji FAN Talk,2021/10/16 13:00,2021/10/16 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"葉山舞鈴, 神田笑一, ニュイ・ソシエール, 鷹宮リオン, 鈴谷アキ",
+にじFAN Talk,9170c054-1d71-45e5-8c48-58b2ffe1d2d7, 2025/03/22 14:59:24,Niji FAN Talk,2021/10/17 13:00,2021/10/17 16:00,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_2021/,"エリー・コニファー, 緑仙, 安土桃, シスター・クレア, 早瀬走",
 NIJIROCK NEXT BEAT,a09f3fd6-6113-4322-8539-23468a0fae4a, 2025/05/23 02:00:28,NIJIROCK NEXT BEAT,2021/10/30 17:00,2021/10/30 19:00,ぴあアリーナMM,PIA ARENA MM,"35.455689,139.628452","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTU=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTU=?pit_git_type=SERIES",https://event.nijisanji.app/NIJIROCK_NB/,"加賀美ハヤト, 雨森小夜, ジョー・力一, 三枝明那, 緑仙, 轟京子, 夢追翔"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTU=?pit_git_type=SERIES",https://event.nijisanji.app/NIJIROCK_NB/,"加賀美ハヤト, 雨森小夜, ジョー・力一, 三枝明那, 緑仙, 轟京子, 夢追翔",
 initial step in NIJISANJI,480e5e02-9398-4f63-8d81-0c6f8ef1fd77, 2025/05/23 02:00:54,initial step in NIJISANJI,2021/10/31 17:00,2021/10/31 19:00,ぴあアリーナMM,PIA ARENA MM,"35.455689,139.628452","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTQ=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTQ=?pit_git_type=SERIES",https://event.nijisanji.app/initial_step_in/,"月ノ美兎, 樋口楓, 静凛, える, 勇気ちひろ, 鈴谷アキ, モイラ, 渋谷ハジメ"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTQ=?pit_git_type=SERIES",https://event.nijisanji.app/initial_step_in/,"月ノ美兎, 樋口楓, 静凛, える, 勇気ちひろ, 鈴谷アキ, モイラ, 渋谷ハジメ",
 Kuzuha Birthday Event 「Scarlet Invitation」,ccd9e889-0fea-4024-9546-c286a6b6990d, 2025/04/23 23:36:24,"Kuzuha Birthday Event ""Scarlet Invitation""",2021/11/10 18:00,2021/11/10 20:00,Zepp Haneda,Zepp Haneda,"35.547393,139.756497","特設サイト
 https://event.nijisanji.app/kuzuha_scarletinvitation/
 
@@ -135,7 +130,7 @@ https://event.nijisanji.app/kuzuha_scarletinvitation/
 Lemino viewing page
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNjk=?pit_git_type=SERIES
 
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjQ=?pit_git_type=SERIES",https://event.nijisanji.app/kuzuha_scarletinvitation/,葛葉
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjQ=?pit_git_type=SERIES",https://event.nijisanji.app/kuzuha_scarletinvitation/,葛葉,
 月ノ美兎1stワンマンライブ「月ノ美兎は箱の中」,f1243f88-b210-44fc-ba43-00d472d67e02, 2025/03/27 18:32:00,"Tsukino Mito 1st Solo Concert ""Tsukino Mito is in the Box""",2021/11/16 18:00,2021/11/16 20:00,Zepp DiverCity (TOKYO),Zepp DiverCity (TOKYO),"35.624704,139.774649","特設サイト
 https://event.nijisanji.app/tsukino_hakononaka/
 
@@ -144,19 +139,19 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://event.nijisanji.app/tsukino_hakononaka/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmE=?pit_git_type=SERIES",https://event.nijisanji.app/tsukino_hakononaka/,月ノ美兎
-森中花咲 1st VR LIVE “下剋上”,3ecaaca9-32ee-4a4b-bd73-4ad0d6e5f43d, 2025/03/22 19:15:17,"Morinaka Kazaki 1st VR LIVE ""Gekokujō""",2022/02/12 18:00,2022/02/12 20:00,オンライン,Online,,,,,"森中花咲, 戌亥とこ"
-Rain Drops セカンドワンマンライブ『SQUALL ～雨ニモマケズ～』,4b300aa1-7bc4-4ac3-be7e-269299c13442, 2025/03/22 15:28:44,"Rain Drops 2nd One man Live ""SQUALL - Not Defeated by Rain""",2022/04/15 18:00,2022/04/15 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.universal-music.co.jp/raindrops/news/2021-12-09/,"緑仙, 三枝明那, 童田明治, 鈴木勝, える, ジョー・力一"
-Rain Drops セカンドワンマンライブ『SQUALL ～風ニモマケズ～』,64282d25-3cbd-4f4a-89fe-dd3b4b24f9c1, 2025/03/22 15:28:55,"Rain Drops 2nd One man Live ""SQUALL - Not Defeated by Wind""",2022/04/16 18:00,2022/04/16 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.universal-music.co.jp/raindrops/news/2021-12-09/,"緑仙, 三枝明那, 童田明治, 鈴木勝, える, ジョー・力一"
-にじFAN Talk Vol.2,7522e6cf-5925-4430-a715-ef295714f830, 2025/03/22 19:15:19,Niji FAN Talk Vol.2,2022/04/16 13:00,2022/04/16 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"笹木咲, シスター・クレア, ニュイ・ソシエール"
-にじFAN Talk Vol.2,c064d49c-1bb8-4bd7-a1c9-d19577429870, 2025/03/22 15:30:59,Niji FAN Talk Vol.2,2022/04/17 13:00,2022/04/17 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"安土桃, 家長むぎ, 鷹宮リオン, 雪城眞尋"
-にじFAN Talk Vol.2,79bc7bee-c81d-4166-8578-5859031866ff, 2025/03/22 15:31:16,Niji FAN Talk Vol.2,2022/04/23 13:00,2022/04/23 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"朝日南アカネ, える, 鈴鹿詩子, 星川サラ, 緑仙"
-にじFAN Talk Vol.2,0ae73955-88bc-45a3-8b16-c6aa7f4b983f, 2025/03/22 15:31:33,Niji FAN Talk Vol.2,2022/04/24 13:00,2022/04/24 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"鈴谷アキ, 樋口楓, 勇気ちひろ, レヴィ・エリファ"
-にじFAN Talk Vol.2,518a2030-0d53-4a43-91dc-b41a7aee26de, 2025/03/22 15:31:52,Niji FAN Talk Vol.2,2022/04/29 13:00,2022/04/29 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"エリー・コニファー, 神田笑一, 椎名唯華, 夢追翔"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmE=?pit_git_type=SERIES",https://event.nijisanji.app/tsukino_hakononaka/,月ノ美兎,
+森中花咲 1st VR LIVE “下剋上”,3ecaaca9-32ee-4a4b-bd73-4ad0d6e5f43d, 2025/03/22 19:15:17,"Morinaka Kazaki 1st VR LIVE ""Gekokujō""",2022/02/12 18:00,2022/02/12 20:00,オンライン,Online,,,,,"森中花咲, 戌亥とこ",
+Rain Drops セカンドワンマンライブ『SQUALL ～雨ニモマケズ～』,4b300aa1-7bc4-4ac3-be7e-269299c13442, 2025/03/22 15:28:44,"Rain Drops 2nd One man Live ""SQUALL - Not Defeated by Rain""",2022/04/15 18:00,2022/04/15 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.universal-music.co.jp/raindrops/news/2021-12-09/,"緑仙, 三枝明那, 童田明治, 鈴木勝, える, ジョー・力一",
+Rain Drops セカンドワンマンライブ『SQUALL ～風ニモマケズ～』,64282d25-3cbd-4f4a-89fe-dd3b4b24f9c1, 2025/03/22 15:28:55,"Rain Drops 2nd One man Live ""SQUALL - Not Defeated by Wind""",2022/04/16 18:00,2022/04/16 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.universal-music.co.jp/raindrops/news/2021-12-09/,"緑仙, 三枝明那, 童田明治, 鈴木勝, える, ジョー・力一",
+にじFAN Talk Vol.2,7522e6cf-5925-4430-a715-ef295714f830, 2025/03/22 19:15:19,Niji FAN Talk Vol.2,2022/04/16 13:00,2022/04/16 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"笹木咲, シスター・クレア, ニュイ・ソシエール",
+にじFAN Talk Vol.2,c064d49c-1bb8-4bd7-a1c9-d19577429870, 2025/03/22 15:30:59,Niji FAN Talk Vol.2,2022/04/17 13:00,2022/04/17 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"安土桃, 家長むぎ, 鷹宮リオン, 雪城眞尋",
+にじFAN Talk Vol.2,79bc7bee-c81d-4166-8578-5859031866ff, 2025/03/22 15:31:16,Niji FAN Talk Vol.2,2022/04/23 13:00,2022/04/23 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"朝日南アカネ, える, 鈴鹿詩子, 星川サラ, 緑仙",
+にじFAN Talk Vol.2,0ae73955-88bc-45a3-8b16-c6aa7f4b983f, 2025/03/22 15:31:33,Niji FAN Talk Vol.2,2022/04/24 13:00,2022/04/24 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"鈴谷アキ, 樋口楓, 勇気ちひろ, レヴィ・エリファ",
+にじFAN Talk Vol.2,518a2030-0d53-4a43-91dc-b41a7aee26de, 2025/03/22 15:31:52,Niji FAN Talk Vol.2,2022/04/29 13:00,2022/04/29 17:20,オンライン,Online,,,,https://event.nijisanji.app/nijifantalk_vol2/,"エリー・コニファー, 神田笑一, 椎名唯華, 夢追翔",
 Kuzuha＆Kanae＆ROF-MAO Three-Man LIVE「Aim Higher」,5b4d230f-8967-45d8-af21-eb223833c059, 2025/04/23 23:37:57,"Kuzuha＆Kanae＆ROF-MAO Three-Man LIVE ""Aim Higher""",2022/07/27 18:00,2022/07/27 20:00,ぴあアリーナMM,PIA ARENA MM,"35.455689,139.628452","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWM=?pit_git_type=SERIES
 ","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWM=?pit_git_type=SERIES",https://event.nijisanji.app/aim_higher/,"葛葉, 叶, 加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWM=?pit_git_type=SERIES",https://event.nijisanji.app/aim_higher/,"葛葉, 叶, 加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴",
 にじさんじ 4th Anniversary LIVE「FANTASIA」Day1,e9404779-3dda-484a-8670-31e109b6bc4e, 2025/04/23 23:36:58,"Nijisanji 4th Anniversary LIVE ""FANTASIA"" Day1",2022/09/30 17:00,2022/09/30 19:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
 https://event.nijisanji.app/4thanniv_fantasia/
 
@@ -169,7 +164,7 @@ https://event.nijisanji.app/4thanniv_fantasia/
 Lemino viewing page
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmI=?pit_git_type=SERIES
 
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjU=?pit_git_type=SERIES",https://event.nijisanji.app/4thanniv_fantasia/,"月ノ美兎, 樋口楓, 笹木咲, 椎名唯華, 相羽ういは, 夜見れな, 戌亥とこ, 白雪巴"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjU=?pit_git_type=SERIES",https://event.nijisanji.app/4thanniv_fantasia/,"月ノ美兎, 樋口楓, 笹木咲, 椎名唯華, 相羽ういは, 夜見れな, 戌亥とこ, 白雪巴",
 にじさんじ 4th Anniversary LIVE「FANTASIA」Day2,9ebbb6b5-0253-4ed1-8e01-f1b8f8002e35, 2025/03/25 14:37:17,"Nijisanji 4th Anniversary LIVE ""FANTASIA"" Day1",2022/10/01 19:00,2022/10/01 21:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
 https://event.nijisanji.app/4thanniv_fantasia/
 
@@ -178,8 +173,8 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://event.nijisanji.app/4thanniv_fantasia/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmM=?pit_git_type=SERIES",https://event.nijisanji.app/4thanniv_fantasia/,"剣持刀也, 叶, 加賀美ハヤト, 夢追翔, 三枝明那, 卯月コウ, シェリン・バーガンディ, 社築"
-にじさんじフェス2022,e0d33f96-13aa-4683-a40c-7a4a1846c0cb, 2025/03/22 15:42:00,Nijisanji Festival 2022,2022/10/01 08:30, 2022/10/02 19:30,幕張メッセ,Makuhari Messe,"35.646867,140.034609",,,https://fes.nijisanji.jp/2022/,にじさんじ
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmM=?pit_git_type=SERIES",https://event.nijisanji.app/4thanniv_fantasia/,"剣持刀也, 叶, 加賀美ハヤト, 夢追翔, 三枝明那, 卯月コウ, シェリン・バーガンディ, 社築",
+にじさんじフェス2022,e0d33f96-13aa-4683-a40c-7a4a1846c0cb, 2025/03/22 15:42:00,Nijisanji Festival 2022,2022/10/01 08:30, 2022/10/02 19:30,幕張メッセ,Makuhari Messe,"35.646867,140.034609",,,https://fes.nijisanji.jp/2022/,にじさんじ,
 にじさんじ Anniversary Festival 2022 -フェスでもゲームる？ゲームる！ステージ-,1a9426f1-04f1-43a8-aeb9-6ca956bbd8bb, 2025/04/23 23:45:44,Nijisanji Anniversary Festival 2022 Game-Ru?Game-Ru!Stage,2022/10/01 10:30,2022/10/01 12:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","イベントサイト
 https://fes.nijisanji.jp/2022/stage/
 
@@ -188,7 +183,7 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://fes.nijisanji.jp/2022/stage/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWQ=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"夜見れな, 天宮こころ, 魔使マオ, 葉加瀬冬雪, 長尾景, レイン・パターソン"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWQ=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"夜見れな, 天宮こころ, 魔使マオ, 葉加瀬冬雪, 長尾景, レイン・パターソン",
 にじさんじ Anniversary Festival 2022 -さんばかステージ-,84fc0640-f24b-4c67-9242-3c8f9d66137e, 2025/04/24 00:02:21,Nijisanji Anniversary Festival 2022 Sanbaka Stage,2022/10/01 13:30,2022/10/01 15:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","イベントサイト
 https://fes.nijisanji.jp/2022/stage/
 
@@ -197,7 +192,7 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://fes.nijisanji.jp/2022/stage/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWU=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"アンジュ・カトリーナ, リゼ・ヘルエスタ, 戌亥とこ"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWU=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"アンジュ・カトリーナ, リゼ・ヘルエスタ, 戌亥とこ",
 にじさんじ Anniversary Festival 2022 -演劇ステージ-,bfecd6df-2a74-4a1a-b442-968a1e48ff4d, 2025/04/24 00:01:47,Nijisanji Anniversary Festival 2022 Theater Stage,2022/10/01 16:30,2022/10/01 17:30,幕張メッセ,Makuhari Messe,"35.646867,140.034609","イベントサイト
 https://fes.nijisanji.jp/2022/stage/
 
@@ -206,7 +201,7 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://fes.nijisanji.jp/2022/stage/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWY=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"物述有栖, 文野環, 鈴木勝, 神田笑一, ジョー・力一, 愛園愛美, 健屋花那, えま★おうがすと, ルイス・キャミー, 魔使マオ"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YWY=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"物述有栖, 文野環, 鈴木勝, 神田笑一, ジョー・力一, 愛園愛美, 健屋花那, えま★おうがすと, ルイス・キャミー, 魔使マオ",
 "にじさんじ Anniversary Festival 2022 -にじさんじのB級バラエティ(仮)ステージ
 〜後悔収録惨次元〜-",a1627c7b-d79c-4428-8978-7f0d282819ca, 2025/04/23 23:58:11,Nijisanji Anniversary Festival 2022 B Grade Variety of Nijisanji (Kari) Stage,2022/10/02 10:30,2022/10/02 12:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","イベントサイト
 https://fes.nijisanji.jp/2022/stage/
@@ -216,7 +211,7 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://fes.nijisanji.jp/2022/stage/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjA=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"早瀬走, でびでび・でびる, 周央サンゴ, イブラヒム, 社築, 花畑チャイカ, 笹木咲, 椎名唯華"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjA=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"早瀬走, でびでび・でびる, 周央サンゴ, イブラヒム, 社築, 花畑チャイカ, 笹木咲, 椎名唯華",
 "にじさんじ Anniversary Festival 2022 -出張！ろふまお塾
 〜フェスだしいっちょやりますかSP〜-",61d422cf-84be-4956-8e49-266e3a6d10ba, 2025/04/24 00:03:54,Nijisanji Anniversary Festival 2022 ROF-MAO Stage,2022/10/02 13:30,2022/10/02 15:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","イベントサイト
 https://fes.nijisanji.jp/2022/stage/
@@ -226,7 +221,7 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://fes.nijisanji.jp/2022/stage/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjE=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjE=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴",
 "にじさんじ Anniversary Festival 2022 -月ノ美兎&星川サラ&不破湊
 &ChroNoiRステージ-",e4ee0c3d-26d4-4e22-b1c4-42a38f13e867, 2025/04/24 00:05:36,Nijisanji Anniversary Festival 2022 Tsukino Mito & Hoshikawa Sara & Fuwa Minato & ChroNoiR Stage,2022/10/02 16:30,2022/10/02 18:30,幕張メッセ,Makuhari Messe,"35.646867,140.034609","イベントサイト
 https://fes.nijisanji.jp/2022/stage/
@@ -236,80 +231,80 @@ https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM
 https://fes.nijisanji.jp/2022/stage/
 
 Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjI=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"月ノ美兎, 星川サラ, 不破湊, 叶, 葛葉"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjI=?pit_git_type=SERIES",https://fes.nijisanji.jp/2022/stage/,"月ノ美兎, 星川サラ, 不破湊, 叶, 葛葉",
 にじさんじユニット歌謡祭2022 DAY 1,449d50bc-d210-48ac-a3ae-abd8c7f89bd0, 2025/04/24 00:06:39,NIJISANJI UNIT MUSIC FESTIVAL DAY 1,2022/12/29 17:00,2022/12/29 19:00,各映画館（イオンシネマ）,Various movie theaters (AEON Cinema),,"Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D
 
 司会：竜胆尊/剣持刀也
 出演：モイラ/鈴谷アキ/月ノ美兎/樋口楓/勇気ちひろ/家長むぎ/夕陽リリ/伏見ガク/剣持刀也/物述有栖/ギルザレンⅢ世/文野環/森中花咲/叶/赤羽葉子/卯月コウ/鈴木勝/ドーラ/轟京子/シスター・クレア/社築/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/でびでび・でびる/桜凛月/町田ちま/夢追翔/ベルモンド・バンデラス/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/アルス・アルマル/相羽ういは/天宮こころ/エリー・コニファー/早瀬走/健屋花那/星川サラ/ルイス・キャミー/魔使マオ/白雪巴/グウェル・オス・ガール/ましろ爻/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/周央サンゴ/東堂コハク/北小路ヒスイ/西園チグサ/レイン・パターソン","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D",https://event.nijisanji.app/numf2022/,にじさんじ
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D",https://event.nijisanji.app/numf2022/,にじさんじ,
 にじさんじユニット歌謡祭2022 DAY 2,88efbd41-8158-491d-8a16-a09062a393c5, 2025/04/24 00:07:14,NIJISANJI UNIT MUSIC FESTIVAL DAY 2,2022/12/30 17:00,2022/12/30 19:00,各映画館（イオンシネマ）,Various movie theaters (AEON Cinema),,"Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D
 
 司会：竜胆尊/剣持刀也
 出演：月ノ美兎/える/渋谷ハジメ/夕陽リリ/伏見ガク/剣持刀也/叶/赤羽葉子/卯月コウ/緑仙/鷹宮リオン/ドーラ/シスター・クレア/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/舞元啓介/竜胆尊/町田ちま/ジョー・力一/夢追翔/ベルモンド・バンデラス/小野町春香/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/相羽ういは/天宮こころ/ラトナ・プティ/健屋花那/フミ/星川サラ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/フレン・E・ルスタリオ/弦月藤士郎/甲斐田晴/西園チグサ/レオス・ヴィンセント/オリバー・エバンス","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D",https://event.nijisanji.app/numf2022/,にじさんじ
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D",https://event.nijisanji.app/numf2022/,にじさんじ,
 にじさんじユニット歌謡祭2022 DAY 3,45ec2a5c-c933-4f09-b848-3022a59242bd, 2025/04/24 00:07:47,NIJISANJI UNIT MUSIC FESTIVAL DAY 3,2022/12/31 17:00,2022/12/31 19:00,各映画館（イオンシネマ）,Various movie theaters (AEON Cinema),,"Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D
 
 司会：竜胆尊/剣持刀也
 出演：樋口楓/える/伏見ガク/森中花咲/叶/鈴木勝/緑仙/ドーラ/花畑チャイカ/笹木咲/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/竜胆尊/桜凛月/ジョー・力一/夢追翔/小野町春香/戌亥とこ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉加瀬冬雪/加賀美ハヤト/相羽ういは/天宮こころ/エリー・コニファー/ラトナ・プティ/早瀬走/健屋花那/フミ/星川サラ/山神カルタ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/奈羅花/来栖夏芽/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/レオス・ヴィンセント/オリバー・エバンス/レイン・パターソン","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D",https://event.nijisanji.app/numf2022/,にじさんじ
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D",https://event.nijisanji.app/numf2022/,にじさんじ,
 Nornis 1st LIVE -Transparent Blue-,e12fd5a0-aaa4-427a-9885-8e78d47303f4, 2025/05/23 02:01:22,Nornis 1st LIVE -Transparent Blue-,2023/03/15 18:00,2023/03/15 20:00,グランキューブ大阪 メインホール,Osaka International Convention Center Main Hall,"34.689696,135.485886","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGU=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGU=?pit_git_type=SERIES",https://www.nornis.com/event/1st_live/,"町田ちま, 戌亥とこ, 朝日南アカネ"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGU=?pit_git_type=SERIES",https://www.nornis.com/event/1st_live/,"町田ちま, 戌亥とこ, 朝日南アカネ",
 叶 1st Concert「午前0時の向こう側」,1e94e1c7-51c7-4802-bcd2-f704cc5617ca, 2025/05/23 02:01:50,Kanae 1st Concert 'Beyond Midnight',2023/03/16 18:00,2023/03/16 20:00,グランキューブ大阪 メインホール,Osaka International Convention Center Main Hall,"34.689696,135.485886","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGY=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGY=?pit_git_type=SERIES",https://event.nijisanji.app/kanae_1stconcert/,叶
-にじFAN Talk Vol.3,00df4f03-4a73-460f-ab45-00d3cbf61450, 2025/03/22 19:18:53,Niji FAN Talk Vol.3,2023/04/22 13:00,2023/04/22 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"安土桃, 神田笑一, 小野町春香, 葉山舞鈴, 夢追翔"
-にじFAN Talk Vol.3,5e6589af-c94a-4388-8461-afe286c08469, 2025/03/22 15:52:27,Niji FAN Talk Vol.3,2023/04/23 13:00,2023/04/23 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"勇気ちひろ, レヴィ・エリファ, 樋口楓, モイラ, 家長むぎ, 愛園愛美"
-にじFAN Talk Vol.3,64bf23ae-9b24-4b04-9447-01b67b390e50, 2025/03/22 15:52:47,Niji FAN Talk Vol.3,2023/04/29 13:00,2023/04/29 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"鈴谷アキ, 鷹宮リオン, 壱百満天原サロメ, ニュイ・ソシエール, 星川サラ, 笹木咲"
-にじFAN Talk Vol.3,4e2034bc-7070-44f9-a5cb-e4a01e0123f3, 2025/03/22 15:53:08,Niji FAN Talk Vol.3,2023/04/30 13:00,2023/04/30 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"夜見れな, 雪城眞尋, える, エリー・コニファー, 来栖夏芽, 白雪巴"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NGY=?pit_git_type=SERIES",https://event.nijisanji.app/kanae_1stconcert/,叶,
+にじFAN Talk Vol.3,00df4f03-4a73-460f-ab45-00d3cbf61450, 2025/03/22 19:18:53,Niji FAN Talk Vol.3,2023/04/22 13:00,2023/04/22 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"安土桃, 神田笑一, 小野町春香, 葉山舞鈴, 夢追翔",
+にじFAN Talk Vol.3,5e6589af-c94a-4388-8461-afe286c08469, 2025/03/22 15:52:27,Niji FAN Talk Vol.3,2023/04/23 13:00,2023/04/23 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"勇気ちひろ, レヴィ・エリファ, 樋口楓, モイラ, 家長むぎ, 愛園愛美",
+にじFAN Talk Vol.3,64bf23ae-9b24-4b04-9447-01b67b390e50, 2025/03/22 15:52:47,Niji FAN Talk Vol.3,2023/04/29 13:00,2023/04/29 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"鈴谷アキ, 鷹宮リオン, 壱百満天原サロメ, ニュイ・ソシエール, 星川サラ, 笹木咲",
+にじFAN Talk Vol.3,4e2034bc-7070-44f9-a5cb-e4a01e0123f3, 2025/03/22 15:53:08,Niji FAN Talk Vol.3,2023/04/30 13:00,2023/04/30 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol3/,"夜見れな, 雪城眞尋, える, エリー・コニファー, 来栖夏芽, 白雪巴",
 緑仙 1st Live「Ryushen」,140560b7-5f4a-41f3-bf4e-5ef0ffe74062, 2025/05/23 02:02:20,"Ryushen 1st Live ""Ryushen""",2023/06/08 18:00,2023/06/08 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTA=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTA=?pit_git_type=SERIES",https://www.nijisanji.jp/events/ryushen_1stlive/,緑仙
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTA=?pit_git_type=SERIES",https://www.nijisanji.jp/events/ryushen_1stlive/,緑仙,
 VΔLZ 1stライブ『一唱入魂』,2d8cb783-41d5-419d-a17e-bb554e7d002d, 2025/05/23 02:02:49,"VΔLZ 1st Live ""Issho Nyukon""",2023/06/09 18:00,2023/06/09 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTE=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTE=?pit_git_type=SERIES",https://event.nijisanji.app/valz_1stlive/,"甲斐田晴, 長尾景, 弦月藤士郎"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTE=?pit_git_type=SERIES",https://event.nijisanji.app/valz_1stlive/,"甲斐田晴, 長尾景, 弦月藤士郎",
 星川サラ 1st LIVE「星くず Shining Day -きみがみつけた一番星-」,c261ec89-cb24-4080-8e7d-271e59cfc786, 2025/05/23 02:03:13,"Hoshikawa Sara 1st LIVE ""Stardust Shining Day -The First Star You Found-""",2023/06/10 18:00,2023/06/10 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006","Lemino視聴ページ
 https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTI=?pit_git_type=SERIES","Lemino viewing page
-https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTI=?pit_git_type=SERIES",https://event.nijisanji.app/hoshikuzu_shiningday/,星川サラ
-剣持刀也リアルソロイベント【虚空大戦】,74ddb35c-9b98-43c8-8300-09a38b0e7554, 2025/03/22 16:03:19,Kenmochi Toya Real Solo Event [Kokuu Wars],2023/06/11 18:00,2023/06/11 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/kenmochi_wars/,"叶, 椎名唯華, 伏見ガク"
-椎名唯華 ファンミーティング ゴリランド,8c29112d-3fdb-4c0b-b7e3-ea334722649e, 2025/03/22 18:58:09,Shiina Yuika Fan Meeting Goriland,2023/09/30 15:00,2023/09/30 17:00,恵⽐寿 ザ・ガーデンルーム,Yebisu Garden Place - The Garden Room,"35.641531,139.713551",,,https://www.nijisanji.jp/events/shiina_goriland/,椎名唯華
-KZHCUP in Street Fighter 6,134b865b-d209-476a-b43a-629e0f0a8e8f, 2025/03/22 19:34:42,KZHCUP in Street Fighter 6,2023/11/26 15:00,2023/11/26 21:00,オンライン,Online,,,,https://www.nijisanji.jp/events/kzhcup_in_streetfighter6/,"葛葉, 笹木咲, 安土桃, 叶, ソフィア・ヴァレンタイン, 神田笑一, イブラヒム, 椎名唯華, 社築, 奈羅花, 壱百満天原サロメ, 渡会雲雀, 伊波ライ"
-にじさんじフェス2023 前夜祭,ef033d02-cf3f-4005-9c8b-2f6518ce3a50, 2025/03/22 20:10:19,Nijisanji Fes 2023 Eve Celebration,2023/12/22 18:00,2023/12/22 20:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/eveoffestival/,"樋口楓, 夢追翔, 戌亥とこ, 町田ちま, 弦月藤士郎, 長尾景, 甲斐田晴"
-にじさんじフェス2023,d1f05cd2-e04d-4f3e-b297-ad60c5df2c6f, 2025/03/22 20:10:24,Nijisanji Fes 2023,2023/12/23 09:00, 2023/12/24 18:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,にじさんじ
-さくゆい劇場〜この旅館、ほんまアカン！〜,8576050f-f3d5-4a6e-be7f-7dc26c2ee428, 2025/03/22 20:10:24,Sakuyui Theater - This Inn is Really Terrible!,2023/12/23 11:00,2023/12/23 12:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"笹木咲, 椎名唯華, 花畑チャイカ, 加賀美ハヤト, 四季凪アキラ, 小野町春香, 早瀬走, イブラヒム, シスター・クレア"
+https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM3NTI=?pit_git_type=SERIES",https://event.nijisanji.app/hoshikuzu_shiningday/,星川サラ,
+剣持刀也リアルソロイベント【虚空大戦】,74ddb35c-9b98-43c8-8300-09a38b0e7554, 2025/03/22 16:03:19,Kenmochi Toya Real Solo Event [Kokuu Wars],2023/06/11 18:00,2023/06/11 20:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://event.nijisanji.app/kenmochi_wars/,"叶, 椎名唯華, 伏見ガク",
+椎名唯華 ファンミーティング ゴリランド,8c29112d-3fdb-4c0b-b7e3-ea334722649e, 2025/03/22 18:58:09,Shiina Yuika Fan Meeting Goriland,2023/09/30 15:00,2023/09/30 17:00,恵⽐寿 ザ・ガーデンルーム,Yebisu Garden Place - The Garden Room,"35.641531,139.713551",,,https://www.nijisanji.jp/events/shiina_goriland/,椎名唯華,
+KZHCUP in Street Fighter 6,134b865b-d209-476a-b43a-629e0f0a8e8f, 2025/03/22 19:34:42,KZHCUP in Street Fighter 6,2023/11/26 15:00,2023/11/26 21:00,オンライン,Online,,,,https://www.nijisanji.jp/events/kzhcup_in_streetfighter6/,"葛葉, 笹木咲, 安土桃, 叶, ソフィア・ヴァレンタイン, 神田笑一, イブラヒム, 椎名唯華, 社築, 奈羅花, 壱百満天原サロメ, 渡会雲雀, 伊波ライ",
+にじさんじフェス2023 前夜祭,ef033d02-cf3f-4005-9c8b-2f6518ce3a50, 2025/03/22 20:10:19,Nijisanji Fes 2023 Eve Celebration,2023/12/22 18:00,2023/12/22 20:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/eveoffestival/,"樋口楓, 夢追翔, 戌亥とこ, 町田ちま, 弦月藤士郎, 長尾景, 甲斐田晴",
+にじさんじフェス2023,d1f05cd2-e04d-4f3e-b297-ad60c5df2c6f, 2025/03/22 20:10:24,Nijisanji Fes 2023,2023/12/23 09:00, 2023/12/24 18:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,にじさんじ,
+さくゆい劇場〜この旅館、ほんまアカン！〜,8576050f-f3d5-4a6e-be7f-7dc26c2ee428, 2025/03/22 20:10:24,Sakuyui Theater - This Inn is Really Terrible!,2023/12/23 11:00,2023/12/23 12:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"笹木咲, 椎名唯華, 花畑チャイカ, 加賀美ハヤト, 四季凪アキラ, 小野町春香, 早瀬走, イブラヒム, シスター・クレア",
 "にじさんじ 5th Anniversary LIVE
 「SYMPHONIA」Day1",6e604429-ebd3-4386-82d7-cc5b88babdba, 2025/03/22 20:10:25,"Nijisanji 5th Anniversary LIVE
-""SYMPHONIA"" Day1",2023/12/23 15:00, 2023/12/23 17:15,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"剣持刀也, 伏見ガク, 緑仙, 魔界ノりりむ, 葉加瀬冬雪, フレン・E・ルスタリオ, レイン・パターソン, レオス・ヴィンセント"
-Kuzuha Solo Event “Kaleidoscope”,aa020da4-8374-433b-99ef-e284ec307c5d, 2025/03/22 20:10:26,Kuzuha Solo Event “Kaleidoscope”,2023/12/24 11:00,2023/12/24 12:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"葛葉, 剣持刀也, 社築, イブラヒム, 卯月コウ, 不破湊, ローレン・イロアス"
+""SYMPHONIA"" Day1",2023/12/23 15:00, 2023/12/23 17:15,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"剣持刀也, 伏見ガク, 緑仙, 魔界ノりりむ, 葉加瀬冬雪, フレン・E・ルスタリオ, レイン・パターソン, レオス・ヴィンセント",
+Kuzuha Solo Event “Kaleidoscope”,aa020da4-8374-433b-99ef-e284ec307c5d, 2025/03/22 20:10:26,Kuzuha Solo Event “Kaleidoscope”,2023/12/24 11:00,2023/12/24 12:30,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"葛葉, 剣持刀也, 社築, イブラヒム, 卯月コウ, 不破湊, ローレン・イロアス",
 "にじさんじ 5th Anniversary LIVE
 「SYMPHONIA」Day2",ae738b79-d701-4743-85c9-071a00323198, 2025/03/22 20:10:26,"Nijisanji 5th Anniversary LIVE
-""SYMPHONIA"" Day2",2023/12/24 15:00,2023/12/24 17:15,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"月ノ美兎, ジョー・力一, リゼ・ヘルエスタ, 星川サラ, 不破湊, 長尾景, 壱百満天原サロメ, 渡会雲雀"
-にじさんじDJフェス 2023,b8f5fdea-574b-4289-a032-ce1beb5d028f, 2025/03/22 20:02:20,Nijisanji DJ Fes 2023,2023/12/23 11:00,2023/12/23 17:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/djfes/,"健屋花那, 風楽奏斗, ドーラ, 緑仙"
-にじさんじDJフェス 2023,671e41cc-8c04-4e1d-8043-b91527305880, 2025/03/22 20:10:28,Nijisanji DJ Fes 2023,2023/12/24 11:00,2023/12/24 17:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/djfes/,"シスター・クレア, 星川サラ, 社築, 夢追翔"
-にじ3→4 年越し特番 ～喋ろう！歌おう！ゲームしよう！～,9e60bb4b-b449-43ef-be8a-d455af290d52, 2025/03/22 20:12:24,Niji 3→4 New Year's Special Program - Let's Talk! Let's Sing! Let's Play Games!,2023/12/31 20:00, 2024/01/01 03:00,オンライン,Online,,,,https://www.nijisanji.jp/events/2023-2024/,"ジョー・力一, 卯月コウ, 夢追翔, リゼ・ヘルエスタ, 葉加瀬冬雪, 山神カルタ, 渡会雲雀, 剣持刀也, 竜胆尊, 月ノ美兎, 社築, 笹木咲, 椎名唯華, 三枝明那, 星川サラ, 甲斐田晴, 弦月藤士郎, レオス・ヴィンセント, 先斗寧, シェリン・バーガンディ, 早瀬走, ソフィア・ヴァレンタイン, 叢雲カゲツ"
-夢追翔ファンミーティング ゆめおの夢まつり,fab4d7ee-3869-4af8-94a6-44ce829be307, 2025/03/22 20:16:04,Yumeoi Kakeru Fan Meeting: Yumeoi's Dream Festival,2024/03/03 15:00,2024/03/03 17:00,飛行船シアター,HIKOSEN THEATER,"35.715554,139.782018",,,https://www.nijisanji.jp/events/yumeoi_yumematsuri/,夢追翔
-NIJISANJI EN AR LIVE “COLORS” PASTEL STAGE & VIVID STAGE,13a48c1a-0e7c-4a08-ae0b-aacee3265116, 2025/03/22 20:19:04,NIJISANJI EN AR LIVE “COLORS” PASTEL STAGE & VIVID STAGE,2024/04/14 10:00,2024/04/14 13:00,オンライン,Online,,,,https://www.nijisanji.jp/events/EN_COLORS/,"エリーラ ペンドラ, フィナーナ 竜宮, ペトラ グリン, ロゼミ ラブロック, 遠藤霊夢, エナー・アールウェット, ミリー・パフェ, ヴォックス・アクマ, ルカ・カネシロ, アイク・イーヴランド, 闇ノシュウ, アルバーン・ノックス, サニー・ブリスコー, 浮奇・ヴィオレタ, ファルガー・オーヴィド"
-"ChroNoiR One-Man Live ""Welcome to Wonder Wander World""",a8f080cb-d434-4709-bd5e-2d9a44842a54, 2025/03/22 20:23:08,"ChroNoiR One-Man Live ""Welcome to Wonder Wander World""",2024/04/20 18:00,2024/04/20 20:00,大阪城ホール,OSAKA-JO HALL,"34.689625,135.530106",,,https://www.nijisanji.jp/events/chronoir_onemanlive2024/,"叶, 葛葉"
-"ROF-MAO 1st LIVE New street, New world",e4949318-fbdc-43ad-83c9-d97d58e76a43, 2025/03/22 20:35:57,"ROF-MAO 1st LIVE New street, New world",2024/04/21 18:00,2024/04/21 20:00,大阪城ホール,OSAKA-JO HALL,"34.689625,135.530106",,,https://www.nijisanji.jp/events/rof-mao_1stlive/,"加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴"
-ジョー・力一 1st LIVE「カーニバル・リヴ」,f5c552c6-f42f-473d-9cdc-802b39a71f20, 2025/03/22 20:38:42,Joe Rikiichi 1st LIVE - Carnival Live,2024/06/14 18:00,2024/06/14 20:00,品川プリンスホテル ステラボール,Shinagawa Prince Hotel Stellar Ball,"35.627512,139.735335",,,https://www.nijisanji.jp/events/rikiichi_carnivallive/,ジョー・力一
-NIJISANJI EN SUMMER JAM Group1,ee52aaf8-3222-4914-b656-4e6f2f309c3d, 2025/03/22 20:52:31,NIJISANJI EN SUMMER JAM Group1,2024/07/07 04:00,2024/07/07 06:00,オンライン,Online,,,,https://www.youtube.com/live/HrmvTgp06bg,"エリーラ ペンドラ, フィナーナ 竜宮, ペトラ グリン, ロゼミ ラブロック, ミリー・パフェ"
-NIJISANJI EN SUMMER JAM Group2,6e93e3e0-bc84-4f2b-a958-f5346c3cea5e, 2025/03/22 20:52:42,NIJISANJI EN SUMMER JAM Group2,2024/07/07 10:00,2024/07/07 12:00,オンライン,Online,,,,https://www.youtube.com/live/3asTXK9IFbI,"ルカ・カネシロ, 闇ノシュウ, サニー・ブリスコー"
-VΔLZ LIVE TOUR 2024『三華の樂』,4e995778-ca4f-4f9a-9272-1ea1cbbbb640, 2025/03/22 21:05:06,"VΔLZ LIVE TOUR 2024 ""Sanka no Gaku""",2024/09/14 13:00,2024/09/14 15:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.nijisanji.jp/events/valz_tour_2024/,"弦月藤士郎, 長尾景, 甲斐田晴"
-Nornis LIVE TOUR 2024 -Tensegrity-,4ae548a5-87c4-4bb6-bfc3-92c3e6f4ec38, 2025/03/22 21:04:34,Nornis LIVE TOUR 2024 -Tensegrity-,2024/09/14 19:00,2024/09/14 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.nornis.com/event/live_tour_2024/,"戌亥とこ, 町田ちま, フレン・E・ルスタリオ"
-VΔLZ LIVE TOUR 2024『三華の樂』,a05fc5a7-06f0-40d1-8401-7cd4f3d94e05, 2025/03/22 21:03:20,"VΔLZ LIVE TOUR 2024 ""Sanka no Gaku""",2024/09/21 13:00,2024/09/21 15:00,Zepp Namba,Zepp Namba,"34.657373,135.501235",,,https://www.nijisanji.jp/events/valz_tour_2024/,"弦月藤士郎, 長尾景, 甲斐田晴"
-Nornis LIVE TOUR 2024 -Tensegrity-,7e0c1e86-4922-4d11-854c-7ede8d5826c7, 2025/03/22 21:04:43,Nornis LIVE TOUR 2024 -Tensegrity-,2024/09/21 19:00,2024/09/21 21:00,Zepp Namba,Zepp Namba,"34.657373,135.501235",,,https://www.nornis.com/event/live_tour_2024/,"戌亥とこ, 町田ちま, 社築"
-VΔLZ LIVE TOUR 2024『三華の樂』,4987e80e-5243-4f9e-8cef-4b311f2b8614, 2025/03/22 21:03:21,"VΔLZ LIVE TOUR 2024 ""Sanka no Gaku""",2024/09/29 18:00,2024/09/29 20:00,SENDAI GIGS,SENDAI GIGS,"38.243269,140.948880",,,https://www.nijisanji.jp/events/valz_tour_2024/,"弦月藤士郎, 長尾景, 甲斐田晴"
-Nornis LIVE TOUR 2024 -Tensegrity-,9aaee121-2d1e-403e-b3ef-e8141f57797a, 2025/03/22 21:04:55,Nornis LIVE TOUR 2024 -Tensegrity-,2024/09/28 18:00,2024/09/28 20:00,SENDAI GIGS,SENDAI GIGS,"38.243269,140.948880",,,https://www.nornis.com/event/live_tour_2024/,"戌亥とこ, 町田ちま, エナー・アールウェット"
-にじFAN Talk Vol.4,d4c427e0-0165-44f1-bcbb-e3451fa28c6b, 2025/03/22 21:08:38,Niji FAN Talk Vol.4,2024/10/20 13:00,2024/10/20 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"夢追翔, 家長むぎ, 愛園愛美, エリー・コニファー, 鷹宮リオン, える, 栞葉るり"
-にじFAN Talk Vol.4,494003fd-79f0-47be-a735-0a4b59a89b58, 2025/03/22 21:08:58,Niji FAN Talk Vol.4,2024/10/26 13:00,2024/10/26 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"小野町春香, 来栖夏芽, ソフィア・ヴァレンタイン, 雪城眞尋, 樋口楓, ニュイ・ソシエール"
-にじFAN Talk Vol.4,8d17e2a9-d864-490f-8606-e5c9b5b03a8e, 2025/03/22 21:09:25,Niji FAN Talk Vol.4,2024/10/27 13:00,2024/10/27 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"フミ, 星川サラ, えま★おうがすと, レヴィ・エリファ, 五十嵐梨花, 神田笑一, 白雪巴"
-にじFAN Talk Vol.4,165c1224-1480-48c3-a235-2eb691a6ba3d, 2025/03/22 21:09:48,Niji FAN Talk Vol.4,2024/11/10 13:00,2024/11/10 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"瀬戸美夜子, 鏑木ろこ, シスター・クレア, 早瀬走, 北小路ヒスイ, 壱百満天原サロメ"
-緑仙 2nd LIVE TOUR「緑一色」,3e901d88-8fee-4172-bcc5-90423d031fb3, 2025/03/22 21:18:06,"Ryushen 2nd LIVE TOUR ""MIDORIISSYOKU""",2024/11/02 18:00,2024/11/02 20:00,電気ビルみらいホール,Denki Building Mirai Hall,"33.582818,130.405032",,,https://www.nijisanji.jp/events/ryushen_2ndlive_tour/,緑仙
-緑仙 2nd LIVE TOUR「緑一色」,ec349466-b11b-40d6-a80f-eb15cfee7735, 2025/03/22 21:18:10,"Ryushen 2nd LIVE TOUR ""MIDORIISSYOKU""",2024/11/10 18:00,2024/11/10 20:00,神田明神ホール,KANDAMYOUJIN HALL,"35.701836,139.767254",,,https://www.nijisanji.jp/events/ryushen_2ndlive_tour/,緑仙
-緑仙 2nd LIVE TOUR「緑一色」,1fd31473-73ef-43aa-8b0a-0e4adee4e2a6, 2025/03/22 21:18:09,"Ryushen 2nd LIVE TOUR ""MIDORIISSYOKU""",2024/11/16 18:00,2024/11/16 20:00,仙台PIT,Sendai PIT,"38.223685,140.884982",,,https://www.nijisanji.jp/events/ryushen_2ndlive_tour/,緑仙
+""SYMPHONIA"" Day2",2023/12/24 15:00,2023/12/24 17:15,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/,"月ノ美兎, ジョー・力一, リゼ・ヘルエスタ, 星川サラ, 不破湊, 長尾景, 壱百満天原サロメ, 渡会雲雀",
+にじさんじDJフェス 2023,b8f5fdea-574b-4289-a032-ce1beb5d028f, 2025/03/22 20:02:20,Nijisanji DJ Fes 2023,2023/12/23 11:00,2023/12/23 17:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/djfes/,"健屋花那, 風楽奏斗, ドーラ, 緑仙",
+にじさんじDJフェス 2023,671e41cc-8c04-4e1d-8043-b91527305880, 2025/03/22 20:10:28,Nijisanji DJ Fes 2023,2023/12/24 11:00,2023/12/24 17:00,東京ビッグサイト,TOKYO BIG SIGHT,"35.627995,139.781022",,,https://fes.nijisanji.jp/2023/djfes/,"シスター・クレア, 星川サラ, 社築, 夢追翔",
+にじ3→4 年越し特番 ～喋ろう！歌おう！ゲームしよう！～,9e60bb4b-b449-43ef-be8a-d455af290d52, 2025/03/22 20:12:24,Niji 3→4 New Year's Special Program - Let's Talk! Let's Sing! Let's Play Games!,2023/12/31 20:00, 2024/01/01 03:00,オンライン,Online,,,,https://www.nijisanji.jp/events/2023-2024/,"ジョー・力一, 卯月コウ, 夢追翔, リゼ・ヘルエスタ, 葉加瀬冬雪, 山神カルタ, 渡会雲雀, 剣持刀也, 竜胆尊, 月ノ美兎, 社築, 笹木咲, 椎名唯華, 三枝明那, 星川サラ, 甲斐田晴, 弦月藤士郎, レオス・ヴィンセント, 先斗寧, シェリン・バーガンディ, 早瀬走, ソフィア・ヴァレンタイン, 叢雲カゲツ",
+夢追翔ファンミーティング ゆめおの夢まつり,fab4d7ee-3869-4af8-94a6-44ce829be307, 2025/03/22 20:16:04,Yumeoi Kakeru Fan Meeting: Yumeoi's Dream Festival,2024/03/03 15:00,2024/03/03 17:00,飛行船シアター,HIKOSEN THEATER,"35.715554,139.782018",,,https://www.nijisanji.jp/events/yumeoi_yumematsuri/,夢追翔,
+NIJISANJI EN AR LIVE “COLORS” PASTEL STAGE & VIVID STAGE,13a48c1a-0e7c-4a08-ae0b-aacee3265116, 2025/03/22 20:19:04,NIJISANJI EN AR LIVE “COLORS” PASTEL STAGE & VIVID STAGE,2024/04/14 10:00,2024/04/14 13:00,オンライン,Online,,,,https://www.nijisanji.jp/events/EN_COLORS/,"エリーラ ペンドラ, フィナーナ 竜宮, ペトラ グリン, ロゼミ ラブロック, 遠藤霊夢, エナー・アールウェット, ミリー・パフェ, ヴォックス・アクマ, ルカ・カネシロ, アイク・イーヴランド, 闇ノシュウ, アルバーン・ノックス, サニー・ブリスコー, 浮奇・ヴィオレタ, ファルガー・オーヴィド",
+"ChroNoiR One-Man Live ""Welcome to Wonder Wander World""",a8f080cb-d434-4709-bd5e-2d9a44842a54, 2025/03/22 20:23:08,"ChroNoiR One-Man Live ""Welcome to Wonder Wander World""",2024/04/20 18:00,2024/04/20 20:00,大阪城ホール,OSAKA-JO HALL,"34.689625,135.530106",,,https://www.nijisanji.jp/events/chronoir_onemanlive2024/,"叶, 葛葉",
+"ROF-MAO 1st LIVE New street, New world",e4949318-fbdc-43ad-83c9-d97d58e76a43, 2025/03/22 20:35:57,"ROF-MAO 1st LIVE New street, New world",2024/04/21 18:00,2024/04/21 20:00,大阪城ホール,OSAKA-JO HALL,"34.689625,135.530106",,,https://www.nijisanji.jp/events/rof-mao_1stlive/,"加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴",
+ジョー・力一 1st LIVE「カーニバル・リヴ」,f5c552c6-f42f-473d-9cdc-802b39a71f20, 2025/03/22 20:38:42,Joe Rikiichi 1st LIVE - Carnival Live,2024/06/14 18:00,2024/06/14 20:00,品川プリンスホテル ステラボール,Shinagawa Prince Hotel Stellar Ball,"35.627512,139.735335",,,https://www.nijisanji.jp/events/rikiichi_carnivallive/,ジョー・力一,
+NIJISANJI EN SUMMER JAM Group1,ee52aaf8-3222-4914-b656-4e6f2f309c3d, 2025/03/22 20:52:31,NIJISANJI EN SUMMER JAM Group1,2024/07/07 04:00,2024/07/07 06:00,オンライン,Online,,,,https://www.youtube.com/live/HrmvTgp06bg,"エリーラ ペンドラ, フィナーナ 竜宮, ペトラ グリン, ロゼミ ラブロック, ミリー・パフェ",
+NIJISANJI EN SUMMER JAM Group2,6e93e3e0-bc84-4f2b-a958-f5346c3cea5e, 2025/03/22 20:52:42,NIJISANJI EN SUMMER JAM Group2,2024/07/07 10:00,2024/07/07 12:00,オンライン,Online,,,,https://www.youtube.com/live/3asTXK9IFbI,"ルカ・カネシロ, 闇ノシュウ, サニー・ブリスコー",
+VΔLZ LIVE TOUR 2024『三華の樂』,4e995778-ca4f-4f9a-9272-1ea1cbbbb640, 2025/03/22 21:05:06,"VΔLZ LIVE TOUR 2024 ""Sanka no Gaku""",2024/09/14 13:00,2024/09/14 15:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.nijisanji.jp/events/valz_tour_2024/,"弦月藤士郎, 長尾景, 甲斐田晴",
+Nornis LIVE TOUR 2024 -Tensegrity-,4ae548a5-87c4-4bb6-bfc3-92c3e6f4ec38, 2025/03/22 21:04:34,Nornis LIVE TOUR 2024 -Tensegrity-,2024/09/14 19:00,2024/09/14 21:00,KT Zepp Yokohama,KT Zepp Yokohama,"35.459726,139.626006",,,https://www.nornis.com/event/live_tour_2024/,"戌亥とこ, 町田ちま, フレン・E・ルスタリオ",
+VΔLZ LIVE TOUR 2024『三華の樂』,a05fc5a7-06f0-40d1-8401-7cd4f3d94e05, 2025/03/22 21:03:20,"VΔLZ LIVE TOUR 2024 ""Sanka no Gaku""",2024/09/21 13:00,2024/09/21 15:00,Zepp Namba,Zepp Namba,"34.657373,135.501235",,,https://www.nijisanji.jp/events/valz_tour_2024/,"弦月藤士郎, 長尾景, 甲斐田晴",
+Nornis LIVE TOUR 2024 -Tensegrity-,7e0c1e86-4922-4d11-854c-7ede8d5826c7, 2025/03/22 21:04:43,Nornis LIVE TOUR 2024 -Tensegrity-,2024/09/21 19:00,2024/09/21 21:00,Zepp Namba,Zepp Namba,"34.657373,135.501235",,,https://www.nornis.com/event/live_tour_2024/,"戌亥とこ, 町田ちま, 社築",
+VΔLZ LIVE TOUR 2024『三華の樂』,4987e80e-5243-4f9e-8cef-4b311f2b8614, 2025/03/22 21:03:21,"VΔLZ LIVE TOUR 2024 ""Sanka no Gaku""",2024/09/29 18:00,2024/09/29 20:00,SENDAI GIGS,SENDAI GIGS,"38.243269,140.948880",,,https://www.nijisanji.jp/events/valz_tour_2024/,"弦月藤士郎, 長尾景, 甲斐田晴",
+Nornis LIVE TOUR 2024 -Tensegrity-,9aaee121-2d1e-403e-b3ef-e8141f57797a, 2025/03/22 21:04:55,Nornis LIVE TOUR 2024 -Tensegrity-,2024/09/28 18:00,2024/09/28 20:00,SENDAI GIGS,SENDAI GIGS,"38.243269,140.948880",,,https://www.nornis.com/event/live_tour_2024/,"戌亥とこ, 町田ちま, エナー・アールウェット",
+にじFAN Talk Vol.4,d4c427e0-0165-44f1-bcbb-e3451fa28c6b, 2025/03/22 21:08:38,Niji FAN Talk Vol.4,2024/10/20 13:00,2024/10/20 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"夢追翔, 家長むぎ, 愛園愛美, エリー・コニファー, 鷹宮リオン, える, 栞葉るり",
+にじFAN Talk Vol.4,494003fd-79f0-47be-a735-0a4b59a89b58, 2025/03/22 21:08:58,Niji FAN Talk Vol.4,2024/10/26 13:00,2024/10/26 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"小野町春香, 来栖夏芽, ソフィア・ヴァレンタイン, 雪城眞尋, 樋口楓, ニュイ・ソシエール",
+にじFAN Talk Vol.4,8d17e2a9-d864-490f-8606-e5c9b5b03a8e, 2025/03/22 21:09:25,Niji FAN Talk Vol.4,2024/10/27 13:00,2024/10/27 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"フミ, 星川サラ, えま★おうがすと, レヴィ・エリファ, 五十嵐梨花, 神田笑一, 白雪巴",
+にじFAN Talk Vol.4,165c1224-1480-48c3-a235-2eb691a6ba3d, 2025/03/22 21:09:48,Niji FAN Talk Vol.4,2024/11/10 13:00,2024/11/10 17:30,オンライン,Online,,,,https://www.nijisanji.jp/events/nijifantalk_vol4/,"瀬戸美夜子, 鏑木ろこ, シスター・クレア, 早瀬走, 北小路ヒスイ, 壱百満天原サロメ",
+緑仙 2nd LIVE TOUR「緑一色」,3e901d88-8fee-4172-bcc5-90423d031fb3, 2025/03/22 21:18:06,"Ryushen 2nd LIVE TOUR ""MIDORIISSYOKU""",2024/11/02 18:00,2024/11/02 20:00,電気ビルみらいホール,Denki Building Mirai Hall,"33.582818,130.405032",,,https://www.nijisanji.jp/events/ryushen_2ndlive_tour/,緑仙,
+緑仙 2nd LIVE TOUR「緑一色」,ec349466-b11b-40d6-a80f-eb15cfee7735, 2025/03/22 21:18:10,"Ryushen 2nd LIVE TOUR ""MIDORIISSYOKU""",2024/11/10 18:00,2024/11/10 20:00,神田明神ホール,KANDAMYOUJIN HALL,"35.701836,139.767254",,,https://www.nijisanji.jp/events/ryushen_2ndlive_tour/,緑仙,
+緑仙 2nd LIVE TOUR「緑一色」,1fd31473-73ef-43aa-8b0a-0e4adee4e2a6, 2025/03/22 21:18:09,"Ryushen 2nd LIVE TOUR ""MIDORIISSYOKU""",2024/11/16 18:00,2024/11/16 20:00,仙台PIT,Sendai PIT,"38.223685,140.884982",,,https://www.nijisanji.jp/events/ryushen_2ndlive_tour/,緑仙,
 Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 台北公演,e04bb9ca-7055-4b89-95af-c1177ff13925, 2025/03/22 00:57:25,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Taipei,2024/11/29 21:00, 2024/11/29 23:00,Zepp New Taipei,Zepp New Taipei,"25.059960,121.449464","特設サイト
 https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 
@@ -326,10 +321,10 @@ https://shop.nijisanji.jp/TAG_514
 
 Opening part streaming for free
 https://www.youtube.com/live/OXZGx7Npxk8
-",https://www.nijisanji.jp/events/higuchi_2024_2025_tour/,"樋口楓, 叶, 壱百満天原サロメ, レン ゾット, 遠藤霊夢"
-さんばか 5th Anniversary LIVE 〜３！参！SUN！〜,de0fc416-7915-42ed-bfb9-7a822a591d8d, 2025/03/23 11:49:30,SANBAKA 5th Anniversary LIVE 3! San! SUN!,2024/12/06 18:00,2024/12/06 20:00,武蔵野の森総合スポーツプラザ メインアリーナ,Musashino Forest Sport Plaza Main Arena,"35.665678,139.524708",,,https://www.nijisanji.jp/events/sanbakalive_5thanniversary/,"アンジュ・カトリーナ, リゼ・ヘルエスタ, 戌亥とこ"
-Saegusa Akina 1st Solo LIVE “Unity”,99fb62b2-7dd1-488a-94a6-ab6771928c33, 2025/03/23 11:50:38,Saegusa Akina 1st Solo LIVE “Unity”,2024/12/07 18:00,2024/12/07 20:00,武蔵野の森総合スポーツプラザ メインアリーナ,Musashino Forest Sport Plaza Main Arena,"35.665678,139.524708",,,https://www.nijisanji.jp/events/saegusa_unity/,三枝明那
-不破湊 1st LIVE “Cheers with you”,2ced438b-473d-4844-8ca0-e54e5b945bcc, 2025/03/23 11:51:42,"Fuwa Minato 1st LIVE ""Cheers with you""",2024/12/08 18:00,2024/12/08 20:00,武蔵野の森総合スポーツプラザ メインアリーナ,Musashino Forest Sport Plaza Main Arena,"35.665678,139.524708",,,https://www.nijisanji.jp/events/fuwa_cheers/,不破湊
+",https://www.nijisanji.jp/events/higuchi_2024_2025_tour/,"樋口楓, 叶, 壱百満天原サロメ, レン ゾット, 遠藤霊夢",
+さんばか 5th Anniversary LIVE 〜３！参！SUN！〜,de0fc416-7915-42ed-bfb9-7a822a591d8d, 2025/03/23 11:49:30,SANBAKA 5th Anniversary LIVE 3! San! SUN!,2024/12/06 18:00,2024/12/06 20:00,武蔵野の森総合スポーツプラザ メインアリーナ,Musashino Forest Sport Plaza Main Arena,"35.665678,139.524708",,,https://www.nijisanji.jp/events/sanbakalive_5thanniversary/,"アンジュ・カトリーナ, リゼ・ヘルエスタ, 戌亥とこ",
+Saegusa Akina 1st Solo LIVE “Unity”,99fb62b2-7dd1-488a-94a6-ab6771928c33, 2025/03/23 11:50:38,Saegusa Akina 1st Solo LIVE “Unity”,2024/12/07 18:00,2024/12/07 20:00,武蔵野の森総合スポーツプラザ メインアリーナ,Musashino Forest Sport Plaza Main Arena,"35.665678,139.524708",,,https://www.nijisanji.jp/events/saegusa_unity/,三枝明那,
+不破湊 1st LIVE “Cheers with you”,2ced438b-473d-4844-8ca0-e54e5b945bcc, 2025/03/23 11:51:42,"Fuwa Minato 1st LIVE ""Cheers with you""",2024/12/08 18:00,2024/12/08 20:00,武蔵野の森総合スポーツプラザ メインアリーナ,Musashino Forest Sport Plaza Main Arena,"35.665678,139.524708",,,https://www.nijisanji.jp/events/fuwa_cheers/,不破湊,
 にじさんじ歌謡祭2024 Day1,859346fa-f142-4b63-9a9d-fff8db8a3400, 2025/03/23 13:53:55,NIJISANJI MUSIC FESTIVAL 2024 Day1,2024/12/20 17:30,2024/12/20 21:40,オンライン,Online,,"赤の組織
 えま★おうがすと／魔使マオ／ルイス・キャミー
 
@@ -554,7 +549,7 @@ YAMILLION
 夢追翔
 
 レヴィ・エリファソロ
-レヴィ・エリファ",https://www.nijisanji.jp/events/nmf2024/,にじさんじ
+レヴィ・エリファ",https://www.nijisanji.jp/events/nmf2024/,にじさんじ,
 にじさんじ歌謡祭2024 Day2,53b95629-3daf-4dde-a3bd-24bd024aab3f, 2025/03/23 13:45:05,NIJISANJI MUSIC FESTIVAL 2024 Day2,2024/12/21 14:00,2024/12/21 17:00,オンライン,Online,,"RKS
 静凛／叶／渋谷ハジメ
 
@@ -785,7 +780,7 @@ RRR
 鷹宮リオン／竜胆尊／ジョー・力一
 
 レヴィスター
-レヴィ・エリファ／空星きらめ",https://www.nijisanji.jp/events/nmf2024/,にじさんじ
+レヴィ・エリファ／空星きらめ",https://www.nijisanji.jp/events/nmf2024/,にじさんじ,
 にじさんじ歌謡祭2024 Day3,e6d3e30e-ffdb-4838-9159-1474dbc7ee9e, 2025/03/23 13:53:47,NIJISANJI MUSIC FESTIVAL 2024 Day3,2024/12/22 14:00,2024/12/22 17:10,オンライン,Online,,"視聴ページ
 https://www.youtube.com/watch?v=Cj6qVVDU3as
 
@@ -1040,7 +1035,7 @@ Rosemi Lovelockソロ
 ロゼミ ラブロック
 
 ロリコロール
-天宮こころ／レイン・パターソン／ルイス・キャミー",https://www.nijisanji.jp/events/nmf2024/,にじさんじ
+天宮こころ／レイン・パターソン／ルイス・キャミー",https://www.nijisanji.jp/events/nmf2024/,にじさんじ,
 NIJISANJI COUNTDOWN LIVE 2024→2025,a8cd2819-fe99-4d18-8d89-f7a80798f148, 2025/03/23 13:54:30,NIJISANJI COUNTDOWN LIVE 2024→2025,2024/12/31 22:30,2025/01/01 01:30,グランキューブ大阪 メインホール,Osaka International Convention Center Main Hall,"34.689696,135.485886","特設サイト
 https://www.nijisanji.jp/events/countdown2024/
 
@@ -1049,7 +1044,7 @@ https://www.youtube.com/live/Ip0bQfyoqgs","Special Site
 https://www.nijisanji.jp/events/countdown2024/
 
 YouTube
-https://www.youtube.com/live/Ip0bQfyoqgs",https://www.nijisanji.jp/events/countdown2024/,"夢追翔, 星川サラ, 樋口楓, 月ノ美兎, 伏見ガク, 叶, 葛葉, 笹木咲, 椎名唯華, 周央サンゴ, 加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴, 壱百満天原サロメ, 戌亥とこ, 町田ちま, 渡会雲雀, 風楽奏斗, 四季凪アキラ, セラフ・ダズルガーデン"
+https://www.youtube.com/live/Ip0bQfyoqgs",https://www.nijisanji.jp/events/countdown2024/,"夢追翔, 星川サラ, 樋口楓, 月ノ美兎, 伏見ガク, 叶, 葛葉, 笹木咲, 椎名唯華, 周央サンゴ, 加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴, 壱百満天原サロメ, 戌亥とこ, 町田ちま, 渡会雲雀, 風楽奏斗, 四季凪アキラ, セラフ・ダズルガーデン",
 "七次元生徒会！
 ~前夜祭ステージ、使わせていただきます！~",728e68cd-28b9-44e4-aada-fc422bf5dc50, 2025/03/23 14:12:29,,2025/02/20 17:00,2025/02/20 19:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
 https://fes.nijisanji.jp/2025/hallevent/
@@ -1059,8 +1054,8 @@ https://www.youtube.com/live/TEaxy1ybjo8","Special Site
 https://fes.nijisanji.jp/2025/hallevent/
 
 Free Part
-https://www.youtube.com/live/TEaxy1ybjo8",https://fes.nijisanji.jp/2025/hallevent/,"叶, 樋口楓, 三枝明那, 緑仙, レオス・ヴィンセント, 周央サンゴ"
-にじさんじ 7th Anniversary Festival（にじさんじフェス2025）,7340313a-a530-421a-90cd-ee63b68c9ec5, 2025/03/23 14:13:15,Nijisanji 7th Anniversary Festival（NIJIFES 2025）,2025/02/21 10:00, 2025/02/23 18:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609",,,https://fes.nijisanji.jp/2025/,にじさんじ
+https://www.youtube.com/live/TEaxy1ybjo8",https://fes.nijisanji.jp/2025/hallevent/,"叶, 樋口楓, 三枝明那, 緑仙, レオス・ヴィンセント, 周央サンゴ",
+にじさんじ 7th Anniversary Festival（にじさんじフェス2025）,7340313a-a530-421a-90cd-ee63b68c9ec5, 2025/03/23 14:13:15,Nijisanji 7th Anniversary Festival（NIJIFES 2025）,2025/02/21 10:00, 2025/02/23 18:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609",,,https://fes.nijisanji.jp/2025/,にじさんじ,
 "壱百満天原サロメ 1st LIVE
 “マイフェアレディ”",b80a8650-24de-4835-9c40-4f10508c4512, 2025/03/23 14:13:49,"壱百満天原サロメ 1st LIVE
 “マイフェアレディ”",2025/02/21 17:00,2025/02/21 19:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
@@ -1071,7 +1066,7 @@ https://www.youtube.com/live/PQwxUXa9yQc","Special Site
 https://fes.nijisanji.jp/2025/hallevent/
 
 Free Part
-https://www.youtube.com/live/PQwxUXa9yQc",https://fes.nijisanji.jp/2025/hallevent/,"月ノ美兎, 樋口楓, 卯月コウ, ジョー・力一, アンジュ・カトリーナ, 周央サンゴ"
+https://www.youtube.com/live/PQwxUXa9yQc",https://fes.nijisanji.jp/2025/hallevent/,"月ノ美兎, 樋口楓, 卯月コウ, ジョー・力一, アンジュ・カトリーナ, 周央サンゴ",
 "EX Gamers Event
 “Odd Play-Off”",1c986772-9ad7-4487-803a-1ad5161b3a3b, 2025/03/23 14:14:04,"EX Gamers Event
 “Odd Play-Off”",2025/02/22 17:00,2025/02/22 19:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
@@ -1082,7 +1077,7 @@ https://www.youtube.com/live/DaT8XqQpYcI","Special Site
 https://fes.nijisanji.jp/2025/hallevent/
 
 Free Part
-https://www.youtube.com/live/DaT8XqQpYcI",https://fes.nijisanji.jp/2025/hallevent/,"叶, 赤羽葉子, 笹木咲, 本間ひまわり, 魔界ノりりむ, 葛葉, 椎名唯華"
+https://www.youtube.com/live/DaT8XqQpYcI",https://fes.nijisanji.jp/2025/hallevent/,"叶, 赤羽葉子, 笹木咲, 本間ひまわり, 魔界ノりりむ, 葛葉, 椎名唯華",
 VOLTACTION 1st LIVE “Dynamic VOLT”,c7829785-f45a-4219-afe6-933a084e1347, 2025/03/23 14:14:21,VOLTACTION 1st LIVE “Dynamic VOLT”,2025/02/23 15:00,2025/02/23 17:00,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
 https://fes.nijisanji.jp/2025/hallevent/
 
@@ -1091,7 +1086,7 @@ https://www.youtube.com/live/cpqdltnxfOI","Special Site
 https://fes.nijisanji.jp/2025/hallevent/
 
 Free Part
-https://www.youtube.com/live/cpqdltnxfOI",https://fes.nijisanji.jp/2025/hallevent/,"風楽奏斗, 渡会雲雀, 四季凪アキラ, セラフ・ダズルガーデン"
+https://www.youtube.com/live/cpqdltnxfOI",https://fes.nijisanji.jp/2025/hallevent/,"風楽奏斗, 渡会雲雀, 四季凪アキラ, セラフ・ダズルガーデン",
 にじさんじ 7th Anniversary LIVE 「OVERTURE」Daytime Stage,26fe1b64-f747-44f2-bae7-4ae144ad6251, 2025/03/23 14:14:47,"Nijisanji 7th Anniversary LIVE ""OVERTURE"" Daytime Stage",2025/02/24 13:00,2025/02/24 15:30,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
 https://fes.nijisanji.jp/2025/hallevent/
 
@@ -1100,7 +1095,7 @@ https://www.youtube.com/live/qyQytxZEdTE","Special Site
 https://fes.nijisanji.jp/2025/hallevent/
 
 Free Part
-https://www.youtube.com/live/qyQytxZEdTE",https://fes.nijisanji.jp/2025/hallevent/,"エリーラ ペンドラ, ロゼミ ラブロック, エナー・アールウェット, アイク・イーヴランド, ヴォックス・アクマ, サニー・ブリスコー, マリア マリオネット, レン ゾット"
+https://www.youtube.com/live/qyQytxZEdTE",https://fes.nijisanji.jp/2025/hallevent/,"エリーラ ペンドラ, ロゼミ ラブロック, エナー・アールウェット, アイク・イーヴランド, ヴォックス・アクマ, サニー・ブリスコー, マリア マリオネット, レン ゾット",
 にじさんじ 7th Anniversary LIVE 「OVERTURE」Nighttime Stage,65c0c0a2-90f1-4c0e-9285-544a42f4c368, 2025/03/23 14:15:38,"Nijisanji 7th Anniversary LIVE ""OVERTURE"" Nighttime Stage",2025/02/24 18:00,2025/02/24 20:30,幕張メッセ,Makuhari Messe,"35.646867,140.034609","特設サイト
 https://fes.nijisanji.jp/2025/hallevent/
 
@@ -1109,8 +1104,8 @@ https://www.youtube.com/live/7DN7XTcCfXY","Special Site
 https://fes.nijisanji.jp/2025/hallevent/
 
 Free Part
-https://www.youtube.com/live/7DN7XTcCfXY",https://fes.nijisanji.jp/2025/hallevent/,"える, アルス・アルマル, 星川サラ, 甲斐田晴, レオス・ヴィンセント, ローレン・イロアス, 風楽奏斗, ソフィア・ヴァレンタイン"
-Nornis Orchestra Live「Concerto di luce」昼公演,3cb37e73-63bb-4db7-87b3-7d2abf9393a8, 2025/04/16 20:25:32,Nornis Orchestra Live「Concerto di luce」Daytime,2025/03/08 13:30, 2025/03/08 15:30,大宮ソニックシティ 大ホール,Omiya Sonic City Hall - Large Hall,"35.905259,139.619703","特設サイト
+https://www.youtube.com/live/7DN7XTcCfXY",https://fes.nijisanji.jp/2025/hallevent/,"える, アルス・アルマル, 星川サラ, 甲斐田晴, レオス・ヴィンセント, ローレン・イロアス, 風楽奏斗, ソフィア・ヴァレンタイン",
+Nornis Orchestra Live「Concerto di luce」昼公演,3cb37e73-63bb-4db7-87b3-7d2abf9393a8, 2025/12/27 17:36:51,Nornis Orchestra Live「Concerto di luce」Daytime,2025/03/08 13:30, 2025/03/08 15:30,大宮ソニックシティ 大ホール,Omiya Sonic City Hall - Large Hall,"35.905259,139.619703","特設サイト
 https://www.nornis.com/event/orchestralive_concertodiluce/
 
 オンラインチケット購入ページ
@@ -1130,9 +1125,6 @@ https://live.nicovideo.jp/watch/lv346723928
 
 【町田ちまライバーカメラ】視聴ページ
 https://live.nicovideo.jp/watch/lv346723957
-
-ハッシュタグ：#Nornisオーケストラライブ_昼公演
-https://x.com/hashtag/Nornisオーケストラライブ_昼公演
 ","Special Site
 https://www.nornis.com/event/orchestralive_concertodiluce/
 
@@ -1156,11 +1148,8 @@ https://live.nicovideo.jp/watch/lv346723928
 
 【Machita Chima Liver Camera】niconico Live
 https://live.nicovideo.jp/watch/lv346723957
-
-Hashtag：#Nornisオーケストラライブ_昼公演
-https://x.com/hashtag/Nornisオーケストラライブ_昼公演
-",https://www.nornis.com/event/orchestralive_concertodiluce/,"町田ちま, 戌亥とこ"
-Nornis Orchestra Live「Concerto di luce」夜公演,153e2a4f-94d2-4e3f-9ee2-04f4ab99277e, 2025/04/16 20:24:59,Nornis Orchestra Live「Concerto di luce」Nighttime,2025/03/08 19:00, 2025/03/08 21:00,大宮ソニックシティ 大ホール,Omiya Sonic City Hall - Large Hall,"35.905259,139.619703","特設サイト
+",https://www.nornis.com/event/orchestralive_concertodiluce/,"町田ちま, 戌亥とこ",Nornisオーケストラライブ_昼公演
+Nornis Orchestra Live「Concerto di luce」夜公演,153e2a4f-94d2-4e3f-9ee2-04f4ab99277e, 2025/12/27 17:36:38,Nornis Orchestra Live「Concerto di luce」Nighttime,2025/03/08 19:00, 2025/03/08 21:00,大宮ソニックシティ 大ホール,Omiya Sonic City Hall - Large Hall,"35.905259,139.619703","特設サイト
 https://www.nornis.com/event/orchestralive_concertodiluce/
 
 オンラインチケット購入ページ
@@ -1183,9 +1172,6 @@ https://live.nicovideo.jp/watch/lv346724084
 
 最速感想放送
 https://live.nicovideo.jp/watch/lv346947557
-
-ハッシュタグ：#Nornisオーケストラライブ_夜公演
-https://x.com/hashtag/Nornisオーケストラライブ_夜公演
 ","Special Site
 https://www.nornis.com/event/orchestralive_concertodiluce/
 
@@ -1212,11 +1198,8 @@ https://live.nicovideo.jp/watch/lv346724084
 
 Post-Live Discussion
 https://live.nicovideo.jp/watch/lv346947557
-
-Hashtag：#Nornisオーケストラライブ_夜公演
-https://x.com/hashtag/Nornisオーケストラライブ_夜公演
-",https://www.nornis.com/event/orchestralive_concertodiluce/,"町田ちま, 戌亥とこ"
-にじさんじフェス展,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7, 2025/03/06 12:57:49,Nijisanji Fes Exhibition,2025/04/02 10:00, 2025/06/29 20:00,六本木ミュージアム,Roppongi Museum,"35.659695,139.734002","特設サイト
+",https://www.nornis.com/event/orchestralive_concertodiluce/,"町田ちま, 戌亥とこ",Nornisオーケストラライブ_夜公演
+にじさんじフェス展,76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7, 2025/12/27 17:45:03,Nijisanji Fes Exhibition,2025/04/02 10:00, 2025/06/29 20:00,六本木ミュージアム,Roppongi Museum,"35.659695,139.734002","特設サイト
 https://fes.nijisanji.jp/2025/nijifes_ex/
 
 開館時間
@@ -1226,9 +1209,9 @@ https://fes.nijisanji.jp/2025/nijifes_ex/
 
 Opening Hours
 - Weekdays: 10-18 (Last entry 17:30)
-- Weekends & Holidays: 10-20 (Last entry 19:30)",https://fes.nijisanji.jp/2025/nijifes_ex/,にじさんじ
+- Weekends & Holidays: 10-20 (Last entry 19:30)",https://fes.nijisanji.jp/2025/nijifes_ex/,にじさんじ,にじフェス展
 "月ノ美兎 2ndワンマンライブ
-『Paper Rabbit』",499a01fb-6742-4158-8a1c-f343859c1e47, 2025/04/16 20:27:33,"Tsukino Mito 2nd solo live ""Paper Rabbit""",2025/04/18 18:00, 2025/04/18 20:00,J:COMホール八王子,J:COM Hall Hachioji,"35.654300,139.337706","特設サイト
+『Paper Rabbit』",499a01fb-6742-4158-8a1c-f343859c1e47, 2025/12/27 17:36:21,"Tsukino Mito 2nd solo live ""Paper Rabbit""",2025/04/18 18:00, 2025/04/18 20:00,J:COMホール八王子,J:COM Hall Hachioji,"35.654300,139.337706","特設サイト
 https://www.nijisanji.jp/events/tsukino_paperrabbit/
 
 無料パート
@@ -1239,9 +1222,6 @@ https://live.nicovideo.jp/watch/lv347249414
 
 本編視聴ページ
 https://live.nicovideo.jp/watch/lv347248473
-
-ハッシュタグ：#月ノ美兎PaperRabbit
-https://x.com/hashtag/月ノ美兎PaperRabbit
 ","Special Site
 https://www.nijisanji.jp/events/tsukino_paperrabbit/
 
@@ -1253,11 +1233,8 @@ https://live.nicovideo.jp/watch/lv347249414
 
 niconico Live
 https://live.nicovideo.jp/watch/lv347248473
-
-Hashtag：#月ノ美兎PaperRabbit
-https://x.com/hashtag/月ノ美兎PaperRabbit
-",https://www.nijisanji.jp/events/tsukino_paperrabbit/,"月ノ美兎, 樋口楓, 笹木咲, 椎名唯華, 弦月藤士郎"
-Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演,99562266-d3d3-4668-b0a9-d8cf4701e80f, 2025/04/16 20:27:28,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo,2025/04/19 18:00, 2025/04/19 20:00,J:COMホール八王子,J:COM Hall Hachioji,"35.654300,139.337706","特設サイト
+",https://www.nijisanji.jp/events/tsukino_paperrabbit/,"月ノ美兎, 樋口楓, 笹木咲, 椎名唯華, 弦月藤士郎",月ノ美兎PaperRabbit
+Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” 東京公演,99562266-d3d3-4668-b0a9-d8cf4701e80f, 2025/12/27 17:36:08,Higuchi Kaede 2024-2025 LIVE Tour “BREAKING” Tokyo,2025/04/19 18:00, 2025/04/19 20:00,J:COMホール八王子,J:COM Hall Hachioji,"35.654300,139.337706","特設サイト
 https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 
 グッズページ
@@ -1271,9 +1248,6 @@ https://live.nicovideo.jp/watch/lv346280655
 
 本編視聴ページ
 https://live.nicovideo.jp/watch/lv346238821
-
-ハッシュタグ：#樋口楓LIVE_BREAKING
-https://x.com/hashtag/樋口楓LIVE_BREAKING
 ","Special Site
 https://www.nijisanji.jp/events/higuchi_2024_2025_tour/
 
@@ -1287,11 +1261,8 @@ April 19th, 4:45 PM JST - Venue Report (Kaburaki Roco / Hyakka Ryouran) https://
 
 niconico Live
 https://live.nicovideo.jp/watch/lv346238821
-
-Hashtag： #樋口楓LIVE_BREAKING
-https://x.com/hashtag/樋口楓LIVE_BREAKING
-",https://www.nijisanji.jp/events/higuchi_2024_2025_tour/,"樋口楓, 月ノ美兎, 文野環, エナー・アールウェット, 周央サンゴ"
-Shirayuki's FAN Meeting ファンミーティングパート,cdebb070-7955-4a01-adc5-07ee77b36727, 2025/04/16 20:27:25,Shirayuki's FAN Meeting - Fan meeting part,2025/05/03 13:00, 2025/05/03 15:00,リーガロイヤルホテル東京,RIHGA Royal Hotel Tokyo,"35.710604,139.722628","特設サイト
+",https://www.nijisanji.jp/events/higuchi_2024_2025_tour/,"樋口楓, 月ノ美兎, 文野環, エナー・アールウェット, 周央サンゴ",樋口楓LIVE_BREAKING
+Shirayuki's FAN Meeting ファンミーティングパート,cdebb070-7955-4a01-adc5-07ee77b36727, 2025/12/27 17:35:55,Shirayuki's FAN Meeting - Fan meeting part,2025/05/03 13:00, 2025/05/03 15:00,リーガロイヤルホテル東京,RIHGA Royal Hotel Tokyo,"35.710604,139.722628","特設サイト
 https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 
 グッズページ
@@ -1299,9 +1270,6 @@ https://shop.nijisanji.jp/TAG_580
 
 本編視聴ページ
 https://live.nicovideo.jp/watch/lv347413005
-
-ハッシュタグ：#白雪巴ファンミーティング
-https://x.com/hashtag/白雪巴ファンミーティング
 ","Special Site
 https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 
@@ -1310,11 +1278,8 @@ https://shop.nijisanji.jp/TAG_580
 
 niconico Live
 https://live.nicovideo.jp/watch/lv347413005
-
-Hashtag： #白雪巴ファンミーティング
-https://x.com/hashtag/白雪巴ファンミーティング
-",https://www.nijisanji.jp/events/shirayuki_fanmeeting/,白雪巴
-Shirayuki's FAN Meeting ディナーショーパート,a4a672b4-286f-4473-bd18-f6cdcc7f82e3, 2025/03/20 17:15:06,Shirayuki's FAN Meeting - Dinner show part,2025/05/03 18:00, 2025/05/03 20:00,リーガロイヤルホテル東京,RIHGA Royal Hotel Tokyo,"35.710604,139.722628","特設サイト
+",https://www.nijisanji.jp/events/shirayuki_fanmeeting/,白雪巴,白雪巴ファンミーティング
+Shirayuki's FAN Meeting ディナーショーパート,a4a672b4-286f-4473-bd18-f6cdcc7f82e3, 2025/12/27 17:44:11,Shirayuki's FAN Meeting - Dinner show part,2025/05/03 18:00, 2025/05/03 20:00,リーガロイヤルホテル東京,RIHGA Royal Hotel Tokyo,"35.710604,139.722628","特設サイト
 https://www.nijisanji.jp/events/shirayuki_fanmeeting/
 
 グッズページ
@@ -1328,9 +1293,9 @@ Merch page
 https://shop.nijisanji.jp/TAG_580
 
 No live streaming scheduled
-",https://www.nijisanji.jp/events/shirayuki_fanmeeting/,白雪巴
+",https://www.nijisanji.jp/events/shirayuki_fanmeeting/,白雪巴,白雪巴ファンミーティング
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 仙台公演",c4ee24af-8fec-45c0-8695-14171d44bfc5, 2025/05/10 15:55:46,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai,2025/05/10 18:00, 2025/05/10 20:00,仙台サンプラザホール,Sendai Sunplaza Hall,"38.257682,140.894160","特設サイト
+Singin’ in the Rainbow！ 仙台公演",c4ee24af-8fec-45c0-8695-14171d44bfc5, 2025/12/27 17:35:40,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Sendai,2025/05/10 18:00, 2025/05/10 20:00,仙台サンプラザホール,Sendai Sunplaza Hall,"38.257682,140.894160","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 グッズページ
@@ -1366,9 +1331,6 @@ https://live.nicovideo.jp/watch/lv347466077
 
 最速感想放送
 https://cas.nicovideo.jp/lv347518850
-
-ハッシュタグ：#SitR仙台
-https://x.com/hashtag/SitR仙台
 ","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
@@ -1405,11 +1367,8 @@ https://live.nicovideo.jp/watch/lv347466077
 
 Post-Live Discussion
 https://cas.nicovideo.jp/lv347518850
-
-Hashtag：#SitR仙台
-https://x.com/hashtag/SitR仙台
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"卯月コウ, 魔界ノりりむ, リゼ・ヘルエスタ, 加賀美ハヤト, 山神カルタ, フレン・E・ルスタリオ"
-くろのわーるが武道館でなんかやる,c3ff42d3-eb2e-4033-af59-9063f379f809, 2025/05/24 13:25:42,ChroNoiR is Up to Something at Budokan,2025/05/19 18:00, 2025/05/19 20:00,日本武道館,Nippon Budokan,"35.693361,139.749822","特設サイト
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"卯月コウ, 魔界ノりりむ, リゼ・ヘルエスタ, 加賀美ハヤト, 山神カルタ, フレン・E・ルスタリオ",SitR仙台
+くろのわーるが武道館でなんかやる,c3ff42d3-eb2e-4033-af59-9063f379f809, 2025/12/27 17:35:18,ChroNoiR is Up to Something at Budokan,2025/05/19 18:00, 2025/05/19 20:00,日本武道館,Nippon Budokan,"35.693361,139.749822","特設サイト
 https://www.nijisanji.jp/events/chronoir-nankayaruevent/
 
 グッズページ
@@ -1427,10 +1386,6 @@ https://live.nicovideo.jp/watch/lv347527711
 
 最速感想放送
 https://live.nicovideo.jp/watch/lv347600031
-
-ハッシュタグ：#くろなん武道館
-https://x.com/hashtag/くろなん武道館
-
 ","Special Site
 https://www.nijisanji.jp/events/chronoir-nankayaruevent/
 
@@ -1449,11 +1404,8 @@ Online Guests: k4sen, SHAKA, HIKAKIN
 
 Post-Live Discussion
 https://live.nicovideo.jp/watch/lv347600031
-
-Hashtag: #くろなん武道館
-https://x.com/hashtag/くろなん武道館
-",https://www.nijisanji.jp/events/chronoir-nankayaruevent/,"叶, 葛葉, 剣持刀也, 月ノ美兎, 文野環, 卯月コウ, 長尾景, ルンルン, える, 宇佐美リト"
-にじホロ交流戦2025 DAY1,587c2d54-bd95-44eb-9df8-f575c5b455db, 2025/06/01 01:56:54,Niji Holo Interleague Match 2025,2025/05/24 14:00, 2025/05/24 18:00,エスコンフィールドHOKKAIDO,ES CON FIELD HOKKAIDO,"42.990155,141.549647","特設サイト
+",https://www.nijisanji.jp/events/chronoir-nankayaruevent/,"叶, 葛葉, 剣持刀也, 月ノ美兎, 文野環, 卯月コウ, 長尾景, ルンルン, える, 宇佐美リト",くろなん武道館
+にじホロ交流戦2025 DAY1,587c2d54-bd95-44eb-9df8-f575c5b455db, 2025/12/27 17:35:06,Niji Holo Interleague Match 2025,2025/05/24 14:00, 2025/05/24 18:00,エスコンフィールドHOKKAIDO,ES CON FIELD HOKKAIDO,"42.990155,141.549647","特設サイト
 https://www.nijiholo-koryusen.jp
 
 公式X
@@ -1470,9 +1422,6 @@ https://www.youtube.com/watch?v=xOYk5GmX1TI
 
 グッズページ
 https://official-goods-store.jp/nijiholo/
-
-ハッシュタグ：#にじホロ交流戦
-https://x.com/hashtag/にじホロ交流戦
 
 ホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら、（ビデオ出演）獅白ぼたん、綺々羅々ヴィヴィ
 
@@ -1494,11 +1443,8 @@ https://www.youtube.com/watch?v=xOYk5GmX1TI
 Merch page
 https://official-goods-store.jp/nijiholo/
 
-Hashtag：#にじホロ交流戦
-https://x.com/hashtag/にじホロ交流戦
-
-Hololive talents: Shirakami Fubuki, Amane Kanata, Usada Pekora, (Video Appearance) Shishiro Botan, Kikirara Vivi",https://www.nijiholo-koryusen.jp,"笹木咲, 星川サラ, リゼ・ヘルエスタ, 樋口楓, 椎名唯華"
-にじホロ交流戦2025 DAY2,ccc45fee-7728-49ce-bf11-61d60f684ec3, 2025/06/01 01:57:18,Niji Holo Interleague Match 2025,2025/05/25 14:00, 2025/05/25 18:00,エスコンフィールドHOKKAIDO,ES CON FIELD HOKKAIDO,"42.990155,141.549647","特設サイト
+Hololive talents: Shirakami Fubuki, Amane Kanata, Usada Pekora, (Video Appearance) Shishiro Botan, Kikirara Vivi",https://www.nijiholo-koryusen.jp,"笹木咲, 星川サラ, リゼ・ヘルエスタ, 樋口楓, 椎名唯華",にじホロ交流戦
+にじホロ交流戦2025 DAY2,ccc45fee-7728-49ce-bf11-61d60f684ec3, 2025/12/27 17:34:53,Niji Holo Interleague Match 2025,2025/05/25 14:00, 2025/05/25 18:00,エスコンフィールドHOKKAIDO,ES CON FIELD HOKKAIDO,"42.990155,141.549647","特設サイト
 https://www.nijiholo-koryusen.jp
 
 公式X
@@ -1515,9 +1461,6 @@ https://www.youtube.com/watch?v=SCCjyV0a9Bc
 
 グッズページ
 https://official-goods-store.jp/nijiholo/
-
-ハッシュタグ：#にじホロ交流戦
-https://x.com/hashtag/にじホロ交流戦
 
 ホロライブ出演者：白上フブキ、天音かなた、兎田ぺこら、（ビデオ出演）大神ミオ、一条莉々華","Special Site
 https://www.nijiholo-koryusen.jp
@@ -1537,11 +1480,8 @@ https://www.youtube.com/watch?v=SCCjyV0a9Bc
 Merch page
 https://official-goods-store.jp/nijiholo/
 
-Hashtag：#にじホロ交流戦
-https://x.com/hashtag/にじホロ交流戦
-
-Hololive talents: Shirakami Fubuki, Amane Kanata, Usada Pekora, (Video Appearance) Ookami Mio, Ichijou Ririka",https://www.nijiholo-koryusen.jp,"笹木咲, 星川サラ, リゼ・ヘルエスタ, フレン・E・ルスタリオ, 周央サンゴ"
-2時だとか 1st ワンマンライブ 本公演,7c2dad4f-2601-4a51-a99b-02e94356af7d, 2025/06/02 11:03:34,NIJI-DATOKA 1st ONE-MAN LIVE,2025/06/04 18:00, 2025/06/04 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+Hololive talents: Shirakami Fubuki, Amane Kanata, Usada Pekora, (Video Appearance) Ookami Mio, Ichijou Ririka",https://www.nijiholo-koryusen.jp,"笹木咲, 星川サラ, リゼ・ヘルエスタ, フレン・E・ルスタリオ, 周央サンゴ",にじホロ交流戦
+2時だとか 1st ワンマンライブ 本公演,7c2dad4f-2601-4a51-a99b-02e94356af7d, 2025/12/27 17:34:36,NIJI-DATOKA 1st ONE-MAN LIVE,2025/06/04 18:00, 2025/06/04 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/2jidatoka_1st/
 
 オンラインチケット購入ページ
@@ -1570,9 +1510,7 @@ https://live.nicovideo.jp/watch/lv347581568
 
 最速感想放送（MC: 一橋綾人、出演：2時だとか）
 https://live.nicovideo.jp/watch/lv347728048
-
-ハッシュタグ：#2時だとか_1stライブ
-https://x.com/hashtag/2時だとか_1stライブ","Special Site
+","Special Site
 https://www.nijisanji.jp/events/2jidatoka_1st/
 
 Online Viewing Tickets
@@ -1601,10 +1539,8 @@ https://live.nicovideo.jp/watch/lv347581568
 
 Post-Live Discussion (MC: Hitotsubashi Ayato, Cast: NIJI-DATOKA)
 https://live.nicovideo.jp/watch/lv347728048
-
-Hashtag: #2時だとか_1stライブ
-https://x.com/hashtag/2時だとか_1stライブ",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス"
-2時だとか 1st ワンマンライブ Re-live公演,7d0c848c-8d5a-41a7-b396-a46afa366a90, 2025/03/09 22:04:45,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/06 18:00, 2025/06/06 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス",2時だとか_1stライブ
+2時だとか 1st ワンマンライブ Re-live公演,7d0c848c-8d5a-41a7-b396-a46afa366a90, 2025/12/27 17:43:50,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/06 18:00, 2025/06/06 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/2jidatoka_1st/
 
 グッズページ
@@ -1614,8 +1550,8 @@ https://www.nijisanji.jp/events/2jidatoka_1st/
 
 Merch page
 https://shop.nijisanji.jp/TAG_595
-",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス"
-2時だとか 1st ワンマンライブ Re-live公演,dbae8dae-121e-4e94-9920-90e7e007dea8, 2025/03/09 22:04:46,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/07 12:00, 2025/06/07 14:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス",2時だとか_1stライブ
+2時だとか 1st ワンマンライブ Re-live公演,dbae8dae-121e-4e94-9920-90e7e007dea8, 2025/12/27 17:43:51,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/07 12:00, 2025/06/07 14:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/2jidatoka_1st/
 
 グッズページ
@@ -1625,8 +1561,8 @@ https://www.nijisanji.jp/events/2jidatoka_1st/
 
 Merch page
 https://shop.nijisanji.jp/TAG_595
-",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス"
-2時だとか 1st ワンマンライブ Re-live公演,8eda56d4-7d00-47be-aed8-a3ee8f284d55, 2025/03/09 22:04:46,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/07 18:00, 2025/06/07 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス",2時だとか_1stライブ
+2時だとか 1st ワンマンライブ Re-live公演,8eda56d4-7d00-47be-aed8-a3ee8f284d55, 2025/12/27 17:43:52,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/07 18:00, 2025/06/07 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/2jidatoka_1st/
 
 グッズページ
@@ -1636,8 +1572,8 @@ https://www.nijisanji.jp/events/2jidatoka_1st/
 
 Merch page
 https://shop.nijisanji.jp/TAG_595
-",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス"
-2時だとか 1st ワンマンライブ Re-live公演,d2da94c5-ebfd-4198-ae4e-bfeb9baade40, 2025/03/09 22:04:49,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/08 12:00, 2025/06/08 14:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス",2時だとか_1stライブ
+2時だとか 1st ワンマンライブ Re-live公演,d2da94c5-ebfd-4198-ae4e-bfeb9baade40, 2025/12/27 17:43:52,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/08 12:00, 2025/06/08 14:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/2jidatoka_1st/
 
 グッズページ
@@ -1647,8 +1583,8 @@ https://www.nijisanji.jp/events/2jidatoka_1st/
 
 Merch page
 https://shop.nijisanji.jp/TAG_595
-",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス"
-2時だとか 1st ワンマンライブ Re-live公演,30136501-9a2a-4911-9ce4-0a66942931d4, 2025/03/09 22:04:48,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/08 18:00, 2025/06/08 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス",2時だとか_1stライブ
+2時だとか 1st ワンマンライブ Re-live公演,30136501-9a2a-4911-9ce4-0a66942931d4, 2025/12/27 17:43:53,NIJI-DATOKA 1st ONE-MAN LIVE Re-live,2025/06/08 18:00, 2025/06/08 20:00,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/2jidatoka_1st/
 
 グッズページ
@@ -1658,8 +1594,8 @@ https://www.nijisanji.jp/events/2jidatoka_1st/
 
 Merch page
 https://shop.nijisanji.jp/TAG_595
-",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス"
-伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜,c5ab7216-91c0-4bb8-98dd-151b2879740b, 2025/06/29 15:57:23,FUSHIMI GAQUEST - In search of legendary PIECE,2025/06/21 18:00,2025/06/21 20:00,愛知県芸術劇場,Aichi Prefectural Art Theater,"35.170818,136.911154","特設サイト
+",https://www.nijisanji.jp/events/2jidatoka_1st/,"渡会雲雀, 不破湊, イブラヒム, ローレン・イロアス",2時だとか_1stライブ
+伏見ガクエスト 〜伝説の調理器具（ピース）を求めて〜,c5ab7216-91c0-4bb8-98dd-151b2879740b, 2025/12/27 17:34:17,FUSHIMI GAQUEST - In search of legendary PIECE,2025/06/21 18:00,2025/06/21 20:00,愛知県芸術劇場,Aichi Prefectural Art Theater,"35.170818,136.911154","特設サイト
 https://www.nijisanji.jp/events/fushimigaquest/
 
 オンラインチケット購入ページ
@@ -1682,9 +1618,6 @@ https://live.nicovideo.jp/watch/lv347769727
 
 最速感想放送（MC：北見遊征）
 https://live.nicovideo.jp/watch/lv347815895
-
-ハッシュタグ: #伏見ガクエスト
-https://x.com/hashtag/伏見ガクエスト
 ","Special Site
 https://www.nijisanji.jp/events/fushimigaquest/
 
@@ -1708,11 +1641,9 @@ https://live.nicovideo.jp/watch/lv347769727
 
 Post-Live Discussion (MC: Kitami Yusei)
 https://live.nicovideo.jp/watch/lv347815895
-
-Hashtag: #伏見ガクエスト
-https://x.com/hashtag/伏見ガクエスト",https://www.nijisanji.jp/events/fushimigaquest/,"伏見ガク, 剣持刀也, 社築, ましろ爻, 宇佐美リト, 北見遊征"
+",https://www.nijisanji.jp/events/fushimigaquest/,"伏見ガク, 剣持刀也, 社築, ましろ爻, 宇佐美リト, 北見遊征",伏見ガクエスト
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 名古屋公演",727b81ad-7a6e-4f09-9f29-459af03f593d, 2025/06/29 15:43:00,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya,2025/06/22 18:00, 2025/06/22 20:00,愛知県芸術劇場,Aichi Prefectural Art Theater,"35.170818,136.911154","特設サイト
+Singin’ in the Rainbow！ 名古屋公演",727b81ad-7a6e-4f09-9f29-459af03f593d, 2025/12/27 17:34:01,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Nagoya,2025/06/22 18:00, 2025/06/22 20:00,愛知県芸術劇場,Aichi Prefectural Art Theater,"35.170818,136.911154","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 オンラインチケット購入ページ
@@ -1752,9 +1683,7 @@ https://live.nicovideo.jp/watch/lv347666333
 
 最速感想放送（出演：える、珠乃井ナナ、七瀬すず菜）
 https://live.nicovideo.jp/watch/lv347801593
-
-ハッシュタグ：#SitR名古屋
-https://x.com/hashtag/SitR名古屋","Special Site
+","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 Online Viewing Tickets
@@ -1794,50 +1723,41 @@ https://live.nicovideo.jp/watch/lv347666333
 
 Post-Live Discussion (Cast: Elu, Tamanoi Nana, Nanase Suzuna)
 https://live.nicovideo.jp/watch/lv347801593
-
-Hashtag：#SitR名古屋
-https://x.com/hashtag/SitR名古屋
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"緑仙, 葉加瀬冬雪, 長尾景, 先斗寧, 渡会雲雀, 小清水透"
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"緑仙, 葉加瀬冬雪, 長尾景, 先斗寧, 渡会雲雀, 小清水透",SitR名古屋
 にじFAN TALK Vol.5 (7/5),8f9c6c35-44e9-4af0-8150-bade56ec2992, 2025/05/27 21:25:07,Niji FAN Talk Vol.5 (Jul 5),2025/07/05 13:00,2025/07/05 17:30,オンライン,Online,,"特設サイト
 https://www.nijisanji.jp/events/nijifantalk_vol5/
 ","Special Site
-https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"七瀬すず菜, えま★おうがすと, 来栖夏芽, 小野町春香, 神田笑一, 健屋花那, 鷹宮リオン"
+https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"七瀬すず菜, えま★おうがすと, 来栖夏芽, 小野町春香, 神田笑一, 健屋花那, 鷹宮リオン",
 にじFAN TALK Vol.5 (7/6),937f70d2-7579-4d88-abf1-52c1afff3110, 2025/07/06 01:38:41,Niji FAN Talk Vol.5 (Jul 6),2025/07/06 13:00,2025/07/06 17:30,オンライン,Online,,"特設サイト
 https://www.nijisanji.jp/events/nijifantalk_vol5/
 ","Special Site
-https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"愛園愛美, 白雪巴, エリー・コニファー, 北小路ヒスイ, 雪城眞尋"
+https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"愛園愛美, 白雪巴, エリー・コニファー, 北小路ヒスイ, 雪城眞尋",
 にじFAN TALK Vol.5 (7/12),0ab5cc72-4a54-4a7e-8cb2-785c67aaafbd, 2025/05/27 21:25:14,Niji FAN Talk Vol.5 (Jul 12),2025/07/12 13:00,2025/07/12 17:30,オンライン,Online,,"特設サイト
 https://www.nijisanji.jp/events/nijifantalk_vol5/
 ","Special Site
-https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"壱百満天原サロメ, 家長むぎ, ニュイ・ソシエール, フミ, 樋口楓, 夜見れな"
+https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"壱百満天原サロメ, 家長むぎ, ニュイ・ソシエール, フミ, 樋口楓, 夜見れな",
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 上海公演",a731fa7a-2674-4f1b-9d78-5fcb9854aed5, 2025/09/27 23:48:04,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Shanghai,2025/07/12 16:00,2025/07/12 18:00,上海・国家会展中心,National Exhibition and Convention Center (Shanghai),"31.191731,121.297517","特設サイト
+Singin’ in the Rainbow！ 上海公演",a731fa7a-2674-4f1b-9d78-5fcb9854aed5, 2025/12/27 17:33:37,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Shanghai,2025/07/12 16:00,2025/07/12 18:00,上海・国家会展中心,National Exhibition and Convention Center (Shanghai),"31.191731,121.297517","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 本編映像（再編集版）
 YouTube: https://www.youtube.com/watch?v=0Me46MSxp3I
 bilibili: https://www.bilibili.com/video/BV16GnuzZE5x/
-
-ハッシュタグ：#SitR上海
-https://x.com/hashtag/SitR上海
 ","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 Live Archive (Edited Version)
 YouTube: https://www.youtube.com/watch?v=0Me46MSxp3I
 bilibili: https://www.bilibili.com/video/BV16GnuzZE5x/
-
-Hashtag：#SitR上海
-https://x.com/hashtag/SitR上海
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"海妹四葉, 五十嵐梨花, ペトラ グリン, ルカ・カネシロ, サニー・ブリスコー"
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"海妹四葉, 五十嵐梨花, ペトラ グリン, ルカ・カネシロ, サニー・ブリスコー",SitR上海
 にじFAN TALK Vol.5 (7/13),a62a3c09-78f7-473f-a6cd-492c54f5f760, 2025/07/06 01:39:21,Niji FAN Talk Vol.5 (Jul 13),2025/07/13 13:00,2025/07/13 17:30,オンライン,Online,,"特設サイト
 https://www.nijisanji.jp/events/nijifantalk_vol5/
 ","Special Site
-https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"夢追翔, 鏑木ろこ, シスター・クレア, レヴィ・エリファ, 星川サラ, ルイス・キャミー, える, 栞葉るり"
+https://www.nijisanji.jp/events/nijifantalk_vol5/",https://www.nijisanji.jp/events/nijifantalk_vol5/,"夢追翔, 鏑木ろこ, シスター・クレア, レヴィ・エリファ, 星川サラ, ルイス・キャミー, える, 栞葉るり",
 Idios 1st Mini Album 『By Colors!』発売記念 1on1オンライントーク会,0aa5c7c2-31b6-47d2-b25b-62986f8ae677, 2025/05/27 21:57:14,Idios 1st Mini Album 'By Colors!' Release Commemoration 1-on-1 Online Talk Session,2025/07/20 12:00,2025/07/20 19:40,オンライン,Online,,"イベントページ
 https://limista.jp/shipping_groups/6056/projects/6014","Event page
-https://limista.jp/shipping_groups/6056/projects/6014",https://limista.jp/shipping_groups/6056/projects/6014,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると"
-ROF-MAO 2nd LIVE - Limitless,d6142773-050f-4c99-86c6-fb9f8cfcc9ce, 2025/06/29 15:46:37,ROF-MAO 2nd LIVE - Limitless,2025/07/20 18:00, 2025/07/20 20:00,Kアリーナ横浜,K-Arena Yokohama,"35.464567,139.630609","特設サイト
+https://limista.jp/shipping_groups/6056/projects/6014",https://limista.jp/shipping_groups/6056/projects/6014,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると",
+ROF-MAO 2nd LIVE - Limitless,d6142773-050f-4c99-86c6-fb9f8cfcc9ce, 2025/12/27 17:33:20,ROF-MAO 2nd LIVE - Limitless,2025/07/20 18:00, 2025/07/20 20:00,Kアリーナ横浜,K-Arena Yokohama,"35.464567,139.630609","特設サイト
 https://www.nijisanji.jp/events/rof-mao_2ndlive/
 
 グッズページ
@@ -1866,9 +1786,6 @@ https://live.nicovideo.jp/watch/lv347669321
 
 最速感想放送（MC：榊ネス、出演者：ROF-MAO）
 https://live.nicovideo.jp/watch/lv348050247
-
-ハッシュタグ：#ROFMAO_2ndライブ
-https://x.com/hashtag/ROFMAO_2ndライブ
 ","Special Site
 https://www.nijisanji.jp/events/rof-mao_2ndlive/
 
@@ -1898,12 +1815,9 @@ https://live.nicovideo.jp/watch/lv347669321
 
 Post-Live Discussion (MC: Sakaki Ness, Cast: ROF-MAO)
 https://live.nicovideo.jp/watch/lv348050247
-
-Hashtag：#ROFMAO_2ndライブ
-https://x.com/hashtag/ROFMAO_2ndライブ
-",https://www.nijisanji.jp/events/rof-mao_2ndlive/,"加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴"
+",https://www.nijisanji.jp/events/rof-mao_2ndlive/,"加賀美ハヤト, 剣持刀也, 不破湊, 甲斐田晴",ROFMAO_2ndライブ
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 横浜公演",40275588-0052-4ba0-a2f2-a11cce6671e8, 2025/06/29 15:53:05,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama,2025/07/21 18:00, 2025/07/21 20:00,Kアリーナ横浜,K-Arena Yokohama,"35.464567,139.630609","特設サイト
+Singin’ in the Rainbow！ 横浜公演",40275588-0052-4ba0-a2f2-a11cce6671e8, 2025/12/27 17:33:04,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Yokohama,2025/07/21 18:00, 2025/07/21 20:00,Kアリーナ横浜,K-Arena Yokohama,"35.464567,139.630609","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 オンラインチケット購入ページ
@@ -1946,9 +1860,6 @@ https://live.nicovideo.jp/watch/lv347922940
 
 最速感想放送（出演：アンジュ・カトリーナ、シェリン・バーガンディ、狂蘭 メロコ）
 https://live.nicovideo.jp/watch/lv347939399
-
-ハッシュタグ：#SitR横浜
-https://x.com/hashtag/SitR横浜
 ","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
@@ -1992,20 +1903,14 @@ https://live.nicovideo.jp/watch/lv347922940
 
 Post-Live Discussion (Cast: Ange Katrina, Shellin Burgundy, Meloco Kyoran)
 https://live.nicovideo.jp/watch/lv347939399
-
-Hashtag：#SitR横浜
-https://x.com/hashtag/SitR横浜
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"える, 叶, ドーラ, 花畑チャイカ, 社築, 本間ひまわり, 葛葉"
-にじさんじ甲子園2025 ライブビューイング Day1,9cbe9340-2c3a-44cb-beb6-c1308c82d7a1, 2025/07/31 20:45:12,Nijisanji Koshien 2025 Live Viewing Day1,2025/07/25 16:00,2025/07/25 21:00,泉ガーデンギャラリー,Izumi Garden Gallery,"35.664692,139.740868","ニュースページ（KONAMI）
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"える, 叶, ドーラ, 花畑チャイカ, 社築, 本間ひまわり, 葛葉",SitR横浜
+にじさんじ甲子園2025 ライブビューイング Day1,9cbe9340-2c3a-44cb-beb6-c1308c82d7a1, 2025/12/27 17:32:42,Nijisanji Koshien 2025 Live Viewing Day1,2025/07/25 16:00,2025/07/25 21:00,泉ガーデンギャラリー,Izumi Garden Gallery,"35.664692,139.740868","ニュースページ（KONAMI）
 https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
 
 配信ページ
 https://www.youtube.com/watch?v=lERzGVBwVX0
 
 にじさんじ以外の出演者：天開司（主催）
-
-ハッシュタグ：#にじ甲2025
-https://x.com/hashtag/にじ甲2025
 ","Article of the event（KONAMI）
 https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
 
@@ -2013,20 +1918,14 @@ YouTube
 https://www.youtube.com/watch?v=lERzGVBwVX0
 
 Non-Nijisanji performers: Tenkai Tsukasa (Organizer)
-
-Hashtag：#にじ甲2025
-https://x.com/hashtag/にじ甲2025
-",https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201,"舞元啓介, 樋口楓, 叶, 笹木咲, 葛葉, 椎名唯華, リゼ・ヘルエスタ, エクス・アルビオ, 加賀美ハヤト, イブラヒム, レオス・ヴィンセント"
-にじさんじ甲子園2025 ライブビューイング Day2,82b632b7-05aa-4517-9663-66655b10efb8, 2025/07/31 20:45:53,Nijisanji Koshien 2025 Live Viewing Day2,2025/07/26 16:00,2025/07/26 21:00,泉ガーデンギャラリー,Izumi Garden Gallery,"35.664692,139.740868","ニュースページ（KONAMI）
+",https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201,"舞元啓介, 樋口楓, 叶, 笹木咲, 葛葉, 椎名唯華, リゼ・ヘルエスタ, エクス・アルビオ, 加賀美ハヤト, イブラヒム, レオス・ヴィンセント",にじ甲2025
+にじさんじ甲子園2025 ライブビューイング Day2,82b632b7-05aa-4517-9663-66655b10efb8, 2025/12/27 17:31:55,Nijisanji Koshien 2025 Live Viewing Day2,2025/07/26 16:00,2025/07/26 21:00,泉ガーデンギャラリー,Izumi Garden Gallery,"35.664692,139.740868","ニュースページ（KONAMI）
 https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
 
 配信ページ
 https://www.youtube.com/watch?v=wp35E6Pu6do
 
 にじさんじ以外の出演者：天開司（主催）
-
-ハッシュタグ：#にじ甲2025
-https://x.com/hashtag/にじ甲2025
 ","Article of the event（KONAMI）
 https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
 
@@ -2034,20 +1933,14 @@ YouTube
 https://www.youtube.com/watch?v=wp35E6Pu6do
 
 Non-Nijisanji performers: Tenkai Tsukasa (Organizer)
-
-Hashtag：#にじ甲2025
-https://x.com/hashtag/にじ甲2025
-",https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201,"舞元啓介, 樋口楓, 叶, 笹木咲, 葛葉, 椎名唯華, リゼ・ヘルエスタ, エクス・アルビオ, 加賀美ハヤト, イブラヒム, レオス・ヴィンセント"
-にじさんじ甲子園2025 ライブビューイング Day3,1fc8ade1-10ac-40d2-bdcb-f41986213dac, 2025/07/31 20:45:47,Nijisanji Koshien 2025 Live Viewing Day3,2025/07/27 16:00,2025/07/27 21:00,泉ガーデンギャラリー,Izumi Garden Gallery,"35.664692,139.740868","ニュースページ（KONAMI）
+",https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201,"舞元啓介, 樋口楓, 叶, 笹木咲, 葛葉, 椎名唯華, リゼ・ヘルエスタ, エクス・アルビオ, 加賀美ハヤト, イブラヒム, レオス・ヴィンセント",にじ甲2025
+にじさんじ甲子園2025 ライブビューイング Day3,1fc8ade1-10ac-40d2-bdcb-f41986213dac, 2025/12/27 17:31:41,Nijisanji Koshien 2025 Live Viewing Day3,2025/07/27 16:00,2025/07/27 21:00,泉ガーデンギャラリー,Izumi Garden Gallery,"35.664692,139.740868","ニュースページ（KONAMI）
 https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
 
 配信ページ
 https://www.youtube.com/watch?v=VEPRn9VU7vs
 
 にじさんじ以外の出演者：天開司（主催）
-
-ハッシュタグ：#にじ甲2025
-https://x.com/hashtag/にじ甲2025
 ","Article of the event（KONAMI）
 https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201
 
@@ -2055,11 +1948,8 @@ YouTube
 https://www.youtube.com/watch?v=VEPRn9VU7vs
 
 Non-Nijisanji performers: Tenkai Tsukasa (Organizer)
-
-Hashtag：#にじ甲2025
-https://x.com/hashtag/にじ甲2025
-",https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201,"舞元啓介, 樋口楓, 叶, 笹木咲, 葛葉, 椎名唯華, リゼ・ヘルエスタ, エクス・アルビオ, 加賀美ハヤト, イブラヒム, レオス・ヴィンセント"
-ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜,250f4dfb-17ad-4821-9fde-7cc62f5d121f, 2025/08/21 17:34:48,Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”,2025/08/02 18:00,2025/08/02 20:00,TFT ホール 500,TFT HALL 500,"35.630470,139.789370","特設サイト
+",https://pawaspi-point.konami.net/news/detail?content_id=KON_news_bab4c1e69524a5021ccc83f861746201,"舞元啓介, 樋口楓, 叶, 笹木咲, 葛葉, 椎名唯華, リゼ・ヘルエスタ, エクス・アルビオ, 加賀美ハヤト, イブラヒム, レオス・ヴィンセント",にじ甲2025
+ラトナ・プティ1st EVENT 〜みんなで掴んだ初舞台！〜,250f4dfb-17ad-4821-9fde-7cc62f5d121f, 2025/12/27 17:31:27,Ratna Petit 1st Event “Minna de tsukanda Hatsu Butai!”,2025/08/02 18:00,2025/08/02 20:00,TFT ホール 500,TFT HALL 500,"35.630470,139.789370","特設サイト
 https://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/
 
 オンラインチケット購入ページ
@@ -2070,9 +1960,6 @@ https://shop.nijisanji.jp/TAG_670
 
 本編視聴ページ
 https://live.nicovideo.jp/watch/lv347986780
-
-ハッシュタグ：#ラトナ・プティ1st_EVENT
-https://x.com/hashtag/ラトナ・プティ1st_EVENT
 ","Special Site
 https://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/
 
@@ -2084,15 +1971,12 @@ https://shop.nijisanji.jp/TAG_670
 
 niconico Live
 https://live.nicovideo.jp/watch/lv347986780
-
-Hashtag：#ラトナ・プティ1st_EVENT
-https://x.com/hashtag/ラトナ・プティ1st_EVENT
-",https://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/,ラトナ・プティ
+",https://www.nijisanji.jp/events/nijifanparty/ratna_petit_1stEVENT/,ラトナ・プティ,ラトナ・プティ1st_EVENT
 Idios 1st Mini Album 『By Colors!』発売記念 1on1オンライントーク会,9e86227b-d8e2-45d7-a4a3-c11c6b4281db, 2025/06/01 02:08:46,Idios 1st Mini Album 'By Colors!' Release Commemoration 1-on-1 Online Talk Session,2025/08/30 12:00,2025/08/30 19:40,オンライン,Online,,"イベントページ
 https://limista.jp/shipping_groups/6056/projects/6015","Event page
-https://limista.jp/shipping_groups/6056/projects/6015",https://limista.jp/shipping_groups/6056/projects/6015,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると"
+https://limista.jp/shipping_groups/6056/projects/6015",https://limista.jp/shipping_groups/6056/projects/6015,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると",
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 神戸公演",052fed1f-a1ca-49dd-b65f-0b626d1f77f0, 2025/08/21 17:48:10,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Kobe,2025/08/30 18:00, 2025/08/30 20:00,神戸国際会館,Kobe International House,"34.692295,135.195742","特設サイト
+Singin’ in the Rainbow！ 神戸公演",052fed1f-a1ca-49dd-b65f-0b626d1f77f0, 2025/12/27 17:31:12,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Kobe,2025/08/30 18:00, 2025/08/30 20:00,神戸国際会館,Kobe International House,"34.692295,135.195742","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 オンラインチケット購入ページ
@@ -2114,9 +1998,6 @@ https://live.nicovideo.jp/watch/lv347420856
 
 最速感想放送（MC：オリバー・エバンス、緋八マナ、立伝都々）
 https://live.nicovideo.jp/watch/lv348367874
-
-ハッシュタグ：#SitR神戸
-https://x.com/hashtag/SitR神戸
 ","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
@@ -2139,12 +2020,9 @@ https://live.nicovideo.jp/watch/lv347420856
 
 Post-Live Discussion (MC: Oliver Evans, Hibachi Mana, Tachitsute Toto)
 https://live.nicovideo.jp/watch/lv348367874
-
-Hashtag：#SitR神戸
-https://x.com/hashtag/SitR神戸
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"樋口楓, 竜胆尊, レヴィ・エリファ, シェリン・バーガンディ, 甲斐田晴, 伊波ライ"
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"樋口楓, 竜胆尊, レヴィ・エリファ, シェリン・バーガンディ, 甲斐田晴, 伊波ライ",SitR神戸
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 福岡公演",72460880-d374-4b14-a7fd-cb391d793a0b, 2025/09/26 20:27:49,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Fukuoka,2025/09/13 18:00, 2025/09/13 20:00,福岡サンパレス ホテル＆ホール,Fukuoka Sunpalace Hotel & Hall,"33.603405,130.402999","特設サイト
+Singin’ in the Rainbow！ 福岡公演",72460880-d374-4b14-a7fd-cb391d793a0b, 2025/12/27 17:30:58,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Fukuoka,2025/09/13 18:00, 2025/09/13 20:00,福岡サンパレス ホテル＆ホール,Fukuoka Sunpalace Hotel & Hall,"33.603405,130.402999","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 オンラインチケット購入ページ
@@ -2165,9 +2043,6 @@ https://live.nicovideo.jp/watch/lv347420905
 
 最速感想放送（MC: 夜見れな、周央サンゴ、佐伯イッテツ）
 https://live.nicovideo.jp/watch/lv348455895
-
-ハッシュタグ：#SitR福岡
-https://x.com/hashtag/SitR福岡
 ","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
@@ -2189,10 +2064,7 @@ https://live.nicovideo.jp/watch/lv347420905
 
 Post-Live Discussion (MC: Yorumi Rena, Suo Sango, Saiki Ittetsu)
 https://live.nicovideo.jp/watch/lv348455895
-
-Hashtag：#SitR福岡
-https://x.com/hashtag/SitR福岡
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"鷹宮リオン, 夢追翔, 星川サラ, 不破湊, オリバー・エバンス, 倉持めると"
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"鷹宮リオン, 夢追翔, 星川サラ, 不破湊, オリバー・エバンス, 倉持めると",SitR福岡
 にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1,9d8733dc-3426-4d7f-b107-0374ae490e4e, 2025/08/29 22:01:29,NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1,2025/09/22 19:00, 2025/09/22 23:00,各映画館,Various movie theaters,,"ニュースサイト
 https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 
@@ -2207,7 +2079,7 @@ Ticket page
 https://l-tike.com/cinema/mevent/?mid=762309
 
 
-",https://prtimes.jp/main/html/rd/p/000001275.000030865.html,にじさんじ
+",https://prtimes.jp/main/html/rd/p/000001275.000030865.html,にじさんじ,
 にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2,64418d98-45a1-4d95-91fa-9cfc05a83d8a, 2025/08/29 22:02:36,NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2,2025/09/23 17:00,2025/09/23 20:00,各映画館,Various movie theaters,,"ニュースサイト
 https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 
@@ -2222,9 +2094,9 @@ Ticket page
 https://l-tike.com/cinema/mevent/?mid=762309
 
 
-",https://prtimes.jp/main/html/rd/p/000001275.000030865.html,にじさんじ
+",https://prtimes.jp/main/html/rd/p/000001275.000030865.html,にじさんじ,
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 広島公演",60681f23-b184-4de9-84c2-2dedc25147e0, 2025/11/07 23:11:08,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima,2025/10/18 18:00, 2025/10/18 20:00,広島文化学園HBGホール,Hiroshima Bunka Gakuen HGB Hall,"34.388465,132.448613","特設サイト
+Singin’ in the Rainbow！ 広島公演",60681f23-b184-4de9-84c2-2dedc25147e0, 2025/12/27 17:30:44,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Hiroshima,2025/10/18 18:00, 2025/10/18 20:00,広島文化学園HBGホール,Hiroshima Bunka Gakuen HGB Hall,"34.388465,132.448613","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 オンラインチケット購入ページ
@@ -2244,9 +2116,6 @@ https://live.nicovideo.jp/watch/lv347420927
 
 最速感想放送（MC：剣持刀也、魁星、梢桃音）
 https://live.nicovideo.jp/watch/lv348729479
-
-ハッシュタグ：#SitR広島
-https://x.com/hashtag/SitR広島
 ","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
@@ -2267,10 +2136,7 @@ https://live.nicovideo.jp/watch/lv347420927
 
 Post-Live Discussion (MC: Kenmochi Toya, Kaisei, Kozue Mone)
 https://live.nicovideo.jp/watch/lv348729479
-
-Hashtag：#SitR広島
-https://x.com/hashtag/SitR広島
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"ジョー・力一, 周央サンゴ, 壱百満天原サロメ, セラフ・ダズルガーデン, 星導ショウ, 栞葉るり"
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"ジョー・力一, 周央サンゴ, 壱百満天原サロメ, セラフ・ダズルガーデン, 星導ショウ, 栞葉るり",SitR広島
 緋八マナ＆伊波ライ トークライブ1,a818b585-d74c-4436-b98e-d2df69daf357, 2025/08/23 17:01:23,Hibachi Mana & Inami Rai Talk Live 1,2025/10/19 11:10,2025/10/19 12:00,広島県民文化センターふくやま,Hiroshima Prefectural Cultural Center Fukuyama,"34.486523,133.362059","特設サイト
 https://fukuyamanime.jp/event2025/nijisanji/
 
@@ -2281,7 +2147,7 @@ https://fukuyamanime.jp/event2025/nijisanji/
 
 Tickets
 https://furec.cineticket.jp/cm/theater/cinemamode/schedule
-",https://fukuyamanime.jp/event2025/nijisanji/,"緋八マナ, 伊波ライ"
+",https://fukuyamanime.jp/event2025/nijisanji/,"緋八マナ, 伊波ライ",
 緋八マナ＆伊波ライ トークライブ2,a31ebd92-caf2-40fd-ad06-6c6418e690b4, 2025/08/23 17:02:06,Hibachi Mana & Inami Rai Talk Live 2,2025/10/19 13:00,2025/10/19 13:50,広島県民文化センターふくやま,Hiroshima Prefectural Cultural Center Fukuyama,"34.486523,133.362059","特設サイト
 https://fukuyamanime.jp/event2025/nijisanji/
 
@@ -2292,8 +2158,8 @@ https://fukuyamanime.jp/event2025/nijisanji/
 
 Tickets
 https://furec.cineticket.jp/cm/theater/cinemamode/schedule
-",https://fukuyamanime.jp/event2025/nijisanji/,"緋八マナ, 伊波ライ"
-"Idios 1st LIVE ""Seize the day"" Day 1",aa6ea3ba-d953-4156-8b44-87a4dc5c9e6c, 2025/11/07 23:30:57,"Idios 1st LIVE ""Seize the day"" Day 1",2025/11/07 19:00,2025/11/07 21:30,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+",https://fukuyamanime.jp/event2025/nijisanji/,"緋八マナ, 伊波ライ",
+"Idios 1st LIVE ""Seize the day"" Day 1",aa6ea3ba-d953-4156-8b44-87a4dc5c9e6c, 2025/12/27 17:30:26,"Idios 1st LIVE ""Seize the day"" Day 1",2025/11/07 19:00,2025/11/07 21:30,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/Idios_1stlive/
 
 オンラインチケット購入ページ
@@ -2310,10 +2176,6 @@ https://www.youtube.com/live/5KEFpTUepbo
 
 本編視聴ページ
 https://live.nicovideo.jp/watch/lv348746871
-
-ハッシュタグ：#Idios_1stLIVE_Day1
-https://x.com/hashtag/Idios_1stLIVE_Day1
-
 ","Special Site
 https://www.nijisanji.jp/events/Idios_1stlive/
 
@@ -2331,11 +2193,8 @@ https://www.youtube.com/live/5KEFpTUepbo
 
 niconico Live
 https://live.nicovideo.jp/watch/lv348746871
-
-Hashtag：#Idios_1stLIVE_Day1
-https://x.com/hashtag/Idios_1stLIVE_Day1
-",https://www.nijisanji.jp/events/Idios_1stlive/,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると"
-"Idios 1st LIVE ""Seize the day"" Day 2",8d8bfea5-c165-4386-870e-625bc73651b0, 2025/11/07 23:31:00,"Idios 1st LIVE ""Seize the day"" Day 2",2025/11/08 18:00,2025/11/08 20:30,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
+",https://www.nijisanji.jp/events/Idios_1stlive/,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると",Idios_1stLIVE_Day1
+"Idios 1st LIVE ""Seize the day"" Day 2",8d8bfea5-c165-4386-870e-625bc73651b0, 2025/12/27 17:30:11,"Idios 1st LIVE ""Seize the day"" Day 2",2025/11/08 18:00,2025/11/08 20:30,豊洲PIT,Toyosu PIT,"35.649603,139.788379","特設サイト
 https://www.nijisanji.jp/events/Idios_1stlive/
 
 オンラインチケット購入ページ
@@ -2352,10 +2211,6 @@ https://www.youtube.com/live/fzLDBT9Ujl0
 
 本編視聴ページ
 https://live.nicovideo.jp/watch/lv348747534
-
-ハッシュタグ：#Idios_1stLIVE_Day2
-https://x.com/hashtag/Idios_1stLIVE_Day2
-
 ","Special Site
 https://www.nijisanji.jp/events/Idios_1stlive/
 
@@ -2373,15 +2228,12 @@ https://www.youtube.com/live/fzLDBT9Ujl0
 
 niconico Live
 https://live.nicovideo.jp/watch/lv348747534
-
-Hashtag：#Idios_1stLIVE_Day2
-https://x.com/hashtag/Idios_1stLIVE_Day2
-",https://www.nijisanji.jp/events/Idios_1stlive/,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると"
+",https://www.nijisanji.jp/events/Idios_1stlive/,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると",Idios_1stLIVE_Day2
 Idios 1st Mini Album 『By Colors!』発売記念トークイベント,a0089b31-6727-43e0-bb4d-25fb6d7188b2, 2025/11/17 20:19:05,Idios 1st Mini Album 'By Colors!' Release Commemoration Talk Event,2025/11/16 14:00,2025/11/16 15:00,不明,Unknown,,"イベントページ
 https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246","Event page
-https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246",https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると"
+https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246",https://www.animate-onlineshop.jp/sphone/contents/fair_event/detail.php?id=113246,"小清水透, 獅子堂あかり, 鏑木ろこ, 五十嵐梨花, 石神のぞみ, ソフィア・ヴァレンタイン, 倉持めると",
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ ソウル公演",d91bb73c-aa08-48d3-8ed6-b5a7d9d21c74, 2025/12/07 14:52:01,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Seoul,2025/12/07 18:30,2025/12/07 19:30,KINTEX 第一展示場,KINTEX,"37.668875,126.746113","特設サイト
+Singin’ in the Rainbow！ ソウル公演",d91bb73c-aa08-48d3-8ed6-b5a7d9d21c74, 2025/12/27 17:29:55,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Seoul,2025/12/07 18:30,2025/12/07 19:30,KINTEX 第一展示場,KINTEX,"37.668875,126.746113","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 現地イベントページ（Anime x Game Festival Korea 2025）
@@ -2391,9 +2243,6 @@ https://www.agfkorea.com
 https://youtube.com/live/JxDzMLhV8fw
 
 グッズページ
-
-ハッシュタグ：#SitRソウル
-https://x.com/hashtag/SitRソウル
 ","""Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
@@ -2404,11 +2253,8 @@ Online Viewing (Free)
 https://youtube.com/live/JxDzMLhV8fwz
 
 Merch page
-
-Hashtag：#SitRソウル
-https://x.com/hashtag/SitRソウル
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"桜凛月, 魁星, ミン スゥーハ, セフィナ, 浮奇・ヴィオレタ, マリア マリオネット"
-"NIJISANJI COUNTDOWN LIVE ""CROSSING TONES""",49237017-ae7d-4e21-9f93-3b50d61741ac, 2025/11/02 10:49:13,"NIJISANJI COUNTDOWN LIVE ""CROSSING TONES""",2025/12/31 23:30,2026/01/01 01:30,各映画館（イオンシネマ）,Various movie theaters (AEON Cinema),,"特設サイト
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"桜凛月, 魁星, ミン スゥーハ, セフィナ, 浮奇・ヴィオレタ, マリア マリオネット",SitRソウル
+"NIJISANJI COUNTDOWN LIVE ""CROSSING TONES""",49237017-ae7d-4e21-9f93-3b50d61741ac, 2025/12/27 17:29:44,"NIJISANJI COUNTDOWN LIVE ""CROSSING TONES""",2025/12/31 23:30,2026/01/01 01:30,各映画館（イオンシネマ）,Various movie theaters (AEON Cinema),,"特設サイト
 https://www.nijisanji.jp/events/crossingtones/
 
 ネット配信チケット購入ページ
@@ -2418,9 +2264,6 @@ https://dwango-ticket.jp/project/UDL008uMGq
 
 本編視聴ページ
 https://live.nicovideo.jp/watch/lv348883216
-
-Hashtag：#年越しARライブ
-https://x.com/hashtag/年越しARライブ
 ","Special Site
 https://www.nijisanji.jp/events/crossingtones/
 
@@ -2431,10 +2274,7 @@ Free Part
 
 niconico Live
 https://live.nicovideo.jp/watch/lv348883216
-
-Hashtag：#年越しARライブ
-https://x.com/hashtag/年越しARライブ
-",https://www.nijisanji.jp/events/crossingtones/,"壱百満天原サロメ, 渡会雲雀, 石神のぞみ, 赤城ウェン, 小柳ロウ, 栞葉るり, 榊ネス, 珠乃井ナナ"
+",https://www.nijisanji.jp/events/crossingtones/,"壱百満天原サロメ, 渡会雲雀, 石神のぞみ, 赤城ウェン, 小柳ロウ, 栞葉るり, 榊ネス, 珠乃井ナナ",年越しARライブ
 にじさんじフェス展 in Taipei,eb858954-33e7-4602-8b19-7e0fcebbdb9b, 2025/12/26 14:08:53,Nijisanji Fes Exhibition in Taipei,2026/01/02 11:30,2026/01/26 21:30,台北流行音楽中心文化館 2階特別展示室,"Taipei Music Center, Culture Hall, 2nd Floor Special Exhibition Hall","25.052639,121.598507","特設サイト
 https://capsuleleu.kktix.cc/events/nijifesexintaipei
 
@@ -2445,8 +2285,8 @@ https://capsuleleu.kktix.cc/events/nijifesexintaipei
 
 Opening Hours (Taipei Time)
 - January 2 (Fri) - January 11 (Sun) 10:30-21:00
-- January 12 (Mon) - January 26 (Mon) 10:30-20:30",https://capsuleleu.kktix.cc/events/nijifesexintaipei,にじさんじ
-VOLTACTION×3SKM FUSION LIVE “IMPACT” ,f5b9afc7-4095-4338-87ae-4ec784d7961e, 2025/12/26 13:51:33,VOLTACTION×3SKM FUSION LIVE “IMPACT” ,2026/01/06 20:00,2026/01/06 22:00,オンライン,Online,,"特設サイト
+- January 12 (Mon) - January 26 (Mon) 10:30-20:30",https://capsuleleu.kktix.cc/events/nijifesexintaipei,にじさんじ,
+VOLTACTION×3SKM FUSION LIVE “IMPACT” ,f5b9afc7-4095-4338-87ae-4ec784d7961e, 2025/12/27 17:29:26,VOLTACTION×3SKM FUSION LIVE “IMPACT” ,2026/01/06 20:00,2026/01/06 22:00,オンライン,Online,,"特設サイト
 https://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/
 
 グッズページ
@@ -2454,9 +2294,7 @@ https://shop.nijisanji.jp/TAG_853
 
 視聴ページ（無料）
 https://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/
-
-ハッシュタグ：#VOLTACTIONx3SKM
-https://x.com/hashtag/VOLTACTIONx3SKM","Special Site
+","Special Site
 https://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/
 
 Merch page
@@ -2464,10 +2302,8 @@ https://shop.nijisanji.jp/TAG_853
 
 YouTube (Free)
 https://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/
-
-Hashtag：#VOLTACTIONx3SKM
-https://x.com/hashtag/VOLTACTIONx3SKM",https://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/,"風楽奏斗, 渡会雲雀, 四季凪アキラ, セラフ・ダズルガーデン, 北見遊征, 魁星, 榊ネス"
-"加賀美ハヤト 1st One Man Live ""ALPHA ONE""",6589ac94-d369-47c0-8bde-fa56c4d6ed94, 2025/12/26 14:26:01,"KAGAMI HAYATO 1st One Man Live ""ALPHA ONE""",2026/01/17 18:00,2026/01/17 20:00,TOYOTA ARENA TOKYO,TOYOTA ARENA TOKYO,"35.626033,139.783139","特設サイト
+",https://www.nijisanji.jp/events/VOLTACTIONx3SKM_IMPACT/,"風楽奏斗, 渡会雲雀, 四季凪アキラ, セラフ・ダズルガーデン, 北見遊征, 魁星, 榊ネス",VOLTACTIONx3SKM
+"加賀美ハヤト 1st One Man Live ""ALPHA ONE""",6589ac94-d369-47c0-8bde-fa56c4d6ed94, 2025/12/27 17:29:12,"KAGAMI HAYATO 1st One Man Live ""ALPHA ONE""",2026/01/17 18:00,2026/01/17 20:00,TOYOTA ARENA TOKYO,TOYOTA ARENA TOKYO,"35.626033,139.783139","特設サイト
 https://www.nijisanji.jp/events/kagami_alphaone/
 
 グッズページ
@@ -2492,9 +2328,7 @@ https://live.nicovideo.jp/watch/lv349215606
 
 最速感想放送（出演：甲斐田晴、北見遊征、早乙女ベリー）
 https://live.nicovideo.jp/watch/lv349361196
-
-ハッシュタグ：#加賀美ハヤト_1stライブ
-https://x.com/hashtag/加賀美ハヤト_1stライブ","Special Site
+","Special Site
 https://www.nijisanji.jp/events/kagami_alphaone/
 
 Merch page
@@ -2519,11 +2353,9 @@ https://live.nicovideo.jp/watch/lv349215606
 
 Post-Live Discussion (MC: Kaida Haru, Kitami Yusei, Saotome Berry)
 https://live.nicovideo.jp/watch/lv349361196
-
-Hashtag：#加賀美ハヤト_1stライブ
-https://x.com/hashtag/加賀美ハヤト_1stライブ",https://www.nijisanji.jp/events/kagami_alphaone/,加賀美ハヤト
+",https://www.nijisanji.jp/events/kagami_alphaone/,加賀美ハヤト,加賀美ハヤト_1stライブ
 "にじさんじ WORLD TOUR 2025
-Singin’ in the Rainbow！ 東京公演",6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43, 2025/10/17 14:06:25,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo,2026/01/18 18:00, 2026/01/18 20:00,TOYOTA ARENA TOKYO,TOYOTA ARENA TOKYO,"35.626033,139.783139","特設サイト
+Singin’ in the Rainbow！ 東京公演",6bb02f12-eb1a-41dd-a92a-c5f2d33e7b43, 2025/12/27 17:28:54,Nijisanji WORLD TOUR 2025 Singin' in the Rainbow! Tokyo,2026/01/18 18:00, 2026/01/18 20:00,TOYOTA ARENA TOKYO,TOYOTA ARENA TOKYO,"35.626033,139.783139","特設サイト
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
 オンラインチケット購入ページ
@@ -2541,9 +2373,6 @@ https://shop.nijisanji.jp/TAG_614
 【ライバーカメラ】視聴ページ
 
 最速感想放送
-
-ハッシュタグ：#SitR東京
-https://x.com/hashtag/SitR東京
 ","Special Site
 https://www.nijisanji.jp/events/nijisanji_worldtour2025/
 
@@ -2562,11 +2391,8 @@ niconico Live
 【Liver Camera】niconico Live
 
 Post-Live Discussion
-
-Hashtag：#SitR東京
-https://x.com/hashtag/SitR東京
-",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"月ノ美兎, 家長むぎ, 剣持刀也, 伏見ガク, 夕陽リリ, 笹木咲, 椎名唯華"
-LOCK ON FLEEK GAME FESTA,6fa1aade-285f-4db7-a624-a32e43e1e68f, 2025/12/26 13:48:24,LOCK ON FLEEK GAME FESTA,2026/01/22 18:00,2026/01/22 22:00,パシフィコ横浜 国立大ホール,PACIFICO Yokohama National Convention Hall,"35.458678,139.637314","特設サイト
+",https://www.nijisanji.jp/events/nijisanji_worldtour2025/,"月ノ美兎, 家長むぎ, 剣持刀也, 伏見ガク, 夕陽リリ, 笹木咲, 椎名唯華",SitR東京
+LOCK ON FLEEK GAME FESTA,6fa1aade-285f-4db7-a624-a32e43e1e68f, 2025/12/27 17:28:40,LOCK ON FLEEK GAME FESTA,2026/01/22 18:00,2026/01/22 22:00,パシフィコ横浜 国立大ホール,PACIFICO Yokohama National Convention Hall,"35.458678,139.637314","特設サイト
 https://www.nijisanji.jp/events/lockonfleekgamefesta/
 
 グッズページ
@@ -2577,9 +2403,6 @@ https://abema.tv/channels/special-plus-7/slots/97sEuK47yYHQFh
 
 無料パート
 https://www.youtube.com/live/Y4VvBUmvt98
-
-ハッシュタグ：#ロクフリゲームフェスタ
-https://x.com/hashtag/ロクフリゲームフェスタ
 ","Special Site
 https://www.nijisanji.jp/events/lockonfleekgamefesta/
 
@@ -2591,10 +2414,8 @@ https://abema.tv/channels/special-plus-7/slots/97sEuK47yYHQFh
 
 Free part
 https://www.youtube.com/live/Y4VvBUmvt98
-
-Hashtag：#ロクフリゲームフェスタ
-https://x.com/hashtag/ロクフリゲームフェスタ",https://www.nijisanji.jp/events/lockonfleekgamefesta/,"レイン・パターソン, ローレン・イロアス, アルス・アルマル, 三枝明那, 石神のぞみ, 椎名唯華, イブラヒム, ラトナ・プティ, 叢雲カゲツ, える, 狂蘭 メロコ, 榊ネス, 森中花咲, 健屋花那, ソフィア・ヴァレンタイン, 本間ひまわり, 卯月コウ, 桜凛月, 樋口楓, レオス・ヴィンセント, エクス・アルビオ, 社築, 魔界ノりりむ, 星川サラ, 叶, 壱百満天原サロメ, 長尾景, 弦月藤士郎, 甲斐田晴, ハ ユン, ミラン・ケストレル, ルンルン, 風楽奏斗, 笹木咲, 渡会雲雀, 獅子堂あかり, 宇志海いちご, 夕陽リリ, 緋八マナ, 伊波ライ, 星導ショウ, 小柳ロウ, 不破湊, 佐伯イッテツ, 綺沙良, 海妹四葉, セラフ・ダズルガーデン, 渚トラウト, 神田笑一, 酒寄颯馬, セイブル, クロード クローマーク, 凉舞 バレンウォート, 鷹宮リオン, ニュイ・ソシエール, 夜見れな, 七瀬すず菜, 舞元啓介"
-KZHCUP RUMBLE in STREET FIGHTER6,13331fb8-2a25-4827-af0a-2f4070c04941, 2025/12/23 13:49:54,KZHCUP RUMBLE in STREET FIGHTER6,2026/01/23 18:00,2026/01/22 22:00,パシフィコ横浜 国立大ホール,PACIFICO Yokohama National Convention Hall,"35.458678,139.637314","特設サイト
+",https://www.nijisanji.jp/events/lockonfleekgamefesta/,"レイン・パターソン, ローレン・イロアス, アルス・アルマル, 三枝明那, 石神のぞみ, 椎名唯華, イブラヒム, ラトナ・プティ, 叢雲カゲツ, える, 狂蘭 メロコ, 榊ネス, 森中花咲, 健屋花那, ソフィア・ヴァレンタイン, 本間ひまわり, 卯月コウ, 桜凛月, 樋口楓, レオス・ヴィンセント, エクス・アルビオ, 社築, 魔界ノりりむ, 星川サラ, 叶, 壱百満天原サロメ, 長尾景, 弦月藤士郎, 甲斐田晴, ハ ユン, ミラン・ケストレル, ルンルン, 風楽奏斗, 笹木咲, 渡会雲雀, 獅子堂あかり, 宇志海いちご, 夕陽リリ, 緋八マナ, 伊波ライ, 星導ショウ, 小柳ロウ, 不破湊, 佐伯イッテツ, 綺沙良, 海妹四葉, セラフ・ダズルガーデン, 渚トラウト, 神田笑一, 酒寄颯馬, セイブル, クロード クローマーク, 凉舞 バレンウォート, 鷹宮リオン, ニュイ・ソシエール, 夜見れな, 七瀬すず菜, 舞元啓介",ロクフリゲームフェスタ
+KZHCUP RUMBLE in STREET FIGHTER6,13331fb8-2a25-4827-af0a-2f4070c04941, 2025/12/27 17:28:18,KZHCUP RUMBLE in STREET FIGHTER6,2026/01/23 18:00,2026/01/22 22:00,パシフィコ横浜 国立大ホール,PACIFICO Yokohama National Convention Hall,"35.458678,139.637314","特設サイト
 https://www.nijisanji.jp/events/kzhcup_rumble_in_streetfighter6/
 
 視聴チケットページ
@@ -2609,9 +2430,6 @@ https://www.youtube.com/live/8GApxmS4TM8
 
 にじさんじ外の出演者：
 大和周平、かずのこ、Shuto、ACQUA、どぐら、ナウマン、板橋ザンギエフ、立川、ハイタニ、k4sen、らいじん、Zerost、Sasatikk、SHAKA
-
-ハッシュタグ：#KZHCUP_RUMBLE
-https://x.com/hashtag/KZHCUP_RUMBLE
 ","Special Site
 https://www.nijisanji.jp/events/kzhcup_rumble_in_streetfighter6/
 
@@ -2627,10 +2445,8 @@ https://www.youtube.com/live/8GApxmS4TM8
 
 Non-Nijisanji performers:
 Yamato Shuhei, Kazunoko, Shuto, ACQUA, Dogura, Nauman, Itabashi Zangief, Tachikawa, Haitani, k4sen, Raijin, Zerost, Sasatikk, SHAKA
-
-Hashtag：#KZHCUP_RUMBLE
-https://x.com/hashtag/KZHCUP_RUMBLE",https://www.nijisanji.jp/events/kzhcup_rumble_in_streetfighter6/,"葛葉, 小柳ロウ, 神田笑一, 伊波ライ, 榊ネス, 笹木咲, 叢雲カゲツ, 風楽奏斗, 長尾景, オリバー・エバンス, 不破湊, イブラヒム, 叶, 宇佐美リト"
-VACHSS LIVE “THE TAKEOVER”,e0e11cd6-a60a-4d4d-9730-37de1509c094, 2025/11/30 22:28:49,VACHSS LIVE “THE TAKEOVER”,2026/05/14 18:00,2026/05/14 20:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
+",https://www.nijisanji.jp/events/kzhcup_rumble_in_streetfighter6/,"葛葉, 小柳ロウ, 神田笑一, 伊波ライ, 榊ネス, 笹木咲, 叢雲カゲツ, 風楽奏斗, 長尾景, オリバー・エバンス, 不破湊, イブラヒム, 叶, 宇佐美リト",KZHCUP_RUMBLE
+VACHSS LIVE “THE TAKEOVER”,e0e11cd6-a60a-4d4d-9730-37de1509c094, 2025/12/27 17:28:04,VACHSS LIVE “THE TAKEOVER”,2026/05/14 18:00,2026/05/14 20:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
 https://fes.nijisanji.jp/2026/special-stage/#s-stage1
 
 オンラインチケット購入ページ
@@ -2639,9 +2455,6 @@ https://fes.nijisanji.jp/2026/special-stage/#s-stage1
 https://shop.nijisanji.jp/TAG_838
 
 オンライン視聴ページ
-
-ハッシュタグ：#VACHSS_LIVE
-https://x.com/hashtag/VACHSS_LIVE
 ","Special Site
 https://fes.nijisanji.jp/2026/special-stage/#s-stage1
 
@@ -2651,11 +2464,8 @@ Merch page
 https://shop.nijisanji.jp/TAG_838
 
 niconico Live
-
-Hashtag：#VACHSS_LIVE
-https://x.com/hashtag/VACHSS_LIVE
-",https://fes.nijisanji.jp/2026/special-stage/#s-stage1,"葛葉, 叶, 加賀美ハヤト, 不破湊, 剣持刀也, 夢追翔"
-Uncharted Spheres,aea96588-cfb9-4b78-accc-8f1b8196d9f8, 2025/12/07 14:53:03,Uncharted Spheres,2026/05/15 18:00,2026/05/15 20:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
+",https://fes.nijisanji.jp/2026/special-stage/#s-stage1,"葛葉, 叶, 加賀美ハヤト, 不破湊, 剣持刀也, 夢追翔",VACHSS_LIVE
+Uncharted Spheres,aea96588-cfb9-4b78-accc-8f1b8196d9f8, 2025/12/27 17:27:48,Uncharted Spheres,2026/05/15 18:00,2026/05/15 20:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
 https://fes.nijisanji.jp/2026/special-stage/#s-stage2
 
 オンラインチケット購入ページ
@@ -2664,9 +2474,6 @@ https://fes.nijisanji.jp/2026/special-stage/#s-stage2
 https://shop.nijisanji.jp/TAG_839
 
 オンライン視聴ページ
-
-ハッシュタグ：#Uncharted_Spheres
-https://x.com/hashtag/Uncharted_Spheres
 ","Special Site
 https://fes.nijisanji.jp/2026/special-stage/#s-stage2
 
@@ -2676,20 +2483,13 @@ Merch page
 https://shop.nijisanji.jp/TAG_839
 
 niconico Live
-
-Hashtag：#Uncharted_Spheres
-https://x.com/hashtag/Uncharted_Spheres
-",https://fes.nijisanji.jp/2026/special-stage/#s-stage2,"社築, ジョー・力一, 町田ちま, 戌亥とこ, 長尾景, 東堂コハク, 伊波ライ, 早乙女ベリー"
-にじさんじフェス2026 1日目,a85c4231-fd1d-41ca-914c-7b7b862354b2, 2025/11/30 23:41:35,Nijisanji Fes 2026 Day 1,2026/05/16 10:00,2026/05/16 18:00,幕張メッセ 国際展示場 展示ホール1～8,Makuhari Messe Exhibition Halls 1-8,"35.647009,140.034142","特設サイト
+",https://fes.nijisanji.jp/2026/special-stage/#s-stage2,"社築, ジョー・力一, 町田ちま, 戌亥とこ, 長尾景, 東堂コハク, 伊波ライ, 早乙女ベリー",Uncharted_Spheres
+にじさんじフェス2026 1日目,a85c4231-fd1d-41ca-914c-7b7b862354b2, 2025/12/27 17:27:16,Nijisanji Fes 2026 Day 1,2026/05/16 10:00,2026/05/16 18:00,幕張メッセ 国際展示場 展示ホール1～8,Makuhari Messe Exhibition Halls 1-8,"35.647009,140.034142","特設サイト
 https://fes.nijisanji.jp/2026/
-
-ハッシュタグ：#にじフェス2026
-https://x.com/hashtag/にじフェス2026","Special Site
+","Special Site
 https://fes.nijisanji.jp/2026/
-
-Hashtag：#にじフェス2026
-https://x.com/hashtag/にじフェス2026",https://fes.nijisanji.jp/2026/,にじさんじ
-にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1,d7836a7f-2f40-423d-9caf-1b87d36dc921, 2025/11/30 22:29:25,"Nijisanji 8th Anniversary LIVE ""CONCERTO"" Day1",2026/05/16 17:00,2026/05/16 19:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
+",https://fes.nijisanji.jp/2026/,にじさんじ,にじフェス2026
+にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1,d7836a7f-2f40-423d-9caf-1b87d36dc921, 2025/12/27 17:27:22,"Nijisanji 8th Anniversary LIVE ""CONCERTO"" Day1",2026/05/16 17:00,2026/05/16 19:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
 https://fes.nijisanji.jp/2026/special-stage/#s-stage3
 
 オンラインチケット購入ページ
@@ -2698,9 +2498,6 @@ https://fes.nijisanji.jp/2026/special-stage/#s-stage3
 https://shop.nijisanji.jp/TAG_840
 
 オンライン視聴ページ
-
-ハッシュタグ：#CONCERTO_Day1
-https://x.com/hashtag/CONCERTO_Day1
 ","Special Site
 https://fes.nijisanji.jp/2026/special-stage/#s-stage3
 
@@ -2710,20 +2507,13 @@ Merch page
 https://shop.nijisanji.jp/TAG_840
 
 niconico Live
-
-Hashtag：#CONCERTO_Day1
-https://x.com/hashtag/CONCERTO_Day1
-",https://fes.nijisanji.jp/2026/special-stage/#s-stage3,"月ノ美兎, アンジュ・カトリーナ, リゼ・ヘルエスタ, フレン・E・ルスタリオ, ヤン ナリ, 石神のぞみ, ペトラ グリン, 狂蘭 メロコ"
-にじさんじフェス2026 2日目,addbdf01-3883-4bd8-8444-82d7b2cc51d2, 2025/11/30 23:41:37,Nijisanji Fes 2026 Day 2,2026/05/17 10:00,2026/05/17 18:00,幕張メッセ 国際展示場 展示ホール1～8,Makuhari Messe Exhibition Halls 1-8,"35.647009,140.034142","特設サイト
+",https://fes.nijisanji.jp/2026/special-stage/#s-stage3,"月ノ美兎, アンジュ・カトリーナ, リゼ・ヘルエスタ, フレン・E・ルスタリオ, ヤン ナリ, 石神のぞみ, ペトラ グリン, 狂蘭 メロコ",CONCERTO_Day1
+にじさんじフェス2026 2日目,addbdf01-3883-4bd8-8444-82d7b2cc51d2, 2025/12/27 17:27:30,Nijisanji Fes 2026 Day 2,2026/05/17 10:00,2026/05/17 18:00,幕張メッセ 国際展示場 展示ホール1～8,Makuhari Messe Exhibition Halls 1-8,"35.647009,140.034142","特設サイト
 https://fes.nijisanji.jp/2026/
-
-ハッシュタグ：#にじフェス2026
-https://x.com/hashtag/にじフェス2026","Special Site
+","Special Site
 https://fes.nijisanji.jp/2026/
-
-Hashtag：#にじフェス2026
-https://x.com/hashtag/にじフェス2026",https://fes.nijisanji.jp/2026/,にじさんじ
-にじさんじ 8th Anniversary LIVE 「CONCERTO」Day2,81d30029-d717-46a2-bdab-210c91df3c3d, 2025/11/30 22:29:37,"Nijisanji 8th Anniversary LIVE ""CONCERTO"" Day2",2026/05/17 17:00,2026/05/17 19:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
+",https://fes.nijisanji.jp/2026/,にじさんじ,にじフェス2026
+にじさんじ 8th Anniversary LIVE 「CONCERTO」Day2,81d30029-d717-46a2-bdab-210c91df3c3d, 2025/12/27 17:26:46,"Nijisanji 8th Anniversary LIVE ""CONCERTO"" Day2",2026/05/17 17:00,2026/05/17 19:00,幕張メッセ 国際展示場 展示ホール7～8,Makuhari Messe Exhibition Halls 7-8,"35.647009,140.034142","特設サイト
 https://fes.nijisanji.jp/2026/special-stage/#s-stage4
 
 オンラインチケット購入ページ
@@ -2732,9 +2522,6 @@ https://fes.nijisanji.jp/2026/special-stage/#s-stage4
 https://shop.nijisanji.jp/TAG_840
 
 オンライン視聴ページ
-
-ハッシュタグ：#CONCERTO_Day2
-https://x.com/hashtag/CONCERTO_Day2
 ","Special Site
 https://fes.nijisanji.jp/2026/special-stage/#s-stage4
 
@@ -2744,10 +2531,7 @@ Merch page
 https://shop.nijisanji.jp/TAG_840
 
 niconico Live
-
-Hashtag：#CONCERTO_Day2
-https://x.com/hashtag/CONCERTO_Day2
-",https://fes.nijisanji.jp/2026/special-stage/#s-stage4,"三枝明那, セラフ・ダズルガーデン, 風楽奏斗, 佐伯イッテツ, 星導ショウ, 北見遊征, 闇ノシュウ, アルバーン・ノックス"
+",https://fes.nijisanji.jp/2026/special-stage/#s-stage4,"三枝明那, セラフ・ダズルガーデン, 風楽奏斗, 佐伯イッテツ, 星導ショウ, 北見遊征, 闇ノシュウ, アルバーン・ノックス",CONCERTO_Day2
 叶 2nd LIVE,6a4f7191-b4a8-47ca-851f-3e4c701001e1, 2025/12/07 17:52:02,Kanae 2nd LIVE,2026/07/31 18:00,2026/07/31 20:00,東京国際フォーラム ホールA,Tokyo International Forum Hall A,"35.677433,139.763351","ニュースページ
 https://kanae.lantis.jp/news/369/
 
@@ -2770,4 +2554,4 @@ Merch page
 
 niconico Live
 
-Hashtag：",,叶
+Hashtag：",,叶,

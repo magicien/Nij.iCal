@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +80,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +92,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2023
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ DTEND;VALUE=DATE:20190609
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru Birthday
-DESCRIPTION:Naruse Naru Birthday\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru Birthday\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -113,7 +113,7 @@ DTSTART:20180608T094200Z
 DTEND:20180608T101200Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru Debut
-DESCRIPTION:Naruse Naru Debut\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru Debut\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,7 @@ DTSTART:20180609T110000Z
 DTEND:20180609T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru Debut stream
-DESCRIPTION:Naruse Naru Debut stream\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru Debut stream\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +133,7 @@ DTSTART:20190608T094200Z
 DTEND:20190608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 1st Anniversary
-DESCRIPTION:Naruse Naru 1st Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 1st Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +143,7 @@ DTSTART:20200608T094200Z
 DTEND:20200608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 2nd Anniversary
-DESCRIPTION:Naruse Naru 2nd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 2nd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +153,7 @@ DTSTART:20210608T094200Z
 DTEND:20210608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 3rd Anniversary
-DESCRIPTION:Naruse Naru 3rd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 3rd Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -163,7 +163,7 @@ DTSTART:20220608T094200Z
 DTEND:20220608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 4th Anniversary
-DESCRIPTION:Naruse Naru 4th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 4th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -173,7 +173,7 @@ DTSTART:20230608T094200Z
 DTEND:20230608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 5th Anniversary
-DESCRIPTION:Naruse Naru 5th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 5th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -183,7 +183,7 @@ DTSTART:20240608T094200Z
 DTEND:20240608T094201Z
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru 6th Anniversary
-DESCRIPTION:Naruse Naru 6th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru 6th Anniversary\n\nFirst tweet: Jun 8, 2018, 18:42 (JST)\nFirst stream: Jun 9, 2018, 20:00 (JST)\n\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
@@ -193,17 +193,17 @@ DTSTART;VALUE=DATE:20240831
 DTEND;VALUE=DATE:20240901
 TRANSP:TRANSPARENT
 SUMMARY:Naruse Naru Graduation
-DESCRIPTION:Naruse Naru Graduation\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://twitter.com/narusenaru_2434\n\n
+DESCRIPTION:Naruse Naru Graduation\n\n==========\n【Naruse Naru】\nYouTube: https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg\nX: https://x.com/narusenaru_2434\n\n
 URL:https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

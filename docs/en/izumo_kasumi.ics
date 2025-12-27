@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:7a07f6f5-cb5d-48ce-bb56-55516a012018
@@ -23,7 +23,7 @@ DTEND;VALUE=DATE:20181014
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Izumo Kasumi Birthday
-DESCRIPTION:Izumo Kasumi Birthday\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+DESCRIPTION:Izumo Kasumi Birthday\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://x.com/ikasumi_zzz\n\n
 URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ DTSTART:20180603T035900Z
 DTEND:20180603T042900Z
 TRANSP:TRANSPARENT
 SUMMARY:Izumo Kasumi Debut
-DESCRIPTION:Izumo Kasumi Debut\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+DESCRIPTION:Izumo Kasumi Debut\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://x.com/ikasumi_zzz\n\n
 URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DTSTART:20180605T130000Z
 DTEND:20180605T133000Z
 TRANSP:TRANSPARENT
 SUMMARY:Izumo Kasumi Debut stream
-DESCRIPTION:Izumo Kasumi Debut stream\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+DESCRIPTION:Izumo Kasumi Debut stream\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://x.com/ikasumi_zzz\n\n
 URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTART:20190603T035900Z
 DTEND:20190603T035901Z
 TRANSP:TRANSPARENT
 SUMMARY:Izumo Kasumi 1st Anniversary
-DESCRIPTION:Izumo Kasumi 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 12:59 (JST)\nFirst stream: Jun 5, 2018, 22:00 (JST)\n\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+DESCRIPTION:Izumo Kasumi 1st Anniversary\n\nFirst tweet: Jun 3, 2018, 12:59 (JST)\nFirst stream: Jun 5, 2018, 22:00 (JST)\n\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://x.com/ikasumi_zzz\n\n
 URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DTSTART:20200603T035900Z
 DTEND:20200603T035901Z
 TRANSP:TRANSPARENT
 SUMMARY:Izumo Kasumi 2nd Anniversary
-DESCRIPTION:Izumo Kasumi 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 12:59 (JST)\nFirst stream: Jun 5, 2018, 22:00 (JST)\n\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+DESCRIPTION:Izumo Kasumi 2nd Anniversary\n\nFirst tweet: Jun 3, 2018, 12:59 (JST)\nFirst stream: Jun 5, 2018, 22:00 (JST)\n\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://x.com/ikasumi_zzz\n\n
 URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
 END:VEVENT
 BEGIN:VEVENT
@@ -73,17 +73,17 @@ DTSTART;VALUE=DATE:20201031
 DTEND;VALUE=DATE:20201101
 TRANSP:TRANSPARENT
 SUMMARY:Izumo Kasumi Graduation
-DESCRIPTION:Izumo Kasumi Graduation\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://twitter.com/ikasumi_zzz\n\n
+DESCRIPTION:Izumo Kasumi Graduation\n\n==========\n【Izumo Kasumi】\nYouTube: https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ\nX: https://x.com/ikasumi_zzz\n\n
 URL:https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

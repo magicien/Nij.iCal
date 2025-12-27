@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in よみうりランド にじさんじWEEK ~みんなで行こうにじさんじランド~
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ 4th Anniversary LIVE「FANTASIA」Day1
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmI=?pit_git_type=SERIES\n\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjU=?pit_git_type=SERIES\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:特設サイト\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmI=?pit_git_type=SERIES\n\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjU=?pit_git_type=SERIES\n\n==========\n【月ノ美兎】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【笹木咲】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://x.com/saku_sasaki\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n【夜見れな】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://x.com/rena_yorumi\n\n【戌亥とこ】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n
 URL:https://event.nijisanji.app/4thanniv_fantasia/
 END:VEVENT
 BEGIN:VEVENT
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2022
 LOCATION:幕張メッセ
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 1
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n司会：竜胆尊/剣持刀也\n出演：モイラ/鈴谷アキ/月ノ美兎/樋口楓/勇気ちひろ/家長むぎ/夕陽リリ/伏見ガク/剣持刀也/物述有栖/ギルザレンⅢ世/文野環/森中花咲/叶/赤羽葉子/卯月コウ/鈴木勝/ドーラ/轟京子/シスター・クレア/社築/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/でびでび・でびる/桜凛月/町田ちま/夢追翔/ベルモンド・バンデラス/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/アルス・アルマル/相羽ういは/天宮こころ/エリー・コニファー/早瀬走/健屋花那/星川サラ/ルイス・キャミー/魔使マオ/白雪巴/グウェル・オス・ガール/ましろ爻/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/周央サンゴ/東堂コハク/北小路ヒスイ/西園チグサ/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n司会：竜胆尊/剣持刀也\n出演：モイラ/鈴谷アキ/月ノ美兎/樋口楓/勇気ちひろ/家長むぎ/夕陽リリ/伏見ガク/剣持刀也/物述有栖/ギルザレンⅢ世/文野環/森中花咲/叶/赤羽葉子/卯月コウ/鈴木勝/ドーラ/轟京子/シスター・クレア/社築/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/でびでび・でびる/桜凛月/町田ちま/夢追翔/ベルモンド・バンデラス/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/アルス・アルマル/相羽ういは/天宮こころ/エリー・コニファー/早瀬走/健屋花那/星川サラ/ルイス・キャミー/魔使マオ/白雪巴/グウェル・オス・ガール/ましろ爻/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/周央サンゴ/東堂コハク/北小路ヒスイ/西園チグサ/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 2
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n司会：竜胆尊/剣持刀也\n出演：月ノ美兎/える/渋谷ハジメ/夕陽リリ/伏見ガク/剣持刀也/叶/赤羽葉子/卯月コウ/緑仙/鷹宮リオン/ドーラ/シスター・クレア/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/舞元啓介/竜胆尊/町田ちま/ジョー・力一/夢追翔/ベルモンド・バンデラス/小野町春香/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/相羽ういは/天宮こころ/ラトナ・プティ/健屋花那/フミ/星川サラ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/フレン・E・ルスタリオ/弦月藤士郎/甲斐田晴/西園チグサ/レオス・ヴィンセント/オリバー・エバンス\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n司会：竜胆尊/剣持刀也\n出演：月ノ美兎/える/渋谷ハジメ/夕陽リリ/伏見ガク/剣持刀也/叶/赤羽葉子/卯月コウ/緑仙/鷹宮リオン/ドーラ/シスター・クレア/花畑チャイカ/笹木咲/本間ひまわり/魔界ノりりむ/椎名唯華/神田笑一/舞元啓介/竜胆尊/町田ちま/ジョー・力一/夢追翔/ベルモンド・バンデラス/小野町春香/戌亥とこ/アンジュ・カトリーナ/リゼ・ヘルエスタ/三枝明那/愛園愛美/レヴィ・エリファ/葉山舞鈴/ニュイ・ソシエール/葉加瀬冬雪/加賀美ハヤト/夜見れな/相羽ういは/天宮こころ/ラトナ・プティ/健屋花那/フミ/星川サラ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/フレン・E・ルスタリオ/弦月藤士郎/甲斐田晴/西園チグサ/レオス・ヴィンセント/オリバー・エバンス\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +92,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじユニット歌謡祭2022 DAY 3
 LOCATION:各映画館（イオンシネマ）
-DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n司会：竜胆尊/剣持刀也\n出演：樋口楓/える/伏見ガク/森中花咲/叶/鈴木勝/緑仙/ドーラ/花畑チャイカ/笹木咲/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/竜胆尊/桜凛月/ジョー・力一/夢追翔/小野町春香/戌亥とこ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉加瀬冬雪/加賀美ハヤト/相羽ういは/天宮こころ/エリー・コニファー/ラトナ・プティ/早瀬走/健屋花那/フミ/星川サラ/山神カルタ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/奈羅花/来栖夏芽/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/レオス・ヴィンセント/オリバー・エバンス/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino視聴ページ\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n司会：竜胆尊/剣持刀也\n出演：樋口楓/える/伏見ガク/森中花咲/叶/鈴木勝/緑仙/ドーラ/花畑チャイカ/笹木咲/魔界ノりりむ/椎名唯華/神田笑一/鷹宮リオン/舞元啓介/竜胆尊/桜凛月/ジョー・力一/夢追翔/小野町春香/戌亥とこ/リゼ・ヘルエスタ/三枝明那/愛園愛美/雪城眞尋/レヴィ・エリファ/葉加瀬冬雪/加賀美ハヤト/相羽ういは/天宮こころ/エリー・コニファー/ラトナ・プティ/早瀬走/健屋花那/フミ/星川サラ/山神カルタ/ルイス・キャミー/不破湊/白雪巴/グウェル・オス・ガール/奈羅花/来栖夏芽/フレン・E・ルスタリオ/長尾景/弦月藤士郎/甲斐田晴/空星きらめ/朝日南アカネ/レオス・ヴィンセント/オリバー・エバンス/レイン・パターソン\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじフェス2023
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -115,7 +115,7 @@ DTEND;VALUE=DATE:20191123
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 誕生日
-DESCRIPTION:相羽ういは 誕生日\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 誕生日\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +125,7 @@ DTSTART:20190724T080000Z
 DTEND:20190724T083000Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 活動開始
-DESCRIPTION:相羽ういは 活動開始\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 活動開始\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ DTSTART:20190728T115900Z
 DTEND:20190728T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 初配信
-DESCRIPTION:相羽ういは 初配信\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 初配信\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -145,7 +145,7 @@ DTSTART:20200724T080000Z
 DTEND:20200724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 1周年
-DESCRIPTION:相羽ういは 1周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 1周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -155,7 +155,7 @@ DTSTART:20210724T080000Z
 DTEND:20210724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 2周年
-DESCRIPTION:相羽ういは 2周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 2周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -165,7 +165,7 @@ DTSTART:20220724T080000Z
 DTEND:20220724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 3周年
-DESCRIPTION:相羽ういは 3周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 3周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -175,7 +175,7 @@ DTSTART:20230724T080000Z
 DTEND:20230724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 4周年
-DESCRIPTION:相羽ういは 4周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 4周年\n\n初ツイート：2019/07/24 17:00 （日本時間）\n初配信：2019/07/28 20:59 （日本時間）\n\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -185,7 +185,7 @@ DTSTART;VALUE=DATE:20231231
 DTEND;VALUE=DATE:20240101
 TRANSP:TRANSPARENT
 SUMMARY:相羽ういは 卒業
-DESCRIPTION:相羽ういは 卒業\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:相羽ういは 卒業\n\n==========\n【相羽ういは】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 END:VCALENDAR

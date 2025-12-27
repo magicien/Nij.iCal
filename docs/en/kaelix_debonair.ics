@@ -6,14 +6,14 @@ X-WR-CALNAME:Kaelix Debonair
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:76b87b2f-7a7c-4c9c-9417-e4b4c7774cf7
-DTSTAMP:20250306T035749Z
+DTSTAMP:20251227T084503Z
 DTSTART:20250402T010000Z
 DTEND:20250629T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition
 LOCATION:Roppongi Museum
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Roppongi Museum":geo:35.659695,139.734002
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket pre-sale lottery (from Mar 28, 2025, 12:00 until Apr 6, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket general sale (first come, first served) (from Apr 19, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\nJune ticket pre-sale lottery (from May 3, 2025, 12:00 until May 11, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nJune ticket general sale (first come, first served) (from May 24, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\nOpening Hours\n- Weekdays: 10-18 (Last entry 17:30)\n- Weekends & Holidays: 10-20 (Last entry 19:30)\n\nHashtag: #にじフェス展\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B9%E5%B1%95\n\n==========\nTicket Info:\n\nApril ticket pre-sale lottery (from Mar 20, 2025, 12:00 until Mar 23, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nApril ticket general sale (first come, first served) (from Mar 31, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket pre-sale lottery (from Mar 28, 2025, 12:00 until Apr 6, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nMay ticket general sale (first come, first served) (from Apr 19, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\nJune ticket pre-sale lottery (from May 3, 2025, 12:00 until May 11, 2025, 23:59)\nhttps://eplus.jp/nijifes_ex/\n\nJune ticket general sale (first come, first served) (from May 24, 2025, 12:00)\nhttps://eplus.jp/nijifes_ex/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2025/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -23,7 +23,7 @@ DTSTART:20250320T030000Z
 DTEND:20250320T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ DTSTART:20250323T145900Z
 DTEND:20250323T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DTSTART:20250331T030000Z
 DTEND:20250331T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: April ticket general sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTART:20250328T030000Z
 DTEND:20250328T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DTSTART:20250406T145900Z
 DTEND:20250406T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -73,7 +73,7 @@ DTSTART:20250419T030000Z
 DTEND:20250419T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: May ticket general sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -83,7 +83,7 @@ DTSTART:20250503T030000Z
 DTEND:20250503T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: June ticket pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -93,7 +93,7 @@ DTSTART:20250511T145900Z
 DTEND:20250511T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: June ticket pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ DTSTART:20250524T030000Z
 DTEND:20250524T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes Exhibition: June ticket general sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijifes_ex/\n\nEvent:\nhttps://fes.nijisanji.jp/2025/nijifes_ex/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijifes_ex/
 END:VEVENT
 BEGIN:VEVENT
@@ -114,7 +114,7 @@ DTEND:20250922T140000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1
 LOCATION:Various movie theaters
-DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +124,7 @@ DTSTART:20250829T030000Z
 DTEND:20250829T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -134,7 +134,7 @@ DTSTART:20250907T145900Z
 DTEND:20250907T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -144,7 +144,7 @@ DTSTART:20250919T150000Z
 DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
-DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -154,7 +154,7 @@ DTEND:20250923T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2
 LOCATION:Various movie theaters
-DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\nTicket page\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\n\n\n==========\nTicket Info:\n\npre-sale lottery (from Aug 29, 2025, 12:00 until Sep 7, 2025, 23:59)\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\n\nTheater sales (first-come, first-served) (from Sep 20, 2025, 0:00)\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
@@ -164,7 +164,7 @@ DTSTART:20250829T030000Z
 DTEND:20250829T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -174,7 +174,7 @@ DTSTART:20250907T145900Z
 DTEND:20250907T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://l-tike.com/cinema/mevent/?mid=762309\n\nEvent:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://l-tike.com/cinema/mevent/?mid=762309
 END:VEVENT
 BEGIN:VEVENT
@@ -184,7 +184,7 @@ DTSTART:20250919T150000Z
 DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
-DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -195,19 +195,19 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes Exhibition in Taipei
 LOCATION:Taipei Music Center, Culture Hall, 2nd Floor Special Exhibition Hall
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Taipei Music Center, Culture Hall, 2nd Floor Special Exhibition Hall":geo:25.052639,121.598507
-DESCRIPTION:Special Site\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\nOpening Hours (Taipei Time)\n- January 2 (Fri) - January 11 (Sun) 10:30-21:00\n- January 12 (Mon) - January 26 (Mon) 10:30-20:30\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://capsuleleu.kktix.cc/events/nijifesexintaipei\n\nOpening Hours (Taipei Time)\n- January 2 (Fri) - January 11 (Sun) 10:30-21:00\n- January 12 (Mon) - January 26 (Mon) 10:30-20:30\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://capsuleleu.kktix.cc/events/nijifesexintaipei
 END:VEVENT
 BEGIN:VEVENT
 UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
-DTSTAMP:20251130T144135Z
+DTSTAMP:20251227T082716Z
 DTSTART:20260516T010000Z
 DTEND:20260516T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2026 Day 1
 LOCATION:Makuhari Messe Exhibition Halls 1-8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\nTicket Info:\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEntry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEntry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEntry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\nTicket Info:\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEntry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEntry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEntry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -217,7 +217,7 @@ DTSTART:20260113T110000Z
 DTEND:20260113T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -227,7 +227,7 @@ DTSTART:20260121T145900Z
 DTEND:20260121T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -237,7 +237,7 @@ DTSTART:20260214T030000Z
 DTEND:20260214T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/room/
 END:VEVENT
 BEGIN:VEVENT
@@ -247,7 +247,7 @@ DTSTART:20260204T090000Z
 DTEND:20260204T093000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -257,7 +257,7 @@ DTSTART:20260215T145900Z
 DTEND:20260215T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -267,7 +267,7 @@ DTSTART:20260304T030000Z
 DTEND:20260304T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -277,7 +277,7 @@ DTSTART:20260310T145900Z
 DTEND:20260310T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -287,7 +287,7 @@ DTSTART:20260328T010000Z
 DTEND:20260328T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/hero/
 END:VEVENT
 BEGIN:VEVENT
@@ -297,7 +297,7 @@ DTSTART:20260204T090000Z
 DTEND:20260204T093000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -307,7 +307,7 @@ DTSTART:20260215T145900Z
 DTEND:20260215T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
 END:VEVENT
 BEGIN:VEVENT
@@ -317,7 +317,7 @@ DTSTART:20260304T030000Z
 DTEND:20260304T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): e+ pre-sale lottery starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -327,7 +327,7 @@ DTSTART:20260310T145900Z
 DTEND:20260310T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): e+ pre-sale lottery ends
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
 END:VEVENT
 BEGIN:VEVENT
@@ -337,19 +337,19 @@ DTSTART:20260328T010000Z
 DTEND:20260328T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): General sale (first come, first served) starts
-DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://eplus.jp/nijisanji-fes2026/entry/
 END:VEVENT
 BEGIN:VEVENT
 UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
-DTSTAMP:20251130T144137Z
+DTSTAMP:20251227T082730Z
 DTSTART:20260517T010000Z
 DTEND:20260517T090000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2026 Day 2
 LOCATION:Makuhari Messe Exhibition Halls 1-8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nHashtag：#にじフェス2026\nhttps://x.com/hashtag/にじフェス2026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -360,7 +360,7 @@ DTEND;VALUE=DATE:20251106
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair Birthday
-DESCRIPTION:Kaelix Debonair Birthday\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair Birthday\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -370,7 +370,7 @@ DTSTART:20250312T230300Z
 DTEND:20250312T233300Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair Debut
-DESCRIPTION:Kaelix Debonair Debut\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair Debut\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -380,7 +380,7 @@ DTSTART:20250315T024000Z
 DTEND:20250315T031000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair Debut stream
-DESCRIPTION:Kaelix Debonair Debut stream\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair Debut stream\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -390,7 +390,7 @@ DTSTART:20260312T230300Z
 DTEND:20260312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 1st Anniversary
-DESCRIPTION:Kaelix Debonair 1st Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 1st Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -400,7 +400,7 @@ DTSTART:20270312T230300Z
 DTEND:20270312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 2nd Anniversary
-DESCRIPTION:Kaelix Debonair 2nd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 2nd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -410,7 +410,7 @@ DTSTART:20280312T230300Z
 DTEND:20280312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 3rd Anniversary
-DESCRIPTION:Kaelix Debonair 3rd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 3rd Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -420,7 +420,7 @@ DTSTART:20290312T230300Z
 DTEND:20290312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 4th Anniversary
-DESCRIPTION:Kaelix Debonair 4th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 4th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -430,7 +430,7 @@ DTSTART:20300312T230300Z
 DTEND:20300312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 5th Anniversary
-DESCRIPTION:Kaelix Debonair 5th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 5th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -440,7 +440,7 @@ DTSTART:20310312T230300Z
 DTEND:20310312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 6th Anniversary
-DESCRIPTION:Kaelix Debonair 6th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 6th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -450,7 +450,7 @@ DTSTART:20320312T230300Z
 DTEND:20320312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 7th Anniversary
-DESCRIPTION:Kaelix Debonair 7th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 7th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -460,7 +460,7 @@ DTSTART:20330312T230300Z
 DTEND:20330312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 8th Anniversary
-DESCRIPTION:Kaelix Debonair 8th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 8th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -470,7 +470,7 @@ DTSTART:20340312T230300Z
 DTEND:20340312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 9th Anniversary
-DESCRIPTION:Kaelix Debonair 9th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 9th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 BEGIN:VEVENT
@@ -480,7 +480,7 @@ DTSTART:20350312T230300Z
 DTEND:20350312T230301Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaelix Debonair 10th Anniversary
-DESCRIPTION:Kaelix Debonair 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://twitter.com/KaelixDebonair\n\n
+DESCRIPTION:Kaelix Debonair 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:03 (JST)\nFirst stream: Mar 15, 2025, 11:40 (JST)\n\n\n==========\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
 URL:https://www.youtube.com/@KaelixDebonair
 END:VEVENT
 END:VCALENDAR

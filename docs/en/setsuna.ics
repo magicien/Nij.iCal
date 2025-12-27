@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:c57415fd-77bf-43e5-9023-bf0532012018
@@ -23,7 +23,7 @@ DTEND;VALUE=DATE:20181224
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Setsuna Birthday
-DESCRIPTION:Setsuna Birthday\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:Setsuna Birthday\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ DTSTART:20180730T120600Z
 DTEND:20180730T123600Z
 TRANSP:TRANSPARENT
 SUMMARY:Setsuna Debut
-DESCRIPTION:Setsuna Debut\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:Setsuna Debut\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DTSTART:20180830T050000Z
 DTEND:20180830T053000Z
 TRANSP:TRANSPARENT
 SUMMARY:Setsuna Debut stream
-DESCRIPTION:Setsuna Debut stream\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:Setsuna Debut stream\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTART:20190730T120600Z
 DTEND:20190730T120601Z
 TRANSP:TRANSPARENT
 SUMMARY:Setsuna 1st Anniversary
-DESCRIPTION:Setsuna 1st Anniversary\n\nFirst tweet: Jul 30, 2018, 21:06 (JST)\nFirst stream: Aug 30, 2018, 14:00 (JST)\n\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:Setsuna 1st Anniversary\n\nFirst tweet: Jul 30, 2018, 21:06 (JST)\nFirst stream: Aug 30, 2018, 14:00 (JST)\n\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
@@ -63,17 +63,17 @@ DTSTART;VALUE=DATE:20191030
 DTEND;VALUE=DATE:20191031
 TRANSP:TRANSPARENT
 SUMMARY:Setsuna Graduation
-DESCRIPTION:Setsuna Graduation\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://twitter.com/setsuna2434\n\n
+DESCRIPTION:Setsuna Graduation\n\n==========\n【Setsuna】\nYouTube: https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g\nX: https://x.com/setsuna2434\n\n
 URL:https://www.youtube.com/channel/UCfM_A7lE6LkGrzx6_mOtI4g
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji 4th Anniversary LIVE "FANTASIA" Day1
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:Special Site\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmI=?pit_git_type=SERIES\n\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjU=?pit_git_type=SERIES\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://twitter.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://twitter.com/Higuchikaede\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://twitter.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://twitter.com/yuika_siina\n\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n【Yorumi Rena】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://twitter.com/rena_yorumi\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://twitter.com/inui_toko\n\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://twitter.com/Tomoe_Shirayuki\n\n
+DESCRIPTION:Special Site\nhttps://event.nijisanji.app/4thanniv_fantasia/\n\nLemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDMzNmI=?pit_git_type=SERIES\n\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDM1YjU=?pit_git_type=SERIES\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Sasaki Saku】\nYouTube: https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA\nX: https://x.com/saku_sasaki\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n【Yorumi Rena】\nYouTube: https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nX: https://x.com/rena_yorumi\n\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n
 URL:https://event.nijisanji.app/4thanniv_fantasia/
 END:VEVENT
 BEGIN:VEVENT
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +92,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2023
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -115,7 +115,7 @@ DTEND;VALUE=DATE:20191123
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha Birthday
-DESCRIPTION:Aiba Uiha Birthday\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha Birthday\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +125,7 @@ DTSTART:20190724T080000Z
 DTEND:20190724T083000Z
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha Debut
-DESCRIPTION:Aiba Uiha Debut\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha Debut\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ DTSTART:20190728T115900Z
 DTEND:20190728T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha Debut stream
-DESCRIPTION:Aiba Uiha Debut stream\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha Debut stream\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -145,7 +145,7 @@ DTSTART:20200724T080000Z
 DTEND:20200724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha 1st Anniversary
-DESCRIPTION:Aiba Uiha 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha 1st Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -155,7 +155,7 @@ DTSTART:20210724T080000Z
 DTEND:20210724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha 2nd Anniversary
-DESCRIPTION:Aiba Uiha 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha 2nd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -165,7 +165,7 @@ DTSTART:20220724T080000Z
 DTEND:20220724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha 3rd Anniversary
-DESCRIPTION:Aiba Uiha 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha 3rd Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -175,7 +175,7 @@ DTSTART:20230724T080000Z
 DTEND:20230724T080001Z
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha 4th Anniversary
-DESCRIPTION:Aiba Uiha 4th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha 4th Anniversary\n\nFirst tweet: Jul 24, 2019, 17:00 (JST)\nFirst stream: Jul 28, 2019, 20:59 (JST)\n\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 BEGIN:VEVENT
@@ -185,7 +185,7 @@ DTSTART;VALUE=DATE:20231231
 DTEND;VALUE=DATE:20240101
 TRANSP:TRANSPARENT
 SUMMARY:Aiba Uiha Graduation
-DESCRIPTION:Aiba Uiha Graduation\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://twitter.com/AibaUiha\n\n
+DESCRIPTION:Aiba Uiha Graduation\n\n==========\n【Aiba Uiha】\nYouTube: https://www.youtube.com/@AibaUiha\nX: https://x.com/AibaUiha\n\n
 URL:https://www.youtube.com/@AibaUiha
 END:VEVENT
 END:VCALENDAR

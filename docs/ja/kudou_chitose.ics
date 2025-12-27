@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20190305
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:久遠千歳 誕生日
-DESCRIPTION:久遠千歳 誕生日\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:久遠千歳 誕生日\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20190108T070300Z
 DTEND:20190108T073300Z
 TRANSP:TRANSPARENT
 SUMMARY:久遠千歳 活動開始
-DESCRIPTION:久遠千歳 活動開始\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:久遠千歳 活動開始\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20190110T130000Z
 DTEND:20190110T133000Z
 TRANSP:TRANSPARENT
 SUMMARY:久遠千歳 初配信
-DESCRIPTION:久遠千歳 初配信\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:久遠千歳 初配信\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
@@ -42,17 +42,17 @@ DTSTART;VALUE=DATE:20190831
 DTEND;VALUE=DATE:20190901
 TRANSP:TRANSPARENT
 SUMMARY:久遠千歳 卒業
-DESCRIPTION:久遠千歳 卒業\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://twitter.com/kudou_chitose\n\n
+DESCRIPTION:久遠千歳 卒業\n\n==========\n【久遠千歳】\nYouTube: https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg\nX: https://x.com/kudou_chitose\n\n
 URL:https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

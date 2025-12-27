@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20201227
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:イ シウ 誕生日
-DESCRIPTION:イ シウ 誕生日\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:イ シウ 誕生日\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200520T062000Z
 DTEND:20200520T065000Z
 TRANSP:TRANSPARENT
 SUMMARY:イ シウ 活動開始
-DESCRIPTION:イ シウ 活動開始\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:イ シウ 活動開始\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200522T105700Z
 DTEND:20200522T112700Z
 TRANSP:TRANSPARENT
 SUMMARY:イ シウ 初配信
-DESCRIPTION:イ シウ 初配信\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:イ シウ 初配信\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210520T062000Z
 DTEND:20210520T062001Z
 TRANSP:TRANSPARENT
 SUMMARY:イ シウ 1周年
-DESCRIPTION:イ シウ 1周年\n\n初ツイート：2020/05/20 15:20 （日本時間）\n初配信：2020/05/22 19:57 （日本時間）\n\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:イ シウ 1周年\n\n初ツイート：2020/05/20 15:20 （日本時間）\n初配信：2020/05/22 19:57 （日本時間）\n\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20220320
 DTEND;VALUE=DATE:20220321
 TRANSP:TRANSPARENT
 SUMMARY:イ シウ 卒業
-DESCRIPTION:イ シウ 卒業\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://twitter.com/SiuLee2434\n\n
+DESCRIPTION:イ シウ 卒業\n\n==========\n【イ シウ】\nYouTube: https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q\nX: https://x.com/SiuLee2434\n\n
 URL:https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q
 END:VEVENT
 END:VCALENDAR

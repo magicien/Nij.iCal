@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20200708
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:シン ユヤ 誕生日
-DESCRIPTION:シン ユヤ 誕生日\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://twitter.com/YuyaShin2434\n\n
+DESCRIPTION:シン ユヤ 誕生日\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://x.com/YuyaShin2434\n\n
 URL:https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200123T050000Z
 DTEND:20200123T053000Z
 TRANSP:TRANSPARENT
 SUMMARY:シン ユヤ 活動開始
-DESCRIPTION:シン ユヤ 活動開始\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://twitter.com/YuyaShin2434\n\n
+DESCRIPTION:シン ユヤ 活動開始\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://x.com/YuyaShin2434\n\n
 URL:https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200125T120000Z
 DTEND:20200125T123000Z
 TRANSP:TRANSPARENT
 SUMMARY:シン ユヤ 初配信
-DESCRIPTION:シン ユヤ 初配信\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://twitter.com/YuyaShin2434\n\n
+DESCRIPTION:シン ユヤ 初配信\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://x.com/YuyaShin2434\n\n
 URL:https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210123T050000Z
 DTEND:20210123T050001Z
 TRANSP:TRANSPARENT
 SUMMARY:シン ユヤ 1周年
-DESCRIPTION:シン ユヤ 1周年\n\n初ツイート：2020/01/23 14:00 （日本時間）\n初配信：2020/01/25 21:00 （日本時間）\n\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://twitter.com/YuyaShin2434\n\n
+DESCRIPTION:シン ユヤ 1周年\n\n初ツイート：2020/01/23 14:00 （日本時間）\n初配信：2020/01/25 21:00 （日本時間）\n\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://x.com/YuyaShin2434\n\n
 URL:https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20210616
 DTEND;VALUE=DATE:20210617
 TRANSP:TRANSPARENT
 SUMMARY:シン ユヤ 卒業
-DESCRIPTION:シン ユヤ 卒業\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://twitter.com/YuyaShin2434\n\n
+DESCRIPTION:シン ユヤ 卒業\n\n==========\n【シン ユヤ】\nYouTube: https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A\nX: https://x.com/YuyaShin2434\n\n
 URL:https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A
 END:VEVENT
 END:VCALENDAR

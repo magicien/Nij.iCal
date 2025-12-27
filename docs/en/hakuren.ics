@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20200717
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Hakuren Birthday
-DESCRIPTION:Hakuren Birthday\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://twitter.com/VtuberHakuRen\n\n
+DESCRIPTION:Hakuren Birthday\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://x.com/VtuberHakuRen\n\n
 URL:https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20200125T133300Z
 DTEND:20200125T140300Z
 TRANSP:TRANSPARENT
 SUMMARY:Hakuren Debut
-DESCRIPTION:Hakuren Debut\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://twitter.com/VtuberHakuRen\n\n
+DESCRIPTION:Hakuren Debut\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://x.com/VtuberHakuRen\n\n
 URL:https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20200127T130000Z
 DTEND:20200127T133000Z
 TRANSP:TRANSPARENT
 SUMMARY:Hakuren Debut stream
-DESCRIPTION:Hakuren Debut stream\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://twitter.com/VtuberHakuRen\n\n
+DESCRIPTION:Hakuren Debut stream\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://x.com/VtuberHakuRen\n\n
 URL:https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20200717
 DTEND;VALUE=DATE:20200718
 TRANSP:TRANSPARENT
 SUMMARY:Hakuren Graduation
-DESCRIPTION:Hakuren Graduation\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://twitter.com/VtuberHakuRen\n\n
+DESCRIPTION:Hakuren Graduation\n\n==========\n【Hakuren】\nYouTube: https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ\nX: https://x.com/VtuberHakuRen\n\n
 URL:https://www.youtube.com/channel/UC6WU2SrnG019ucm_bdY6qxQ
 END:VEVENT
 END:VCALENDAR

@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:a907d697-d970-49f7-858d-abeaeb5cf8bc
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Land VOL.1 in Yomiuriland
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Anniversary Festival 2021
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +80,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +91,7 @@ DTEND;VALUE=DATE:20200315
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman Birthday
-DESCRIPTION:Taka Radjiman Birthday\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman Birthday\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://x.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
@@ -101,7 +101,7 @@ DTSTART:20190913T065800Z
 DTEND:20190913T072800Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman Debut
-DESCRIPTION:Taka Radjiman Debut\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman Debut\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://x.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DTSTART:20190915T141000Z
 DTEND:20190915T144000Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman Debut stream
-DESCRIPTION:Taka Radjiman Debut stream\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman Debut stream\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://x.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
@@ -121,7 +121,7 @@ DTSTART:20200913T065800Z
 DTEND:20200913T065801Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman 1st Anniversary
-DESCRIPTION:Taka Radjiman 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman 1st Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://x.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +131,7 @@ DTSTART:20210913T065800Z
 DTEND:20210913T065801Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman 2nd Anniversary
-DESCRIPTION:Taka Radjiman 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman 2nd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://x.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
@@ -141,7 +141,7 @@ DTSTART:20220913T065800Z
 DTEND:20220913T065801Z
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman 3rd Anniversary
-DESCRIPTION:Taka Radjiman 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman 3rd Anniversary\n\nFirst tweet: Sep 13, 2019, 15:58 (JST)\nFirst stream: Sep 15, 2019, 23:10 (JST)\n\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://x.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 BEGIN:VEVENT
@@ -151,7 +151,7 @@ DTSTART;VALUE=DATE:20230528
 DTEND;VALUE=DATE:20230529
 TRANSP:TRANSPARENT
 SUMMARY:Taka Radjiman Graduation
-DESCRIPTION:Taka Radjiman Graduation\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://twitter.com/Taka_Radjiman\n\n
+DESCRIPTION:Taka Radjiman Graduation\n\n==========\n【Taka Radjiman】\nYouTube: https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg\nX: https://x.com/Taka_Radjiman\n\n
 URL:https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg
 END:VEVENT
 END:VCALENDAR

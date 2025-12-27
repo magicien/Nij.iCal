@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじランドVOL.1 in よみうりランド
 LOCATION:よみうりランド
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="よみうりランド":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0d0cec-4528-427d-9125-67c0474e89e2
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Anniversary Festival 2021
 LOCATION:東京ビッグサイト
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京ビッグサイト":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://anniversaryfes.nijisanji.jp
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND;VALUE=DATE:20201101
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:アディア 誕生日
-DESCRIPTION:アディア 誕生日\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+DESCRIPTION:アディア 誕生日\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://x.com/Aadya_VTuber\n\n
 URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTART:20200123T092900Z
 DTEND:20200123T095900Z
 TRANSP:TRANSPARENT
 SUMMARY:アディア 活動開始
-DESCRIPTION:アディア 活動開始\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+DESCRIPTION:アディア 活動開始\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://x.com/Aadya_VTuber\n\n
 URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ DTSTART:20200125T143000Z
 DTEND:20200125T150000Z
 TRANSP:TRANSPARENT
 SUMMARY:アディア 初配信
-DESCRIPTION:アディア 初配信\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+DESCRIPTION:アディア 初配信\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://x.com/Aadya_VTuber\n\n
 URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +65,7 @@ DTSTART:20210123T092900Z
 DTEND:20210123T092901Z
 TRANSP:TRANSPARENT
 SUMMARY:アディア 1周年
-DESCRIPTION:アディア 1周年\n\n初ツイート：2020/01/23 18:29 （日本時間）\n初配信：2020/01/25 23:30 （日本時間）\n\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+DESCRIPTION:アディア 1周年\n\n初ツイート：2020/01/23 18:29 （日本時間）\n初配信：2020/01/25 23:30 （日本時間）\n\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://x.com/Aadya_VTuber\n\n
 URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20210430
 DTEND;VALUE=DATE:20210501
 TRANSP:TRANSPARENT
 SUMMARY:アディア 卒業
-DESCRIPTION:アディア 卒業\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://twitter.com/Aadya_VTuber\n\n
+DESCRIPTION:アディア 卒業\n\n==========\n【アディア】\nYouTube: https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ\nX: https://x.com/Aadya_VTuber\n\n
 URL:https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ
 END:VEVENT
 END:VCALENDAR

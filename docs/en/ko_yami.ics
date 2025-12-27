@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20220304
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Ko Yami Birthday
-DESCRIPTION:Ko Yami Birthday\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://twitter.com/KoYami2434\n\n
+DESCRIPTION:Ko Yami Birthday\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://x.com/KoYami2434\n\n
 URL:https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20210825T113300Z
 DTEND:20210825T120300Z
 TRANSP:TRANSPARENT
 SUMMARY:Ko Yami Debut
-DESCRIPTION:Ko Yami Debut\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://twitter.com/KoYami2434\n\n
+DESCRIPTION:Ko Yami Debut\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://x.com/KoYami2434\n\n
 URL:https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20210901T105900Z
 DTEND:20210901T112900Z
 TRANSP:TRANSPARENT
 SUMMARY:Ko Yami Debut stream
-DESCRIPTION:Ko Yami Debut stream\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://twitter.com/KoYami2434\n\n
+DESCRIPTION:Ko Yami Debut stream\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://x.com/KoYami2434\n\n
 URL:https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20220220
 DTEND;VALUE=DATE:20220221
 TRANSP:TRANSPARENT
 SUMMARY:Ko Yami Graduation
-DESCRIPTION:Ko Yami Graduation\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://twitter.com/KoYami2434\n\n
+DESCRIPTION:Ko Yami Graduation\n\n==========\n【Ko Yami】\nYouTube: https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg\nX: https://x.com/KoYami2434\n\n
 URL:https://www.youtube.com/channel/UC9oudjCTHL2BfwxfDwI18eg
 END:VEVENT
 END:VCALENDAR

@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:VtuberLand 2019 in Yomiuriland - Nijisanji WEEK
 LOCATION:Yomiuriland
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yomiuriland":geo:35.626021,139.518117
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:da044c51-5ba0-443b-bf9a-5d3140012019
@@ -23,7 +23,7 @@ DTEND;VALUE=DATE:20190816
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Tsukimi Shizuku Birthday
-DESCRIPTION:Tsukimi Shizuku Birthday\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:Tsukimi Shizuku Birthday\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ DTSTART:20180831T092300Z
 DTEND:20180831T095300Z
 TRANSP:TRANSPARENT
 SUMMARY:Tsukimi Shizuku Debut
-DESCRIPTION:Tsukimi Shizuku Debut\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:Tsukimi Shizuku Debut\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ DTSTART:20180908T130000Z
 DTEND:20180908T133000Z
 TRANSP:TRANSPARENT
 SUMMARY:Tsukimi Shizuku Debut stream
-DESCRIPTION:Tsukimi Shizuku Debut stream\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:Tsukimi Shizuku Debut stream\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTART:20190831T092300Z
 DTEND:20190831T092301Z
 TRANSP:TRANSPARENT
 SUMMARY:Tsukimi Shizuku 1st Anniversary
-DESCRIPTION:Tsukimi Shizuku 1st Anniversary\n\nFirst tweet: Aug 31, 2018, 18:23 (JST)\nFirst stream: Sep 8, 2018, 22:00 (JST)\n\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:Tsukimi Shizuku 1st Anniversary\n\nFirst tweet: Aug 31, 2018, 18:23 (JST)\nFirst stream: Sep 8, 2018, 22:00 (JST)\n\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
@@ -63,17 +63,17 @@ DTSTART;VALUE=DATE:20200113
 DTEND;VALUE=DATE:20200114
 TRANSP:TRANSPARENT
 SUMMARY:Tsukimi Shizuku Graduation
-DESCRIPTION:Tsukimi Shizuku Graduation\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://twitter.com/tukimi_sizuku\n\n
+DESCRIPTION:Tsukimi Shizuku Graduation\n\n==========\n【Tsukimi Shizuku】\nYouTube: https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q\nX: https://x.com/tukimi_sizuku\n\n
 URL:https://www.youtube.com/channel/UCqQV8xEBWd5SVZBLlYrS_5Q
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

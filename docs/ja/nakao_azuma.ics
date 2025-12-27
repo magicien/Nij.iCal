@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20180823
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:名伽尾アズマ 誕生日
-DESCRIPTION:名伽尾アズマ 誕生日\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://twitter.com/azuma_dazo\n\n
+DESCRIPTION:名伽尾アズマ 誕生日\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://x.com/azuma_dazo\n\n
 URL:https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20180603T034600Z
 DTEND:20180603T041600Z
 TRANSP:TRANSPARENT
 SUMMARY:名伽尾アズマ 活動開始
-DESCRIPTION:名伽尾アズマ 活動開始\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://twitter.com/azuma_dazo\n\n
+DESCRIPTION:名伽尾アズマ 活動開始\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://x.com/azuma_dazo\n\n
 URL:https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20180605T120000Z
 DTEND:20180605T123000Z
 TRANSP:TRANSPARENT
 SUMMARY:名伽尾アズマ 初配信
-DESCRIPTION:名伽尾アズマ 初配信\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://twitter.com/azuma_dazo\n\n
+DESCRIPTION:名伽尾アズマ 初配信\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://x.com/azuma_dazo\n\n
 URL:https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A
 END:VEVENT
 BEGIN:VEVENT
@@ -42,17 +42,17 @@ DTSTART;VALUE=DATE:20190531
 DTEND;VALUE=DATE:20190601
 TRANSP:TRANSPARENT
 SUMMARY:名伽尾アズマ 卒業
-DESCRIPTION:名伽尾アズマ 卒業\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://twitter.com/azuma_dazo\n\n
+DESCRIPTION:名伽尾アズマ 卒業\n\n==========\n【名伽尾アズマ】\nYouTube: https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A\nX: https://x.com/azuma_dazo\n\n
 URL:https://www.youtube.com/channel/UCks41vQN-hN-1KHmpZyPY3A
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじの日
-DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:にじさんじの日\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR

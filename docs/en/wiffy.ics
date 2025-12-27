@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20201112
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Wiffy Birthday
-DESCRIPTION:Wiffy Birthday\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://twitter.com/Wiffy2434\n\n
+DESCRIPTION:Wiffy Birthday\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://x.com/Wiffy2434\n\n
 URL:https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20200123T054200Z
 DTEND:20200123T061200Z
 TRANSP:TRANSPARENT
 SUMMARY:Wiffy Debut
-DESCRIPTION:Wiffy Debut\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://twitter.com/Wiffy2434\n\n
+DESCRIPTION:Wiffy Debut\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://x.com/Wiffy2434\n\n
 URL:https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20200125T123000Z
 DTEND:20200125T130000Z
 TRANSP:TRANSPARENT
 SUMMARY:Wiffy Debut stream
-DESCRIPTION:Wiffy Debut stream\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://twitter.com/Wiffy2434\n\n
+DESCRIPTION:Wiffy Debut stream\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://x.com/Wiffy2434\n\n
 URL:https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20201115
 DTEND;VALUE=DATE:20201116
 TRANSP:TRANSPARENT
 SUMMARY:Wiffy Graduation
-DESCRIPTION:Wiffy Graduation\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://twitter.com/Wiffy2434\n\n
+DESCRIPTION:Wiffy Graduation\n\n==========\n【Wiffy】\nYouTube: https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w\nX: https://x.com/Wiffy2434\n\n
 URL:https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w
 END:VEVENT
 END:VCALENDAR

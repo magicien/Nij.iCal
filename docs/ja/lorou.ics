@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20201207
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:ローロー 誕生日
-DESCRIPTION:ローロー 誕生日\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:ローロー 誕生日\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20200125T133500Z
 DTEND:20200125T140500Z
 TRANSP:TRANSPARENT
 SUMMARY:ローロー 活動開始
-DESCRIPTION:ローロー 活動開始\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:ローロー 活動開始\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20200125T150000Z
 DTEND:20200125T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:ローロー 初配信
-DESCRIPTION:ローロー 初配信\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:ローロー 初配信\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20200717
 DTEND;VALUE=DATE:20200718
 TRANSP:TRANSPARENT
 SUMMARY:ローロー 卒業
-DESCRIPTION:ローロー 卒業\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://twitter.com/LOROU_beats\n\n
+DESCRIPTION:ローロー 卒業\n\n==========\n【ローロー】\nYouTube: https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg\nX: https://x.com/LOROU_beats\n\n
 URL:https://www.youtube.com/channel/UCLSzgV37Dt24T8p3-TNiSLg
 END:VEVENT
 END:VCALENDAR

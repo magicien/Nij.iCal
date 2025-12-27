@@ -13,7 +13,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Festival 2022
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND:20221229T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 1
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI0c3Y%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND:20221230T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 2
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemI1aHE%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ DTEND:20221231T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:NIJISANJI UNIT MUSIC FESTIVAL DAY 3
 LOCATION:Various movie theaters (AEON Cinema)
-DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Lemino viewing page\nhttps://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbTlhemF5ejk%3D\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://event.nijisanji.app/numf2022/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2023
 LOCATION:TOKYO BIG SIGHT
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="TOKYO BIG SIGHT":geo:35.627995,139.781022
-DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2023/
 END:VEVENT
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DTEND;VALUE=DATE:20221230
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Kyo Kaneko Birthday
-DESCRIPTION:Kyo Kaneko Birthday\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+DESCRIPTION:Kyo Kaneko Birthday\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://x.com/KyoKanek0\n\n
 URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
@@ -79,7 +79,7 @@ DTSTART:20220720T000000Z
 DTEND:20220720T003000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kyo Kaneko Debut
-DESCRIPTION:Kyo Kaneko Debut\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+DESCRIPTION:Kyo Kaneko Debut\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://x.com/KyoKanek0\n\n
 URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +89,7 @@ DTSTART:20220725T004000Z
 DTEND:20220725T011000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kyo Kaneko Debut stream
-DESCRIPTION:Kyo Kaneko Debut stream\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+DESCRIPTION:Kyo Kaneko Debut stream\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://x.com/KyoKanek0\n\n
 URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DTSTART:20230720T000000Z
 DTEND:20230720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kyo Kaneko 1st Anniversary
-DESCRIPTION:Kyo Kaneko 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 9:40 (JST)\n\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+DESCRIPTION:Kyo Kaneko 1st Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 9:40 (JST)\n\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://x.com/KyoKanek0\n\n
 URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +109,7 @@ DTSTART;VALUE=DATE:20240217
 DTEND;VALUE=DATE:20240218
 TRANSP:TRANSPARENT
 SUMMARY:Kyo Kaneko Graduation
-DESCRIPTION:Kyo Kaneko Graduation\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://twitter.com/KyoKanek0\n\n
+DESCRIPTION:Kyo Kaneko Graduation\n\n==========\n【Kyo Kaneko】\nYouTube: https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw\nX: https://x.com/KyoKanek0\n\n
 URL:https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw
 END:VEVENT
 END:VCALENDAR

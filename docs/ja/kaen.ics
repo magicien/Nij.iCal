@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20200903
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:カエン 誕生日
-DESCRIPTION:カエン 誕生日\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:カエン 誕生日\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20200125T151800Z
 DTEND:20200125T154800Z
 TRANSP:TRANSPARENT
 SUMMARY:カエン 活動開始
-DESCRIPTION:カエン 活動開始\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:カエン 活動開始\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20200129T060000Z
 DTEND:20200129T063000Z
 TRANSP:TRANSPARENT
 SUMMARY:カエン 初配信
-DESCRIPTION:カエン 初配信\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:カエン 初配信\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DTSTART;VALUE=DATE:20200717
 DTEND;VALUE=DATE:20200718
 TRANSP:TRANSPARENT
 SUMMARY:カエン 卒業
-DESCRIPTION:カエン 卒業\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://twitter.com/KaenVtuber\n\n
+DESCRIPTION:カエン 卒業\n\n==========\n【カエン】\nYouTube: https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q\nX: https://x.com/KaenVtuber\n\n
 URL:https://www.youtube.com/channel/UCZgRRTDMYwHpQ7sCl0aCp2Q
 END:VEVENT
 END:VCALENDAR

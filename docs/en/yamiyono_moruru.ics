@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20180712
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Yamiyono Moruru Birthday
-DESCRIPTION:Yamiyono Moruru Birthday\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://twitter.com/_rnrrdark\n\n
+DESCRIPTION:Yamiyono Moruru Birthday\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://x.com/_rnrrdark\n\n
 URL:https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ DTSTART:20180706T134500Z
 DTEND:20180706T141500Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamiyono Moruru Debut
-DESCRIPTION:Yamiyono Moruru Debut\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://twitter.com/_rnrrdark\n\n
+DESCRIPTION:Yamiyono Moruru Debut\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://x.com/_rnrrdark\n\n
 URL:https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ DTSTART:20180711T160000Z
 DTEND:20180711T163000Z
 TRANSP:TRANSPARENT
 SUMMARY:Yamiyono Moruru Debut stream
-DESCRIPTION:Yamiyono Moruru Debut stream\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://twitter.com/_rnrrdark\n\n
+DESCRIPTION:Yamiyono Moruru Debut stream\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://x.com/_rnrrdark\n\n
 URL:https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ
 END:VEVENT
 BEGIN:VEVENT
@@ -42,17 +42,17 @@ DTSTART;VALUE=DATE:20190627
 DTEND;VALUE=DATE:20190628
 TRANSP:TRANSPARENT
 SUMMARY:Yamiyono Moruru Graduation
-DESCRIPTION:Yamiyono Moruru Graduation\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://twitter.com/_rnrrdark\n\n
+DESCRIPTION:Yamiyono Moruru Graduation\n\n==========\n【Yamiyono Moruru】\nYouTube: https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ\nX: https://x.com/_rnrrdark\n\n
 URL:https://www.youtube.com/channel/UCNUgrFCo2Hr_VXc9bEwjcHQ
 END:VEVENT
 BEGIN:VEVENT
 UID:26e363dd-f62f-4586-967c-e47469012019
-DTSTAMP:20250315T132108Z
+DTSTAMP:20251227T142432Z
 DTSTART;VALUE=DATE:20190203
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Day
-DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://twitter.com/nijisanji_app\n\n
+DESCRIPTION:Nijisanji Day\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg
 END:VEVENT
 END:VCALENDAR
