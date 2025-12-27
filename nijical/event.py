@@ -1,6 +1,7 @@
 import arrow
 from dataclasses import dataclass, field
 from enum import Enum
+from urllib.parse import quote
 from .talent import Talent
 from .ticket import Ticket
 
@@ -37,6 +38,7 @@ class Event:
     description: str
     eng_description: str
     url: str | None
+    hashtag: str | None = None
     talents: list[Talent] = field(default_factory=list)
     tickets: list[Ticket] = field(default_factory=list)
     event_type: EventType = EventType.UNKNOWN
@@ -82,6 +84,7 @@ class Event:
             result += self.param(
                 "DESCRIPTION",
                 self.eng_description
+                + self.generate_hashtag_description(is_english=True)
                 + self.generate_ticket_description(is_english=True)
                 + self.generate_talent_description(is_english=True),
             )
@@ -98,6 +101,7 @@ class Event:
             result += self.param(
                 "DESCRIPTION",
                 self.description
+                + self.generate_hashtag_description(is_english=False)
                 + self.generate_ticket_description(is_english=False)
                 + self.generate_talent_description(is_english=False),
             )
@@ -111,17 +115,16 @@ class Event:
 
     def has_talent(self, target: Talent) -> bool:
         if any(talent.name == "にじさんじ" for talent in self.talents):
-            if type(target.graduation_date) is arrow.Arrow and target.graduation_date < self.begin:
+            if (
+                type(target.graduation_date) is arrow.Arrow
+                and target.graduation_date < self.begin
+            ):
                 # It won't include the event if it's later than their graduation
                 pass
             elif self.begin > target.first_tweet_datetime:
                 return True
 
-        return any(
-            True
-            for talent in self.talents
-            if talent.name == target.name
-        )
+        return any(True for talent in self.talents if talent.name == target.name)
 
     def param(self, name: str, value: str) -> str:
         value_text = value.replace("\n", "\\n")
@@ -156,6 +159,20 @@ class Event:
         #     byte_data = next_line.encode(encoding)
 
         # return result
+
+    def generate_hashtag_description(self, is_english: bool = False) -> str:
+        if self.hashtag is None or (
+            type(self.hashtag) is str and len(self.hashtag.strip()) == 0
+        ):
+            return ""
+
+        hashtag_value = self.hashtag.strip()
+        encoded_hashtag = quote(hashtag_value)
+
+        if is_english:
+            return f"\n\nHashtag: #{hashtag_value}\nhttps://x.com/search?q={encoded_hashtag}"
+        else:
+            return f"\n\nハッシュタグ：#{hashtag_value}\nhttps://x.com/search?q={encoded_hashtag}"
 
     def generate_ticket_description(self, is_english: bool) -> str:
         if len(self.tickets) <= 0:
