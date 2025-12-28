@@ -106,29 +106,47 @@ def main() -> int:
     
     reply_id: str | None = None
     for t in ja_tweets:
-        if reply_id is None:
-            result = ja_client.create_tweet(text=t)
-        else:
-            result = ja_client.create_tweet(text=t, in_reply_to_tweet_id=reply_id)
+        try:
+            if reply_id is None:
+                result = ja_client.create_tweet(text=t)
+            else:
+                result = ja_client.create_tweet(text=t, in_reply_to_tweet_id=reply_id)
 
-        if len(result.errors) > 0:
-            print(f"Failed to tweet: {result.errors}")
+            if len(result.errors) > 0:
+                print(f"Failed to tweet: {result.errors}")
+                break
+
+            reply_id = result.data["id"]
+        except tweepy.errors.Forbidden as e:
+            print(f"Failed to tweet (403 Forbidden): {e}")
+            print(f"Tweet text: {t}")
             break
-
-        reply_id = result.data["id"]
+        except tweepy.errors.TweepyException as e:
+            print(f"Failed to tweet (TweepyException): {e}")
+            print(f"Tweet text: {t}")
+            break
 
     reply_id = None
     for t in en_tweets:
-        if reply_id is None:
-            result = en_client.create_tweet(text=t)
-        else:
-            result = en_client.create_tweet(text=t, in_reply_to_tweet_id=reply_id)
+        try:
+            if reply_id is None:
+                result = en_client.create_tweet(text=t)
+            else:
+                result = en_client.create_tweet(text=t, in_reply_to_tweet_id=reply_id)
 
-        if len(result.errors) > 0:
-            print(f"Failed to tweet: {result.errors}")
+            if len(result.errors) > 0:
+                print(f"Failed to tweet: {result.errors}")
+                break
+
+            reply_id = result.data["id"]
+        except tweepy.errors.Forbidden as e:
+            print(f"Failed to tweet (403 Forbidden): {e}")
+            print(f"Tweet text: {t}")
             break
-
-        reply_id = result.data["id"]
+        except tweepy.errors.TweepyException as e:
+            print(f"Failed to tweet (TweepyException): {e}")
+            print(f"Tweet text: {t}")
+            break
 
     return 0
 
