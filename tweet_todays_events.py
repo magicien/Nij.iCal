@@ -1,18 +1,37 @@
 import arrow
-import cloudscraper
+import json
 import os
 import sys
+from playwright.sync_api import sync_playwright
 from requests_oauthlib import OAuth1
 from twitter_text import parse_tweet
 from nijical import NijiCal
 from settings import debug, url_prefix
 
-def create_tweet_with_cloudscraper(scraper, auth, text: str, reply_to: str | None = None):
+def create_oauth_header(auth, method: str, url: str, body: str = None):
     """
-    Create a tweet using cloudscraper to bypass Cloudflare protection.
+    Create OAuth 1.0a authorization header.
 
     Args:
-        scraper: cloudscraper session
+        auth: OAuth1 instance
+        method: HTTP method
+        url: Request URL
+        body: Optional request body
+
+    Returns:
+        str: Authorization header value
+    """
+    from requests import Request
+    req = Request(method, url, data=body)
+    r = auth(req)
+    return r.headers['Authorization']
+
+def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None = None):
+    """
+    Create a tweet using Playwright to bypass Cloudflare protection.
+
+    Args:
+        browser: Playwright browser instance
         auth: OAuth1 authentication
         text: Tweet text
         reply_to: Optional tweet ID to reply to
@@ -23,24 +42,38 @@ def create_tweet_with_cloudscraper(scraper, auth, text: str, reply_to: str | Non
     Raises:
         Exception: If the tweet creation fails
     """
-    url = "https://api.twitter.com/2/tweets"
-    payload = {"text": text}
+    context = browser.new_context(
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    )
 
-    if reply_to is not None:
-        payload["reply"] = {"in_reply_to_tweet_id": reply_to}
+    try:
+        url = "https://api.twitter.com/2/tweets"
+        payload = {"text": text}
 
-    headers = {
-        "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
+        if reply_to is not None:
+            payload["reply"] = {"in_reply_to_tweet_id": reply_to}
 
-    response = scraper.post(url, json=payload, auth=auth, headers=headers)
+        body_str = json.dumps(payload)
 
-    if response.status_code != 201:
-        error_detail = f"Status: {response.status_code}, Response: {response.text}"
-        raise Exception(f"Failed to create tweet: {error_detail}")
+        # Generate OAuth header
+        auth_header = create_oauth_header(auth, 'POST', url, body_str)
 
-    return response.json()
+        headers = {
+            "Authorization": auth_header,
+            "Content-Type": "application/json"
+        }
+
+        # Make API request through Playwright
+        page = context.new_page()
+        response = page.request.post(url, data=body_str, headers=headers)
+
+        if response.status != 201:
+            error_detail = f"Status: {response.status}, Response: {response.text()}"
+            raise Exception(f"Failed to create tweet: {error_detail}")
+
+        return response.json()
+    finally:
+        context.close()
 
 def split_text_for_tweets(text: str) -> list[str]:
     parse_result = parse_tweet(text)
@@ -116,10 +149,6 @@ def main() -> int:
     if debug:
         return 0
 
-    # Create cloudscraper sessions for both accounts
-    ja_scraper = cloudscraper.create_scraper()
-    en_scraper = cloudscraper.create_scraper()
-
     # Set up OAuth1 authentication for Japanese account
     ja_auth = OAuth1(
         os.environ["JA_CONSUMER_KEY"],
@@ -135,34 +164,40 @@ def main() -> int:
         os.environ["EN_ACCESS_TOKEN"],
         os.environ["EN_ACCESS_TOKEN_SECRET"]
     )
-    
+
     tweet_failed = False
-    reply_id: str | None = None
 
-    # Post Japanese tweets
-    for t in ja_tweets:
-        try:
-            result = create_tweet_with_cloudscraper(ja_scraper, ja_auth, t, reply_id)
-            reply_id = result["data"]["id"]
-            print(f"Successfully posted Japanese tweet (ID: {reply_id})")
-        except Exception as e:
-            print(f"Failed to tweet: {e}")
-            print(f"Tweet text: {t}")
-            tweet_failed = True
-            break
+    # Use Playwright to make requests through real browser context
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
 
-    # Post English tweets
-    reply_id = None
-    for t in en_tweets:
-        try:
-            result = create_tweet_with_cloudscraper(en_scraper, en_auth, t, reply_id)
-            reply_id = result["data"]["id"]
-            print(f"Successfully posted English tweet (ID: {reply_id})")
-        except Exception as e:
-            print(f"Failed to tweet: {e}")
-            print(f"Tweet text: {t}")
-            tweet_failed = True
-            break
+        # Post Japanese tweets
+        reply_id: str | None = None
+        for t in ja_tweets:
+            try:
+                result = create_tweet_with_playwright(browser, ja_auth, t, reply_id)
+                reply_id = result["data"]["id"]
+                print(f"Successfully posted Japanese tweet (ID: {reply_id})")
+            except Exception as e:
+                print(f"Failed to tweet: {e}")
+                print(f"Tweet text: {t}")
+                tweet_failed = True
+                break
+
+        # Post English tweets
+        reply_id = None
+        for t in en_tweets:
+            try:
+                result = create_tweet_with_playwright(browser, en_auth, t, reply_id)
+                reply_id = result["data"]["id"]
+                print(f"Successfully posted English tweet (ID: {reply_id})")
+            except Exception as e:
+                print(f"Failed to tweet: {e}")
+                print(f"Tweet text: {t}")
+                tweet_failed = True
+                break
+
+        browser.close()
 
     if tweet_failed:
         return 3
