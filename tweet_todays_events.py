@@ -1,10 +1,46 @@
 import arrow
+import cloudscraper
 import os
 import sys
-import tweepy
+from requests_oauthlib import OAuth1
 from twitter_text import parse_tweet
 from nijical import NijiCal
 from settings import debug, url_prefix
+
+def create_tweet_with_cloudscraper(scraper, auth, text: str, reply_to: str | None = None):
+    """
+    Create a tweet using cloudscraper to bypass Cloudflare protection.
+
+    Args:
+        scraper: cloudscraper session
+        auth: OAuth1 authentication
+        text: Tweet text
+        reply_to: Optional tweet ID to reply to
+
+    Returns:
+        dict: Twitter API response with tweet data
+
+    Raises:
+        Exception: If the tweet creation fails
+    """
+    url = "https://api.twitter.com/2/tweets"
+    payload = {"text": text}
+
+    if reply_to is not None:
+        payload["reply"] = {"in_reply_to_tweet_id": reply_to}
+
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+
+    response = scraper.post(url, json=payload, auth=auth, headers=headers)
+
+    if response.status_code != 201:
+        error_detail = f"Status: {response.status_code}, Response: {response.text}"
+        raise Exception(f"Failed to create tweet: {error_detail}")
+
+    return response.json()
 
 def split_text_for_tweets(text: str) -> list[str]:
     parse_result = parse_tweet(text)
@@ -80,73 +116,56 @@ def main() -> int:
     if debug:
         return 0
 
-    try:
-        ja_client = tweepy.Client(
-            bearer_token=os.environ["JA_BEARER_TOKEN"],
-            consumer_key=os.environ["JA_CONSUMER_KEY"],
-            consumer_secret=os.environ["JA_CONSUMER_SECRET"],
-            access_token=os.environ["JA_ACCESS_TOKEN"],
-            access_token_secret=os.environ["JA_ACCESS_TOKEN_SECRET"]
-        )
-    except Exception as e:
-        print(f"Failed to create tweepy ja client: {e}")
-        return 1
+    # Create cloudscraper sessions for both accounts
+    ja_scraper = cloudscraper.create_scraper()
+    en_scraper = cloudscraper.create_scraper()
 
-    try:
-        en_client = tweepy.Client(
-            bearer_token=os.environ["EN_BEARER_TOKEN"],
-            consumer_key=os.environ["EN_CONSUMER_KEY"],
-            consumer_secret=os.environ["EN_CONSUMER_SECRET"],
-            access_token=os.environ["EN_ACCESS_TOKEN"],
-            access_token_secret=os.environ["EN_ACCESS_TOKEN_SECRET"]
-        )
-    except Exception as e:
-        print(f"Failed to create tweepy en client: {e}")
-        return 2
+    # Set up OAuth1 authentication for Japanese account
+    ja_auth = OAuth1(
+        os.environ["JA_CONSUMER_KEY"],
+        os.environ["JA_CONSUMER_SECRET"],
+        os.environ["JA_ACCESS_TOKEN"],
+        os.environ["JA_ACCESS_TOKEN_SECRET"]
+    )
+
+    # Set up OAuth1 authentication for English account
+    en_auth = OAuth1(
+        os.environ["EN_CONSUMER_KEY"],
+        os.environ["EN_CONSUMER_SECRET"],
+        os.environ["EN_ACCESS_TOKEN"],
+        os.environ["EN_ACCESS_TOKEN_SECRET"]
+    )
     
+    tweet_failed = False
     reply_id: str | None = None
+
+    # Post Japanese tweets
     for t in ja_tweets:
         try:
-            if reply_id is None:
-                result = ja_client.create_tweet(text=t)
-            else:
-                result = ja_client.create_tweet(text=t, in_reply_to_tweet_id=reply_id)
-
-            if len(result.errors) > 0:
-                print(f"Failed to tweet: {result.errors}")
-                break
-
-            reply_id = result.data["id"]
-        except tweepy.errors.Forbidden as e:
-            print(f"Failed to tweet (403 Forbidden): {e}")
+            result = create_tweet_with_cloudscraper(ja_scraper, ja_auth, t, reply_id)
+            reply_id = result["data"]["id"]
+            print(f"Successfully posted Japanese tweet (ID: {reply_id})")
+        except Exception as e:
+            print(f"Failed to tweet: {e}")
             print(f"Tweet text: {t}")
-            break
-        except tweepy.errors.TweepyException as e:
-            print(f"Failed to tweet (TweepyException): {e}")
-            print(f"Tweet text: {t}")
+            tweet_failed = True
             break
 
+    # Post English tweets
     reply_id = None
     for t in en_tweets:
         try:
-            if reply_id is None:
-                result = en_client.create_tweet(text=t)
-            else:
-                result = en_client.create_tweet(text=t, in_reply_to_tweet_id=reply_id)
-
-            if len(result.errors) > 0:
-                print(f"Failed to tweet: {result.errors}")
-                break
-
-            reply_id = result.data["id"]
-        except tweepy.errors.Forbidden as e:
-            print(f"Failed to tweet (403 Forbidden): {e}")
+            result = create_tweet_with_cloudscraper(en_scraper, en_auth, t, reply_id)
+            reply_id = result["data"]["id"]
+            print(f"Successfully posted English tweet (ID: {reply_id})")
+        except Exception as e:
+            print(f"Failed to tweet: {e}")
             print(f"Tweet text: {t}")
+            tweet_failed = True
             break
-        except tweepy.errors.TweepyException as e:
-            print(f"Failed to tweet (TweepyException): {e}")
-            print(f"Tweet text: {t}")
-            break
+
+    if tweet_failed:
+        return 3
 
     return 0
 
