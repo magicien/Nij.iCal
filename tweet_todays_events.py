@@ -104,6 +104,7 @@ def main() -> int:
         print(f"Failed to create tweepy en client: {e}")
         return 2
     
+    tweet_failed = False
     reply_id: str | None = None
     for t in ja_tweets:
         try:
@@ -114,16 +115,37 @@ def main() -> int:
 
             if len(result.errors) > 0:
                 print(f"Failed to tweet: {result.errors}")
+                tweet_failed = True
                 break
 
             reply_id = result.data["id"]
         except tweepy.errors.Forbidden as e:
             print(f"Failed to tweet (403 Forbidden): {e}")
             print(f"Tweet text: {t}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"Response status: {e.response.status_code}")
+                print(f"Response text: {e.response.text}")
+            if hasattr(e, 'api_codes'):
+                print(f"API codes: {e.api_codes}")
+            if hasattr(e, 'api_messages'):
+                print(f"API messages: {e.api_messages}")
+            if hasattr(e, 'api_errors'):
+                print(f"API errors: {e.api_errors}")
+            tweet_failed = True
             break
         except tweepy.errors.TweepyException as e:
             print(f"Failed to tweet (TweepyException): {e}")
             print(f"Tweet text: {t}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"Response status: {e.response.status_code}")
+                print(f"Response text: {e.response.text}")
+            if hasattr(e, 'api_codes'):
+                print(f"API codes: {e.api_codes}")
+            if hasattr(e, 'api_messages'):
+                print(f"API messages: {e.api_messages}")
+            if hasattr(e, 'api_errors'):
+                print(f"API errors: {e.api_errors}")
+            tweet_failed = True
             break
 
     reply_id = None
@@ -136,17 +158,41 @@ def main() -> int:
 
             if len(result.errors) > 0:
                 print(f"Failed to tweet: {result.errors}")
+                tweet_failed = True
                 break
 
             reply_id = result.data["id"]
         except tweepy.errors.Forbidden as e:
             print(f"Failed to tweet (403 Forbidden): {e}")
             print(f"Tweet text: {t}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"Response status: {e.response.status_code}")
+                print(f"Response text: {e.response.text}")
+            if hasattr(e, 'api_codes'):
+                print(f"API codes: {e.api_codes}")
+            if hasattr(e, 'api_messages'):
+                print(f"API messages: {e.api_messages}")
+            if hasattr(e, 'api_errors'):
+                print(f"API errors: {e.api_errors}")
+            tweet_failed = True
             break
         except tweepy.errors.TweepyException as e:
             print(f"Failed to tweet (TweepyException): {e}")
             print(f"Tweet text: {t}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"Response status: {e.response.status_code}")
+                print(f"Response text: {e.response.text}")
+            if hasattr(e, 'api_codes'):
+                print(f"API codes: {e.api_codes}")
+            if hasattr(e, 'api_messages'):
+                print(f"API messages: {e.api_messages}")
+            if hasattr(e, 'api_errors'):
+                print(f"API errors: {e.api_errors}")
+            tweet_failed = True
             break
+
+    if tweet_failed:
+        return 3
 
     return 0
 
