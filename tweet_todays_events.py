@@ -80,13 +80,17 @@ def main() -> int:
     if debug:
         return 0
 
+    # Set User-Agent to avoid Cloudflare bot detection
+    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
     try:
         ja_client = tweepy.Client(
             bearer_token=os.environ["JA_BEARER_TOKEN"],
             consumer_key=os.environ["JA_CONSUMER_KEY"],
             consumer_secret=os.environ["JA_CONSUMER_SECRET"],
             access_token=os.environ["JA_ACCESS_TOKEN"],
-            access_token_secret=os.environ["JA_ACCESS_TOKEN_SECRET"]
+            access_token_secret=os.environ["JA_ACCESS_TOKEN_SECRET"],
+            user_agent=user_agent
         )
     except Exception as e:
         print(f"Failed to create tweepy ja client: {e}")
@@ -98,7 +102,8 @@ def main() -> int:
             consumer_key=os.environ["EN_CONSUMER_KEY"],
             consumer_secret=os.environ["EN_CONSUMER_SECRET"],
             access_token=os.environ["EN_ACCESS_TOKEN"],
-            access_token_secret=os.environ["EN_ACCESS_TOKEN_SECRET"]
+            access_token_secret=os.environ["EN_ACCESS_TOKEN_SECRET"],
+            user_agent=user_agent
         )
     except Exception as e:
         print(f"Failed to create tweepy en client: {e}")
