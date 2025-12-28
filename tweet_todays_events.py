@@ -1,10 +1,7 @@
 import arrow
 import cloudscraper
-import json
 import os
 import sys
-import time
-import tweepy
 from requests_oauthlib import OAuth1
 from twitter_text import parse_tweet
 from nijical import NijiCal

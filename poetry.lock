@@ -478,30 +478,6 @@ files = [
 ]
 
 [[package]]
-name = "tweepy"
-version = "4.15.0"
-description = "Twitter library for Python"
-optional = false
-python-versions = ">=3.9"
-groups = ["main"]
-files = [
-    {file = "tweepy-4.15.0-py3-none-any.whl", hash = "sha256:64adcea317158937059e4e2897b3ceb750b0c2dd5df58938c2da8f7eb3b88e6a"},
-    {file = "tweepy-4.15.0.tar.gz", hash = "sha256:1345cbcdf0a75e2d89f424c559fd49fda4d8cd7be25cd5131e3b57bad8a21d76"},
-]
-
-[package.dependencies]
-oauthlib = ">=3.2.0,<4"
-requests = ">=2.27.0,<3"
-requests-oauthlib = ">=1.2.0,<3"
-
-[package.extras]
-async = ["aiohttp (>=3.7.3,<4)", "async-lru (>=1.0.3,<3)"]
-dev = ["coverage (>=4.4.2)", "coveralls (>=2.1.0)", "tox (>=3.21.0)"]
-docs = ["myst-parser (==0.15.2)", "readthedocs-sphinx-search (==0.1.1)", "sphinx (==4.2.0)", "sphinx-hoverxref (==0.7b1)", "sphinx-tabs (==3.2.0)", "sphinx_rtd_theme (==1.0.0)"]
-socks = ["requests[socks] (>=2.27.0,<3)"]
-test = ["urllib3 (<2)", "vcrpy (>=1.10.3)"]
-
-[[package]]
 name = "twitter-text-parser"
 version = "3.0.0"
 description = "A library to parse or validate Twitter texts properly"
@@ -558,4 +534,4 @@ zstd = ["backports-zstd (>=1.0.0) ; python_version < \"3.14\""]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<4.0"
-content-hash = "061c6010c53c009c8d3ed817e9d3a9b9662241e9b72c32d67ed2a7bf55814812"
+content-hash = "1b79f3779b8c65c12b76b4ca94119d2ab7277b8979dfb8dd3dc551f7d86f60ec"
