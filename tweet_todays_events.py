@@ -25,7 +25,7 @@ def create_oauth_header(auth, method: str, url: str, body: str = None):
     req = Request(method, url, data=body)
     prepared = req.prepare()
     auth(prepared)
-    return prepared.headers.get('Authorization', '')
+    return str(prepared.headers.get('Authorization', ''))
 
 def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None = None):
     """
@@ -60,7 +60,7 @@ def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None 
         auth_header = create_oauth_header(auth, 'POST', url, body_str)
 
         headers = {
-            "Authorization": auth_header,
+            "Authorization": str(auth_header),
             "Content-Type": "application/json"
         }
 
