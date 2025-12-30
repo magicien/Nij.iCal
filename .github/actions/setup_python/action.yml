@@ -42,6 +42,13 @@ runs:
       if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
       run: poetry install --no-interaction
 
+    - name: Install Playwright browsers
+      shell: bash
+      run: |
+        source .venv/bin/activate
+        playwright install chromium
+        playwright install-deps chromium
+
     - name: Activate environment
       shell: bash
       run: source .venv/bin/activate
