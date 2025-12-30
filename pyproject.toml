@@ -12,9 +12,10 @@ dependencies = [
     "cloudscraper (>=1.2.71,<2.0.0)",
     "icalendar (>=6.1.1,<7.0.0)",
     "pandas (>=2.2.3,<3.0.0)",
+    "playwright (>=1.48.0,<2.0.0)",
     "requests-oauthlib (>=2.0.0,<3.0.0)",
     "twitter-text-parser (>=3.0.0,<4.0.0)",
-    "setuptools (>=78.1.1)",
+    "setuptools (>=70.0.0,<81.0.0)",
     "urllib3 (>=2.6.0,<3.0.0)"
 ]
 
