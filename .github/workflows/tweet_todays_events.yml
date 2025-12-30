@@ -2,6 +2,16 @@ name: Tweet today's events
 
 on:
   workflow_dispatch:
+    inputs:
+      language:
+        description: 'Which language to tweet'
+        required: true
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - japanese
+          - english
   schedule:
     - cron: '0 22 * * *' # 7:00 JST
 
@@ -17,6 +27,7 @@ jobs:
 
       - name: Tweet events
         env:
+          TWEET_LANGUAGE: ${{ github.event.inputs.language || 'both' }}
           JA_BEARER_TOKEN: ${{ secrets.JA_BEARER_TOKEN }}
           JA_CONSUMER_KEY: ${{ secrets.JA_CONSUMER_KEY }}
           JA_CONSUMER_SECRET: ${{ secrets.JA_CONSUMER_SECRET }}

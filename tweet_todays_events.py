@@ -175,21 +175,29 @@ def main() -> int:
     if debug:
         return 0
 
+    # Get language setting from environment variable
+    tweet_language = os.environ.get('TWEET_LANGUAGE', 'both')
+    print(f"Tweet language setting: {tweet_language}")
+
     # Set up OAuth1 authentication for Japanese account
-    ja_auth = OAuth1(
-        os.environ["JA_CONSUMER_KEY"],
-        os.environ["JA_CONSUMER_SECRET"],
-        os.environ["JA_ACCESS_TOKEN"],
-        os.environ["JA_ACCESS_TOKEN_SECRET"]
-    )
+    ja_auth = None
+    if tweet_language in ['both', 'japanese']:
+        ja_auth = OAuth1(
+            os.environ["JA_CONSUMER_KEY"],
+            os.environ["JA_CONSUMER_SECRET"],
+            os.environ["JA_ACCESS_TOKEN"],
+            os.environ["JA_ACCESS_TOKEN_SECRET"]
+        )
 
     # Set up OAuth1 authentication for English account
-    en_auth = OAuth1(
-        os.environ["EN_CONSUMER_KEY"],
-        os.environ["EN_CONSUMER_SECRET"],
-        os.environ["EN_ACCESS_TOKEN"],
-        os.environ["EN_ACCESS_TOKEN_SECRET"]
-    )
+    en_auth = None
+    if tweet_language in ['both', 'english']:
+        en_auth = OAuth1(
+            os.environ["EN_CONSUMER_KEY"],
+            os.environ["EN_CONSUMER_SECRET"],
+            os.environ["EN_ACCESS_TOKEN"],
+            os.environ["EN_ACCESS_TOKEN_SECRET"]
+        )
 
     tweet_failed = False
 
@@ -198,30 +206,32 @@ def main() -> int:
         browser = p.chromium.launch(headless=True)
 
         # Post Japanese tweets
-        reply_id: str | None = None
-        for t in ja_tweets:
-            try:
-                result = create_tweet_with_playwright(browser, ja_auth, t, reply_id)
-                reply_id = result["data"]["id"]
-                print(f"Successfully posted Japanese tweet (ID: {reply_id})")
-            except Exception as e:
-                print(f"Failed to tweet: {e}")
-                print(f"Tweet text: {t}")
-                tweet_failed = True
-                break
+        if ja_auth is not None:
+            reply_id: str | None = None
+            for t in ja_tweets:
+                try:
+                    result = create_tweet_with_playwright(browser, ja_auth, t, reply_id)
+                    reply_id = result["data"]["id"]
+                    print(f"Successfully posted Japanese tweet (ID: {reply_id})")
+                except Exception as e:
+                    print(f"Failed to tweet: {e}")
+                    print(f"Tweet text: {t}")
+                    tweet_failed = True
+                    break
 
         # Post English tweets
-        reply_id = None
-        for t in en_tweets:
-            try:
-                result = create_tweet_with_playwright(browser, en_auth, t, reply_id)
-                reply_id = result["data"]["id"]
-                print(f"Successfully posted English tweet (ID: {reply_id})")
-            except Exception as e:
-                print(f"Failed to tweet: {e}")
-                print(f"Tweet text: {t}")
-                tweet_failed = True
-                break
+        if en_auth is not None:
+            reply_id = None
+            for t in en_tweets:
+                try:
+                    result = create_tweet_with_playwright(browser, en_auth, t, reply_id)
+                    reply_id = result["data"]["id"]
+                    print(f"Successfully posted English tweet (ID: {reply_id})")
+                except Exception as e:
+                    print(f"Failed to tweet: {e}")
+                    print(f"Tweet text: {t}")
+                    tweet_failed = True
+                    break
 
         browser.close()
 
