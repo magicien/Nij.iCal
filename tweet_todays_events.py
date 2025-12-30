@@ -22,10 +22,28 @@ def create_oauth_header(auth, method: str, url: str, body: str = None):
         str: Authorization header value
     """
     from requests import Request
-    req = Request(method, url, data=body)
+    headers = {"Content-Type": "application/json"} if body else {}
+    body_bytes = body.encode('utf-8') if body else None
+    req = Request(method, url, data=body_bytes, headers=headers)
     prepared = req.prepare()
-    auth(prepared)
-    return str(prepared.headers.get('Authorization', ''))
+
+    # Debug: Check what auth(prepared) returns
+    r = auth(prepared)
+    print(f"DEBUG create_oauth_header: auth() return type: {type(r)}")
+    print(f"DEBUG create_oauth_header: auth() return value: {repr(r)}")
+
+    # If auth() returns something, check its headers
+    if r is not None and hasattr(r, 'headers'):
+        r_auth = r.headers.get('Authorization', '')
+        print(f"DEBUG create_oauth_header: r.headers['Authorization'] type: {type(r_auth)}")
+        print(f"DEBUG create_oauth_header: r.headers['Authorization'] value: {repr(r_auth)}")
+
+    # Debug: Check what prepared.headers contains
+    auth_value = prepared.headers.get('Authorization', '')
+    print(f"DEBUG create_oauth_header: prepared.headers['Authorization'] type: {type(auth_value)}")
+    print(f"DEBUG create_oauth_header: prepared.headers['Authorization'] value: {repr(auth_value)}")
+
+    return str(auth_value)
 
 def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None = None):
     """
@@ -58,6 +76,10 @@ def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None 
 
         # Generate OAuth header
         auth_header = create_oauth_header(auth, 'POST', url, body_str)
+
+        # Debug: Check what auth_header contains
+        print(f"DEBUG: auth_header type: {type(auth_header)}")
+        print(f"DEBUG: auth_header value: {repr(auth_header)}")
 
         headers = {
             "Authorization": str(auth_header),
