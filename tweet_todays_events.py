@@ -43,6 +43,9 @@ def create_oauth_header(auth, method: str, url: str, body: str = None):
     print(f"DEBUG create_oauth_header: prepared.headers['Authorization'] type: {type(auth_value)}")
     print(f"DEBUG create_oauth_header: prepared.headers['Authorization'] value: {repr(auth_value)}")
 
+    # Convert bytes to string if needed
+    if isinstance(auth_value, bytes):
+        return auth_value.decode('utf-8')
     return str(auth_value)
 
 def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None = None):
