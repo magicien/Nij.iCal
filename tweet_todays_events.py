@@ -26,24 +26,10 @@ def create_oauth_header(auth, method: str, url: str, body: str = None):
     body_bytes = body.encode('utf-8') if body else None
     req = Request(method, url, data=body_bytes, headers=headers)
     prepared = req.prepare()
-
-    # Debug: Check what auth(prepared) returns
-    r = auth(prepared)
-    print(f"DEBUG create_oauth_header: auth() return type: {type(r)}")
-    print(f"DEBUG create_oauth_header: auth() return value: {repr(r)}")
-
-    # If auth() returns something, check its headers
-    if r is not None and hasattr(r, 'headers'):
-        r_auth = r.headers.get('Authorization', '')
-        print(f"DEBUG create_oauth_header: r.headers['Authorization'] type: {type(r_auth)}")
-        print(f"DEBUG create_oauth_header: r.headers['Authorization'] value: {repr(r_auth)}")
-
-    # Debug: Check what prepared.headers contains
-    auth_value = prepared.headers.get('Authorization', '')
-    print(f"DEBUG create_oauth_header: prepared.headers['Authorization'] type: {type(auth_value)}")
-    print(f"DEBUG create_oauth_header: prepared.headers['Authorization'] value: {repr(auth_value)}")
+    auth(prepared)
 
     # Convert bytes to string if needed
+    auth_value = prepared.headers.get('Authorization', '')
     if isinstance(auth_value, bytes):
         return auth_value.decode('utf-8')
     return str(auth_value)
@@ -80,18 +66,24 @@ def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None 
         # Generate OAuth header
         auth_header = create_oauth_header(auth, 'POST', url, body_str)
 
-        # Debug: Check what auth_header contains
-        print(f"DEBUG: auth_header type: {type(auth_header)}")
-        print(f"DEBUG: auth_header value: {repr(auth_header)}")
-
         headers = {
-            "Authorization": str(auth_header),
+            "Authorization": auth_header,
             "Content-Type": "application/json"
         }
 
         # Make API request through Playwright
         page = context.new_page()
         response = page.request.post(url, data=body_str, headers=headers)
+
+        # Check for Cloudflare in response headers (both success and failure cases)
+        response_headers = response.headers
+        if 'cf-ray' in response_headers or 'cf-cache-status' in response_headers:
+            if response.status == 201:
+                print(f"✅ Cloudflare challenge passed successfully")
+            else:
+                print(f"⚠️  Cloudflare detected but request failed")
+            print(f"cf-ray: {response_headers.get('cf-ray', 'N/A')}")
+            print(f"cf-cache-status: {response_headers.get('cf-cache-status', 'N/A')}")
 
         if response.status != 201:
             error_detail = f"Status: {response.status}, Response: {response.text()}"
