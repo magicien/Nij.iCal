@@ -23,7 +23,8 @@ def create_oauth_header(auth, method: str, url: str, body: str = None):
     """
     from requests import Request
     req = Request(method, url, data=body)
-    r = auth(req)
+    prepared = req.prepare()
+    r = auth(prepared)
     return r.headers['Authorization']
 
 def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None = None):
