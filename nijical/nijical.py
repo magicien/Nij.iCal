@@ -737,7 +737,36 @@ class NijiCal:
             ):
                 hashtag_suffix = f" #{ev.hashtag.strip()}"
 
-            if not ev.all_day and duration.days < 1 and ev.begin.day == date.day:
+            # Check if event duration exceeds 48 hours
+            duration_hours = duration.total_seconds() / 3600
+
+            if not ev.all_day and duration_hours > 48:
+                # For events longer than 48 hours, only show on start date or end date
+                is_start_date = (
+                    ev.begin.year == date.year
+                    and ev.begin.month == date.month
+                    and ev.begin.day == date.day
+                )
+                is_end_date = (
+                    ev.end.year == date.year
+                    and ev.end.month == date.month
+                    and ev.end.day == date.day
+                )
+
+                if is_start_date:
+                    # Show start time on start date
+                    ja_text += f"{ev.begin.format('HH:mm')} {ev.summary} 開始{hashtag_suffix}\n"
+                    en_text += f"{ev.begin.format('HH:mm')} JST {ev.eng_summary} starts{hashtag_suffix}\n"
+                elif is_end_date:
+                    # Show end time on end date
+                    ja_text += (
+                        f"{ev.end.format('HH:mm')} {ev.summary} 終了{hashtag_suffix}\n"
+                    )
+                    en_text += f"{ev.end.format('HH:mm')} JST {ev.eng_summary} ends{hashtag_suffix}\n"
+                else:
+                    # Skip output for dates between start and end
+                    continue
+            elif not ev.all_day and duration.days < 1 and ev.begin.day == date.day:
                 ja_text += f"{ev.begin.format('HH:mm')} {ev.summary}{hashtag_suffix}\n"
                 en_text += (
                     f"{ev.begin.format('HH:mm')} JST {ev.eng_summary}{hashtag_suffix}\n"

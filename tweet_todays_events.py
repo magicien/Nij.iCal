@@ -124,21 +124,28 @@ def main() -> int:
     talent_file = sys.argv[1]
     event_file = sys.argv[2]
     ticket_file = sys.argv[3]
-    instance = NijiCal(talent_file, event_file, ticket_file, url_prefix)
+
+    # Optional: date argument (format: YYYY/MM/DD)
     tzinfo = "+09:00"
-    today = arrow.now(tzinfo)
+    if len(sys.argv) >= 5:
+        date_str = sys.argv[4]
+        today = arrow.get(date_str, "YYYY/MM/DD", tzinfo=tzinfo)
+    else:
+        today = arrow.now(tzinfo)
+
+    instance = NijiCal(talent_file, event_file, ticket_file, url_prefix)
     tomorrow = today.shift(days=1)
 
     (ja_text_today, en_text_today) = instance.generate_tweet_for_date(today)
     (ja_text_tomorrow, en_text_tomorrow) = instance.generate_tweet_for_date(tomorrow)
 
-    ja_header_today = f"📅 今日（{today.format('M/D')}）\n"
+    ja_header_today = f"📅 今日：{today.format('M/D')}（{today.format('ddd', locale='ja')}）\n"
     if len(ja_text_today) == 0:
         ja_text_today = ja_header_today + "なし\n\n"
     else:
         ja_text_today = ja_header_today + ja_text_today
 
-    ja_header_tomorrow = f"📅 明日（{tomorrow.format('M/D')}）\n"
+    ja_header_tomorrow = f"📅 明日：{tomorrow.format('M/D')}（{tomorrow.format('ddd', locale='ja')}）\n"
     if len(ja_text_tomorrow) == 0:
         ja_text_tomorrow = ja_header_tomorrow + "なし\n\n"
     else:
@@ -148,13 +155,13 @@ def main() -> int:
     for t in ja_tweets:
         print(f"=====================\n{t}\n=====================\n")
 
-    en_header_today = f"📅 Today ({today.format('MMM Do')} JST)\n"
+    en_header_today = f"📅 Today: {today.format('ddd')}, {today.format('MMM D')} JST\n"
     if len(en_text_today) == 0:
         en_text_today = en_header_today + "None\n\n"
     else:
         en_text_today = en_header_today + en_text_today
 
-    en_header_tomorrow = f"📅 Tomorrow ({tomorrow.format('MMM Do')} JST)\n"
+    en_header_tomorrow = f"📅 Tomorrow: {tomorrow.format('ddd')}, {tomorrow.format('MMM D')} JST\n"
     if len(en_text_tomorrow) == 0:
         en_text_tomorrow = en_header_tomorrow + "None\n\n"
     else:
