@@ -782,11 +782,17 @@ class NijiCal:
             en_text += "\n"
 
         for ev in sorted_talent_events:
-            ja_text += f"{ev.summary}\n"
-            en_text += f"{ev.eng_summary}\n"
+            if ev.event_type == EventType.DEBUT:
+                ja_text += f"{ev.begin.format('HH:mm')} {ev.summary}\n"
+                en_text += f"{ev.begin.format('HH:mm')} JST {ev.eng_summary}\n"
+            else:
+                ja_text += f"{ev.summary}\n"
+                en_text += f"{ev.eng_summary}\n"
+
             if type(ev.url) is str and len(ev.url) > 0:
                 ja_text += f"{ev.url}\n"
                 en_text += f"{ev.url}\n"
+
             ja_text += "\n"
             en_text += "\n"
 
