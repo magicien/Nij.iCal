@@ -339,6 +339,11 @@ class NijiCal:
     def generate_ticket_events(self, event: Event, ticket: Ticket) -> list[Event]:
         ticket_events: list[Event] = []
 
+        # Use ticket.url if available, otherwise use event.url
+        ticket_url = (
+            ticket.url if type(ticket.url) is str and len(ticket.url) > 0 else event.url
+        )
+
         description = ""
         eng_description = ""
         if type(ticket.url) is str and len(ticket.url) > 0:
@@ -367,7 +372,7 @@ class NijiCal:
                 geo=None,
                 description=description,
                 eng_description=eng_description,
-                url=ticket.url,
+                url=ticket_url,
                 talents=event.talents,
                 tickets=[],
                 event_type=EventType.TICKET_BEGIN,
@@ -394,7 +399,7 @@ class NijiCal:
                 geo=None,
                 description=description,
                 eng_description=eng_description,
-                url=ticket.url,
+                url=ticket_url,
                 talents=event.talents,
                 tickets=[],
                 event_type=EventType.TICKET_END,
@@ -782,11 +787,17 @@ class NijiCal:
             en_text += "\n"
 
         for ev in sorted_talent_events:
-            ja_text += f"{ev.summary}\n"
-            en_text += f"{ev.eng_summary}\n"
+            if ev.event_type == EventType.DEBUT:
+                ja_text += f"{ev.begin.format('HH:mm')} {ev.summary}\n"
+                en_text += f"{ev.begin.format('HH:mm')} JST {ev.eng_summary}\n"
+            else:
+                ja_text += f"{ev.summary}\n"
+                en_text += f"{ev.eng_summary}\n"
+
             if type(ev.url) is str and len(ev.url) > 0:
                 ja_text += f"{ev.url}\n"
                 en_text += f"{ev.url}\n"
+
             ja_text += "\n"
             en_text += "\n"
 
