@@ -1,0 +1,1660 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <title>イベントマップ | Nij.iCal</title>
+    <meta property="og:title" content="イベントマップ | Nij.iCal" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="description" content="にじさんじ非公式カレンダー イベント地図表示" />
+    <meta property="og:description" content="にじさんじ非公式カレンダー イベント地図表示" />
+    <meta property="og:site_name" content="Nij.iCal" />
+    <meta property="og:image" content="https://magicien.github.io/CalTest/imgs/logo.png" />
+    <meta property="og:type" content="website" />
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- Leaflet.markercluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html, body {
+        max-width: 100vw;
+        overflow: hidden;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        height: 100dvh; /* Dynamic viewport height for mobile browsers */
+        max-height: 100vh;
+        max-height: 100dvh;
+        position: fixed;
+        width: 100%;
+      }
+
+      #controls {
+        padding: 15px;
+        background: #f5f5f5;
+        border-bottom: 1px solid #ddd;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        align-items: center;
+        position: relative;
+      }
+
+      #controls.collapsed {
+        display: none;
+      }
+
+      #logoLink {
+        position: fixed;
+        top: calc(15px + env(safe-area-inset-top));
+        left: calc(15px + env(safe-area-inset-left));
+        z-index: 1001;
+        display: block;
+        background: white;
+        border-radius: 4px;
+        padding: 8px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+        transition: transform 0.2s;
+      }
+
+      #logoLink:hover {
+        transform: scale(1.05);
+      }
+
+      #logoLink img {
+        display: block;
+        height: 40px;
+        width: auto;
+      }
+
+      #menuToggle {
+        position: fixed;
+        top: calc(15px + env(safe-area-inset-top));
+        right: calc(15px + env(safe-area-inset-right));
+        background: white;
+        border: none;
+        border-radius: 4px;
+        padding: 8px 12px;
+        cursor: pointer;
+        font-size: 20px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+        z-index: 1001;
+        transition: transform 0.2s;
+        min-width: 44px;
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #menuToggle:hover {
+        transform: scale(1.05);
+      }
+
+      #filterContent {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        align-items: center;
+        flex: 1;
+      }
+
+      #languageSelector {
+        position: fixed;
+        top: calc(21px + env(safe-area-inset-top));
+        right: calc(75px + env(safe-area-inset-right));
+        display: flex;
+        gap: 5px;
+        background: white;
+        border-radius: 4px;
+        padding: 2px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+        z-index: 1001;
+        transition: opacity 0.3s, visibility 0.3s;
+      }
+
+      #filterContent.hidden,
+      #languageSelector.hidden {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .lang-btn {
+        padding: 6px 12px;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        color: #666;
+        border-radius: 3px;
+        transition: all 0.2s;
+      }
+
+      .lang-btn:hover {
+        background: #f0f0f0;
+      }
+
+      .lang-btn.active {
+        background: #0066cc;
+        color: white;
+      }
+
+      .control-group {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+      }
+
+      .control-group label {
+        font-size: 12px;
+        font-weight: 600;
+        color: #333;
+      }
+
+      .control-group input,
+      .control-group select {
+        padding: 6px 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+        min-width: 0;
+        min-height: 38px;
+        height: 38px;
+      }
+
+      .control-group input[type="date"] {
+        max-width: 100%;
+        min-height: 38px;
+        height: 38px;
+      }
+
+      #performerFilter {
+        min-width: 200px;
+        max-width: 300px;
+      }
+
+      #map {
+        flex: 1;
+        width: 100%;
+        min-height: 0;
+        overflow: hidden;
+        position: relative;
+      }
+
+      #showOnlineEventsBtn {
+        position: fixed;
+        bottom: max(20px, calc(20px + env(safe-area-inset-bottom, 0px)));
+        right: max(20px, calc(20px + env(safe-area-inset-right, 0px)));
+        background: white;
+        border: 2px solid rgba(0,0,0,0.2);
+        border-radius: 4px;
+        padding: 10px 16px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        z-index: 1000;
+        transition: all 0.2s;
+        color: #333;
+      }
+
+      #showOnlineEventsBtn:hover {
+        background: #f0f0f0;
+        box-shadow: 0 3px 8px rgba(0,0,0,0.4);
+        transform: translateY(-1px);
+      }
+
+      #showOnlineEventsBtn:active {
+        transform: translateY(0);
+        box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      }
+
+      #onlineEventsPanel {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 400px;
+        max-width: 90%;
+        height: 100%;
+        background: white;
+        box-shadow: -2px 0 8px rgba(0,0,0,0.2);
+        overflow-y: auto;
+        z-index: 1000;
+        transform: translateX(100%);
+        transition: transform 0.3s ease-in-out, top 0.3s ease-in-out, height 0.3s ease-in-out;
+      }
+
+      #onlineEventsPanel.menu-hidden {
+        top: 60px;
+        height: calc(100% - 60px);
+      }
+
+      #onlineEventsPanel.visible {
+        transform: translateX(0);
+      }
+
+      #onlineEventsPanel .panel-header {
+        position: sticky;
+        top: 0;
+        background: white;
+        padding: 15px;
+        border-bottom: 2px solid #0066cc;
+        z-index: 1;
+      }
+
+      #onlineEventsPanel .panel-title-area {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 8px;
+      }
+
+      #onlineEventsPanel .panel-title {
+        font-size: 18px;
+        font-weight: 600;
+        color: #333;
+      }
+
+      #onlineEventsPanel .panel-note {
+        font-size: 12px;
+        color: #666;
+        line-height: 1.4;
+      }
+
+      #onlineEventsPanel .close-btn {
+        background: none;
+        border: none;
+        font-size: 24px;
+        cursor: pointer;
+        padding: 0;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #666;
+        transition: color 0.2s;
+      }
+
+      #onlineEventsPanel .close-btn:hover {
+        color: #000;
+      }
+
+      #onlineEventsPanel .panel-content {
+        padding: 15px;
+      }
+
+      .online-event-item {
+        padding: 15px;
+        margin-bottom: 15px;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        background: #fafafa;
+        transition: background 0.2s;
+      }
+
+      .online-event-item:hover {
+        background: #f0f0f0;
+      }
+
+      .online-event-title {
+        font-size: 16px;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 8px;
+      }
+
+      .online-event-info {
+        font-size: 13px;
+        color: #666;
+        margin: 4px 0;
+      }
+
+      .checkbox-control {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        cursor: pointer;
+      }
+
+      .checkbox-control input[type="checkbox"] {
+        cursor: pointer;
+        width: 18px;
+        height: 18px;
+      }
+
+      .checkbox-control label {
+        cursor: pointer;
+        margin: 0;
+        user-select: none;
+      }
+
+      .leaflet-popup-content {
+        min-width: 250px;
+      }
+
+      .popup-title {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 8px;
+        color: #333;
+      }
+
+      .popup-field {
+        margin: 5px 0;
+        font-size: 13px;
+        line-height: 1.5;
+      }
+
+      .popup-label {
+        font-weight: 600;
+        color: #666;
+      }
+
+      .popup-performers {
+        margin-top: 8px;
+        padding-top: 8px;
+        border-top: 1px solid #eee;
+      }
+
+      .popup-url {
+        margin-top: 8px;
+      }
+
+      .popup-url a {
+        color: #0066cc;
+        text-decoration: none;
+      }
+
+      .popup-url a:hover {
+        text-decoration: underline;
+      }
+
+      /* Tooltip for hover */
+      .leaflet-tooltip {
+        background: rgba(0, 0, 0, 0.9);
+        color: white;
+        border: none;
+        border-radius: 4px;
+        padding: 8px 12px;
+        font-size: 13px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+        white-space: normal !important;
+        width: max-content !important;
+        min-width: 150px !important;
+        max-width: calc(100vw - 40px) !important;
+        line-height: 1.4;
+      }
+
+      .leaflet-tooltip::before {
+        border-top-color: rgba(0, 0, 0, 0.9);
+      }
+
+      @media (max-width: 768px) {
+        #controls {
+          flex-direction: column;
+          align-items: stretch;
+          padding: 65px 8px 15px 8px;
+          gap: 12px;
+          width: 100%;
+          max-width: 100vw;
+        }
+
+        #filterContent {
+          flex-direction: column;
+          align-items: stretch;
+          width: 100%;
+          max-width: 100%;
+        }
+
+        .control-group {
+          width: 100%;
+          max-width: 100%;
+          overflow: hidden;
+        }
+
+        .control-group label {
+          width: 100%;
+        }
+
+        .control-group input,
+        .control-group select {
+          width: 100%;
+          max-width: 100%;
+          box-sizing: border-box;
+          min-width: 0;
+          padding: 6px 8px;
+          font-size: 16px;
+          min-height: 40px;
+          height: 40px;
+        }
+
+        .control-group input[type="date"] {
+          -webkit-appearance: none;
+          appearance: none;
+          min-height: 40px;
+          height: 40px;
+        }
+
+        #performerFilter {
+          min-width: 0;
+          max-width: none;
+        }
+
+        #logoLink {
+          top: calc(10px + env(safe-area-inset-top));
+          left: calc(10px + env(safe-area-inset-left));
+        }
+
+        #logoLink img {
+          height: 32px;
+        }
+
+        #menuToggle {
+          top: calc(10px + env(safe-area-inset-top));
+          right: calc(10px + env(safe-area-inset-right));
+        }
+
+        #languageSelector {
+          top: calc(16px + env(safe-area-inset-top));
+          right: calc(70px + env(safe-area-inset-right));
+        }
+
+        #filterContent.hidden + #languageSelector {
+          right: calc(70px + env(safe-area-inset-right));
+        }
+
+        .leaflet-popup-content-wrapper {
+          max-width: calc(100vw - 60px);
+        }
+
+        .leaflet-popup-content {
+          min-width: 0;
+          max-width: 100%;
+          width: auto;
+        }
+
+        .popup-title {
+          font-size: 14px;
+          word-wrap: break-word;
+          overflow-wrap: break-word;
+        }
+
+        .popup-info, .online-event-info {
+          font-size: 13px;
+          word-wrap: break-word;
+          overflow-wrap: break-word;
+        }
+
+        #onlineEventsPanel.menu-hidden {
+          top: 55px;
+          height: calc(100% - 55px);
+        }
+
+        #showOnlineEventsBtn {
+          bottom: max(20px, calc(20px + env(safe-area-inset-bottom, 0px)));
+          right: max(20px, calc(20px + env(safe-area-inset-right, 0px)));
+          padding: 8px 12px;
+          font-size: 13px;
+        }
+      }
+
+      @media (max-width: 768px) and (orientation: landscape) {
+        #controls {
+          padding-left: calc(60px + env(safe-area-inset-left));
+        }
+      }
+
+      @media (min-width: 769px) {
+        #menuToggle {
+          display: none;
+        }
+
+        #controls {
+          padding-left: calc(90px + env(safe-area-inset-left));
+        }
+
+        #languageSelector {
+          right: calc(20px + env(safe-area-inset-right));
+        }
+      }
+
+      @media (min-width: 769px) and (max-width: 1024px) and (orientation: portrait) {
+        #controls {
+          padding-left: calc(20px + env(safe-area-inset-left));
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <a href="./" id="logoLink">
+      <img src="./imgs/logo.png" alt="Nij.iCal">
+    </a>
+
+    <button id="menuToggle" aria-label="Close menu">×</button>
+
+    <div id="controls">
+      <div id="languageSelector">
+        <button class="lang-btn active" data-lang="ja">日本語</button>
+        <button class="lang-btn" data-lang="en">English</button>
+      </div>
+      <div id="filterContent">
+        <div class="control-group">
+          <label for="startDate" id="labelStartDate">開始日:</label>
+          <input type="date" id="startDate">
+        </div>
+        <div class="control-group">
+          <label for="endDate" id="labelEndDate">終了日:</label>
+          <input type="date" id="endDate">
+        </div>
+        <div class="control-group">
+          <label for="performerFilter" id="labelPerformer">出演者:</label>
+          <select id="performerFilter">
+            <option value="" id="optionAll">全て</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div id="map">
+      <button id="showOnlineEventsBtn" class="map-overlay-btn">
+        <span id="labelShowOnlineEvents">その他のイベントを表示</span>
+      </button>
+      <div id="onlineEventsPanel">
+        <div class="panel-header">
+          <div class="panel-title-area">
+            <div class="panel-title" id="onlineEventsPanelTitle">その他のイベント</div>
+            <button class="close-btn" id="closePanelBtn" aria-label="Close panel">×</button>
+          </div>
+          <div class="panel-note" id="onlineEventsPanelNote">※地図上に表示されないイベント（オンライン開催、全国各地開催、場所非公開など）</div>
+        </div>
+        <div class="panel-content" id="onlineEventsContent">
+          <!-- Other events will be inserted here -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Leaflet.markercluster JS -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <script>
+      // Global variables
+      let map;
+      let markers = [];
+      let markerClusterGroup;
+      let allEvents = [];
+      let allTalents = [];
+      let currentLanguage = 'ja'; // 'ja' or 'en'
+      let onlineEventsPanelVisible = false;
+      let isRestoringState = false; // Flag to prevent URL updates during restoration
+      let hasMapViewInURL = false; // Flag to indicate if URL has map view parameters
+      let currentOnlineEvents = []; // Store currently filtered online events
+
+      // Language labels
+      const labels = {
+        ja: {
+          startDate: '開始日:',
+          endDate: '終了日:',
+          performer: '出演者:',
+          all: '全て',
+          location: '場所:',
+          dateTime: '日時:',
+          performers: '出演者:',
+          eventsAtLocation: 'この場所で開催されたイベント:',
+          events: '件',
+          details: '詳細を見る',
+          none: 'なし',
+          showOnlineEvents: 'その他のイベントを表示',
+          onlineEvents: 'その他のイベント',
+          closePanel: '閉じる',
+          otherEventsNote: '※地図上に表示されないイベント（オンライン開催、全国各地開催、場所非公開など）'
+        },
+        en: {
+          startDate: 'Start Date:',
+          endDate: 'End Date:',
+          performer: 'Performer:',
+          all: 'All',
+          location: 'Location:',
+          dateTime: 'Date:',
+          performers: 'Performers:',
+          eventsAtLocation: 'Events at this location:',
+          events: 'events',
+          details: 'More details',
+          none: 'None',
+          showOnlineEvents: 'Show Other Events',
+          onlineEvents: 'Other Events',
+          closePanel: 'Close',
+          otherEventsNote: '※Events not shown on the map (online, nationwide, undisclosed location, etc.)'
+        }
+      };
+
+      // Initialize map
+      function initMap() {
+        map = L.map('map', {
+          zoomControl: false // Disable default zoom controls to avoid conflict with logo
+        }).setView([35.6812, 139.7671], 5); // Center on Tokyo
+
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+          maxZoom: 19
+        }).addTo(map);
+
+        // Prevent scroll propagation on popups to avoid map zooming
+        map.on('popupopen', function(e) {
+          const popupContent = e.popup.getElement().querySelector('.leaflet-popup-content');
+          if (popupContent) {
+            L.DomEvent.disableScrollPropagation(popupContent);
+          }
+        });
+
+        // Update URL when map view changes
+        map.on('moveend', updateURL);
+        map.on('zoomend', updateURL);
+      }
+
+      // Get current state as URL parameters
+      function getStateParams() {
+        const params = new URLSearchParams();
+
+        // Get filter values
+        const startDate = document.getElementById('startDate').value;
+        const endDate = document.getElementById('endDate').value;
+        const performer = document.getElementById('performerFilter').value;
+
+        if (startDate) params.set('startDate', startDate);
+        if (endDate) params.set('endDate', endDate);
+        if (performer) params.set('performer', performer);
+
+        // Get language
+        if (currentLanguage !== 'ja') {
+          params.set('lang', currentLanguage);
+        }
+
+        // Get map view
+        if (map) {
+          const center = map.getCenter();
+          const zoom = map.getZoom();
+          params.set('lat', center.lat.toFixed(6));
+          params.set('lng', center.lng.toFixed(6));
+          params.set('zoom', zoom);
+        }
+
+        // Get open marker position if any
+        let openMarkerPos = null;
+        if (map) {
+          map.eachLayer(layer => {
+            if (layer instanceof L.Marker && layer.getPopup() && layer.isPopupOpen()) {
+              const pos = layer.getLatLng();
+              openMarkerPos = `${pos.lat.toFixed(6)},${pos.lng.toFixed(6)}`;
+            }
+          });
+        }
+        if (openMarkerPos) {
+          params.set('marker', openMarkerPos);
+        }
+
+        return params;
+      }
+
+      // Update URL with current state
+      function updateURL() {
+        if (isRestoringState) return; // Don't update URL during state restoration
+
+        const params = getStateParams();
+        const url = params.toString() ? `?${params.toString()}` : window.location.pathname;
+        window.history.replaceState({}, '', url);
+      }
+
+      // Restore state from URL parameters
+      function restoreStateFromURL() {
+        isRestoringState = true;
+
+        const params = new URLSearchParams(window.location.search);
+
+        // Restore language first
+        const lang = params.get('lang');
+        if (lang && (lang === 'ja' || lang === 'en')) {
+          currentLanguage = lang;
+          document.querySelectorAll('.lang-btn').forEach(btn => {
+            if (btn.dataset.lang === currentLanguage) {
+              btn.classList.add('active');
+            } else {
+              btn.classList.remove('active');
+            }
+          });
+          updateUILabels();
+        }
+
+        // Restore filter values
+        const startDate = params.get('startDate');
+        const endDate = params.get('endDate');
+        const performer = params.get('performer');
+
+        if (startDate) {
+          document.getElementById('startDate').value = startDate;
+        }
+        if (endDate) {
+          document.getElementById('endDate').value = endDate;
+        }
+        // Performer will be set after talents are loaded
+
+        // Restore map view
+        const lat = params.get('lat');
+        const lng = params.get('lng');
+        const zoom = params.get('zoom');
+
+        if (lat && lng && zoom) {
+          hasMapViewInURL = true;
+          if (map) {
+            // Wait for map to be fully initialized
+            setTimeout(() => {
+              map.setView([parseFloat(lat), parseFloat(lng)], parseInt(zoom));
+            }, 100);
+          }
+        }
+
+        // Store marker position to open after markers are loaded
+        const markerPos = params.get('marker');
+        if (markerPos) {
+          const [markerLat, markerLng] = markerPos.split(',').map(parseFloat);
+          if (!isNaN(markerLat) && !isNaN(markerLng)) {
+            // Store for later use after markers are loaded
+            window.pendingMarkerOpen = { lat: markerLat, lng: markerLng };
+            console.log('Pending marker to open:', markerLat, markerLng);
+          }
+        }
+
+        setTimeout(() => {
+          isRestoringState = false;
+        }, 200);
+      }
+
+      // Open marker popup if there's a pending marker position
+      function openPendingMarker() {
+        if (!window.pendingMarkerOpen) return;
+
+        const { lat, lng } = window.pendingMarkerOpen;
+
+        // Wait for markers and cluster group to be fully loaded
+        setTimeout(() => {
+          let found = false;
+
+          // Search through all markers
+          markers.forEach(marker => {
+            const markerLatLng = marker.getLatLng();
+            const latDiff = Math.abs(markerLatLng.lat - lat);
+            const lngDiff = Math.abs(markerLatLng.lng - lng);
+
+            // Use a larger tolerance for comparison
+            if (latDiff < 0.00001 && lngDiff < 0.00001) {
+              // If marker is in a cluster, zoom to it first
+              if (markerClusterGroup) {
+                markerClusterGroup.zoomToShowLayer(marker, () => {
+                  marker.openPopup();
+                });
+              } else {
+                marker.openPopup();
+              }
+              found = true;
+            }
+          });
+
+          if (!found) {
+            console.warn('Marker not found at position:', lat, lng);
+            console.log('Available markers:', markers.map(m => {
+              const pos = m.getLatLng();
+              return `${pos.lat},${pos.lng}`;
+            }));
+          }
+
+          window.pendingMarkerOpen = null;
+        }, 1000); // Increased timeout to ensure everything is loaded
+      }
+
+      // Parse CSV with proper handling of quoted multi-line fields
+      function parseCSV(csv) {
+        const result = [];
+        let currentRecord = [];
+        let currentField = '';
+        let insideQuotes = false;
+        let headers = null;
+
+        for (let i = 0; i < csv.length; i++) {
+          const char = csv[i];
+          const nextChar = i < csv.length - 1 ? csv[i + 1] : null;
+
+          if (char === '"') {
+            if (insideQuotes && nextChar === '"') {
+              // Escaped quote
+              currentField += '"';
+              i++; // Skip next quote
+            } else {
+              // Toggle quote state
+              insideQuotes = !insideQuotes;
+            }
+          } else if (char === ',' && !insideQuotes) {
+            // End of field
+            currentRecord.push(currentField.trim());
+            currentField = '';
+          } else if ((char === '\n' || char === '\r') && !insideQuotes) {
+            // End of record
+            if (char === '\r' && nextChar === '\n') {
+              i++; // Skip \n in \r\n
+            }
+
+            if (currentField || currentRecord.length > 0) {
+              currentRecord.push(currentField.trim());
+              currentField = '';
+
+              if (!headers) {
+                // First line is headers
+                headers = currentRecord;
+              } else if (currentRecord.length === headers.length) {
+                // Valid record
+                const obj = {};
+                headers.forEach((header, index) => {
+                  obj[header] = currentRecord[index];
+                });
+                result.push(obj);
+              }
+
+              currentRecord = [];
+            }
+          } else {
+            currentField += char;
+          }
+        }
+
+        // Handle last record if exists
+        if (currentField || currentRecord.length > 0) {
+          currentRecord.push(currentField.trim());
+          if (headers && currentRecord.length === headers.length) {
+            const obj = {};
+            headers.forEach((header, index) => {
+              obj[header] = currentRecord[index];
+            });
+            result.push(obj);
+          }
+        }
+
+        return result;
+      }
+
+      // Parse event date string to Date object
+      function parseEventDate(dateStr) {
+        if (!dateStr) return null;
+        // Convert "2018/06/02 00:30" to "2018-06-02T00:30"
+        const normalized = dateStr.replace(/\//g, '-').replace(' ', 'T');
+        const date = new Date(normalized);
+        return isNaN(date.getTime()) ? null : date;
+      }
+
+      // Format date
+      function formatDate(dateStr) {
+        if (!dateStr) return '';
+        const date = parseEventDate(dateStr);
+        if (!date) return dateStr;
+
+        const locale = currentLanguage === 'ja' ? 'ja-JP' : 'en-US';
+        return date.toLocaleString(locale, {
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+      }
+
+      // Get localized event name
+      function getEventName(event) {
+        if (currentLanguage === 'en') {
+          return event['イベント名（英語）'] || event['イベント名'] || 'Unknown Event';
+        }
+        return event['イベント名'] || event['イベント名（英語）'] || '不明なイベント';
+      }
+
+      // Get localized location
+      function getLocation(event) {
+        if (currentLanguage === 'en') {
+          return event['場所（英語）'] || event['場所'] || 'Unknown Location';
+        }
+        return event['場所'] || event['場所（英語）'] || '不明な場所';
+      }
+
+      // Convert performer names to romaji if in English mode
+      function getPerformerName(japaneseName) {
+        if (currentLanguage === 'ja') {
+          return japaneseName;
+        }
+        // Find the talent in allTalents and return romaji if available
+        const talent = allTalents.find(t => t['名前'] === japaneseName);
+        return talent && talent['ローマ字'] ? talent['ローマ字'] : japaneseName;
+      }
+
+      // Format performers list based on current language
+      function formatPerformers(performersString) {
+        if (!performersString) return '';
+        const performers = performersString.split(',').map(p => p.trim());
+        return performers.map(p => getPerformerName(p)).join(', ');
+      }
+
+      // Create popup content for multiple events
+      function createPopupContent(events) {
+        const lang = labels[currentLanguage];
+
+        // If single event, show full details
+        if (events.length === 1) {
+          const event = events[0];
+          let html = `<div class="popup-title">${getEventName(event)}</div>`;
+
+          if (event['開始日時']) {
+            html += `<div class="popup-field"><span class="popup-label">${lang.dateTime}</span> ${formatDate(event['開始日時'])}`;
+            if (event['終了日時'] && event['終了日時'] !== event['開始日時']) {
+              html += ` - ${formatDate(event['終了日時'])}`;
+            }
+            html += `</div>`;
+          }
+
+          const location = getLocation(event);
+          if (location !== (currentLanguage === 'en' ? 'Unknown Location' : '不明な場所')) {
+            html += `<div class="popup-field"><span class="popup-label">${lang.location}</span> ${location}</div>`;
+          }
+
+          if (event['参加者']) {
+            html += `<div class="popup-field popup-performers"><span class="popup-label">${lang.performers}</span><br>${formatPerformers(event['参加者'])}</div>`;
+          }
+
+          if (event['URL']) {
+            html += `<div class="popup-url"><a href="${event['URL']}" target="_blank" rel="noopener">${lang.details}</a></div>`;
+          }
+
+          return html;
+        }
+
+        // Multiple events at same location
+        const location = getLocation(events[0]);
+        let html = `<div class="popup-title">${location}</div>`;
+        html += `<div class="popup-field" style="margin-bottom: 10px;"><span class="popup-label">${lang.eventsAtLocation} ${events.length}${lang.events}</span></div>`;
+
+        events.forEach((event, index) => {
+          if (index > 0) {
+            html += `<hr style="margin: 10px 0; border: none; border-top: 1px solid #eee;">`;
+          }
+
+          html += `<div style="margin-bottom: 8px;">`;
+          html += `<div style="font-weight: 600; color: #333;">${getEventName(event)}</div>`;
+
+          if (event['開始日時']) {
+            html += `<div class="popup-field" style="margin: 3px 0;"><span class="popup-label">${lang.dateTime}</span> ${formatDate(event['開始日時'])}`;
+            if (event['終了日時'] && event['終了日時'] !== event['開始日時']) {
+              html += ` - ${formatDate(event['終了日時'])}`;
+            }
+            html += `</div>`;
+          }
+
+          if (event['参加者']) {
+            html += `<div class="popup-field" style="margin: 3px 0;"><span class="popup-label">${lang.performers}</span> ${formatPerformers(event['参加者'])}</div>`;
+          }
+
+          if (event['URL']) {
+            html += `<div class="popup-url" style="margin-top: 5px;"><a href="${event['URL']}" target="_blank" rel="noopener">${lang.details}</a></div>`;
+          }
+
+          html += `</div>`;
+        });
+
+        return html;
+      }
+
+      // Create tooltip content (for hover on PC)
+      function createTooltipContent(events) {
+        const lang = labels[currentLanguage];
+
+        if (events.length === 1) {
+          const event = events[0];
+          const eventName = getEventName(event);
+          const date = event['開始日時'] ? formatDate(event['開始日時']).split(' ')[0] : '';
+          return `${date} ${eventName}`;
+        }
+
+        // Multiple events at same location
+        const location = getLocation(events[0]);
+        const eventsText = currentLanguage === 'ja' ? `${events.length}件のイベント` : `${events.length} ${lang.events}`;
+        let tooltip = `${location} (${eventsText})<br>`;
+
+        events.slice(0, 5).forEach(event => {
+          const eventName = getEventName(event);
+          const date = event['開始日時'] ? formatDate(event['開始日時']).split(' ')[0] : '';
+          tooltip += `<br>• ${date} ${eventName}`;
+        });
+
+        if (events.length > 5) {
+          const moreText = currentLanguage === 'ja' ? `他${events.length - 5}件` : `${events.length - 5} more`;
+          tooltip += `<br>... ${moreText}`;
+        }
+
+        return tooltip;
+      }
+
+      // Add markers to map
+      function addMarkers(events) {
+        // Clear existing markers and cluster group
+        if (markerClusterGroup) {
+          map.removeLayer(markerClusterGroup);
+        }
+        markers = [];
+
+        // Create new marker cluster group
+        markerClusterGroup = L.markerClusterGroup({
+          maxClusterRadius: 50,
+          spiderfyOnMaxZoom: true,
+          showCoverageOnHover: false,
+          zoomToBoundsOnClick: true
+        });
+
+        // Group events by location (lat, lng)
+        const locationGroups = new Map();
+
+        events.forEach(event => {
+          if (!event['geo']) return;
+
+          const [lat, lng] = event['geo'].split(',').map(coord => parseFloat(coord.trim()));
+          if (isNaN(lat) || isNaN(lng)) return;
+
+          // Create a key for this location (rounded to avoid floating point issues)
+          const locationKey = `${lat.toFixed(6)},${lng.toFixed(6)}`;
+
+          if (!locationGroups.has(locationKey)) {
+            locationGroups.set(locationKey, {
+              lat: lat,
+              lng: lng,
+              events: []
+            });
+          }
+
+          locationGroups.get(locationKey).events.push(event);
+        });
+
+        // Create a marker for each location
+        locationGroups.forEach(location => {
+          // Sort events by date
+          location.events.sort((a, b) => {
+            const dateA = a['開始日時'] ? new Date(a['開始日時'].replace(' ', 'T')) : new Date(0);
+            const dateB = b['開始日時'] ? new Date(b['開始日時'].replace(' ', 'T')) : new Date(0);
+            return dateA - dateB;
+          });
+
+          const marker = L.marker([location.lat, location.lng]);
+
+          // Popup on click
+          // Calculate popup maxHeight based on available map height
+          const isMobile = window.innerWidth <= 768;
+          let popupMaxHeight = 400;
+
+          if (isMobile) {
+            const controls = document.getElementById('controls');
+            const isMenuVisible = !controls.classList.contains('collapsed');
+
+            if (isMenuVisible) {
+              // Menu is visible - use smaller height
+              const controlsHeight = controls.offsetHeight || 0;
+              const availableMapHeight = window.innerHeight - controlsHeight;
+              // Use 60% of available map height, max 300px
+              popupMaxHeight = Math.min(Math.floor(availableMapHeight * 0.6), 300);
+            } else {
+              // Menu is hidden - use larger height
+              // Use 70% of window height, max 400px
+              popupMaxHeight = Math.min(Math.floor(window.innerHeight * 0.7), 400);
+            }
+          }
+
+          marker.bindPopup(createPopupContent(location.events), {
+            maxWidth: 500,
+            maxHeight: popupMaxHeight
+          });
+
+          // Tooltip on hover (for PC)
+          marker.bindTooltip(createTooltipContent(location.events), {
+            direction: 'top',
+            offset: [0, -20],
+            permanent: false
+          });
+
+          // Update URL when popup opens or closes
+          marker.on('popupopen', updateURL);
+          marker.on('popupclose', updateURL);
+
+          markers.push(marker);
+          markerClusterGroup.addLayer(marker);
+        });
+
+        // Add cluster group to map
+        map.addLayer(markerClusterGroup);
+
+        // Fit bounds if there are markers (but not if we have a specific view from URL or a pending marker)
+        if (markers.length > 0 && !hasMapViewInURL && !window.pendingMarkerOpen) {
+          const group = L.featureGroup(markers);
+          map.fitBounds(group.getBounds().pad(0.1));
+        }
+
+        // Reset hasMapViewInURL flag after first render
+        if (hasMapViewInURL) {
+          setTimeout(() => {
+            hasMapViewInURL = false;
+          }, 2000);
+        }
+
+        // Open pending marker if any
+        openPendingMarker();
+      }
+
+      // Filter events
+      function filterEvents() {
+        const startDate = document.getElementById('startDate').value;
+        const endDate = document.getElementById('endDate').value;
+        const performer = document.getElementById('performerFilter').value;
+        const showOnline = onlineEventsPanelVisible;
+
+        let filtered = allEvents.filter(event => {
+          // Filter by date
+          if (startDate && event['開始日時']) {
+            const eventDate = parseEventDate(event['開始日時']);
+            if (!eventDate) return true; // If date parsing fails, include the event
+
+            const filterStart = new Date(startDate);
+            filterStart.setHours(0, 0, 0, 0); // Start of day
+
+            if (eventDate < filterStart) return false;
+          }
+
+          if (endDate && event['開始日時']) {
+            const eventDate = parseEventDate(event['開始日時']);
+            if (!eventDate) return true; // If date parsing fails, include the event
+
+            const filterEnd = new Date(endDate);
+            filterEnd.setHours(23, 59, 59, 999); // End of day
+
+            if (eventDate > filterEnd) return false;
+          }
+
+          // Filter by performer
+          if (performer && event['参加者']) {
+            const performers = event['参加者'].split(',').map(p => p.trim());
+
+            // Check if the selected performer is in the event
+            const hasSelectedPerformer = performers.includes(performer);
+
+            // Check if "にじさんじ" is in the event
+            const hasNijisanji = performers.includes('にじさんじ');
+
+            // If the event has the selected performer, always show it
+            if (hasSelectedPerformer) {
+              return true;
+            }
+
+            // If the event has "にじさんじ", check if it's within the performer's active period
+            if (hasNijisanji) {
+              // Find the selected performer's talent data
+              const selectedTalent = allTalents.find(t => t['名前'] === performer);
+
+              if (selectedTalent && event['開始日時']) {
+                const eventDate = parseEventDate(event['開始日時']);
+                if (!eventDate) return true; // If date parsing fails, include the event
+
+                // Check activity start date
+                if (selectedTalent['活動開始日時']) {
+                  const activityStartDate = parseEventDate(selectedTalent['活動開始日時']);
+                  if (activityStartDate && eventDate < activityStartDate) {
+                    return false; // Event is before activity start
+                  }
+                }
+
+                // Check graduation date
+                if (selectedTalent['卒業'] && selectedTalent['卒業'].trim() !== '') {
+                  const graduationDate = parseEventDate(selectedTalent['卒業']);
+                  if (graduationDate && eventDate > graduationDate) {
+                    return false; // Event is after graduation
+                  }
+                }
+
+                return true; // Event is within active period
+              }
+
+              return true; // If no date info, include the event
+            }
+
+            // Event doesn't have the selected performer or にじさんじ
+            return false;
+          }
+
+          return true;
+        });
+
+        // Separate online and location-based events
+        const onlineEvents = filtered.filter(event => !event['geo'] || event['geo'].trim() === '');
+        const locationEvents = filtered.filter(event => event['geo'] && event['geo'].trim() !== '');
+
+        // Store online events for later use
+        currentOnlineEvents = onlineEvents;
+
+        // Update map markers
+        addMarkers(locationEvents);
+
+        // Update online events panel content (but don't change visibility)
+        displayOnlineEvents(onlineEvents);
+
+        // Update panel visibility based on current state
+        if (onlineEventsPanelVisible) {
+          showOnlineEventsPanel();
+        } else {
+          hideOnlineEventsPanel();
+        }
+
+        // Update URL with current state
+        updateURL();
+      }
+
+      // Display online events in panel
+      function displayOnlineEvents(events) {
+        const content = document.getElementById('onlineEventsContent');
+        const lang = labels[currentLanguage];
+
+        if (events.length === 0) {
+          content.innerHTML = `<div style="text-align: center; color: #999; padding: 40px;">${lang.none}</div>`;
+          return;
+        }
+
+        // Sort events by date
+        const sortedEvents = events.sort((a, b) => {
+          const dateA = parseEventDate(a['開始日時']);
+          const dateB = parseEventDate(b['開始日時']);
+          if (!dateA) return 1;
+          if (!dateB) return -1;
+          return dateA - dateB;
+        });
+
+        content.innerHTML = sortedEvents.map(event => {
+          const eventName = getEventName(event);
+          const dateTime = event['開始日時'] ? formatDate(event['開始日時']) : '';
+          const performers = event['参加者'] ? formatPerformers(event['参加者']) : '';
+          const url = event['URL'] || '';
+
+          return `
+            <div class="online-event-item">
+              <div class="online-event-title">${eventName}</div>
+              ${dateTime ? `<div class="online-event-info"><strong>${lang.dateTime}</strong> ${dateTime}</div>` : ''}
+              ${performers ? `<div class="online-event-info"><strong>${lang.performers}</strong> ${performers}</div>` : ''}
+              ${url ? `<div class="online-event-info"><a href="${url}" target="_blank" rel="noopener">${lang.details}</a></div>` : ''}
+            </div>
+          `;
+        }).join('');
+      }
+
+      // Show online events panel
+      function showOnlineEventsPanel() {
+        const panel = document.getElementById('onlineEventsPanel');
+        panel.classList.add('visible');
+      }
+
+      // Hide online events panel
+      function hideOnlineEventsPanel() {
+        document.getElementById('onlineEventsPanel').classList.remove('visible');
+      }
+
+      // Populate performer filter with talents sorted by furigana or romaji
+      function populatePerformerFilter() {
+        const select = document.getElementById('performerFilter');
+        const lang = labels[currentLanguage];
+
+        // Clear existing options except "All"
+        while (select.options.length > 1) {
+          select.remove(1);
+        }
+
+        // Update "All" option text
+        select.options[0].textContent = lang.all;
+
+        // Sort talents based on current language
+        const sortedTalents = [...allTalents].sort((a, b) => {
+          if (currentLanguage === 'en') {
+            // Sort by romaji alphabetically
+            const romajiA = a['ローマ字'] || a['名前'] || '';
+            const romajiB = b['ローマ字'] || b['名前'] || '';
+            return romajiA.localeCompare(romajiB, 'en');
+          } else {
+            // Sort by furigana (50-on order)
+            const furiganaA = a['ふりがな'] || a['名前'] || '';
+            const furiganaB = b['ふりがな'] || b['名前'] || '';
+            return furiganaA.localeCompare(furiganaB, 'ja');
+          }
+        });
+
+        sortedTalents.forEach(talent => {
+          // Skip "にじさんじ" from the performer list
+          if (talent['名前'] === 'にじさんじ') {
+            return;
+          }
+          const option = document.createElement('option');
+          option.value = talent['名前'];
+          // Display name or romaji based on language
+          option.textContent = currentLanguage === 'en' ? (talent['ローマ字'] || talent['名前']) : talent['名前'];
+          select.appendChild(option);
+        });
+      }
+
+      // Update UI labels based on current language
+      function updateUILabels() {
+        const lang = labels[currentLanguage];
+
+        document.getElementById('labelStartDate').textContent = lang.startDate;
+        document.getElementById('labelEndDate').textContent = lang.endDate;
+        document.getElementById('labelPerformer').textContent = lang.performer;
+        document.getElementById('labelShowOnlineEvents').textContent = lang.showOnlineEvents;
+        document.getElementById('onlineEventsPanelTitle').textContent = lang.onlineEvents;
+        document.getElementById('onlineEventsPanelNote').textContent = lang.otherEventsNote;
+
+        // Update logo link
+        const logoLink = document.getElementById('logoLink');
+        logoLink.href = currentLanguage === 'ja' ? './' : './index_en.html';
+      }
+
+      // Switch language
+      function switchLanguage(newLang) {
+        if (newLang === currentLanguage) return;
+
+        currentLanguage = newLang;
+
+        // Save current state before switching
+        const savedPerformer = document.getElementById('performerFilter').value;
+        const savedStartDate = document.getElementById('startDate').value;
+        const savedEndDate = document.getElementById('endDate').value;
+
+        // Save open popup position if any
+        let openPopupLatLng = null;
+        map.eachLayer(layer => {
+          if (layer instanceof L.Marker && layer.getPopup() && layer.isPopupOpen()) {
+            openPopupLatLng = layer.getLatLng();
+          }
+        });
+
+        // Update button states
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+          if (btn.dataset.lang === newLang) {
+            btn.classList.add('active');
+          } else {
+            btn.classList.remove('active');
+          }
+        });
+
+        // Update UI labels
+        updateUILabels();
+
+        // Update performer filter
+        populatePerformerFilter();
+
+        // Restore saved state
+        document.getElementById('performerFilter').value = savedPerformer;
+        document.getElementById('startDate').value = savedStartDate;
+        document.getElementById('endDate').value = savedEndDate;
+
+        // Refresh markers with current filter
+        filterEvents();
+
+        // Reopen popup at the same location if it was open
+        if (openPopupLatLng) {
+          setTimeout(() => {
+            markers.forEach(marker => {
+              const markerLatLng = marker.getLatLng();
+              if (markerLatLng.lat === openPopupLatLng.lat && markerLatLng.lng === openPopupLatLng.lng) {
+                marker.openPopup();
+              }
+            });
+          }, 100);
+        }
+
+        // Update URL with new language
+        updateURL();
+      }
+
+      // Load talents data
+      async function loadTalents() {
+        try {
+          const response = await fetch('./data/talents.csv');
+          const csv = await response.text();
+          allTalents = parseCSV(csv);
+
+          populatePerformerFilter();
+          return true;
+        } catch (error) {
+          console.error('Error loading talents:', error);
+          const errorMsg = currentLanguage === 'ja' ? 'タレントデータの読み込みに失敗しました。' : 'Failed to load talent data.';
+          alert(errorMsg);
+          return false;
+        }
+      }
+
+      // Load events data
+      async function loadEvents() {
+        try {
+          const response = await fetch('./data/events.csv');
+          const csv = await response.text();
+          allEvents = parseCSV(csv);
+
+          // Don't add markers here - let filterEvents handle it
+          return true;
+        } catch (error) {
+          console.error('Error loading events:', error);
+          const errorMsg = currentLanguage === 'ja' ? 'イベントデータの読み込みに失敗しました。' : 'Failed to load event data.';
+          alert(errorMsg);
+          return false;
+        }
+      }
+
+      // Toggle menu visibility
+      let menuVisible = true;
+      function toggleMenu() {
+        menuVisible = !menuVisible;
+        const controls = document.getElementById('controls');
+        const filterContent = document.getElementById('filterContent');
+        const languageSelector = document.getElementById('languageSelector');
+        const menuToggle = document.getElementById('menuToggle');
+        const onlineEventsPanel = document.getElementById('onlineEventsPanel');
+
+        if (menuVisible) {
+          // Show filters
+          controls.classList.remove('collapsed');
+          filterContent.classList.remove('hidden');
+          languageSelector.classList.remove('hidden');
+          menuToggle.textContent = '×';
+          menuToggle.setAttribute('aria-label', 'Close menu');
+          // Remove top margin from panel when menu is visible
+          onlineEventsPanel.classList.remove('menu-hidden');
+        } else {
+          // Hide filters
+          controls.classList.add('collapsed');
+          filterContent.classList.add('hidden');
+          languageSelector.classList.add('hidden');
+          menuToggle.textContent = '☰';
+          menuToggle.setAttribute('aria-label', 'Open menu');
+          // Add top margin to panel when menu is hidden
+          onlineEventsPanel.classList.add('menu-hidden');
+        }
+
+        // Recalculate map size after layout change
+        setTimeout(() => {
+          map.invalidateSize();
+        }, 100);
+      }
+
+      // Event listeners
+      // Track previous values to detect actual changes
+      let startDatePrevValue = document.getElementById('startDate').value;
+      let endDatePrevValue = document.getElementById('endDate').value;
+
+      document.getElementById('startDate').addEventListener('focus', function(e) {
+        startDatePrevValue = e.target.value;
+      });
+      document.getElementById('startDate').addEventListener('change', function(e) {
+        filterEvents();
+        // Close calendar picker if:
+        // 1. Value changed from non-empty to another value, OR
+        // 2. Value was cleared (reset button pressed)
+        if (e.target.value !== startDatePrevValue) {
+          if ((e.target.value && startDatePrevValue !== '') || (!e.target.value && startDatePrevValue !== '')) {
+            setTimeout(() => e.target.blur(), 100);
+          }
+        }
+      });
+
+      document.getElementById('endDate').addEventListener('focus', function(e) {
+        endDatePrevValue = e.target.value;
+      });
+      document.getElementById('endDate').addEventListener('change', function(e) {
+        filterEvents();
+        // Close calendar picker if:
+        // 1. Value changed from non-empty to another value, OR
+        // 2. Value was cleared (reset button pressed)
+        if (e.target.value !== endDatePrevValue) {
+          if ((e.target.value && endDatePrevValue !== '') || (!e.target.value && endDatePrevValue !== '')) {
+            setTimeout(() => e.target.blur(), 100);
+          }
+        }
+      });
+      document.getElementById('performerFilter').addEventListener('change', filterEvents);
+      // Button to show online events panel
+      document.getElementById('showOnlineEventsBtn').addEventListener('click', () => {
+        onlineEventsPanelVisible = !onlineEventsPanelVisible;
+        if (onlineEventsPanelVisible) {
+          // Display current online events without re-filtering
+          displayOnlineEvents(currentOnlineEvents);
+          showOnlineEventsPanel();
+        } else {
+          hideOnlineEventsPanel();
+        }
+        // Don't call filterEvents() to avoid changing map state
+      });
+
+      // Menu toggle event listener
+      document.getElementById('menuToggle').addEventListener('click', toggleMenu);
+
+      // Online events panel close button
+      document.getElementById('closePanelBtn').addEventListener('click', () => {
+        onlineEventsPanelVisible = false;
+        hideOnlineEventsPanel();
+        // Don't call filterEvents() to avoid changing map state
+      });
+
+      // Language selector event listeners
+      document.querySelectorAll('.lang-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          switchLanguage(btn.dataset.lang);
+        });
+      });
+
+      // Prevent click propagation on overlay button
+      const onlineEventsBtn = document.getElementById('showOnlineEventsBtn');
+      if (onlineEventsBtn) {
+        L.DomEvent.disableClickPropagation(onlineEventsBtn);
+      }
+
+      // Prevent scroll propagation on controls to avoid scrolling the page/map when dragging in menu
+      const controls = document.getElementById('controls');
+      if (controls) {
+        L.DomEvent.disableScrollPropagation(controls);
+        // Also prevent touch events from causing page scroll on mobile
+        L.DomEvent.on(controls, 'touchstart touchmove', function(e) {
+          L.DomEvent.stopPropagation(e);
+        });
+        // Prevent mouse wheel from scrolling the page
+        controls.addEventListener('wheel', function(e) {
+          e.stopPropagation();
+        }, { passive: false });
+      }
+
+      // Prevent scroll and click propagation on online events panel
+      const onlineEventsPanel = document.getElementById('onlineEventsPanel');
+      if (onlineEventsPanel) {
+        L.DomEvent.disableScrollPropagation(onlineEventsPanel);
+        L.DomEvent.disableClickPropagation(onlineEventsPanel);
+        // Also prevent map dragging when touching the panel
+        L.DomEvent.on(onlineEventsPanel, 'touchstart touchmove touchend', function(e) {
+          L.DomEvent.stopPropagation(e);
+        });
+      }
+
+      // Handle screen resize/orientation change
+      function handleResize() {
+        const isLandscape = window.innerWidth > window.innerHeight;
+        const isWideScreen = window.innerWidth >= 600;
+
+        // Force show menu when screen is landscape or wide enough
+        if ((isLandscape || isWideScreen) && !menuVisible) {
+          menuVisible = true;
+          const controls = document.getElementById('controls');
+          const filterContent = document.getElementById('filterContent');
+          const languageSelector = document.getElementById('languageSelector');
+          const menuToggle = document.getElementById('menuToggle');
+          const onlineEventsPanel = document.getElementById('onlineEventsPanel');
+
+          controls.classList.remove('collapsed');
+          filterContent.classList.remove('hidden');
+          languageSelector.classList.remove('hidden');
+          menuToggle.textContent = '×';
+          menuToggle.setAttribute('aria-label', 'Close menu');
+          onlineEventsPanel.classList.remove('menu-hidden');
+
+          // Recalculate map size
+          setTimeout(() => {
+            map.invalidateSize();
+          }, 100);
+        }
+      }
+
+      // Listen for resize and orientation change
+      window.addEventListener('resize', handleResize);
+      window.addEventListener('orientationchange', function() {
+        setTimeout(handleResize, 100); // Delay to allow orientation change to complete
+      });
+
+      // Initialize
+      initMap();
+
+      // Restore state from URL before loading data
+      restoreStateFromURL();
+
+      loadTalents().then(() => {
+        // After talents are loaded, restore performer filter from URL
+        const params = new URLSearchParams(window.location.search);
+        const performer = params.get('performer');
+        if (performer) {
+          document.getElementById('performerFilter').value = performer;
+        }
+      });
+
+      loadEvents().then(() => {
+        // After events are loaded, apply filters
+        filterEvents();
+      });
+    </script>
+  </body>
+</html>

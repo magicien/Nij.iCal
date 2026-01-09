@@ -7,9 +7,11 @@ image: /imgs/logo.png
 ---
 [日本語ページ](index.md)
 
-If you subscribe using a calendar app, updates will be reflected automatically.
+[Calendars](#calendars) | [Event Map](map.html?lang=en)
 
 ## Calendars
+
+If you subscribe using a calendar app, updates will be reflected automatically.
 
 |Calendar|English|Japanese|
 |---|---|---|

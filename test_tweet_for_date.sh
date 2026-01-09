@@ -12,4 +12,4 @@ fi
 
 DATE=$1
 
-poetry run python tweet_todays_events.py data/talents.csv data/events.csv data/tickets.csv "$DATE"
+poetry run python tweet_todays_events.py docs/data/talents.csv docs/data/events.csv docs/data/tickets.csv "$DATE"

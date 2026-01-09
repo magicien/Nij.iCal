@@ -22,9 +22,9 @@ jobs:
           TALENT_DATA_URL: ${{ secrets.TALENT_DATA_URL }}
           TICKET_DATA_URL: ${{ secrets.TICKET_DATA_URL }}
         run: |
-          wget -O data/events.csv "${EVENT_DATA_URL}"
-          wget -O data/talents.csv "${TALENT_DATA_URL}"
-          wget -O data/tickets.csv "${TICKET_DATA_URL}"
+          wget -O docs/data/events.csv "${EVENT_DATA_URL}"
+          wget -O docs/data/talents.csv "${TALENT_DATA_URL}"
+          wget -O docs/data/tickets.csv "${TICKET_DATA_URL}"
 
       - name: Generate calendars
         run: ./run.sh
