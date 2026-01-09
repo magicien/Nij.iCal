@@ -13,5 +13,7 @@ function updateFilter(event) {
 
 window.addEventListener('load', function() {
     var input = document.getElementById('liver-filter-input');
-    input.addEventListener('input', updateFilter);
+    if (input != null) {
+        input.addEventListener('input', updateFilter);
+    }
 });
