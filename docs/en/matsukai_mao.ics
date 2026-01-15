@@ -294,6 +294,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -334,6 +335,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -690,6 +692,16 @@ DTEND:20351031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Matsukai Mao 16th Anniversary
 DESCRIPTION:Matsukai Mao 16th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://x.com/matsukai_mao\n\n
+URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ce30e594-117f-4c82-8ea0-149688022036
+DTSTAMP:20250316T025049Z
+DTSTART:20361031T070000Z
+DTEND:20361031T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Matsukai Mao 17th Anniversary
+DESCRIPTION:Matsukai Mao 17th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 22:00 (JST)\n\n\n==========\n【Matsukai Mao】\nYouTube: https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nX: https://x.com/matsukai_mao\n\n
 URL:https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg
 END:VEVENT
 END:VCALENDAR

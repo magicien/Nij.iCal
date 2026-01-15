@@ -483,6 +483,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -523,6 +524,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -941,6 +943,16 @@ DTEND:20350322T070201Z
 TRANSP:TRANSPARENT
 SUMMARY:Inui Toko 16th Anniversary
 DESCRIPTION:Inui Toko 16th Anniversary\n\nFirst tweet: Mar 22, 2019, 16:02 (JST)\nFirst stream: Mar 23, 2019, 22:00 (JST)\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg
+END:VEVENT
+BEGIN:VEVENT
+UID:87a7e5bc-2707-47cb-9060-771f7a022036
+DTSTAMP:20250316T022612Z
+DTSTART:20360322T070200Z
+DTEND:20360322T070201Z
+TRANSP:TRANSPARENT
+SUMMARY:Inui Toko 17th Anniversary
+DESCRIPTION:Inui Toko 17th Anniversary\n\nFirst tweet: Mar 22, 2019, 16:02 (JST)\nFirst stream: Mar 23, 2019, 22:00 (JST)\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
 URL:https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg
 END:VEVENT
 END:VCALENDAR

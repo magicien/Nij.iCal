@@ -270,6 +270,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -310,6 +311,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -656,6 +658,16 @@ DTEND:20350811T010101Z
 TRANSP:TRANSPARENT
 SUMMARY:エトナ クリムソン 15周年
 DESCRIPTION:エトナ クリムソン 15周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://x.com/Etna_Crimson\n\n
+URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
+END:VEVENT
+BEGIN:VEVENT
+UID:3028f006-0187-4876-8810-176742022036
+DTSTAMP:20250316T043134Z
+DTSTART:20360811T010100Z
+DTEND:20360811T010101Z
+TRANSP:TRANSPARENT
+SUMMARY:エトナ クリムソン 16周年
+DESCRIPTION:エトナ クリムソン 16周年\n\n初ツイート：2020/08/11 10:01 （日本時間）\n初配信：2020/08/09 18:00 （日本時間）\n\n\n==========\n【エトナ クリムソン】\nYouTube: https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw\nX: https://x.com/Etna_Crimson\n\n
 URL:https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw
 END:VEVENT
 END:VCALENDAR

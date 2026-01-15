@@ -23,6 +23,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -43,6 +44,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -339,6 +341,16 @@ DTEND:20350917T080501Z
 TRANSP:TRANSPARENT
 SUMMARY:Hanakago Tsubasa 10th Anniversary
 DESCRIPTION:Hanakago Tsubasa 10th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 19:30 (JST)\n\n\n==========\n【Hanakago Tsubasa】\nYouTube: https://www.youtube.com/@HanakagoTsubasa\nX: https://x.com/Hanakago_2434rr\n\n
+URL:https://www.youtube.com/@HanakagoTsubasa
+END:VEVENT
+BEGIN:VEVENT
+UID:9a45d10c-2f97-4f22-b5c7-db2dbe022036
+DTSTAMP:20250917T123635Z
+DTSTART:20360917T080500Z
+DTEND:20360917T080501Z
+TRANSP:TRANSPARENT
+SUMMARY:Hanakago Tsubasa 11th Anniversary
+DESCRIPTION:Hanakago Tsubasa 11th Anniversary\n\nFirst tweet: Sep 17, 2025, 17:05 (JST)\nFirst stream: Sep 19, 2025, 19:30 (JST)\n\n\n==========\n【Hanakago Tsubasa】\nYouTube: https://www.youtube.com/@HanakagoTsubasa\nX: https://x.com/Hanakago_2434rr\n\n
 URL:https://www.youtube.com/@HanakagoTsubasa
 END:VEVENT
 END:VCALENDAR

@@ -258,6 +258,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -298,6 +299,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -686,6 +688,16 @@ DTEND:20350222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:アルバーン・ノックス 13周年
 DESCRIPTION:アルバーン・ノックス 13周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 12:09 （日本時間）\n\n\n==========\n【アルバーン・ノックス】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
+URL:https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw
+END:VEVENT
+BEGIN:VEVENT
+UID:2afcf5a9-8159-4de0-a0e8-b195f2022036
+DTSTAMP:20250316T072124Z
+DTSTART:20360222T020300Z
+DTEND:20360222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:アルバーン・ノックス 14周年
+DESCRIPTION:アルバーン・ノックス 14周年\n\n初ツイート：2022/02/22 11:03 （日本時間）\n初配信：2022/02/27 12:09 （日本時間）\n\n\n==========\n【アルバーン・ノックス】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
 URL:https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw
 END:VEVENT
 END:VCALENDAR

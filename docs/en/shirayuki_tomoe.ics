@@ -479,6 +479,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -519,6 +520,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -875,6 +877,16 @@ DTEND:20351128T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:Shirayuki Tomoe 16th Anniversary
 DESCRIPTION:Shirayuki Tomoe 16th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:03 (JST)\nFirst stream: Nov 30, 2019, 21:03 (JST)\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n
+URL:https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw
+END:VEVENT
+BEGIN:VEVENT
+UID:69944e92-e109-4049-b66d-eaff1e022036
+DTSTAMP:20250316T031817Z
+DTSTART:20361128T070300Z
+DTEND:20361128T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:Shirayuki Tomoe 17th Anniversary
+DESCRIPTION:Shirayuki Tomoe 17th Anniversary\n\nFirst tweet: Nov 28, 2019, 16:03 (JST)\nFirst stream: Nov 30, 2019, 21:03 (JST)\n\n\n==========\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n
 URL:https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw
 END:VEVENT
 END:VCALENDAR

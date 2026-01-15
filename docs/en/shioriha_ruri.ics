@@ -284,6 +284,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -324,6 +325,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:60681f23-b184-4de9-84c2-2dedc25147e0
@@ -783,6 +785,16 @@ DTEND:20351121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Shioriha Ruri 12th Anniversary
 DESCRIPTION:Shioriha Ruri 12th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:30 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://x.com/Ruri_4ori8\n\n
+URL:https://www.youtube.com/@ShiorihaRuri
+END:VEVENT
+BEGIN:VEVENT
+UID:badf7f8f-1451-4204-b353-3f1f87022036
+DTSTAMP:20250316T054926Z
+DTSTART:20361121T030200Z
+DTEND:20361121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Shioriha Ruri 13th Anniversary
+DESCRIPTION:Shioriha Ruri 13th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:30 (JST)\n\n\n==========\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://x.com/Ruri_4ori8\n\n
 URL:https://www.youtube.com/@ShiorihaRuri
 END:VEVENT
 END:VCALENDAR

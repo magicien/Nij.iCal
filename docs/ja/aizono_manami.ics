@@ -386,6 +386,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -426,6 +427,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -782,6 +784,16 @@ DTEND:20350402T070101Z
 TRANSP:TRANSPARENT
 SUMMARY:愛園愛美 16周年
 DESCRIPTION:愛園愛美 16周年\n\n初ツイート：2019/04/02 16:01 （日本時間）\n初配信：2019/04/07 19:01 （日本時間）\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://x.com/manami_aizono\n\n
+URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9edd0d-4af3-42e5-9d4a-44c443022036
+DTSTAMP:20250316T022855Z
+DTSTART:20360402T070100Z
+DTEND:20360402T070101Z
+TRANSP:TRANSPARENT
+SUMMARY:愛園愛美 17周年
+DESCRIPTION:愛園愛美 17周年\n\n初ツイート：2019/04/02 16:01 （日本時間）\n初配信：2019/04/07 19:01 （日本時間）\n\n\n==========\n【愛園愛美】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://x.com/manami_aizono\n\n
 URL:https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA
 END:VEVENT
 END:VCALENDAR

@@ -479,6 +479,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -519,6 +520,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -875,6 +877,16 @@ DTEND:20351128T070301Z
 TRANSP:TRANSPARENT
 SUMMARY:白雪巴 16周年
 DESCRIPTION:白雪巴 16周年\n\n初ツイート：2019/11/28 16:03 （日本時間）\n初配信：2019/11/30 21:03 （日本時間）\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n
+URL:https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw
+END:VEVENT
+BEGIN:VEVENT
+UID:69944e92-e109-4049-b66d-eaff1e022036
+DTSTAMP:20250316T031817Z
+DTSTART:20361128T070300Z
+DTEND:20361128T070301Z
+TRANSP:TRANSPARENT
+SUMMARY:白雪巴 17周年
+DESCRIPTION:白雪巴 17周年\n\n初ツイート：2019/11/28 16:03 （日本時間）\n初配信：2019/11/30 21:03 （日本時間）\n\n\n==========\n【白雪巴】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n
 URL:https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw
 END:VEVENT
 END:VCALENDAR

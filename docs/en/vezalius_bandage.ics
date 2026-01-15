@@ -202,6 +202,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -242,6 +243,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -558,6 +560,16 @@ DTEND:20350622T000201Z
 TRANSP:TRANSPARENT
 SUMMARY:Vezalius Bandage 12th Anniversary
 DESCRIPTION:Vezalius Bandage 12th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:02 (JST)\nFirst stream: Jun 25, 2023, 11:09 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://x.com/VezaliusBandage\n\n
+URL:https://www.youtube.com/@VezaliusBandage
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bd65cd-4a09-4d56-9612-f71a21022036
+DTSTAMP:20250316T073300Z
+DTSTART:20360622T000200Z
+DTEND:20360622T000201Z
+TRANSP:TRANSPARENT
+SUMMARY:Vezalius Bandage 13th Anniversary
+DESCRIPTION:Vezalius Bandage 13th Anniversary\n\nFirst tweet: Jun 22, 2023, 9:02 (JST)\nFirst stream: Jun 25, 2023, 11:09 (JST)\n\n\n==========\n【Vezalius Bandage】\nYouTube: https://www.youtube.com/@VezaliusBandage\nX: https://x.com/VezaliusBandage\n\n
 URL:https://www.youtube.com/@VezaliusBandage
 END:VEVENT
 END:VCALENDAR

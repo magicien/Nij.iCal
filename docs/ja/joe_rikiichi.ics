@@ -481,6 +481,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -521,6 +522,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:60681f23-b184-4de9-84c2-2dedc25147e0
@@ -1051,6 +1053,16 @@ DTEND:20350831T091501Z
 TRANSP:TRANSPARENT
 SUMMARY:ジョー・力一 17周年
 DESCRIPTION:ジョー・力一 17周年\n\n初ツイート：2018/08/31 18:15 （日本時間）\n初配信：2018/09/09 23:01 （日本時間）\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://x.com/joerikiichi\n\n
+URL:https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8b3db9-9e6e-434b-83a5-8a6c58022036
+DTSTAMP:20250316T020454Z
+DTSTART:20360831T091500Z
+DTEND:20360831T091501Z
+TRANSP:TRANSPARENT
+SUMMARY:ジョー・力一 18周年
+DESCRIPTION:ジョー・力一 18周年\n\n初ツイート：2018/08/31 18:15 （日本時間）\n初配信：2018/09/09 23:01 （日本時間）\n\n\n==========\n【ジョー・力一】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://x.com/joerikiichi\n\n
 URL:https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ
 END:VEVENT
 BEGIN:VEVENT

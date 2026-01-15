@@ -43,6 +43,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -83,6 +84,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -379,6 +381,16 @@ DTEND:20350814T090901Z
 TRANSP:TRANSPARENT
 SUMMARY:夜牛詩乃 10周年
 DESCRIPTION:夜牛詩乃 10周年\n\n初ツイート：2025/08/14 18:09 （日本時間）\n初配信：2025/08/15 18:30 （日本時間）\n\n\n==========\n【夜牛詩乃】\nYouTube: https://www.youtube.com/@YagyuShino\nX: https://x.com/YagyuShino\n\n
+URL:https://www.youtube.com/@YagyuShino
+END:VEVENT
+BEGIN:VEVENT
+UID:506a4a61-8940-4770-a466-6ac743022036
+DTSTAMP:20250814T104903Z
+DTSTART:20360814T090900Z
+DTEND:20360814T090901Z
+TRANSP:TRANSPARENT
+SUMMARY:夜牛詩乃 11周年
+DESCRIPTION:夜牛詩乃 11周年\n\n初ツイート：2025/08/14 18:09 （日本時間）\n初配信：2025/08/15 18:30 （日本時間）\n\n\n==========\n【夜牛詩乃】\nYouTube: https://www.youtube.com/@YagyuShino\nX: https://x.com/YagyuShino\n\n
 URL:https://www.youtube.com/@YagyuShino
 END:VEVENT
 END:VCALENDAR

@@ -336,6 +336,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -376,6 +377,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aa6ea3ba-d953-4156-8b44-87a4dc5c9e6c
@@ -857,6 +859,16 @@ DTEND:20350116T040001Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuramochi Meruto 12th Anniversary
 DESCRIPTION:Kuramochi Meruto 12th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://x.com/k_meruto\n\n
+URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc60159-7e4d-4c70-933a-01e380022036
+DTSTAMP:20250316T050309Z
+DTSTART:20360116T040000Z
+DTEND:20360116T040001Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuramochi Meruto 13th Anniversary
+DESCRIPTION:Kuramochi Meruto 13th Anniversary\n\nFirst tweet: Jan 16, 2023, 13:00 (JST)\nFirst stream: Jan 20, 2023, 20:00 (JST)\n\n\n==========\n【Kuramochi Meruto】\nYouTube: https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw\nX: https://x.com/k_meruto\n\n
 URL:https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw
 END:VEVENT
 END:VCALENDAR

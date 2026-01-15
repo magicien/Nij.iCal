@@ -353,6 +353,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -393,6 +394,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -749,6 +751,16 @@ DTEND:20351031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Luis Cammy 16th Anniversary
 DESCRIPTION:Luis Cammy 16th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 21:00 (JST)\n\n\n==========\n【Luis Cammy】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://x.com/Luis_Cammy\n\n
+URL:https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw
+END:VEVENT
+BEGIN:VEVENT
+UID:b87e3ae4-45d8-44b2-88ed-9ea20e022036
+DTSTAMP:20250316T025021Z
+DTSTART:20361031T070000Z
+DTEND:20361031T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Luis Cammy 17th Anniversary
+DESCRIPTION:Luis Cammy 17th Anniversary\n\nFirst tweet: Oct 31, 2019, 16:00 (JST)\nFirst stream: Nov 3, 2019, 21:00 (JST)\n\n\n==========\n【Luis Cammy】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://x.com/Luis_Cammy\n\n
 URL:https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw
 END:VEVENT
 END:VCALENDAR

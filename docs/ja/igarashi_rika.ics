@@ -247,6 +247,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -287,6 +288,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aa6ea3ba-d953-4156-8b44-87a4dc5c9e6c
@@ -768,6 +770,16 @@ DTEND:20350116T050201Z
 TRANSP:TRANSPARENT
 SUMMARY:五十嵐梨花 12周年
 DESCRIPTION:五十嵐梨花 12周年\n\n初ツイート：2023/01/16 14:02 （日本時間）\n初配信：2023/01/19 19:59 （日本時間）\n\n\n==========\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://x.com/1garashi_Rika\n\n
+URL:https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ
+END:VEVENT
+BEGIN:VEVENT
+UID:0df0b7df-f95e-41c0-97ca-da2c09022036
+DTSTAMP:20250316T050138Z
+DTSTART:20360116T050200Z
+DTEND:20360116T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:五十嵐梨花 13周年
+DESCRIPTION:五十嵐梨花 13周年\n\n初ツイート：2023/01/16 14:02 （日本時間）\n初配信：2023/01/19 19:59 （日本時間）\n\n\n==========\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://x.com/1garashi_Rika\n\n
 URL:https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ
 END:VEVENT
 END:VCALENDAR

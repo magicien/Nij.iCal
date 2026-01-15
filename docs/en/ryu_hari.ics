@@ -270,6 +270,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -310,6 +311,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -656,6 +658,16 @@ DTEND:20351009T103401Z
 TRANSP:TRANSPARENT
 SUMMARY:Ryu Hari 15th Anniversary
 DESCRIPTION:Ryu Hari 15th Anniversary\n\nFirst tweet: Oct 9, 2020, 19:34 (JST)\nFirst stream: Oct 16, 2020, 20:30 (JST)\n\n\n==========\n【Ryu Hari】\nYouTube: https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A\nX: https://x.com/HariRyu2434\n\n
+URL:https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe50f58-190d-471b-a4ef-3ac18c022036
+DTSTAMP:20250316T045205Z
+DTSTART:20361009T103400Z
+DTEND:20361009T103401Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryu Hari 16th Anniversary
+DESCRIPTION:Ryu Hari 16th Anniversary\n\nFirst tweet: Oct 9, 2020, 19:34 (JST)\nFirst stream: Oct 16, 2020, 20:30 (JST)\n\n\n==========\n【Ryu Hari】\nYouTube: https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A\nX: https://x.com/HariRyu2434\n\n
 URL:https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A
 END:VEVENT
 END:VCALENDAR

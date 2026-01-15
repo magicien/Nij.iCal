@@ -247,6 +247,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -287,6 +288,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -613,6 +615,16 @@ DTEND:20350720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:アスター アルカディア 13周年
 DESCRIPTION:アスター アルカディア 13周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:45 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://x.com/AsterArcadia\n\n
+URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
+END:VEVENT
+BEGIN:VEVENT
+UID:0362bbaa-103f-4917-ab05-700645022036
+DTSTAMP:20250316T072537Z
+DTSTART:20360720T000000Z
+DTEND:20360720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:アスター アルカディア 14周年
+DESCRIPTION:アスター アルカディア 14周年\n\n初ツイート：2022/07/20 09:00 （日本時間）\n初配信：2022/07/25 10:45 （日本時間）\n\n\n==========\n【アスター アルカディア】\nYouTube: https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw\nX: https://x.com/AsterArcadia\n\n
 URL:https://www.youtube.com/channel/UCpzxZW5kghGnO5TmAFJQAVw
 END:VEVENT
 END:VCALENDAR

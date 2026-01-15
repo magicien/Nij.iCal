@@ -270,6 +270,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -310,6 +311,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -666,6 +668,16 @@ DTEND:20351218T122601Z
 TRANSP:TRANSPARENT
 SUMMARY:Rai Galilei 16th Anniversary
 DESCRIPTION:Rai Galilei 16th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:26 (JST)\nFirst stream: Dec 20, 2019, 20:59 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://x.com/Rai_Galilei\n\n
+URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb8927-b1ec-4e65-802b-722863022036
+DTSTAMP:20250316T042726Z
+DTSTART:20361218T122600Z
+DTEND:20361218T122601Z
+TRANSP:TRANSPARENT
+SUMMARY:Rai Galilei 17th Anniversary
+DESCRIPTION:Rai Galilei 17th Anniversary\n\nFirst tweet: Dec 18, 2019, 21:26 (JST)\nFirst stream: Dec 20, 2019, 20:59 (JST)\n\n\n==========\n【Rai Galilei】\nYouTube: https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ\nX: https://x.com/Rai_Galilei\n\n
 URL:https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ
 END:VEVENT
 END:VCALENDAR

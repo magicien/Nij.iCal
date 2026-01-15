@@ -235,6 +235,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -275,6 +276,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -601,6 +603,16 @@ DTEND:20351206T000301Z
 TRANSP:TRANSPARENT
 SUMMARY:Doppio Dropscythe 13th Anniversary
 DESCRIPTION:Doppio Dropscythe 13th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 9:41 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://x.com/D_Dropscythe\n\n
+URL:https://www.youtube.com/@DoppioDropscythe
+END:VEVENT
+BEGIN:VEVENT
+UID:0df861e1-9298-4282-a59e-ebc6a6022036
+DTSTAMP:20250316T072844Z
+DTSTART:20361206T000300Z
+DTEND:20361206T000301Z
+TRANSP:TRANSPARENT
+SUMMARY:Doppio Dropscythe 14th Anniversary
+DESCRIPTION:Doppio Dropscythe 14th Anniversary\n\nFirst tweet: Dec 6, 2022, 9:03 (JST)\nFirst stream: Dec 10, 2022, 9:41 (JST)\n\n\n==========\n【Doppio Dropscythe】\nYouTube: https://www.youtube.com/@DoppioDropscythe\nX: https://x.com/D_Dropscythe\n\n
 URL:https://www.youtube.com/@DoppioDropscythe
 END:VEVENT
 END:VCALENDAR

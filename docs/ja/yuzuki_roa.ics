@@ -293,6 +293,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -333,6 +334,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -689,6 +691,16 @@ DTEND:20350118T073001Z
 TRANSP:TRANSPARENT
 SUMMARY:夢月ロア 16周年
 DESCRIPTION:夢月ロア 16周年\n\n初ツイート：2019/01/18 16:30 （日本時間）\n初配信：2019/01/20 21:11 （日本時間）\n\n\n==========\n【夢月ロア】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://x.com/yuzuki_roa\n\n
+URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e24dc1-0913-4704-aa35-8c02d6022036
+DTSTAMP:20250316T022304Z
+DTSTART:20360118T073000Z
+DTEND:20360118T073001Z
+TRANSP:TRANSPARENT
+SUMMARY:夢月ロア 17周年
+DESCRIPTION:夢月ロア 17周年\n\n初ツイート：2019/01/18 16:30 （日本時間）\n初配信：2019/01/20 21:11 （日本時間）\n\n\n==========\n【夢月ロア】\nYouTube: https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw\nX: https://x.com/yuzuki_roa\n\n
 URL:https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw
 END:VEVENT
 BEGIN:VEVENT

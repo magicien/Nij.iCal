@@ -317,6 +317,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -357,6 +358,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -713,6 +715,16 @@ DTEND:20350429T070801Z
 TRANSP:TRANSPARENT
 SUMMARY:鈴原るる 16周年
 DESCRIPTION:鈴原るる 16周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 17:00 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://x.com/lulu_suzuhara\n\n
+URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
+END:VEVENT
+BEGIN:VEVENT
+UID:d73efa92-ff09-406f-af0e-30de30022036
+DTSTAMP:20251224T114209Z
+DTSTART:20360429T070800Z
+DTEND:20360429T070801Z
+TRANSP:TRANSPARENT
+SUMMARY:鈴原るる 17周年
+DESCRIPTION:鈴原るる 17周年\n\n初ツイート：2019/04/29 16:08 （日本時間）\n初配信：2019/05/01 17:00 （日本時間）\n\n\n==========\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://x.com/lulu_suzuhara\n\n
 URL:https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w
 END:VEVENT
 END:VCALENDAR

@@ -451,6 +451,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -491,6 +492,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -847,6 +849,16 @@ DTEND:20350703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:Hakase Fuyuki 16th Anniversary
 DESCRIPTION:Hakase Fuyuki 16th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:00 (JST)\nFirst stream: Jul 6, 2019, 20:44 (JST)\n\n\n==========\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://x.com/hakase_fuyuki\n\n
+URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
+END:VEVENT
+BEGIN:VEVENT
+UID:27d21651-7e10-4743-9334-634c5c022036
+DTSTAMP:20250316T023314Z
+DTSTART:20360703T070000Z
+DTEND:20360703T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:Hakase Fuyuki 17th Anniversary
+DESCRIPTION:Hakase Fuyuki 17th Anniversary\n\nFirst tweet: Jul 3, 2019, 16:00 (JST)\nFirst stream: Jul 6, 2019, 20:44 (JST)\n\n\n==========\n【Hakase Fuyuki】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://x.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 END:VCALENDAR

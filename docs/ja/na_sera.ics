@@ -247,6 +247,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -287,6 +288,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -623,6 +625,16 @@ DTEND:20350825T115001Z
 TRANSP:TRANSPARENT
 SUMMARY:ナ セラ 14周年
 DESCRIPTION:ナ セラ 14周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://x.com/NaSera2434\n\n
+URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
+END:VEVENT
+BEGIN:VEVENT
+UID:974e5854-c543-4809-8a62-4d4218022036
+DTSTAMP:20250316T045706Z
+DTSTART:20360825T115000Z
+DTEND:20360825T115001Z
+TRANSP:TRANSPARENT
+SUMMARY:ナ セラ 15周年
+DESCRIPTION:ナ セラ 15周年\n\n初ツイート：2021/08/25 20:50 （日本時間）\n初配信：2021/09/01 20:59 （日本時間）\n\n\n==========\n【ナ セラ】\nYouTube: https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg\nX: https://x.com/NaSera2434\n\n
 URL:https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg
 END:VEVENT
 END:VCALENDAR

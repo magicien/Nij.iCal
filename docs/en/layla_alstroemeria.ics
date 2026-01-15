@@ -270,6 +270,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -310,6 +311,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -656,6 +658,16 @@ DTEND:20350313T105301Z
 TRANSP:TRANSPARENT
 SUMMARY:Layla Alstroemeria 15th Anniversary
 DESCRIPTION:Layla Alstroemeria 15th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:53 (JST)\nFirst stream: Mar 15, 2020, 21:41 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://x.com/LaylaAlstro2434\n\n
+URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
+END:VEVENT
+BEGIN:VEVENT
+UID:95bcd64d-ad62-4f6c-84d7-990475022036
+DTSTAMP:20250316T043104Z
+DTSTART:20360313T105300Z
+DTEND:20360313T105301Z
+TRANSP:TRANSPARENT
+SUMMARY:Layla Alstroemeria 16th Anniversary
+DESCRIPTION:Layla Alstroemeria 16th Anniversary\n\nFirst tweet: Mar 13, 2020, 19:53 (JST)\nFirst stream: Mar 15, 2020, 21:41 (JST)\n\n\n==========\n【Layla Alstroemeria】\nYouTube: https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg\nX: https://x.com/LaylaAlstro2434\n\n
 URL:https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg
 END:VEVENT
 END:VCALENDAR

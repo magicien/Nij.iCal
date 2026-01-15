@@ -353,6 +353,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -393,6 +394,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -749,6 +751,16 @@ DTEND:20351031T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:ルイス・キャミー 16周年
 DESCRIPTION:ルイス・キャミー 16周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 21:00 （日本時間）\n\n\n==========\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://x.com/Luis_Cammy\n\n
+URL:https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw
+END:VEVENT
+BEGIN:VEVENT
+UID:b87e3ae4-45d8-44b2-88ed-9ea20e022036
+DTSTAMP:20250316T025021Z
+DTSTART:20361031T070000Z
+DTEND:20361031T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:ルイス・キャミー 17周年
+DESCRIPTION:ルイス・キャミー 17周年\n\n初ツイート：2019/10/31 16:00 （日本時間）\n初配信：2019/11/03 21:00 （日本時間）\n\n\n==========\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://x.com/Luis_Cammy\n\n
 URL:https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw
 END:VEVENT
 END:VCALENDAR

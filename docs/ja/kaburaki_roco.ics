@@ -306,6 +306,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -346,6 +347,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:aa6ea3ba-d953-4156-8b44-87a4dc5c9e6c
@@ -827,6 +829,16 @@ DTEND:20350116T031101Z
 TRANSP:TRANSPARENT
 SUMMARY:鏑木ろこ 12周年
 DESCRIPTION:鏑木ろこ 12周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://x.com/65_kaburaki\n\n
+URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
+END:VEVENT
+BEGIN:VEVENT
+UID:a419b426-300d-4357-a277-3f49b2022036
+DTSTAMP:20250316T050111Z
+DTSTART:20360116T031100Z
+DTEND:20360116T031101Z
+TRANSP:TRANSPARENT
+SUMMARY:鏑木ろこ 13周年
+DESCRIPTION:鏑木ろこ 13周年\n\n初ツイート：2023/01/16 12:11 （日本時間）\n初配信：2023/01/20 20:30 （日本時間）\n\n\n==========\n【鏑木ろこ】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://x.com/65_kaburaki\n\n
 URL:https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA
 END:VEVENT
 END:VCALENDAR

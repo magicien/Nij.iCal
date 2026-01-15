@@ -190,6 +190,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -230,6 +231,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -598,6 +600,16 @@ DTEND:20350813T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:早乙女ベリー 11周年
 DESCRIPTION:早乙女ベリー 11周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 20:00 （日本時間）\n\n\n==========\n【早乙女ベリー】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n
+URL:https://www.youtube.com/@Saotomeberry
+END:VEVENT
+BEGIN:VEVENT
+UID:5af17888-1510-4deb-ae3d-1660fe022036
+DTSTAMP:20250316T055456Z
+DTSTART:20360813T090500Z
+DTEND:20360813T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:早乙女ベリー 12周年
+DESCRIPTION:早乙女ベリー 12周年\n\n初ツイート：2024/08/13 18:05 （日本時間）\n初配信：2024/08/16 20:00 （日本時間）\n\n\n==========\n【早乙女ベリー】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n
 URL:https://www.youtube.com/@Saotomeberry
 END:VEVENT
 END:VCALENDAR

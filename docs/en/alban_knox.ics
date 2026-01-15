@@ -258,6 +258,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -298,6 +299,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -686,6 +688,16 @@ DTEND:20350222T020301Z
 TRANSP:TRANSPARENT
 SUMMARY:Alban Knox 13th Anniversary
 DESCRIPTION:Alban Knox 13th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:03 (JST)\nFirst stream: Feb 27, 2022, 12:09 (JST)\n\n\n==========\n【Alban Knox】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
+URL:https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw
+END:VEVENT
+BEGIN:VEVENT
+UID:2afcf5a9-8159-4de0-a0e8-b195f2022036
+DTSTAMP:20250316T072124Z
+DTSTART:20360222T020300Z
+DTEND:20360222T020301Z
+TRANSP:TRANSPARENT
+SUMMARY:Alban Knox 14th Anniversary
+DESCRIPTION:Alban Knox 14th Anniversary\n\nFirst tweet: Feb 22, 2022, 11:03 (JST)\nFirst stream: Feb 27, 2022, 12:09 (JST)\n\n\n==========\n【Alban Knox】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
 URL:https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw
 END:VEVENT
 END:VCALENDAR

@@ -269,6 +269,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -309,6 +310,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -645,6 +647,16 @@ DTEND:20350512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:Finana Ryugu 14th Anniversary
 DESCRIPTION:Finana Ryugu 14th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 10:00 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022036
+DTSTAMP:20250316T060050Z
+DTSTART:20360512T131000Z
+DTEND:20360512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:Finana Ryugu 15th Anniversary
+DESCRIPTION:Finana Ryugu 15th Anniversary\n\nFirst tweet: May 12, 2021, 22:10 (JST)\nFirst stream: May 16, 2021, 10:00 (JST)\n\n\n==========\n【Finana Ryugu】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 END:VCALENDAR
