@@ -341,6 +341,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -381,6 +382,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -747,6 +749,16 @@ DTEND:20350831T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:でびでび・でびる 17周年
 DESCRIPTION:でびでび・でびる 17周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://x.com/debidebiru_sama\n\n
+URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b5dc8-13b8-4f91-8ad6-b76cad022036
+DTSTAMP:20251218T115404Z
+DTSTART:20360831T070000Z
+DTEND:20360831T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:でびでび・でびる 18周年
+DESCRIPTION:でびでび・でびる 18周年\n\n初ツイート：2018/08/31 16:00 （日本時間）\n初配信：2018/09/04 23:00 （日本時間）\n\n\n==========\n【でびでび・でびる】\nYouTube: https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w\nX: https://x.com/debidebiru_sama\n\n
 URL:https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w
 END:VEVENT
 BEGIN:VEVENT

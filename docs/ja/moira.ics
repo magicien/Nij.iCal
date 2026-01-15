@@ -316,6 +316,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -356,6 +357,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -722,6 +724,16 @@ DTEND:20350131T104301Z
 TRANSP:TRANSPARENT
 SUMMARY:モイラ 17周年
 DESCRIPTION:モイラ 17周年\n\n初ツイート：2018/01/31 19:43 （日本時間）\n初配信：2018/02/09 22:32 （日本時間）\n\n\n==========\n【モイラ】\nYouTube: https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA\nX: https://x.com/moiramoimoimoi\n\n
+URL:https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA
+END:VEVENT
+BEGIN:VEVENT
+UID:a8610b25-303a-4149-bc17-6005ae022036
+DTSTAMP:20250315T140145Z
+DTSTART:20360131T104300Z
+DTEND:20360131T104301Z
+TRANSP:TRANSPARENT
+SUMMARY:モイラ 18周年
+DESCRIPTION:モイラ 18周年\n\n初ツイート：2018/01/31 19:43 （日本時間）\n初配信：2018/02/09 22:32 （日本時間）\n\n\n==========\n【モイラ】\nYouTube: https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA\nX: https://x.com/moiramoimoimoi\n\n
 URL:https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA
 END:VEVENT
 BEGIN:VEVENT

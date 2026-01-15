@@ -327,6 +327,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -367,6 +368,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -723,6 +725,16 @@ DTEND:20350619T071301Z
 TRANSP:TRANSPARENT
 SUMMARY:Hayama Marin 16th Anniversary
 DESCRIPTION:Hayama Marin 16th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:13 (JST)\nFirst stream: Jun 25, 2019, 21:01 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://x.com/Hayama_Marin\n\n
+URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
+END:VEVENT
+BEGIN:VEVENT
+UID:8623c4b6-780a-4333-9a34-270971022036
+DTSTAMP:20250316T040120Z
+DTSTART:20360619T071300Z
+DTEND:20360619T071301Z
+TRANSP:TRANSPARENT
+SUMMARY:Hayama Marin 17th Anniversary
+DESCRIPTION:Hayama Marin 17th Anniversary\n\nFirst tweet: Jun 19, 2019, 16:13 (JST)\nFirst stream: Jun 25, 2019, 21:01 (JST)\n\n\n==========\n【Hayama Marin】\nYouTube: https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ\nX: https://x.com/Hayama_Marin\n\n
 URL:https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ
 END:VEVENT
 END:VCALENDAR

@@ -293,6 +293,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -333,6 +334,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -699,6 +701,16 @@ DTEND:20350809T103801Z
 TRANSP:TRANSPARENT
 SUMMARY:Amemori Sayo 17th Anniversary
 DESCRIPTION:Amemori Sayo 17th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:38 (JST)\nFirst stream: Aug 28, 2018, 20:10 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://x.com/sayo_amemori\n\n
+URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
+END:VEVENT
+BEGIN:VEVENT
+UID:db582e84-4873-4e35-87d4-47c12d022036
+DTSTAMP:20250315T152302Z
+DTSTART:20360809T103800Z
+DTEND:20360809T103801Z
+TRANSP:TRANSPARENT
+SUMMARY:Amemori Sayo 18th Anniversary
+DESCRIPTION:Amemori Sayo 18th Anniversary\n\nFirst tweet: Aug 9, 2018, 19:38 (JST)\nFirst stream: Aug 28, 2018, 20:10 (JST)\n\n\n==========\n【Amemori Sayo】\nYouTube: https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A\nX: https://x.com/sayo_amemori\n\n
 URL:https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A
 END:VEVENT
 BEGIN:VEVENT

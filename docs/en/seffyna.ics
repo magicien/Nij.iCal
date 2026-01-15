@@ -247,6 +247,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -287,6 +288,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:d91bb73c-aa08-48d3-8ed6-b5a7d9d21c74
@@ -635,6 +637,16 @@ DTEND:20350423T073701Z
 TRANSP:TRANSPARENT
 SUMMARY:Seffyna 14th Anniversary
 DESCRIPTION:Seffyna 14th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:37 (JST)\nFirst stream: Apr 30, 2021, 19:59 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://x.com/Seffyna2434\n\n
+URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05ab3c-6bd1-498d-817a-9ff6cd022036
+DTSTAMP:20250316T045348Z
+DTSTART:20360423T073700Z
+DTEND:20360423T073701Z
+TRANSP:TRANSPARENT
+SUMMARY:Seffyna 15th Anniversary
+DESCRIPTION:Seffyna 15th Anniversary\n\nFirst tweet: Apr 23, 2021, 16:37 (JST)\nFirst stream: Apr 30, 2021, 19:59 (JST)\n\n\n==========\n【Seffyna】\nYouTube: https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow\nX: https://x.com/Seffyna2434\n\n
 URL:https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow
 END:VEVENT
 END:VCALENDAR

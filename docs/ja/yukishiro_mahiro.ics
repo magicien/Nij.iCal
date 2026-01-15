@@ -396,6 +396,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -436,6 +437,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -792,6 +794,16 @@ DTEND:20350429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:雪城眞尋 16周年
 DESCRIPTION:雪城眞尋 16周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://x.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022036
+DTSTAMP:20250316T022947Z
+DTSTART:20360429T070700Z
+DTEND:20360429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:雪城眞尋 17周年
+DESCRIPTION:雪城眞尋 17周年\n\n初ツイート：2019/04/29 16:07 （日本時間）\n初配信：2019/05/01 18:14 （日本時間）\n\n\n==========\n【雪城眞尋】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://x.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 END:VCALENDAR

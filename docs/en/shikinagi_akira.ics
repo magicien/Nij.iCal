@@ -283,6 +283,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -323,6 +324,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -660,6 +662,16 @@ DTEND:20350712T150401Z
 TRANSP:TRANSPARENT
 SUMMARY:Shikinagi Akira 13th Anniversary
 DESCRIPTION:Shikinagi Akira 13th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:04 (JST)\nFirst stream: Jul 16, 2022, 20:00 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://x.com/Shikinagi_2434\n\n
+URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
+END:VEVENT
+BEGIN:VEVENT
+UID:ba36aefa-a98d-425e-a2e2-948053022036
+DTSTAMP:20250316T042413Z
+DTSTART:20360712T150400Z
+DTEND:20360712T150401Z
+TRANSP:TRANSPARENT
+SUMMARY:Shikinagi Akira 14th Anniversary
+DESCRIPTION:Shikinagi Akira 14th Anniversary\n\nFirst tweet: Jul 13, 2022, 0:04 (JST)\nFirst stream: Jul 16, 2022, 20:00 (JST)\n\n\n==========\n【Shikinagi Akira】\nYouTube: https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg\nX: https://x.com/Shikinagi_2434\n\n
 URL:https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg
 END:VEVENT
 END:VCALENDAR

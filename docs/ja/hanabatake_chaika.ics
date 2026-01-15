@@ -500,6 +500,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -540,6 +541,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -906,6 +908,16 @@ DTEND:20350603T042601Z
 TRANSP:TRANSPARENT
 SUMMARY:花畑チャイカ 17周年
 DESCRIPTION:花畑チャイカ 17周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 22:00 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://x.com/zulmihp1nlmot5y\n\n
+URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
+END:VEVENT
+BEGIN:VEVENT
+UID:e419468f-f8bc-479c-9257-e45093022036
+DTSTAMP:20250315T150725Z
+DTSTART:20360603T042600Z
+DTEND:20360603T042601Z
+TRANSP:TRANSPARENT
+SUMMARY:花畑チャイカ 18周年
+DESCRIPTION:花畑チャイカ 18周年\n\n初ツイート：2018/06/03 13:26 （日本時間）\n初配信：2018/06/07 22:00 （日本時間）\n\n\n==========\n【花畑チャイカ】\nYouTube: https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg\nX: https://x.com/zulmihp1nlmot5y\n\n
 URL:https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg
 END:VEVENT
 BEGIN:VEVENT

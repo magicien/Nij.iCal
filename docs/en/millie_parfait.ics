@@ -269,6 +269,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -309,6 +310,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -645,6 +647,16 @@ DTEND:20351006T020101Z
 TRANSP:TRANSPARENT
 SUMMARY:Millie Parfait 14th Anniversary
 DESCRIPTION:Millie Parfait 14th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://x.com/MillieParfait\n\n
+URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
+END:VEVENT
+BEGIN:VEVENT
+UID:48f0c650-4c3d-4ca2-97d8-c5a3ac022036
+DTSTAMP:20250316T071506Z
+DTSTART:20361006T020100Z
+DTEND:20361006T020101Z
+TRANSP:TRANSPARENT
+SUMMARY:Millie Parfait 15th Anniversary
+DESCRIPTION:Millie Parfait 15th Anniversary\n\nFirst tweet: Oct 6, 2021, 11:01 (JST)\nFirst stream: Oct 9, 2021, 11:40 (JST)\n\n\n==========\n【Millie Parfait】\nYouTube: https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ\nX: https://x.com/MillieParfait\n\n
 URL:https://www.youtube.com/channel/UC47rNmkDcNgbOcM-2BwzJTQ
 END:VEVENT
 END:VCALENDAR

@@ -145,6 +145,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -185,6 +186,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -481,6 +483,16 @@ DTEND:20350312T230501Z
 TRANSP:TRANSPARENT
 SUMMARY:Freodore 10th Anniversary
 DESCRIPTION:Freodore 10th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n
+URL:https://www.youtube.com/@Freodore_nijisanji
+END:VEVENT
+BEGIN:VEVENT
+UID:73d900fd-b4a2-434e-8776-645130022036
+DTSTAMP:20250316T074656Z
+DTSTART:20360312T230500Z
+DTEND:20360312T230501Z
+TRANSP:TRANSPARENT
+SUMMARY:Freodore 11th Anniversary
+DESCRIPTION:Freodore 11th Anniversary\n\nFirst tweet: Mar 13, 2025, 8:05 (JST)\nFirst stream: Mar 15, 2025, 12:10 (JST)\n\n\n==========\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n
 URL:https://www.youtube.com/@Freodore_nijisanji
 END:VEVENT
 END:VCALENDAR

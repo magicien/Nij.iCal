@@ -293,6 +293,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -333,6 +334,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -689,6 +691,16 @@ DTEND:20350808T070601Z
 TRANSP:TRANSPARENT
 SUMMARY:天宮こころ 16周年
 DESCRIPTION:天宮こころ 16周年\n\n初ツイート：2019/08/08 16:06 （日本時間）\n初配信：2019/08/13 21:18 （日本時間）\n\n\n==========\n【天宮こころ】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n
+URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
+END:VEVENT
+BEGIN:VEVENT
+UID:58e13fcf-3d3e-42b3-888e-ceca71022036
+DTSTAMP:20250316T024404Z
+DTSTART:20360808T070600Z
+DTEND:20360808T070601Z
+TRANSP:TRANSPARENT
+SUMMARY:天宮こころ 17周年
+DESCRIPTION:天宮こころ 17周年\n\n初ツイート：2019/08/08 16:06 （日本時間）\n初配信：2019/08/13 21:18 （日本時間）\n\n\n==========\n【天宮こころ】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n
 URL:https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w
 END:VEVENT
 END:VCALENDAR

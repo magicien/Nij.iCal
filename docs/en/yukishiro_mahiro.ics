@@ -396,6 +396,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -436,6 +437,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -792,6 +794,16 @@ DTEND:20350429T070701Z
 TRANSP:TRANSPARENT
 SUMMARY:Yukishiro Mahiro 16th Anniversary
 DESCRIPTION:Yukishiro Mahiro 16th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:07 (JST)\nFirst stream: May 1, 2019, 18:14 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://x.com/mahiroyukishiro\n\n
+URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
+END:VEVENT
+BEGIN:VEVENT
+UID:fa109de1-d8dd-4f9f-a3f9-fd8db4022036
+DTSTAMP:20250316T022947Z
+DTSTART:20360429T070700Z
+DTEND:20360429T070701Z
+TRANSP:TRANSPARENT
+SUMMARY:Yukishiro Mahiro 17th Anniversary
+DESCRIPTION:Yukishiro Mahiro 17th Anniversary\n\nFirst tweet: Apr 29, 2019, 16:07 (JST)\nFirst stream: May 1, 2019, 18:14 (JST)\n\n\n==========\n【Yukishiro Mahiro】\nYouTube: https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w\nX: https://x.com/mahiroyukishiro\n\n
 URL:https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w
 END:VEVENT
 END:VCALENDAR

@@ -451,6 +451,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -491,6 +492,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -847,6 +849,16 @@ DTEND:20350703T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:葉加瀬冬雪 16周年
 DESCRIPTION:葉加瀬冬雪 16周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://x.com/hakase_fuyuki\n\n
+URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
+END:VEVENT
+BEGIN:VEVENT
+UID:27d21651-7e10-4743-9334-634c5c022036
+DTSTAMP:20250316T023314Z
+DTSTART:20360703T070000Z
+DTEND:20360703T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:葉加瀬冬雪 17周年
+DESCRIPTION:葉加瀬冬雪 17周年\n\n初ツイート：2019/07/03 16:00 （日本時間）\n初配信：2019/07/06 20:44 （日本時間）\n\n\n==========\n【葉加瀬冬雪】\nYouTube: https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ\nX: https://x.com/hakase_fuyuki\n\n
 URL:https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ
 END:VEVENT
 END:VCALENDAR

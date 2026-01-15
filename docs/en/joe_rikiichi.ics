@@ -481,6 +481,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -521,6 +522,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:60681f23-b184-4de9-84c2-2dedc25147e0
@@ -1051,6 +1053,16 @@ DTEND:20350831T091501Z
 TRANSP:TRANSPARENT
 SUMMARY:Joe Rikiichi 17th Anniversary
 DESCRIPTION:Joe Rikiichi 17th Anniversary\n\nFirst tweet: Aug 31, 2018, 18:15 (JST)\nFirst stream: Sep 9, 2018, 23:01 (JST)\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://x.com/joerikiichi\n\n
+URL:https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8b3db9-9e6e-434b-83a5-8a6c58022036
+DTSTAMP:20250316T020454Z
+DTSTART:20360831T091500Z
+DTEND:20360831T091501Z
+TRANSP:TRANSPARENT
+SUMMARY:Joe Rikiichi 18th Anniversary
+DESCRIPTION:Joe Rikiichi 18th Anniversary\n\nFirst tweet: Aug 31, 2018, 18:15 (JST)\nFirst stream: Sep 9, 2018, 23:01 (JST)\n\n\n==========\n【Joe Rikiichi】\nYouTube: https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nX: https://x.com/joerikiichi\n\n
 URL:https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ
 END:VEVENT
 BEGIN:VEVENT

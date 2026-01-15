@@ -202,6 +202,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -242,6 +243,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:49237017-ae7d-4e21-9f93-3b50d61741ac
@@ -599,6 +601,16 @@ DTEND:20350330T030801Z
 TRANSP:TRANSPARENT
 SUMMARY:赤城ウェン 12周年
 DESCRIPTION:赤城ウェン 12周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 12:00 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n
+URL:https://www.youtube.com/@AkagiWen
+END:VEVENT
+BEGIN:VEVENT
+UID:5774b5f5-6745-496d-8f25-1b3077022036
+DTSTAMP:20250316T050428Z
+DTSTART:20360330T030800Z
+DTEND:20360330T030801Z
+TRANSP:TRANSPARENT
+SUMMARY:赤城ウェン 13周年
+DESCRIPTION:赤城ウェン 13周年\n\n初ツイート：2023/03/30 12:08 （日本時間）\n初配信：2023/04/02 12:00 （日本時間）\n\n\n==========\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n
 URL:https://www.youtube.com/@AkagiWen
 END:VEVENT
 END:VCALENDAR

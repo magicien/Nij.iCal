@@ -353,6 +353,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -393,6 +394,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -759,6 +761,16 @@ DTEND:20350201T050201Z
 TRANSP:TRANSPARENT
 SUMMARY:静凛 17周年
 DESCRIPTION:静凛 17周年\n\n初ツイート：2018/02/01 14:02 （日本時間）\n初配信：2018/02/08 21:00 （日本時間）\n\n\n==========\n【静凛】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://x.com/ShizuRin23\n\n
+URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
+END:VEVENT
+BEGIN:VEVENT
+UID:86f18697-5d31-4acf-980b-a0ab66022036
+DTSTAMP:20250315T134355Z
+DTSTART:20360201T050200Z
+DTEND:20360201T050201Z
+TRANSP:TRANSPARENT
+SUMMARY:静凛 18周年
+DESCRIPTION:静凛 18周年\n\n初ツイート：2018/02/01 14:02 （日本時間）\n初配信：2018/02/08 21:00 （日本時間）\n\n\n==========\n【静凛】\nYouTube: https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ\nX: https://x.com/ShizuRin23\n\n
 URL:https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ
 END:VEVENT
 BEGIN:VEVENT

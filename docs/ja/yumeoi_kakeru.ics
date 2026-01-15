@@ -637,6 +637,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -677,6 +678,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -692,7 +694,7 @@ URL:https://capsuleleu.kktix.cc/events/nijifesexintaipei
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e11cd6-a60a-4d4d-9730-37de1509c094
-DTSTAMP:20251227T082804Z
+DTSTAMP:20260115T113446Z
 DTSTART:20260514T090000Z
 DTEND:20260514T110000Z
 TRANSP:TRANSPARENT
@@ -1105,6 +1107,16 @@ DTEND:20350925T070001Z
 TRANSP:TRANSPARENT
 SUMMARY:夢追翔 17周年
 DESCRIPTION:夢追翔 17周年\n\n初ツイート：2018/09/25 16:00 （日本時間）\n初配信：2018/10/01 21:58 （日本時間）\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://x.com/kakeru_yumeoi\n\n
+URL:https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw
+END:VEVENT
+BEGIN:VEVENT
+UID:cb1f76bb-bf94-45d9-81a7-fa2c62022036
+DTSTAMP:20250316T021944Z
+DTSTART:20360925T070000Z
+DTEND:20360925T070001Z
+TRANSP:TRANSPARENT
+SUMMARY:夢追翔 18周年
+DESCRIPTION:夢追翔 18周年\n\n初ツイート：2018/09/25 16:00 （日本時間）\n初配信：2018/10/01 21:58 （日本時間）\n\n\n==========\n【夢追翔】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://x.com/kakeru_yumeoi\n\n
 URL:https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw
 END:VEVENT
 BEGIN:VEVENT

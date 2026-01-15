@@ -235,6 +235,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -275,6 +276,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -601,6 +603,16 @@ DTEND:20351206T000101Z
 TRANSP:TRANSPARENT
 SUMMARY:ヴェール ヴァーミリオン 13周年
 DESCRIPTION:ヴェール ヴァーミリオン 13周年\n\n初ツイート：2022/12/06 09:01 （日本時間）\n初配信：2022/12/10 11:50 （日本時間）\n\n\n==========\n【ヴェール ヴァーミリオン】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://x.com/Ver_Vermillion\n\n
+URL:https://www.youtube.com/@VerVermillion
+END:VEVENT
+BEGIN:VEVENT
+UID:163ccc22-b963-4f07-b0de-dff273022036
+DTSTAMP:20250316T073026Z
+DTSTART:20361206T000100Z
+DTEND:20361206T000101Z
+TRANSP:TRANSPARENT
+SUMMARY:ヴェール ヴァーミリオン 14周年
+DESCRIPTION:ヴェール ヴァーミリオン 14周年\n\n初ツイート：2022/12/06 09:01 （日本時間）\n初配信：2022/12/10 11:50 （日本時間）\n\n\n==========\n【ヴェール ヴァーミリオン】\nYouTube: https://www.youtube.com/@VerVermillion\nX: https://x.com/Ver_Vermillion\n\n
 URL:https://www.youtube.com/@VerVermillion
 END:VEVENT
 END:VCALENDAR

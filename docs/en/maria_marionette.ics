@@ -259,6 +259,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -299,6 +300,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:d91bb73c-aa08-48d3-8ed6-b5a7d9d21c74
@@ -637,6 +639,16 @@ DTEND:20350720T000001Z
 TRANSP:TRANSPARENT
 SUMMARY:Maria Marionette 13th Anniversary
 DESCRIPTION:Maria Marionette 13th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 9:09 (JST)\n\n\n==========\n【Maria Marionette】\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\nX: https://x.com/MariaMari0nette\n\n
+URL:https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg
+END:VEVENT
+BEGIN:VEVENT
+UID:92cef3c4-4d64-4aa8-8a21-f15f60022036
+DTSTAMP:20250316T072508Z
+DTSTART:20360720T000000Z
+DTEND:20360720T000001Z
+TRANSP:TRANSPARENT
+SUMMARY:Maria Marionette 14th Anniversary
+DESCRIPTION:Maria Marionette 14th Anniversary\n\nFirst tweet: Jul 20, 2022, 9:00 (JST)\nFirst stream: Jul 25, 2022, 9:09 (JST)\n\n\n==========\n【Maria Marionette】\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\nX: https://x.com/MariaMari0nette\n\n
 URL:https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg
 END:VEVENT
 END:VCALENDAR

@@ -83,6 +83,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -123,6 +124,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -419,6 +421,16 @@ DTEND:20350411T090201Z
 TRANSP:TRANSPARENT
 SUMMARY:一橋綾人 10周年
 DESCRIPTION:一橋綾人 10周年\n\n初ツイート：2025/04/11 18:02 （日本時間）\n初配信：2025/04/12 19:00 （日本時間）\n\n\n==========\n【一橋綾人】\nYouTube: https://www.youtube.com/@HitotsubashiAyato\nX: https://x.com/Aya10_1tsubashi\n\n
+URL:https://www.youtube.com/@HitotsubashiAyato
+END:VEVENT
+BEGIN:VEVENT
+UID:6b08acd6-5ff9-4c0a-bd0e-4960ae022036
+DTSTAMP:20250412T143313Z
+DTSTART:20360411T090200Z
+DTEND:20360411T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:一橋綾人 11周年
+DESCRIPTION:一橋綾人 11周年\n\n初ツイート：2025/04/11 18:02 （日本時間）\n初配信：2025/04/12 19:00 （日本時間）\n\n\n==========\n【一橋綾人】\nYouTube: https://www.youtube.com/@HitotsubashiAyato\nX: https://x.com/Aya10_1tsubashi\n\n
 URL:https://www.youtube.com/@HitotsubashiAyato
 END:VEVENT
 END:VCALENDAR

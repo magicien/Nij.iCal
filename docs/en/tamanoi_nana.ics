@@ -190,6 +190,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -230,6 +231,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:49237017-ae7d-4e21-9f93-3b50d61741ac
@@ -577,6 +579,16 @@ DTEND:20350619T090501Z
 TRANSP:TRANSPARENT
 SUMMARY:Tamanoi Nana 11th Anniversary
 DESCRIPTION:Tamanoi Nana 11th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://x.com/7_tamanoi\n\n
+URL:https://www.youtube.com/@TamanoiNana
+END:VEVENT
+BEGIN:VEVENT
+UID:3b603783-e660-4103-aadc-92513a022036
+DTSTAMP:20250316T055224Z
+DTSTART:20360619T090500Z
+DTEND:20360619T090501Z
+TRANSP:TRANSPARENT
+SUMMARY:Tamanoi Nana 12th Anniversary
+DESCRIPTION:Tamanoi Nana 12th Anniversary\n\nFirst tweet: Jun 19, 2024, 18:05 (JST)\nFirst stream: Jun 22, 2024, 19:30 (JST)\n\n\n==========\n【Tamanoi Nana】\nYouTube: https://www.youtube.com/@TamanoiNana\nX: https://x.com/7_tamanoi\n\n
 URL:https://www.youtube.com/@TamanoiNana
 END:VEVENT
 END:VCALENDAR

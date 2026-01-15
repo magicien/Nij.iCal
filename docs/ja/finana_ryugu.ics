@@ -269,6 +269,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day1: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -309,6 +310,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ歌謡祭2024 Blu-ray先行上映会 Day2: 映画館販売（先着） 開始
 DESCRIPTION:イベント:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -645,6 +647,16 @@ DTEND:20350512T131001Z
 TRANSP:TRANSPARENT
 SUMMARY:フィナーナ 竜宮 14周年
 DESCRIPTION:フィナーナ 竜宮 14周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
+URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86eb86-b108-4495-a1b4-0acf5d022036
+DTSTAMP:20250316T060050Z
+DTSTART:20360512T131000Z
+DTEND:20360512T131001Z
+TRANSP:TRANSPARENT
+SUMMARY:フィナーナ 竜宮 15周年
+DESCRIPTION:フィナーナ 竜宮 15周年\n\n初ツイート：2021/05/12 22:10 （日本時間）\n初配信：2021/05/16 10:00 （日本時間）\n\n\n==========\n【フィナーナ 竜宮】\nYouTube: https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw\nX: https://x.com/FinanaRyugu\n\n
 URL:https://www.youtube.com/channel/UCu-J8uIXuLZh16gG-cT1naw
 END:VEVENT
 END:VCALENDAR

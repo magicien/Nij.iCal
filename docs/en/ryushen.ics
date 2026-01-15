@@ -627,6 +627,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -667,6 +668,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -1033,6 +1035,16 @@ DTEND:20350603T060101Z
 TRANSP:TRANSPARENT
 SUMMARY:Ryushen 17th Anniversary
 DESCRIPTION:Ryushen 17th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:01 (JST)\nFirst stream: Jun 8, 2018, 21:30 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n
+URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
+END:VEVENT
+BEGIN:VEVENT
+UID:ab02fcf4-fbdd-43f7-8aa0-b4cde5022036
+DTSTAMP:20250316T014837Z
+DTSTART:20360603T060100Z
+DTEND:20360603T060101Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen 18th Anniversary
+DESCRIPTION:Ryushen 18th Anniversary\n\nFirst tweet: Jun 3, 2018, 15:01 (JST)\nFirst stream: Jun 8, 2018, 21:30 (JST)\n\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n
 URL:https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw
 END:VEVENT
 BEGIN:VEVENT

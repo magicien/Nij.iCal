@@ -202,6 +202,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day1: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:64418d98-45a1-4d95-91fa-9cfc05a83d8a
@@ -242,6 +243,7 @@ DTEND:20250919T153000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]NIJISANJI MUSIC FESTIVAL 2024 Blu-ray pre-release screening Day2: \nTheater sales (first-come, first-served) starts
 DESCRIPTION:Event:\nhttps://prtimes.jp/main/html/rd/p/000001275.000030865.html\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001275.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:eb858954-33e7-4602-8b19-7e0fcebbdb9b
@@ -558,6 +560,16 @@ DTEND:20351121T030201Z
 TRANSP:TRANSPARENT
 SUMMARY:Tachitsute Toto 12th Anniversary
 DESCRIPTION:Tachitsute Toto 12th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://x.com/tctt10_10\n\n
+URL:https://www.youtube.com/@TachitsuteToto
+END:VEVENT
+BEGIN:VEVENT
+UID:17b70528-0fcb-4ee3-839f-98fb6c022036
+DTSTAMP:20250316T054842Z
+DTSTART:20361121T030200Z
+DTEND:20361121T030201Z
+TRANSP:TRANSPARENT
+SUMMARY:Tachitsute Toto 13th Anniversary
+DESCRIPTION:Tachitsute Toto 13th Anniversary\n\nFirst tweet: Nov 21, 2023, 12:02 (JST)\nFirst stream: Nov 24, 2023, 19:00 (JST)\n\n\n==========\n【Tachitsute Toto】\nYouTube: https://www.youtube.com/@TachitsuteToto\nX: https://x.com/tctt10_10\n\n
 URL:https://www.youtube.com/@TachitsuteToto
 END:VEVENT
 END:VCALENDAR
