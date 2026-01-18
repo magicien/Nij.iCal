@@ -7,7 +7,7 @@ image: /imgs/logo.png
 ---
 [日本語ページ](index.md)
 
-[Calendars](#calendars) | [Event Map](map.html?lang=en)
+[Calendars](#calendars) | [Web Calendar](calendar.html?lang=en) | [Event Map](map.html?lang=en)
 
 ## Calendars
 

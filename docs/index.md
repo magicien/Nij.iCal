@@ -7,7 +7,7 @@ image: /imgs/logo.png
 ---
 [English page](index_en.md)
 
-[カレンダー](#カレンダー) | [イベントマップ](map.html)
+[カレンダー](#カレンダー) | [Web版カレンダー](calendar.html) | [イベントマップ](map.html)
 
 ## カレンダー
 

@@ -541,6 +541,76 @@
           padding-left: calc(20px + env(safe-area-inset-left));
         }
       }
+
+      /* Modal overlay for event details */
+      #eventDetailModal {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 10000;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+      }
+
+      #eventDetailModal.visible {
+        display: flex;
+      }
+
+      #eventDetailModal .modal-content {
+        position: relative;
+        width: 90%;
+        height: 90%;
+        max-width: 800px;
+        max-height: 90vh;
+        background: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+      }
+
+      #eventDetailModal .modal-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background: rgba(255, 255, 255, 0.9);
+        border: none;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        font-size: 24px;
+        cursor: pointer;
+        z-index: 10001;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #333;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+        transition: all 0.2s;
+      }
+
+      #eventDetailModal .modal-close:hover {
+        background: white;
+        transform: scale(1.1);
+      }
+
+      #eventDetailModal iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+
+      @media (max-width: 768px) {
+        #eventDetailModal .modal-content {
+          width: 95%;
+          height: 95%;
+          max-height: 95vh;
+        }
+      }
     </style>
   </head>
   <body>
@@ -588,6 +658,14 @@
         <div class="panel-content" id="onlineEventsContent">
           <!-- Other events will be inserted here -->
         </div>
+      </div>
+    </div>
+
+    <!-- Event Detail Modal -->
+    <div id="eventDetailModal">
+      <div class="modal-content">
+        <button class="modal-close" id="closeDetailModal" aria-label="Close">×</button>
+        <iframe id="eventDetailFrame" src=""></iframe>
       </div>
     </div>
 
@@ -925,6 +1003,31 @@
         });
       }
 
+      // Format time only (HH:MM)
+      function formatTime(dateStr) {
+        if (!dateStr) return '';
+        const date = parseEventDate(dateStr);
+        if (!date) return dateStr;
+
+        const locale = currentLanguage === 'ja' ? 'ja-JP' : 'en-US';
+        return date.toLocaleString(locale, {
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+      }
+
+      // Check if two dates are on the same day
+      function isSameDay(dateStr1, dateStr2) {
+        if (!dateStr1 || !dateStr2) return false;
+        const date1 = parseEventDate(dateStr1);
+        const date2 = parseEventDate(dateStr2);
+        if (!date1 || !date2) return false;
+
+        return date1.getFullYear() === date2.getFullYear() &&
+               date1.getMonth() === date2.getMonth() &&
+               date1.getDate() === date2.getDate();
+      }
+
       // Get localized event name
       function getEventName(event) {
         if (currentLanguage === 'en') {
@@ -958,6 +1061,70 @@
         return performers.map(p => getPerformerName(p)).join(', ');
       }
 
+      // Generate event ID for calendar.html URL (matching calendar.js getEventId format)
+      function generateEventId(event) {
+        const eventName = getEventName(event);
+        const dateStr = event['開始日時'];
+        if (!dateStr) return null;
+
+        const date = parseEventDate(dateStr);
+        if (!date) return null;
+
+        const idStr = `${eventName}-${date.getFullYear()}-${date.getMonth()}-${date.getDate()}-${date.getHours()}-${date.getMinutes()}`;
+        return btoa(encodeURIComponent(idStr)).replace(/=/g, '');
+      }
+
+      // Open event detail modal
+      function openEventDetailModal(event) {
+        const eventId = generateEventId(event);
+        if (!eventId) {
+          // Fallback to URL if event ID generation fails
+          if (event['URL']) {
+            window.open(event['URL'], '_blank', 'noopener');
+          }
+          return;
+        }
+
+        const modal = document.getElementById('eventDetailModal');
+        const iframe = document.getElementById('eventDetailFrame');
+
+        // Build calendar.html URL with event ID, language, and calendar selection
+        const params = new URLSearchParams({
+          view: 'detail',
+          event: eventId,
+          lang: currentLanguage,
+          embedded: 'true'
+        });
+
+        // Get current performer filter from URL to pass to calendar.html
+        const urlParams = new URLSearchParams(window.location.search);
+        const performer = urlParams.get('performer');
+        if (performer) {
+          // Find the matching talent to get their filename
+          const talent = allTalents.find(t => t['名前'] === performer || t['ローマ字'] === performer);
+          if (talent) {
+            // Convert filename to calendar name (remove .ics extension)
+            const calendarName = talent['ローマ字'].toLowerCase().replace(/\s+/g, '_');
+            params.set('calendar', calendarName);
+          }
+        }
+
+        iframe.src = `calendar.html?${params.toString()}`;
+        modal.classList.add('visible');
+      }
+
+      // Close event detail modal
+      function closeEventDetailModal() {
+        const modal = document.getElementById('eventDetailModal');
+        const iframe = document.getElementById('eventDetailFrame');
+
+        modal.classList.remove('visible');
+        // Clear iframe src after animation
+        setTimeout(() => {
+          iframe.src = '';
+        }, 300);
+      }
+
       // Create popup content for multiple events
       function createPopupContent(events) {
         const lang = labels[currentLanguage];
@@ -970,7 +1137,12 @@
           if (event['開始日時']) {
             html += `<div class="popup-field"><span class="popup-label">${lang.dateTime}</span> ${formatDate(event['開始日時'])}`;
             if (event['終了日時'] && event['終了日時'] !== event['開始日時']) {
-              html += ` - ${formatDate(event['終了日時'])}`;
+              // If same day, show time only; otherwise show full date
+              if (isSameDay(event['開始日時'], event['終了日時'])) {
+                html += ` - ${formatTime(event['終了日時'])}`;
+              } else {
+                html += ` - ${formatDate(event['終了日時'])}`;
+              }
             }
             html += `</div>`;
           }
@@ -984,9 +1156,9 @@
             html += `<div class="popup-field popup-performers"><span class="popup-label">${lang.performers}</span><br>${formatPerformers(event['参加者'])}</div>`;
           }
 
-          if (event['URL']) {
-            html += `<div class="popup-url"><a href="${event['URL']}" target="_blank" rel="noopener">${lang.details}</a></div>`;
-          }
+          const eventId = generateEventId(event);
+          const eventIndex = events.indexOf(event);
+          html += `<div class="popup-url"><a href="#" class="event-detail-link" data-event-index="${eventIndex}">${lang.details}</a></div>`;
 
           return html;
         }
@@ -1007,7 +1179,12 @@
           if (event['開始日時']) {
             html += `<div class="popup-field" style="margin: 3px 0;"><span class="popup-label">${lang.dateTime}</span> ${formatDate(event['開始日時'])}`;
             if (event['終了日時'] && event['終了日時'] !== event['開始日時']) {
-              html += ` - ${formatDate(event['終了日時'])}`;
+              // If same day, show time only; otherwise show full date
+              if (isSameDay(event['開始日時'], event['終了日時'])) {
+                html += ` - ${formatTime(event['終了日時'])}`;
+              } else {
+                html += ` - ${formatDate(event['終了日時'])}`;
+              }
             }
             html += `</div>`;
           }
@@ -1016,9 +1193,8 @@
             html += `<div class="popup-field" style="margin: 3px 0;"><span class="popup-label">${lang.performers}</span> ${formatPerformers(event['参加者'])}</div>`;
           }
 
-          if (event['URL']) {
-            html += `<div class="popup-url" style="margin-top: 5px;"><a href="${event['URL']}" target="_blank" rel="noopener">${lang.details}</a></div>`;
-          }
+          const eventId = generateEventId(event);
+          html += `<div class="popup-url" style="margin-top: 5px;"><a href="#" class="event-detail-link" data-event-index="${index}">${lang.details}</a></div>`;
 
           html += `</div>`;
         });
@@ -1141,7 +1317,21 @@
           });
 
           // Update URL when popup opens or closes
-          marker.on('popupopen', updateURL);
+          marker.on('popupopen', () => {
+            updateURL();
+            // Add click event listeners to detail links
+            setTimeout(() => {
+              const detailLinks = document.querySelectorAll('.event-detail-link');
+              detailLinks.forEach((link, linkIndex) => {
+                link.addEventListener('click', (e) => {
+                  e.preventDefault();
+                  const eventIndex = parseInt(link.dataset.eventIndex);
+                  const event = location.events[eventIndex];
+                  openEventDetailModal(event);
+                });
+              });
+            }, 100);
+          });
           marker.on('popupclose', updateURL);
 
           markers.push(marker);
@@ -1293,21 +1483,43 @@
           return dateA - dateB;
         });
 
-        content.innerHTML = sortedEvents.map(event => {
+        content.innerHTML = sortedEvents.map((event, index) => {
           const eventName = getEventName(event);
-          const dateTime = event['開始日時'] ? formatDate(event['開始日時']) : '';
+          let dateTime = '';
+          if (event['開始日時']) {
+            dateTime = formatDate(event['開始日時']);
+            if (event['終了日時'] && event['終了日時'] !== event['開始日時']) {
+              // If same day, show time only; otherwise show full date
+              if (isSameDay(event['開始日時'], event['終了日時'])) {
+                dateTime += ` - ${formatTime(event['終了日時'])}`;
+              } else {
+                dateTime += ` - ${formatDate(event['終了日時'])}`;
+              }
+            }
+          }
           const performers = event['参加者'] ? formatPerformers(event['参加者']) : '';
-          const url = event['URL'] || '';
 
           return `
             <div class="online-event-item">
               <div class="online-event-title">${eventName}</div>
               ${dateTime ? `<div class="online-event-info"><strong>${lang.dateTime}</strong> ${dateTime}</div>` : ''}
               ${performers ? `<div class="online-event-info"><strong>${lang.performers}</strong> ${performers}</div>` : ''}
-              ${url ? `<div class="online-event-info"><a href="${url}" target="_blank" rel="noopener">${lang.details}</a></div>` : ''}
+              <div class="online-event-info"><a href="#" class="online-event-detail-link" data-online-event-index="${index}">${lang.details}</a></div>
             </div>
           `;
         }).join('');
+
+        // Add event listeners to detail links
+        setTimeout(() => {
+          document.querySelectorAll('.online-event-detail-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+              e.preventDefault();
+              const index = parseInt(link.dataset.onlineEventIndex);
+              const event = sortedEvents[index];
+              openEventDetailModal(event);
+            });
+          });
+        }, 100);
       }
 
       // Show online events panel
@@ -1562,6 +1774,16 @@
         onlineEventsPanelVisible = false;
         hideOnlineEventsPanel();
         // Don't call filterEvents() to avoid changing map state
+      });
+
+      // Event detail modal close button
+      document.getElementById('closeDetailModal').addEventListener('click', closeEventDetailModal);
+
+      // Close modal when clicking on backdrop
+      document.getElementById('eventDetailModal').addEventListener('click', (e) => {
+        if (e.target === document.getElementById('eventDetailModal')) {
+          closeEventDetailModal();
+        }
       });
 
       // Language selector event listeners
