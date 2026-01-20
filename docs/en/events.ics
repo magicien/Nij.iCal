@@ -5254,8 +5254,40 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nEvent:\nhttps:
 URL:https://eplus.jp/nijisanji-fes2026/stage/
 END:VEVENT
 BEGIN:VEVENT
+UID:548f5fa5-b048-4aab-8b5b-1572174a042f
+DTSTAMP:20260120T145019Z
+DTSTART:20260729T093000Z
+DTEND:20260729T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kaida Haru 1st One-Man Live - sokuseki -
+LOCATION:Tokyo International Forum Hall A
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nHashtag: #甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 15, 2026, 12:00 until May 19, 2026, 23:59)\n\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/kaida_sokuseki/
+END:VEVENT
+BEGIN:VEVENT
+UID:b662d27c-8b7d-45ef-a288-2dcb66fd0541
+DTSTAMP:20260120T153526Z
+DTSTART:20260415T030000Z
+DTEND:20260415T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kaida Haru 1st One-Man Live - sokuseki -: Serial code pre-sale lottery starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/kaida_sokuseki/
+END:VEVENT
+BEGIN:VEVENT
+UID:b662d27c-8b7d-45ef-a288-2dcb66fd0542
+DTSTAMP:20260120T153526Z
+DTSTART:20260519T145900Z
+DTEND:20260519T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kaida Haru 1st One-Man Live - sokuseki -: Serial code pre-sale lottery ends
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/kaida_sokuseki/
+END:VEVENT
+BEGIN:VEVENT
 UID:6a4f7191-b4a8-47ca-851f-3e4c701001e1
-DTSTAMP:20260104T064411Z
+DTSTAMP:20260120T144622Z
 DTSTART:20260731T090000Z
 DTEND:20260731T110000Z
 TRANSP:TRANSPARENT
