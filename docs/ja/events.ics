@@ -5254,8 +5254,40 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nイベ�
 URL:https://eplus.jp/nijisanji-fes2026/stage/
 END:VEVENT
 BEGIN:VEVENT
+UID:548f5fa5-b048-4aab-8b5b-1572174a042f
+DTSTAMP:20260120T145019Z
+DTSTART:20260729T093000Z
+DTEND:20260729T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:甲斐田晴 1st One-Man Live -足跡-
+LOCATION:東京国際フォーラム ホールA
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京国際フォーラム ホールA":geo:35.677433,139.763351
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\nハッシュタグ：#甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2026/4/15 12:00〜2026/5/19 23:59)\n\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/kaida_sokuseki/
+END:VEVENT
+BEGIN:VEVENT
+UID:b662d27c-8b7d-45ef-a288-2dcb66fd0541
+DTSTAMP:20260120T153526Z
+DTSTART:20260415T030000Z
+DTEND:20260415T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: シリアル先行抽選 開始
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/kaida_sokuseki/
+END:VEVENT
+BEGIN:VEVENT
+UID:b662d27c-8b7d-45ef-a288-2dcb66fd0542
+DTSTAMP:20260120T153526Z
+DTSTART:20260519T145900Z
+DTEND:20260519T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: シリアル先行抽選 終了
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://www.nijisanji.jp/events/kaida_sokuseki/
+END:VEVENT
+BEGIN:VEVENT
 UID:6a4f7191-b4a8-47ca-851f-3e4c701001e1
-DTSTAMP:20260104T064411Z
+DTSTAMP:20260120T144622Z
 DTSTART:20260731T090000Z
 DTEND:20260731T110000Z
 TRANSP:TRANSPARENT
