@@ -58,12 +58,36 @@ class NijiCal:
         # Create column name to index mapping
         return {col: idx for idx, col in enumerate(columns)}
 
+    def _validate_event_dates(self, events: list[Event]) -> None:
+        """
+        Validate that event end times are not before begin times.
+
+        Args:
+            events: List of events to validate
+
+        Raises:
+            ValueError: If any event has end time before begin time
+        """
+        for event in events:
+            if event.begin is not None and event.end is not None:
+                if event.end < event.begin:
+                    error_msg = (
+                        f"Error: Event '{event.summary}' (UID: {event.uid}) has end time "
+                        f"({event.end.format('YYYY/MM/DD HH:mm')}) before begin time "
+                        f"({event.begin.format('YYYY/MM/DD HH:mm')})"
+                    )
+                    raise ValueError(error_msg)
+
     def generate_all(self) -> int:
         talents = self.fetch_talents()
         tickets = self.fetch_tickets()
         live_events = self.fetch_events(talents, tickets)
         talent_events = self.generate_talent_events(talents)
         talent_events.append(self.generate_nijisanji_day_event(talents))
+
+        # Validate event dates
+        self._validate_event_dates(live_events)
+        self._validate_event_dates(talent_events)
 
         # generate live event calendar
         live_calendar = Calendar(events=live_events)
