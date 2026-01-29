@@ -258,4 +258,6 @@
 <tr class='liver-item' tags='篠宮ゆの,shinomiya yuno,しのみやゆの'><td>Shinomiya Yuno</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/shinomiya_yuno.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/shinomiya_yuno.ics'>Japanese</a></td></tr>
 <tr class='liver-item' tags='城瀬いすみ,shirose isumi,しろせいすみ'><td>Shirose Isumi</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/shirose_isumi.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/shirose_isumi.ics'>Japanese</a></td></tr>
 <tr class='liver-item' tags='花籠つばさ,hanakago tsubasa,はなかごつばさ'><td>Hanakago Tsubasa</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/hanakago_tsubasa.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/hanakago_tsubasa.ics'>Japanese</a></td></tr>
+<tr class='liver-item' tags='白砂あやね,shirasa ayane,しらさあやね'><td>Shirasa Ayane</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/shirasa_ayane.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/shirasa_ayane.ics'>Japanese</a></td></tr>
+<tr class='liver-item' tags='水面まどか,minamo madoka,みなもまどか'><td>Minamo Madoka</td><td><a href='webcal://magicien.github.io/Nij.iCal/en/minamo_madoka.ics'>English</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/minamo_madoka.ics'>Japanese</a></td></tr>
 </tbody></table></div>
