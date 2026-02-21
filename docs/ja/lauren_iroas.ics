@@ -743,28 +743,78 @@ TRANSP:TRANSPARENT
 SUMMARY:ローレン・イロアス 1st LIVE “FACE”
 LOCATION:東京国際フォーラム ホールA
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京国際フォーラム ホールA":geo:35.677433,139.763351
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\nハッシュタグ：#ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n1st Mini Album「No One」シリアル先行抽選 (2026/4/22 12:00〜2026/5/20 23:59)\n\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\nハッシュタグ：#ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n1st Mini Album「No One」シリアル先行抽選 (2026/4/22 12:00〜2026/5/20 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\n総合ファンクラブ先行抽選 (2026/5/21 12:00〜2026/5/31 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nStagecrowd Ticket先行抽選 (2026/6/1 12:00〜2026/6/8 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\n一般販売（先着） (2026/6/20 13:00〜)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/Lauren_FACE/
 END:VEVENT
 BEGIN:VEVENT
 UID:7eedfecc-2380-405c-bd0a-862bb254e9f1
-DTSTAMP:20260128T121830Z
+DTSTAMP:20260221T063112Z
 DTSTART:20260422T030000Z
 DTEND:20260422T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]ローレン・イロアス 1st LIVE “FACE”: 1st Mini Album「No One」シリアル先行抽選 開始
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
-URL:https://www.nijisanji.jp/events/Lauren_FACE/
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:7eedfecc-2380-405c-bd0a-862bb254e9f2
-DTSTAMP:20260128T121830Z
+DTSTAMP:20260221T063112Z
 DTSTART:20260520T145900Z
 DTEND:20260520T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]ローレン・イロアス 1st LIVE “FACE”: 1st Mini Album「No One」シリアル先行抽選 終了
-DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
-URL:https://www.nijisanji.jp/events/Lauren_FACE/
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:44958eac-cd70-4add-94f1-d87dca457841
+DTSTAMP:20260221T063208Z
+DTSTART:20260521T030000Z
+DTEND:20260521T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ローレン・イロアス 1st LIVE “FACE”: 総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:44958eac-cd70-4add-94f1-d87dca457842
+DTSTAMP:20260221T063208Z
+DTSTART:20260531T145900Z
+DTEND:20260531T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ローレン・イロアス 1st LIVE “FACE”: 総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ba58e7-9229-4d87-b6d9-51d0f2979511
+DTSTAMP:20260221T063213Z
+DTSTART:20260601T030000Z
+DTEND:20260601T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ローレン・イロアス 1st LIVE “FACE”: Stagecrowd Ticket先行抽選 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ba58e7-9229-4d87-b6d9-51d0f2979512
+DTSTAMP:20260221T063213Z
+DTSTART:20260608T145900Z
+DTEND:20260608T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ローレン・イロアス 1st LIVE “FACE”: Stagecrowd Ticket先行抽選 終了
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:888131bd-c8fb-4e5f-aa3c-130d02c9c141
+DTSTAMP:20260221T063218Z
+DTSTART:20260620T040000Z
+DTEND:20260620T043000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ローレン・イロアス 1st LIVE “FACE”: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:9f52b6e4-ca56-44fd-ac06-e9a2a7012021
