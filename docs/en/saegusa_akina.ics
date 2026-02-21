@@ -787,7 +787,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji 8th Anniversary LIVE "CONCERTO" Day2
 LOCATION:Makuhari Messe Exhibition Halls 7-8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 7-8":geo:35.647009,140.034142
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage4\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_840\n\nniconico Live\n\n\nHashtag: #CONCERTO_Day2\nhttps://x.com/search?q=CONCERTO_Day2\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Nov 30, 2025, 20:00 until Dec 14, 2025, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\ne+ pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\nGeneral sale (first come, first served) (from Feb 14, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://x.com/SerAph_DazZ\n\n【Fura Kanato】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://x.com/KNTFR2434\n\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://x.com/Shu_Yamino\n\n【Alban Knox】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage4\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_840\n\nniconico Live\n\n\nHashtag: #CONCERTO_Day2\nhttps://x.com/search?q=CONCERTO_Day2\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Nov 30, 2025, 20:00 until Dec 14, 2025, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\ne+ pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\nGeneral sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://x.com/SerAph_DazZ\n\n【Fura Kanato】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://x.com/KNTFR2434\n\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://x.com/Shu_Yamino\n\n【Alban Knox】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
 URL:https://fes.nijisanji.jp/2026/special-stage/#s-stage4
 END:VEVENT
 BEGIN:VEVENT
@@ -832,13 +832,95 @@ URL:https://eplus.jp/nijisanji-fes2026/stage-ep/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9869e4f-3503-47f0-91bd-e988c487e911
-DTSTAMP:20251130T142035Z
-DTSTART:20260214T010000Z
-DTEND:20260214T013000Z
+DTSTAMP:20260221T063543Z
+DTSTART:20260214T030000Z
+DTEND:20260214T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day2: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage4\n\n\n==========\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Seraph Dazzlegarden】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://x.com/SerAph_DazZ\n\n【Fura Kanato】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://x.com/KNTFR2434\n\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Shu Yamino】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://x.com/Shu_Yamino\n\n【Alban Knox】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
 URL:https://eplus.jp/nijisanji-fes2026/stage/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4f7191-b4a8-47ca-851f-3e4c701001e1
+DTSTAMP:20260221T061959Z
+DTSTART:20260731T093000Z
+DTEND:20260731T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kanae 2nd LIVE -solitude-
+LOCATION:Tokyo International Forum Hall A
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #叶_2ndライブ\nhttps://x.com/search?q=%E5%8F%B6_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Feb 25, 2026, 12:00 until Mar 23, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nGeneral and individual fan club pre-sale lottery (from Apr 9, 2026, 12:00 until Apr 15, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nStagecrowd Ticket pre-sale lottery (from Apr 27, 2026, 12:00 until May 3, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nGeneral sale (first come, first served) (from May 23, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://www.nijisanji.jp/events/kanae_2ndlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:646ff5f5-a693-49a9-8990-13ed4a9105e1
+DTSTAMP:20260221T062652Z
+DTSTART:20260225T030000Z
+DTEND:20260225T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:646ff5f5-a693-49a9-8990-13ed4a9105e2
+DTSTAMP:20260221T062652Z
+DTSTART:20260323T145900Z
+DTEND:20260323T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:b603d642-5835-4595-861e-678e71cf4af1
+DTSTAMP:20260221T062846Z
+DTSTART:20260409T030000Z
+DTEND:20260409T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: General and individual fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:b603d642-5835-4595-861e-678e71cf4af2
+DTSTAMP:20260221T062846Z
+DTSTART:20260415T145900Z
+DTEND:20260415T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: General and individual fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:c012d215-6418-4299-91cd-a429dd00f381
+DTSTAMP:20260221T062433Z
+DTSTART:20260427T030000Z
+DTEND:20260427T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: Stagecrowd Ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:c012d215-6418-4299-91cd-a429dd00f382
+DTSTAMP:20260221T062433Z
+DTSTART:20260503T145900Z
+DTEND:20260503T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: Stagecrowd Ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:849432b8-fd30-4a55-9b71-d71dc5e9b571
+DTSTAMP:20260221T062443Z
+DTSTART:20260523T030000Z
+DTEND:20260523T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:f37571c5-553c-4553-a090-f109e0012019

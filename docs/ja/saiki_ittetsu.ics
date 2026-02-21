@@ -542,7 +542,7 @@ TRANSP:TRANSPARENT
 SUMMARY:にじさんじ 8th Anniversary LIVE 「CONCERTO」Day2
 LOCATION:幕張メッセ 国際展示場 展示ホール7～8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール7～8":geo:35.647009,140.034142
-DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage4\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_840\n\nオンライン視聴ページ\n\n\nハッシュタグ：#CONCERTO_Day2\nhttps://x.com/search?q=CONCERTO_Day2\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/11/30 20:00〜2025/12/14 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\nイープラス先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\n一般販売（先着） (2026/2/14 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\n\n\n==========\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://x.com/SerAph_DazZ\n\n【風楽奏斗】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://x.com/KNTFR2434\n\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【闇ノシュウ】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://x.com/Shu_Yamino\n\n【アルバーン・ノックス】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage4\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_840\n\nオンライン視聴ページ\n\n\nハッシュタグ：#CONCERTO_Day2\nhttps://x.com/search?q=CONCERTO_Day2\n\n==========\nチケット情報：\n\n総合・個人ファンクラブ先行抽選 (2025/11/30 20:00〜2025/12/14 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\nイープラス先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\n一般販売（先着） (2026/2/14 12:00〜)\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\n\n\n==========\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://x.com/SerAph_DazZ\n\n【風楽奏斗】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://x.com/KNTFR2434\n\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【闇ノシュウ】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://x.com/Shu_Yamino\n\n【アルバーン・ノックス】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n
 URL:https://fes.nijisanji.jp/2026/special-stage/#s-stage4
 END:VEVENT
 BEGIN:VEVENT
@@ -587,9 +587,9 @@ URL:https://eplus.jp/nijisanji-fes2026/stage-ep/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9869e4f-3503-47f0-91bd-e988c487e911
-DTSTAMP:20251130T142035Z
-DTSTART:20260214T010000Z
-DTEND:20260214T013000Z
+DTSTAMP:20260221T063543Z
+DTSTART:20260214T030000Z
+DTEND:20260214T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]にじさんじ 8th Anniversary LIVE 「CONCERTO」Day2: 一般販売（先着） 開始
 DESCRIPTION:チケット:\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nイベント:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage4\n\n\n==========\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【セラフ・ダズルガーデン】\nYouTube: https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA\nX: https://x.com/SerAph_DazZ\n\n【風楽奏斗】\nYouTube: https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w\nX: https://x.com/KNTFR2434\n\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【闇ノシュウ】\nYouTube: https://www.youtube.com/channel/UCG0rzBZV_QMP4MtWg6IjhEA\nX: https://x.com/Shu_Yamino\n\n【アルバーン・ノックス】\nYouTube: https://www.youtube.com/channel/UCQ1zGxHrfEmmW4CPpBx9-qw\nX: https://x.com/alban_knox\n\n

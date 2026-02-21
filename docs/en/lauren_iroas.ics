@@ -743,28 +743,78 @@ TRANSP:TRANSPARENT
 SUMMARY:Lauren Iroas 1st LIVE “FACE”
 LOCATION:Tokyo International Forum Hall A
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\nHashtag: #ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 22, 2026, 12:00 until May 20, 2026, 23:59)\n\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\nHashtag: #ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 22, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral fan club pre-sale lottery (from May 21, 2026, 12:00 until May 31, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from Jun 1, 2026, 12:00 until Jun 8, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/Lauren_FACE/
 END:VEVENT
 BEGIN:VEVENT
 UID:7eedfecc-2380-405c-bd0a-862bb254e9f1
-DTSTAMP:20260128T121830Z
+DTSTAMP:20260221T063112Z
 DTSTART:20260422T030000Z
 DTEND:20260422T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: Serial code pre-sale lottery starts
-DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
-URL:https://www.nijisanji.jp/events/Lauren_FACE/
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:7eedfecc-2380-405c-bd0a-862bb254e9f2
-DTSTAMP:20260128T121830Z
+DTSTAMP:20260221T063112Z
 DTSTART:20260520T145900Z
 DTEND:20260520T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: Serial code pre-sale lottery ends
-DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
-URL:https://www.nijisanji.jp/events/Lauren_FACE/
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:44958eac-cd70-4add-94f1-d87dca457841
+DTSTAMP:20260221T063208Z
+DTSTART:20260521T030000Z
+DTEND:20260521T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: General fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:44958eac-cd70-4add-94f1-d87dca457842
+DTSTAMP:20260221T063208Z
+DTSTART:20260531T145900Z
+DTEND:20260531T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: General fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ba58e7-9229-4d87-b6d9-51d0f2979511
+DTSTAMP:20260221T063213Z
+DTSTART:20260601T030000Z
+DTEND:20260601T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: Stagecrowd Ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ba58e7-9229-4d87-b6d9-51d0f2979512
+DTSTAMP:20260221T063213Z
+DTSTART:20260608T145900Z
+DTEND:20260608T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: Stagecrowd Ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:888131bd-c8fb-4e5f-aa3c-130d02c9c141
+DTSTAMP:20260221T063218Z
+DTSTART:20260620T040000Z
+DTEND:20260620T043000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:9f52b6e4-ca56-44fd-ac06-e9a2a7012021
