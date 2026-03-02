@@ -34,7 +34,7 @@ def create_oauth_header(auth, method: str, url: str, body: str = None):
         return auth_value.decode('utf-8')
     return str(auth_value)
 
-def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None = None):
+def create_tweet_with_playwright(browser, auth, text: str):
     """
     Create a tweet using Playwright to bypass Cloudflare protection.
 
@@ -42,7 +42,6 @@ def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None 
         browser: Playwright browser instance
         auth: OAuth1 authentication
         text: Tweet text
-        reply_to: Optional tweet ID to reply to
 
     Returns:
         dict: Twitter API response with tweet data
@@ -57,9 +56,6 @@ def create_tweet_with_playwright(browser, auth, text: str, reply_to: str | None 
     try:
         url = "https://api.twitter.com/2/tweets"
         payload = {"text": text}
-
-        if reply_to is not None:
-            payload["reply"] = {"in_reply_to_tweet_id": reply_to}
 
         body_str = json.dumps(payload)
 
@@ -206,12 +202,11 @@ def main() -> int:
 
         # Post Japanese tweets
         if ja_auth is not None:
-            reply_id: str | None = None
             for t in ja_tweets:
                 try:
-                    result = create_tweet_with_playwright(browser, ja_auth, t, reply_id)
-                    reply_id = result["data"]["id"]
-                    print(f"Successfully posted Japanese tweet (ID: {reply_id})")
+                    result = create_tweet_with_playwright(browser, ja_auth, t)
+                    tweet_id = result["data"]["id"]
+                    print(f"Successfully posted Japanese tweet (ID: {tweet_id})")
                 except Exception as e:
                     print(f"Failed to tweet: {e}")
                     print(f"Tweet text: {t}")
@@ -220,12 +215,11 @@ def main() -> int:
 
         # Post English tweets
         if en_auth is not None:
-            reply_id = None
             for t in en_tweets:
                 try:
-                    result = create_tweet_with_playwright(browser, en_auth, t, reply_id)
-                    reply_id = result["data"]["id"]
-                    print(f"Successfully posted English tweet (ID: {reply_id})")
+                    result = create_tweet_with_playwright(browser, en_auth, t)
+                    tweet_id = result["data"]["id"]
+                    print(f"Successfully posted English tweet (ID: {tweet_id})")
                 except Exception as e:
                     print(f"Failed to tweet: {e}")
                     print(f"Tweet text: {t}")
