@@ -1422,6 +1422,18 @@ DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n
 URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
 END:VEVENT
 BEGIN:VEVENT
+UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
+DTSTAMP:20260308T130520Z
+DTSTART:20261012T090000Z
+DTEND:20261012T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha One-Man Live "Bloody Alexandrite"
+LOCATION:Kアリーナ横浜
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
+END:VEVENT
+BEGIN:VEVENT
 UID:3b4fb849-4e76-4653-a35e-2df0d8012018
 DTSTAMP:20250315T142827Z
 DTSTART;VALUE=DATE:20180822
