@@ -5592,4 +5592,16 @@ SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: General sale (first come, first serve
 DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
 URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
 END:VEVENT
+BEGIN:VEVENT
+UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
+DTSTAMP:20260308T130520Z
+DTSTART:20261012T090000Z
+DTEND:20261012T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kuzuha One-Man Live "Bloody Alexandrite"
+LOCATION:K-Arena Yokohama
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
+END:VEVENT
 END:VCALENDAR
