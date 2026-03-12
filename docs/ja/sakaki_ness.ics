@@ -656,6 +656,88 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタ
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:03e94ade-1069-42f7-b9d4-7f33286a2416
+DTSTAMP:20260312T134343Z
+DTSTART:20260823T090000Z
+DTEND:20260823T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:3SKM 1st LIVE “One-Off”
+LOCATION:横浜BUNTAI
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="横浜BUNTAI":geo:35.440951,139.636449
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n3SKM 1st Mini Album「Nighthawks」シリアル先行抽選 (2026/4/29 12:00〜2026/5/20 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\n総合ファンクラブ先行抽選 (2026/6/3 12:00〜2026/6/14 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\nイープラス先行抽選 (2026/6/17 12:00〜2026/6/28 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\n一般販売（先着） (2026/8/2 12:00〜)\nhttps://eplus.jp/3skm-oneoff/\n\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://www.nijisanji.jp/events/3skm_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e61aa0-abcf-424f-9709-2510f9638161
+DTSTAMP:20260312T134721Z
+DTSTART:20260429T030000Z
+DTEND:20260429T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: 3SKM 1st Mini Album「Nighthawks」シリアル先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e61aa0-abcf-424f-9709-2510f9638162
+DTSTAMP:20260312T134721Z
+DTSTART:20260520T145900Z
+DTEND:20260520T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: 3SKM 1st Mini Album「Nighthawks」シリアル先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:51104dac-7eb5-43cb-89e8-a4cefb2e2b81
+DTSTAMP:20260312T134757Z
+DTSTART:20260603T030000Z
+DTEND:20260603T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: 総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:51104dac-7eb5-43cb-89e8-a4cefb2e2b82
+DTSTAMP:20260312T134757Z
+DTSTART:20260614T145900Z
+DTEND:20260614T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: 総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:d03f8079-8b1a-4c6f-afed-123609371e01
+DTSTAMP:20260312T134758Z
+DTSTART:20260617T030000Z
+DTEND:20260617T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff/
+END:VEVENT
+BEGIN:VEVENT
+UID:d03f8079-8b1a-4c6f-afed-123609371e02
+DTSTAMP:20260312T134758Z
+DTSTART:20260628T145900Z
+DTEND:20260628T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff/
+END:VEVENT
+BEGIN:VEVENT
+UID:e793dec6-9768-49bf-946a-2bfff0bc8dd1
+DTSTAMP:20260312T134753Z
+DTSTART:20260802T030000Z
+DTEND:20260802T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff/
+END:VEVENT
+BEGIN:VEVENT
 UID:bc552b3c-064e-4f94-aee4-94e85d012024
 DTSTAMP:20250316T055119Z
 DTSTART;VALUE=DATE:20241101
