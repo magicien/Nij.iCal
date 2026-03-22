@@ -89,30 +89,68 @@ def create_tweet_with_playwright(browser, auth, text: str):
     finally:
         context.close()
 
-def split_text_for_tweets(text: str) -> list[str]:
-    parse_result = parse_tweet(text)
+def split_text_for_tweets(text_today: str, header_today: str, text_tomorrow: str, header_tomorrow: str) -> list[str]:
+    """
+    Split combined today/tomorrow events into multiple tweets if needed.
+    Second and subsequent tweets will include appropriate headers (today or tomorrow).
+
+    Args:
+        text_today: Today's events text (including header)
+        header_today: Today's header text
+        text_tomorrow: Tomorrow's events text (including header)
+        header_tomorrow: Tomorrow's header text
+
+    Returns:
+        List of tweet texts
+    """
+    combined_text = text_today + text_tomorrow
+    parse_result = parse_tweet(combined_text)
     if parse_result.valid:
-        return [text]
+        return [combined_text]
 
     result: list[str] = []
-    texts = text.split("\n\n")
+
+    # Split into paragraphs and tag each with 'today' or 'tomorrow'
+    today_paragraphs = [(para, 'today', header_today) for para in text_today.split("\n\n") if len(para) > 0]
+    tomorrow_paragraphs = [(para, 'tomorrow', header_tomorrow) for para in text_tomorrow.split("\n\n") if len(para) > 0]
+    all_paragraphs = today_paragraphs + tomorrow_paragraphs
+
     tweet = ''
-    for t in texts:
-        if len(t) == 0:
-            continue
+    current_section = None
+    is_first_tweet = True
 
+    for para, section, header in all_paragraphs:
         if len(tweet) == 0:
-            tweet = t
+            # Starting a new tweet
+            if is_first_tweet:
+                # First tweet: no header prefix needed (paragraph already has header)
+                tweet = para
+                current_section = section
+            else:
+                # Subsequent tweets: add header only if paragraph doesn't already start with it
+                if para.startswith(header):
+                    tweet = para
+                else:
+                    tweet = header + para
+                current_section = section
             continue
 
-        next_tweet = f"{tweet}\n\n{t}"
+        next_tweet = f"{tweet}\n\n{para}"
         if parse_tweet(next_tweet).valid:
             tweet = next_tweet
         else:
+            # Current tweet is full, save it and start new tweet
             result.append(tweet)
-            tweet = t
+            # Next tweet should include appropriate header if not already present
+            if para.startswith(header):
+                tweet = para
+            else:
+                tweet = header + para
+            current_section = section
+            is_first_tweet = False
 
-    result.append(tweet)
+    if len(tweet) > 0:
+        result.append(tweet)
 
     return result
 
@@ -147,7 +185,7 @@ def main() -> int:
     else:
         ja_text_tomorrow = ja_header_tomorrow + ja_text_tomorrow
 
-    ja_tweets = split_text_for_tweets(ja_text_today + ja_text_tomorrow)
+    ja_tweets = split_text_for_tweets(ja_text_today, ja_header_today, ja_text_tomorrow, ja_header_tomorrow)
     for t in ja_tweets:
         print(f"=====================\n{t}\n=====================\n")
 
@@ -163,7 +201,7 @@ def main() -> int:
     else:
         en_text_tomorrow = en_header_tomorrow + en_text_tomorrow
 
-    en_tweets = split_text_for_tweets(en_text_today + en_text_tomorrow)
+    en_tweets = split_text_for_tweets(en_text_today, en_header_today, en_text_tomorrow, en_header_tomorrow)
     for t in en_tweets:
         print(f"=====================\n{t}\n=====================\n")
 
