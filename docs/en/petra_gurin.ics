@@ -443,7 +443,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Nijisanji Fes 2026 Day 1
 LOCATION:Makuhari Messe Exhibition Halls 1-8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\nTicket Info:\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEntry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEntry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEntry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\nTicket Info:\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 13, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13941\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 13, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13942\n\nEntry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEntry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEntry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nEntry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 16, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13940\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -477,8 +477,28 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/room/\n\nEvent:\nhttps:/
 URL:https://eplus.jp/nijisanji-fes2026/room/
 END:VEVENT
 BEGIN:VEVENT
+UID:ca19504e-f90e-4e96-8c81-3b12d52ba021
+DTSTAMP:20260412T050231Z
+DTSTART:20260416T090000Z
+DTEND:20260416T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale starts
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13941\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13941
+END:VEVENT
+BEGIN:VEVENT
+UID:ca19504e-f90e-4e96-8c81-3b12d52ba022
+DTSTAMP:20260412T050231Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13941\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13941
+END:VEVENT
+BEGIN:VEVENT
 UID:6650f028-fb3a-4e52-8b57-f3ae47021fa1
-DTSTAMP:20251201T050951Z
+DTSTAMP:20260412T050140Z
 DTSTART:20260204T090000Z
 DTEND:20260204T093000Z
 TRANSP:TRANSPARENT
@@ -488,7 +508,7 @@ URL:https://eplus.jp/nijisanji-fes2026/hero-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:6650f028-fb3a-4e52-8b57-f3ae47021fa2
-DTSTAMP:20251201T050951Z
+DTSTAMP:20260412T050140Z
 DTSTART:20260215T145900Z
 DTEND:20260215T152900Z
 TRANSP:TRANSPARENT
@@ -527,6 +547,26 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\nEvent:\nhttps:/
 URL:https://eplus.jp/nijisanji-fes2026/hero/
 END:VEVENT
 BEGIN:VEVENT
+UID:78cd8549-af61-4462-8167-a59fd8523351
+DTSTAMP:20260412T050248Z
+DTSTART:20260416T090000Z
+DTEND:20260416T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale starts
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13942\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13942
+END:VEVENT
+BEGIN:VEVENT
+UID:78cd8549-af61-4462-8167-a59fd8523352
+DTSTAMP:20260412T050248Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13942\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13942
+END:VEVENT
+BEGIN:VEVENT
 UID:ff359a90-4f31-4552-8234-b77d2b8c7871
 DTSTAMP:20251201T051018Z
 DTSTART:20260204T090000Z
@@ -548,7 +588,7 @@ URL:https://eplus.jp/nijisanji-fes2026/entry-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:cefc1524-7cec-4342-8038-f22ab9494101
-DTSTAMP:20251201T051020Z
+DTSTAMP:20260412T050153Z
 DTSTART:20260304T030000Z
 DTEND:20260304T033000Z
 TRANSP:TRANSPARENT
@@ -558,7 +598,7 @@ URL:https://eplus.jp/nijisanji-fes2026/entry-ep/
 END:VEVENT
 BEGIN:VEVENT
 UID:cefc1524-7cec-4342-8038-f22ab9494102
-DTSTAMP:20251201T051020Z
+DTSTAMP:20260412T050153Z
 DTSTART:20260310T145900Z
 DTEND:20260310T152900Z
 TRANSP:TRANSPARENT
@@ -577,20 +617,40 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nEvent:\nhttps:
 URL:https://eplus.jp/nijisanji-fes2026/entry/
 END:VEVENT
 BEGIN:VEVENT
+UID:97296ba9-5546-4d69-89ba-5356bbb97241
+DTSTAMP:20260412T050409Z
+DTSTART:20260416T090000Z
+DTEND:20260416T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): Resale starts
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13940\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13940
+END:VEVENT
+BEGIN:VEVENT
+UID:97296ba9-5546-4d69-89ba-5356bbb97242
+DTSTAMP:20260412T050409Z
+DTSTART:20260516T025900Z
+DTEND:20260516T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13940\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13940
+END:VEVENT
+BEGIN:VEVENT
 UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
-DTSTAMP:20251227T082722Z
+DTSTAMP:20260412T042650Z
 DTSTART:20260516T080000Z
 DTEND:20260516T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:Nijisanji 8th Anniversary LIVE "CONCERTO" Day1
 LOCATION:Makuhari Messe Exhibition Halls 7-8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 7-8":geo:35.647009,140.034142
-DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_840\n\nniconico Live\n\n\nHashtag: #CONCERTO_Day1\nhttps://x.com/search?q=CONCERTO_Day1\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Nov 30, 2025, 20:00 until Dec 14, 2025, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\ne+ pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\nGeneral sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/4KLtqozwIC\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_840\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv350003218\n\n\nHashtag: #CONCERTO_Day1\nhttps://x.com/search?q=CONCERTO_Day1\n\n==========\nTicket Info:\n\nGeneral and individual fan club pre-sale lottery (from Nov 30, 2025, 20:00 until Dec 14, 2025, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-fc/\n\ne+ pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage-ep/\n\nGeneral sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nLimited visibility seats for sale (e+ pre-sale lottery) (from Apr 8, 2026, 18:00 until Apr 13, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/stage/add-l/\n\nResale (from Apr 16, 2026, 18:00 until May 15, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13945\n\nAdditional general sale (first come, first served) (from Apr 25, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/stage/add-nt/\n\nLimited visibility seats for sale (first-come, first-served) (from May 2, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/stage/add-lt/\n\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
 URL:https://fes.nijisanji.jp/2026/special-stage/#s-stage3
 END:VEVENT
 BEGIN:VEVENT
 UID:77fd23da-9879-49c4-b296-eea9081abcd1
-DTSTAMP:20251130T134441Z
+DTSTAMP:20260412T045620Z
 DTSTART:20251130T110000Z
 DTEND:20251130T113000Z
 TRANSP:TRANSPARENT
@@ -600,7 +660,7 @@ URL:https://eplus.jp/nijisanji-fes2026/stage-fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:77fd23da-9879-49c4-b296-eea9081abcd2
-DTSTAMP:20251130T134441Z
+DTSTAMP:20260412T045620Z
 DTSTART:20251214T145900Z
 DTEND:20251214T152900Z
 TRANSP:TRANSPARENT
@@ -637,6 +697,66 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day1: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
 URL:https://eplus.jp/nijisanji-fes2026/stage/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9179861-afa4-44b7-bfaa-a9cb0ed5d1e1
+DTSTAMP:20260412T045743Z
+DTSTART:20260408T090000Z
+DTEND:20260408T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day1: Limited visibility seats for sale (e+ pre-sale lottery) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/add-l/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage/add-l/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9179861-afa4-44b7-bfaa-a9cb0ed5d1e2
+DTSTAMP:20260412T045743Z
+DTSTART:20260413T145900Z
+DTEND:20260413T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day1: Limited visibility seats for sale (e+ pre-sale lottery) ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/add-l/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage/add-l/
+END:VEVENT
+BEGIN:VEVENT
+UID:e268c797-f529-47c8-b5f8-397ffd3babf1
+DTSTAMP:20260412T044835Z
+DTSTART:20260416T090000Z
+DTEND:20260416T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day1: Resale starts
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13945\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
+URL:https://trade.tixplus.jp/artists/tour/13945
+END:VEVENT
+BEGIN:VEVENT
+UID:e268c797-f529-47c8-b5f8-397ffd3babf2
+DTSTAMP:20260412T044835Z
+DTSTART:20260515T025900Z
+DTEND:20260515T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day1: Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13945\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
+URL:https://trade.tixplus.jp/artists/tour/13945
+END:VEVENT
+BEGIN:VEVENT
+UID:ac9e8814-c0d0-412e-b755-e888767140d1
+DTSTAMP:20260412T045758Z
+DTSTART:20260425T030000Z
+DTEND:20260425T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day1: Additional general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/add-nt/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage/add-nt/
+END:VEVENT
+BEGIN:VEVENT
+UID:5da896aa-6dae-4a8d-9b0c-e0b50660ee71
+DTSTAMP:20260412T045803Z
+DTSTART:20260502T030000Z
+DTEND:20260502T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji 8th Anniversary LIVE "CONCERTO" Day1: Limited visibility seats for sale (first-come, first-served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/nijisanji-fes2026/stage/add-lt/\n\nEvent:\nhttps://fes.nijisanji.jp/2026/special-stage/#s-stage3\n\n\n==========\n【Tsukino Mito】\nYouTube: https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A\nX: https://x.com/MitoTsukino\n\n【Ange Katrina】\nYouTube: https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw\nX: https://x.com/ange_katrina_\n\n【Lize Helesta】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【Furen E Lustario】\nYouTube: https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw\nX: https://x.com/furen_2434\n\n【Yang Nari】\nYouTube: https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ\nX: https://x.com/NariYang2434\n\n【Ishigami Nozomi】\nYouTube: https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg\nX: https://x.com/I_Nozomi_\n\n【Petra Gurin】\nYouTube: https://www.youtube.com/channel/UCgA2jKRkqpY_8eysPUs8sjw\nX: https://x.com/Petra_Gurin\n\n【Meloco Kyoran】\nYouTube: https://www.youtube.com/@MelocoKyoran\nX: https://x.com/MelocoKyoran\n\n
+URL:https://eplus.jp/nijisanji-fes2026/stage/add-lt/
 END:VEVENT
 BEGIN:VEVENT
 UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
