@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Reina
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
+DTSTAMP:20251227T082716Z
+DTSTART:20260516T010000Z
+DTEND:20260516T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Day 1
+LOCATION:Makuhari Messe Exhibition Halls 1-8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\nTicket Info:\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 13, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13941\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 13, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13942\n\nEntry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEntry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEntry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nEntry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 16, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13940\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca19504e-f90e-4e96-8c81-3b12d52ba022
+DTSTAMP:20260412T050231Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13941\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13941
+END:VEVENT
+BEGIN:VEVENT
+UID:78cd8549-af61-4462-8167-a59fd8523352
+DTSTAMP:20260412T050248Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13942\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13942
+END:VEVENT
+BEGIN:VEVENT
+UID:97296ba9-5546-4d69-89ba-5356bbb97242
+DTSTAMP:20260412T050409Z
+DTSTART:20260516T025900Z
+DTEND:20260516T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13940\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13940
+END:VEVENT
+BEGIN:VEVENT
+UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
+DTSTAMP:20251227T082730Z
+DTSTART:20260517T010000Z
+DTEND:20260517T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Day 2
+LOCATION:Makuhari Messe Exhibition Halls 1-8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe012026
+DTSTAMP:20260419T111941Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Reina Birthday
+DESCRIPTION:Reina Birthday\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022026
+DTSTAMP:20260419T111941Z
+DTSTART:20260419T090100Z
+DTEND:20260419T093100Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina Debut
+DESCRIPTION:Reina Debut\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe032026
+DTSTAMP:20260419T111941Z
+DTSTART:20260422T130000Z
+DTEND:20260422T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina Debut stream
+DESCRIPTION:Reina Debut stream\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022027
+DTSTAMP:20260419T111941Z
+DTSTART:20270419T090100Z
+DTEND:20270419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 1st Anniversary
+DESCRIPTION:Reina 1st Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022028
+DTSTAMP:20260419T111941Z
+DTSTART:20280419T090100Z
+DTEND:20280419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 2nd Anniversary
+DESCRIPTION:Reina 2nd Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022029
+DTSTAMP:20260419T111941Z
+DTSTART:20290419T090100Z
+DTEND:20290419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 3rd Anniversary
+DESCRIPTION:Reina 3rd Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022030
+DTSTAMP:20260419T111941Z
+DTSTART:20300419T090100Z
+DTEND:20300419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 4th Anniversary
+DESCRIPTION:Reina 4th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022031
+DTSTAMP:20260419T111941Z
+DTSTART:20310419T090100Z
+DTEND:20310419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 5th Anniversary
+DESCRIPTION:Reina 5th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022032
+DTSTAMP:20260419T111941Z
+DTSTART:20320419T090100Z
+DTEND:20320419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 6th Anniversary
+DESCRIPTION:Reina 6th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022033
+DTSTAMP:20260419T111941Z
+DTSTART:20330419T090100Z
+DTEND:20330419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 7th Anniversary
+DESCRIPTION:Reina 7th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022034
+DTSTAMP:20260419T111941Z
+DTSTART:20340419T090100Z
+DTEND:20340419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 8th Anniversary
+DESCRIPTION:Reina 8th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022035
+DTSTAMP:20260419T111941Z
+DTSTART:20350419T090100Z
+DTEND:20350419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 9th Anniversary
+DESCRIPTION:Reina 9th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:4802b946-2ba6-40a0-954f-08d8fe022036
+DTSTAMP:20260419T111941Z
+DTSTART:20360419T090100Z
+DTEND:20360419T090101Z
+TRANSP:TRANSPARENT
+SUMMARY:Reina 10th Anniversary
+DESCRIPTION:Reina 10th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:01 (JST)\nFirst stream: Apr 22, 2026, 22:00 (JST)\n\n\n==========\n【Reina】\nYouTube: https://www.youtube.com/@Rei7_Y4T4\nX: https://x.com/Rei7_2434\n\n
+URL:https://www.youtube.com/@Rei7_Y4T4
+END:VEVENT
+END:VCALENDAR

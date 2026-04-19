@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Rayon
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
+DTSTAMP:20251227T082716Z
+DTSTART:20260516T010000Z
+DTEND:20260516T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Day 1
+LOCATION:Makuhari Messe Exhibition Halls 1-8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\nTicket Info:\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Jan 13, 2026, 20:00 until Jan 21, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n"Audio-Visual Room" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Feb 14, 2026, 12:00)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 13, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13941\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n"Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 13, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13942\n\nEntry Pass (Days 1 & 2): General and individual fan club pre-sale lottery (from Feb 4, 2026, 18:00 until Feb 15, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\nEntry Pass (Days 1 & 2): e+ pre-sale lottery (from Mar 4, 2026, 12:00 until Mar 10, 2026, 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\nEntry Pass (Days 1 & 2): General sale (first come, first served) (from Mar 28, 2026, 10:00)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\nEntry Pass (Days 1 & 2): Resale (from Apr 16, 2026, 18:00 until May 16, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/13940\n\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca19504e-f90e-4e96-8c81-3b12d52ba022
+DTSTAMP:20260412T050231Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13941\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13941
+END:VEVENT
+BEGIN:VEVENT
+UID:78cd8549-af61-4462-8167-a59fd8523352
+DTSTAMP:20260412T050248Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: "Real Hero Greeting" Ticket with Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13942\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13942
+END:VEVENT
+BEGIN:VEVENT
+UID:97296ba9-5546-4d69-89ba-5356bbb97242
+DTSTAMP:20260412T050409Z
+DTSTART:20260516T025900Z
+DTEND:20260516T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Nijisanji Fes 2026 Day 1: Entry Pass (Days 1 & 2): Resale ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/13940\n\nEvent:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13940
+END:VEVENT
+BEGIN:VEVENT
+UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
+DTSTAMP:20251227T082730Z
+DTSTART:20260517T010000Z
+DTEND:20260517T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Fes 2026 Day 2
+LOCATION:Makuhari Messe Exhibition Halls 1-8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe Exhibition Halls 1-8":geo:35.647009,140.034142
+DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c012027
+DTSTAMP:20260419T112230Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Rayon Birthday
+DESCRIPTION:Rayon Birthday\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022026
+DTSTAMP:20260419T112230Z
+DTSTART:20260419T090000Z
+DTEND:20260419T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon Debut
+DESCRIPTION:Rayon Debut\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c032026
+DTSTAMP:20260419T112230Z
+DTSTART:20260421T130000Z
+DTEND:20260421T133000Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon Debut stream
+DESCRIPTION:Rayon Debut stream\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022027
+DTSTAMP:20260419T112230Z
+DTSTART:20270419T090000Z
+DTEND:20270419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 1st Anniversary
+DESCRIPTION:Rayon 1st Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022028
+DTSTAMP:20260419T112230Z
+DTSTART:20280419T090000Z
+DTEND:20280419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 2nd Anniversary
+DESCRIPTION:Rayon 2nd Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022029
+DTSTAMP:20260419T112230Z
+DTSTART:20290419T090000Z
+DTEND:20290419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 3rd Anniversary
+DESCRIPTION:Rayon 3rd Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022030
+DTSTAMP:20260419T112230Z
+DTSTART:20300419T090000Z
+DTEND:20300419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 4th Anniversary
+DESCRIPTION:Rayon 4th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022031
+DTSTAMP:20260419T112230Z
+DTSTART:20310419T090000Z
+DTEND:20310419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 5th Anniversary
+DESCRIPTION:Rayon 5th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022032
+DTSTAMP:20260419T112230Z
+DTSTART:20320419T090000Z
+DTEND:20320419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 6th Anniversary
+DESCRIPTION:Rayon 6th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022033
+DTSTAMP:20260419T112230Z
+DTSTART:20330419T090000Z
+DTEND:20330419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 7th Anniversary
+DESCRIPTION:Rayon 7th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022034
+DTSTAMP:20260419T112230Z
+DTSTART:20340419T090000Z
+DTEND:20340419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 8th Anniversary
+DESCRIPTION:Rayon 8th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022035
+DTSTAMP:20260419T112230Z
+DTSTART:20350419T090000Z
+DTEND:20350419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 9th Anniversary
+DESCRIPTION:Rayon 9th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+BEGIN:VEVENT
+UID:c387feb7-aa44-440a-90f8-96e30c022036
+DTSTAMP:20260419T112230Z
+DTSTART:20360419T090000Z
+DTEND:20360419T090001Z
+TRANSP:TRANSPARENT
+SUMMARY:Rayon 10th Anniversary
+DESCRIPTION:Rayon 10th Anniversary\n\nFirst tweet: Apr 19, 2026, 18:00 (JST)\nFirst stream: Apr 21, 2026, 22:00 (JST)\n\n\n==========\n【Rayon】\nYouTube: https://www.youtube.com/@Rayon_2434\nX: https://x.com/Rayon_2434\n\n
+URL:https://www.youtube.com/@Rayon_2434
+END:VEVENT
+END:VCALENDAR
