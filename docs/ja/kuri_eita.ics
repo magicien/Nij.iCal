@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:九里詠太
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:a85c4231-fd1d-41ca-914c-7b7b862354b2
+DTSTAMP:20251227T082716Z
+DTSTART:20260516T010000Z
+DTEND:20260516T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス2026 1日目
+LOCATION:幕張メッセ 国際展示場 展示ホール1～8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\nチケット情報：\n\n「視聴覚室」参加券付き入場券（１＆２日目）総合・個人ファンクラブ先行抽選 (2026/1/13 20:00〜2026/1/21 23:59)\nhttps://eplus.jp/nijisanji-fes2026/room-fc/\n\n「視聴覚室」参加券付き入場券（１＆２日目）一般販売(先着) (2026/2/14 12:00〜)\nhttps://eplus.jp/nijisanji-fes2026/room/\n\n「視聴覚室」参加券付き入場券（１＆２日目）リセール (2026/4/16 18:00〜2026/5/13 11:59)\nhttps://trade.tixplus.jp/artists/tour/13941\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　総合ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-fc/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/hero-ep/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/hero/\n\n「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　リセール (2026/4/16 18:00〜2026/5/13 11:59)\nhttps://trade.tixplus.jp/artists/tour/13942\n\n入場券（１＆２日目）　総合・個人ファンクラブ先行抽選 (2026/2/4 18:00〜2026/2/15 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-fc/\n\n入場券（１＆２日目）　イープラス先行抽選 (2026/3/4 12:00〜2026/3/10 23:59)\nhttps://eplus.jp/nijisanji-fes2026/entry-ep/\n\n入場券（１＆２日目）　一般販売(先着) (2026/3/28 10:00〜)\nhttps://eplus.jp/nijisanji-fes2026/entry/\n\n入場券（１＆２日目）　リセール (2026/4/16 18:00〜2026/5/16 11:59)\nhttps://trade.tixplus.jp/artists/tour/13940\n\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca19504e-f90e-4e96-8c81-3b12d52ba022
+DTSTAMP:20260412T050231Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「視聴覚室」参加券付き入場券（１＆２日目）リセール 終了
+DESCRIPTION:チケット:\nhttps://trade.tixplus.jp/artists/tour/13941\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13941
+END:VEVENT
+BEGIN:VEVENT
+UID:78cd8549-af61-4462-8167-a59fd8523352
+DTSTAMP:20260412T050248Z
+DTSTART:20260513T025900Z
+DTEND:20260513T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 「リアルヒーローグリーティング」\n参加券付き入場券（１＆２日目）　リセール 終了
+DESCRIPTION:チケット:\nhttps://trade.tixplus.jp/artists/tour/13942\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13942
+END:VEVENT
+BEGIN:VEVENT
+UID:97296ba9-5546-4d69-89ba-5356bbb97242
+DTSTAMP:20260412T050409Z
+DTSTART:20260516T025900Z
+DTEND:20260516T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじフェス2026 1日目: 入場券（１＆２日目）　リセール 終了
+DESCRIPTION:チケット:\nhttps://trade.tixplus.jp/artists/tour/13940\n\nイベント:\nhttps://fes.nijisanji.jp/2026/\n\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://trade.tixplus.jp/artists/tour/13940
+END:VEVENT
+BEGIN:VEVENT
+UID:addbdf01-3883-4bd8-8444-82d7b2cc51d2
+DTSTAMP:20251227T082730Z
+DTSTART:20260517T010000Z
+DTEND:20260517T090000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじフェス2026 2日目
+LOCATION:幕張メッセ 国際展示場 展示ホール1～8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
+DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d012026
+DTSTAMP:20260419T111048Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 誕生日
+DESCRIPTION:九里詠太 誕生日\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022026
+DTSTAMP:20260419T111048Z
+DTSTART:20260419T090200Z
+DTEND:20260419T093200Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 活動開始
+DESCRIPTION:九里詠太 活動開始\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d032026
+DTSTAMP:20260419T111048Z
+DTSTART:20260422T123000Z
+DTEND:20260422T130000Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 初配信
+DESCRIPTION:九里詠太 初配信\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022027
+DTSTAMP:20260419T111048Z
+DTSTART:20270419T090200Z
+DTEND:20270419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 1周年
+DESCRIPTION:九里詠太 1周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022028
+DTSTAMP:20260419T111048Z
+DTSTART:20280419T090200Z
+DTEND:20280419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 2周年
+DESCRIPTION:九里詠太 2周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022029
+DTSTAMP:20260419T111048Z
+DTSTART:20290419T090200Z
+DTEND:20290419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 3周年
+DESCRIPTION:九里詠太 3周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022030
+DTSTAMP:20260419T111048Z
+DTSTART:20300419T090200Z
+DTEND:20300419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 4周年
+DESCRIPTION:九里詠太 4周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022031
+DTSTAMP:20260419T111048Z
+DTSTART:20310419T090200Z
+DTEND:20310419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 5周年
+DESCRIPTION:九里詠太 5周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022032
+DTSTAMP:20260419T111048Z
+DTSTART:20320419T090200Z
+DTEND:20320419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 6周年
+DESCRIPTION:九里詠太 6周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022033
+DTSTAMP:20260419T111048Z
+DTSTART:20330419T090200Z
+DTEND:20330419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 7周年
+DESCRIPTION:九里詠太 7周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022034
+DTSTAMP:20260419T111048Z
+DTSTART:20340419T090200Z
+DTEND:20340419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 8周年
+DESCRIPTION:九里詠太 8周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022035
+DTSTAMP:20260419T111048Z
+DTSTART:20350419T090200Z
+DTEND:20350419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 9周年
+DESCRIPTION:九里詠太 9周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a12994-fff8-4edf-a94a-a4a86d022036
+DTSTAMP:20260419T111048Z
+DTSTART:20360419T090200Z
+DTEND:20360419T090201Z
+TRANSP:TRANSPARENT
+SUMMARY:九里詠太 10周年
+DESCRIPTION:九里詠太 10周年\n\n初ツイート：2026/04/19 18:02 （日本時間）\n初配信：2026/04/22 21:30 （日本時間）\n\n\n==========\n【九里詠太】\nYouTube: https://www.youtube.com/@KuriEita_Y4T4\nX: https://x.com/Eita_2434\n\n
+URL:https://www.youtube.com/@KuriEita_Y4T4
+END:VEVENT
+END:VCALENDAR
