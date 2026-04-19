@@ -15,6 +15,7 @@ class Talent:
     first_stream_datetime: arrow.Arrow
     youtube_url: str
     twitter_url: str | None
+    twitch_url: str | None
     description: str
     eng_description: str
     graduation_date: arrow.Arrow | None
