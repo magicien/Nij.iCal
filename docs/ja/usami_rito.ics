@@ -818,6 +818,38 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタ
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:6cee3ba9-3869-416a-bf74-a26104521749
+DTSTAMP:20260428T123604Z
+DTSTART:20261010T090000Z
+DTEND:20261010T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:MECHATU-A 1st LIVE “Over Drive!”
+LOCATION:Kアリーナ横浜
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nMECHATU-A 1st LIVE “Over Drive!”シリアル先行抽選 (2026/7/22 12:00〜2026/8/16 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:68cda899-94c0-46c3-8c1e-e82317ec5011
+DTSTAMP:20260428T123752Z
+DTSTART:20260722T030000Z
+DTEND:20260722T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]MECHATU-A 1st LIVE “Over Drive!”: MECHATU-A 1st LIVE “Over Drive!”シリアル先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://eplus.jp/mechatu-a_1stlive/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:68cda899-94c0-46c3-8c1e-e82317ec5012
+DTSTAMP:20260428T123752Z
+DTSTART:20260816T145900Z
+DTEND:20260816T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]MECHATU-A 1st LIVE “Over Drive!”: MECHATU-A 1st LIVE “Over Drive!”シリアル先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://eplus.jp/mechatu-a_1stlive/sp/
+END:VEVENT
+BEGIN:VEVENT
 UID:765ab287-91e4-42f5-a90f-0a1c78012023
 DTSTAMP:20250316T050454Z
 DTSTART;VALUE=DATE:20230817
