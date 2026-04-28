@@ -513,6 +513,38 @@ DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじ�
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:6cee3ba9-3869-416a-bf74-a26104521749
+DTSTAMP:20260428T123604Z
+DTSTART:20261010T090000Z
+DTEND:20261010T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:MECHATU-A 1st LIVE “Over Drive!”
+LOCATION:K-Arena Yokohama
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 22, 2026, 12:00 until Aug 16, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:68cda899-94c0-46c3-8c1e-e82317ec5011
+DTSTAMP:20260428T123752Z
+DTSTART:20260722T030000Z
+DTEND:20260722T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]MECHATU-A 1st LIVE “Over Drive!”: Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://eplus.jp/mechatu-a_1stlive/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:68cda899-94c0-46c3-8c1e-e82317ec5012
+DTSTAMP:20260428T123752Z
+DTSTART:20260816T145900Z
+DTEND:20260816T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]MECHATU-A 1st LIVE “Over Drive!”: Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://eplus.jp/mechatu-a_1stlive/sp/
+END:VEVENT
+BEGIN:VEVENT
 UID:5774b5f5-6745-496d-8f25-1b3077012023
 DTSTAMP:20250316T050428Z
 DTSTART;VALUE=DATE:20231206
