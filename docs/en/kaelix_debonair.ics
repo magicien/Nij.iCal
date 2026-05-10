@@ -415,6 +415,18 @@ DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\n\nHashtag: #にじ�
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:84ce6bb3-7e1d-4ba0-a76f-57740591da86
+DTSTAMP:20260510T175110Z
+DTSTART:20260531T070000Z
+DTEND:20260531T080000Z
+TRANSP:TRANSPARENT
+SUMMARY:Anime Festival Asia Thailand 2026
+LOCATION:Queen Sirikit National Convention Center (QSNCC) NEXT STAGE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Queen Sirikit National Convention Center (QSNCC) NEXT STAGE":geo:13.724292,100.558837
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001499.000030865.html\n\nHashtag: #3SKM_BYTHEBEAT_AFATH26\nhttps://x.com/search?q=3SKM_BYTHEBEAT_AFATH26\n\n==========\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Zeal Ginjoka】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001499.000030865.html
+END:VEVENT
+BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09012025
 DTSTAMP:20250316T074549Z
 DTSTART;VALUE=DATE:20251105

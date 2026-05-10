@@ -719,6 +719,17 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nEvent:\nhttps://w
 URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
+UID:33332d1d-8b0c-4c3b-8ed0-30190884e55f
+DTSTAMP:20260510T172644Z
+DTSTART:20261017T030000Z
+DTEND:20261017T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:MECHATU-A 1st Mini Album "On-Deck!" Release Commemorative "Dytica" Talk Event
+LOCATION:Tokyo
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n==========\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
+END:VEVENT
+BEGIN:VEVENT
 UID:2bc0947d-09b9-4b04-a78e-d26a06012024
 DTSTAMP:20250316T050620Z
 DTSTART;VALUE=DATE:20240226

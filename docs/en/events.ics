@@ -5727,8 +5727,20 @@ DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/4KLtqozwIC\n\nEvent:\nhttp
 URL:https://dwango-ticket.jp/project/4KLtqozwIC
 END:VEVENT
 BEGIN:VEVENT
+UID:84ce6bb3-7e1d-4ba0-a76f-57740591da86
+DTSTAMP:20260510T175110Z
+DTSTART:20260531T070000Z
+DTEND:20260531T080000Z
+TRANSP:TRANSPARENT
+SUMMARY:Anime Festival Asia Thailand 2026
+LOCATION:Queen Sirikit National Convention Center (QSNCC) NEXT STAGE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Queen Sirikit National Convention Center (QSNCC) NEXT STAGE":geo:13.724292,100.558837
+DESCRIPTION:Article of the event\nhttps://prtimes.jp/main/html/rd/p/000001499.000030865.html\n\nHashtag: #3SKM_BYTHEBEAT_AFATH26\nhttps://x.com/search?q=3SKM_BYTHEBEAT_AFATH26\n\n==========\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Zeal Ginjoka】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【Freodore】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【Seible】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【Kaelix Debonair】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001499.000030865.html
+END:VEVENT
+BEGIN:VEVENT
 UID:548f5fa5-b048-4aab-8b5b-1572174a042f
-DTSTAMP:20260425T065123Z
+DTSTAMP:20260510T174257Z
 DTSTART:20260729T093000Z
 DTEND:20260729T113000Z
 TRANSP:TRANSPARENT
@@ -6087,8 +6099,90 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nEvent:\nhttps://w
 URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
+UID:cf3af762-7c6e-4034-aacd-27f4e3831d30
+DTSTAMP:20260510T165912Z
+DTSTART:20261011T090000Z
+DTEND:20261011T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Kenmochi Toya Real Solo Live [Kokuufes]
+LOCATION:K-Arena Yokohama
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:320944a5-50ca-4a26-be2b-f01c93713581
+DTSTAMP:20260510T170138Z
+DTSTART:20260715T030000Z
+DTEND:20260715T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:320944a5-50ca-4a26-be2b-f01c93713582
+DTSTAMP:20260510T170138Z
+DTSTART:20260812T145900Z
+DTEND:20260812T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:f692e6be-ff69-41e7-9edd-e89097387b61
+DTSTAMP:20260510T170219Z
+DTSTART:20260814T030000Z
+DTEND:20260814T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: General fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:f692e6be-ff69-41e7-9edd-e89097387b62
+DTSTAMP:20260510T170219Z
+DTSTART:20260823T145900Z
+DTEND:20260823T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: General fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9e261b-30d4-48f6-be6e-804c1ce5ad01
+DTSTAMP:20260510T170253Z
+DTSTART:20260826T030000Z
+DTEND:20260826T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9e261b-30d4-48f6-be6e-804c1ce5ad02
+DTSTAMP:20260510T170253Z
+DTSTART:20260906T145900Z
+DTEND:20260906T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:06935372-66c7-4a5a-8b26-fe9616700211
+DTSTAMP:20260510T170315Z
+DTSTART:20260920T030000Z
+DTEND:20260920T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
-DTSTAMP:20260428T123402Z
+DTSTAMP:20260510T170440Z
 DTSTART:20261012T090000Z
 DTEND:20261012T110000Z
 TRANSP:TRANSPARENT
@@ -6097,5 +6191,27 @@ LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
 DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
+END:VEVENT
+BEGIN:VEVENT
+UID:33332d1d-8b0c-4c3b-8ed0-30190884e55f
+DTSTAMP:20260510T172644Z
+DTSTART:20261017T030000Z
+DTEND:20261017T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:MECHATU-A 1st Mini Album "On-Deck!" Release Commemorative "Dytica" Talk Event
+LOCATION:Tokyo
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n==========\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3aabd1-45d2-4302-88b0-b4239e08f0ab
+DTSTAMP:20260510T172653Z
+DTSTART:20261024T030000Z
+DTEND:20261024T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:MECHATU-A 1st Mini Album "On-Deck!" Release Commemorative "Oriens" Talk Event
+LOCATION:Tokyo
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n
+URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
 END:VEVENT
 END:VCALENDAR

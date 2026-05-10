@@ -670,6 +670,17 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nEvent:\nhttps://w
 URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
+UID:dc3aabd1-45d2-4302-88b0-b4239e08f0ab
+DTSTAMP:20260510T172653Z
+DTSTART:20261024T030000Z
+DTEND:20261024T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:MECHATU-A 1st Mini Album "On-Deck!" Release Commemorative "Oriens" Talk Event
+LOCATION:Tokyo
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n
+URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
+END:VEVENT
+BEGIN:VEVENT
 UID:04255d81-3158-444d-ac8c-9b48e2012023
 DTSTAMP:20250316T050517Z
 DTSTART;VALUE=DATE:20230629
