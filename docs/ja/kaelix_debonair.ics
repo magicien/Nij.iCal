@@ -415,6 +415,18 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタ
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:84ce6bb3-7e1d-4ba0-a76f-57740591da86
+DTSTAMP:20260510T175110Z
+DTSTART:20260531T070000Z
+DTEND:20260531T080000Z
+TRANSP:TRANSPARENT
+SUMMARY:Anime Festival Asia Thailand 2026（事前収録映像上映）
+LOCATION:タイ・クイーン・シリキット・ナショナル・コンベンション・センター(QSNCC) NEXT STAGE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="タイ・クイーン・シリキット・ナショナル・コンベンション・センター(QSNCC) NEXT STAGE":geo:13.724292,100.558837
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001499.000030865.html\n\nハッシュタグ：#3SKM_BYTHEBEAT_AFATH26\nhttps://x.com/search?q=3SKM_BYTHEBEAT_AFATH26\n\n==========\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001499.000030865.html
+END:VEVENT
+BEGIN:VEVENT
 UID:27f2282f-22ea-43cc-8505-6f3b09012025
 DTSTAMP:20250316T074549Z
 DTSTART;VALUE=DATE:20251105

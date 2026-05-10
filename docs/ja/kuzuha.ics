@@ -1447,8 +1447,90 @@ DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n\nハッシュタ
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:cf3af762-7c6e-4034-aacd-27f4e3831d30
+DTSTAMP:20260510T165912Z
+DTSTART:20261011T090000Z
+DTEND:20261011T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:剣持刀也リアルソロライブ【虚空狂宴】
+LOCATION:Kアリーナ横浜
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nチケット情報：\n\n剣持刀也 1st Mini Album「Augment」シリアル先行抽選 (2026/7/15 12:00〜2026/8/12 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\n総合ファンクラブ先行抽選 (2026/8/14 12:00〜2026/8/23 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\nイープラス先行抽選 (2026/8/26 12:00〜2026/9/6 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\n一般販売（先着） (2026/9/20 12:00〜)\nhttps://eplus.jp/kenmochi_fes/\n\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:320944a5-50ca-4a26-be2b-f01c93713581
+DTSTAMP:20260510T170138Z
+DTSTART:20260715T030000Z
+DTEND:20260715T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]剣持刀也リアルソロライブ【虚空狂宴】: 剣持刀也 1st Mini Album「Augment」シリアル先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kenmochi_fes/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:320944a5-50ca-4a26-be2b-f01c93713582
+DTSTAMP:20260510T170138Z
+DTSTART:20260812T145900Z
+DTEND:20260812T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]剣持刀也リアルソロライブ【虚空狂宴】: 剣持刀也 1st Mini Album「Augment」シリアル先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/kenmochi_fes/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:f692e6be-ff69-41e7-9edd-e89097387b61
+DTSTAMP:20260510T170219Z
+DTSTART:20260814T030000Z
+DTEND:20260814T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]剣持刀也リアルソロライブ【虚空狂宴】: 総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kenmochi_fes/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:f692e6be-ff69-41e7-9edd-e89097387b62
+DTSTAMP:20260510T170219Z
+DTSTART:20260823T145900Z
+DTEND:20260823T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]剣持刀也リアルソロライブ【虚空狂宴】: 総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/kenmochi_fes/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9e261b-30d4-48f6-be6e-804c1ce5ad01
+DTSTAMP:20260510T170253Z
+DTSTART:20260826T030000Z
+DTEND:20260826T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]剣持刀也リアルソロライブ【虚空狂宴】: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kenmochi_fes/\n\nイベント:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9e261b-30d4-48f6-be6e-804c1ce5ad02
+DTSTAMP:20260510T170253Z
+DTSTART:20260906T145900Z
+DTEND:20260906T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]剣持刀也リアルソロライブ【虚空狂宴】: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/kenmochi_fes/\n\nイベント:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:06935372-66c7-4a5a-8b26-fe9616700211
+DTSTAMP:20260510T170315Z
+DTSTART:20260920T030000Z
+DTEND:20260920T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]剣持刀也リアルソロライブ【虚空狂宴】: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kenmochi_fes/\n\nイベント:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
-DTSTAMP:20260428T123402Z
+DTSTAMP:20260510T170440Z
 DTSTART:20261012T090000Z
 DTEND:20261012T110000Z
 TRANSP:TRANSPARENT
