@@ -529,9 +529,9 @@ URL:https://trade.tixplus.jp/artists/tour/13940
 END:VEVENT
 BEGIN:VEVENT
 UID:d7836a7f-2f40-423d-9caf-1b87d36dc921
-DTSTAMP:20260516T004034Z
+DTSTAMP:20260516T110237Z
 DTSTART:20260516T080000Z
-DTEND:20260516T103000Z
+DTEND:20260516T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ 8th Anniversary LIVE 「CONCERTO」Day1
 LOCATION:幕張メッセ 国際展示場 展示ホール7～8
@@ -680,6 +680,66 @@ LOCATION:幕張メッセ 国際展示場 展示ホール1～8
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="幕張メッセ 国際展示場 展示ホール1～8":geo:35.647009,140.034142
 DESCRIPTION:特設サイト\nhttps://fes.nijisanji.jp/2026/\n\n公式メイン放送\nhttps://www.youtube.com/live/WAVKrn9rI8M\nhttps://live.nicovideo.jp/watch/lv350252253\n\nオープンステージ\nhttps://www.youtube.com/live/T_JCzCHCeVs\nオープンステージ（青春謳歌！にじさんじカラオケ部）\nhttps://www.youtube.com/watch?v=p-o215o_nBQ\nオープンステージ（Dance Live 2026）\nhttps://www.youtube.com/watch?v=EGvBH7xETPc\n\nラジオブース\nhttps://www.youtube.com/watch?v=WtASoXA8lbM\n\n\nハッシュタグ：#にじフェス2026\nhttps://x.com/search?q=%E3%81%AB%E3%81%98%E3%83%95%E3%82%A7%E3%82%B92026\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
 URL:https://fes.nijisanji.jp/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:02fa0b4a-d2bf-4450-8384-c18debeda85a
+DTSTAMP:20260517T145207Z
+DTSTART:20260704T000000Z
+DTEND:20260716T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ ぬいストア とらべる！札幌
+LOCATION:サッポロファクトリー
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="サッポロファクトリー":geo:43.064502,141.362736
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nハッシュタグ：#ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c036875e-d995-4a14-b4d9-c54aeb7e0273
+DTSTAMP:20260517T145207Z
+DTSTART:20260704T000000Z
+DTEND:20260716T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ ぬいストア とらべる！名古屋
+LOCATION:mozoワンダーシティ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="mozoワンダーシティ":geo:35.224850,136.883876
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nハッシュタグ：#ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ff24d0-3570-494e-8656-c8d8bd6b2027
+DTSTAMP:20260517T145206Z
+DTSTART:20260711T000000Z
+DTEND:20260726T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ ぬいストア とらべる！仙台
+LOCATION:仙台PARCO1
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="仙台PARCO1":geo:38.262026,140.881537
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nハッシュタグ：#ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
+DTSTAMP:20260517T145206Z
+DTSTART:20260718T000000Z
+DTEND:20260814T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ ぬいストア とらべる！博多
+LOCATION:キャナルシティ博多
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="キャナルシティ博多":geo:33.589740,130.410590
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nハッシュタグ：#ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
+DTSTAMP:20260517T145158Z
+DTSTART:20260801T093000Z
+DTEND:20260827T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじさんじ ぬいストア とらべる！大阪
+LOCATION:HEP FIVE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="HEP FIVE":geo:34.703949,135.500044
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nハッシュタグ：#ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【にじさんじ】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:368659a0-ded8-4f3b-8d86-a3ec22012021
