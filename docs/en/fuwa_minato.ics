@@ -1462,6 +1462,66 @@ DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nOfficial Main Stream
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:02fa0b4a-d2bf-4450-8384-c18debeda85a
+DTSTAMP:20260517T145207Z
+DTSTART:20260704T000000Z
+DTEND:20260716T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Nui Store Sapporo
+LOCATION:Sapporo Factory
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Sapporo Factory":geo:43.064502,141.362736
+DESCRIPTION:News Page\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nHashtag: #ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c036875e-d995-4a14-b4d9-c54aeb7e0273
+DTSTAMP:20260517T145207Z
+DTSTART:20260704T000000Z
+DTEND:20260716T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Nui Store Nagoya
+LOCATION:mozo WONDER CITY
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="mozo WONDER CITY":geo:35.224850,136.883876
+DESCRIPTION:News Page\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nHashtag: #ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ff24d0-3570-494e-8656-c8d8bd6b2027
+DTSTAMP:20260517T145206Z
+DTSTART:20260711T000000Z
+DTEND:20260726T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Nui Store Sendai
+LOCATION:Sendai PARCO1
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Sendai PARCO1":geo:38.262026,140.881537
+DESCRIPTION:News Page\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nHashtag: #ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
+DTSTAMP:20260517T145206Z
+DTSTART:20260718T000000Z
+DTEND:20260814T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Nui Store Hakata
+LOCATION:CANAL CITY HAKATA
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="CANAL CITY HAKATA":geo:33.589740,130.410590
+DESCRIPTION:News Page\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nHashtag: #ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
+DTSTAMP:20260517T145158Z
+DTSTART:20260801T093000Z
+DTEND:20260827T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Nijisanji Nui Store Osaka
+LOCATION:HEP FIVE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="HEP FIVE":geo:34.703949,135.500044
+DESCRIPTION:News Page\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.html\n\nHashtag: #ぬいストアとらべる\nhttps://x.com/search?q=%E3%81%AC%E3%81%84%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8B\n\n==========\n【Nijisanji】\nYouTube: https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg\nX: https://x.com/nijisanji_app\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
+END:VEVENT
+BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
 DTSTAMP:20260510T170440Z
 DTSTART:20261012T090000Z
