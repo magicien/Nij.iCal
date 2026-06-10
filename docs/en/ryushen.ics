@@ -995,8 +995,19 @@ DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2026/\n\nOfficial Main Stream
 URL:https://fes.nijisanji.jp/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:a66230c3-3e1e-4bec-9f71-09a75c627420
+DTSTAMP:20260607T060358Z
+DTSTART:20260606T030000Z
+DTEND:20260606T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:Ryushen's 1st Full Album "Boku no Ichibu Shijuu" Animate Exclusive Event
+LOCATION:Tokyo
+DESCRIPTION:Article of the event\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114833\n\nHashtag: #緑仙トークイベント\nhttps://x.com/search?q=%E7%B7%91%E4%BB%99%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88\n\n==========\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114833
+END:VEVENT
+BEGIN:VEVENT
 UID:02fa0b4a-d2bf-4450-8384-c18debeda85a
-DTSTAMP:20260517T145207Z
+DTSTAMP:20260607T055624Z
 DTSTART:20260704T000000Z
 DTEND:20260716T120000Z
 TRANSP:TRANSPARENT

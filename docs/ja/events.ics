@@ -5739,8 +5739,19 @@ DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001499.0
 URL:https://prtimes.jp/main/html/rd/p/000001499.000030865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:a66230c3-3e1e-4bec-9f71-09a75c627420
+DTSTAMP:20260607T060358Z
+DTSTART:20260606T030000Z
+DTEND:20260606T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:緑仙 1st フルアルバム『僕の一部始終』アニメイト限定イベント（時間は非公開のため仮置き）
+LOCATION:都内某所
+DESCRIPTION:ニュースページ\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114833\n\nハッシュタグ：#緑仙トークイベント\nhttps://x.com/search?q=%E7%B7%91%E4%BB%99%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88\n\n==========\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114833
+END:VEVENT
+BEGIN:VEVENT
 UID:02fa0b4a-d2bf-4450-8384-c18debeda85a
-DTSTAMP:20260517T145207Z
+DTSTAMP:20260607T055624Z
 DTSTART:20260704T000000Z
 DTEND:20260716T120000Z
 TRANSP:TRANSPARENT
@@ -5795,7 +5806,7 @@ TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 1st One-Man Live -足跡-
 LOCATION:東京国際フォーラム ホールA
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京国際フォーラム ホールA":geo:35.677433,139.763351
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_1025\n\nオンライン視聴ページ\n\n\nハッシュタグ：#甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n「WEATHER」シリアル先行抽選 (2026/4/15 12:00〜2026/5/19 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n総合ファンクラブ先行抽選 (2026/5/20 12:00〜2025/6/30 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket先行抽選 (2026/5/31 12:00〜2026/6/7 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n一般販売（先着） (2026/6/20 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_1025\n\nオンライン視聴ページ\n\n\nハッシュタグ：#甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n「WEATHER」シリアル先行抽選 (2026/4/15 12:00〜2026/5/19 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n総合ファンクラブ先行抽選 (2026/5/20 12:00〜2025/6/30 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket先行抽選 (2026/5/31 12:00〜2026/6/7 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n一般販売（先着） (2026/6/20 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nアップグレード抽選 (2026/6/20 12:00〜2026/6/24 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nアップグレード先着販売 (2026/7/4 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/kaida_sokuseki/
 END:VEVENT
 BEGIN:VEVENT
@@ -5869,6 +5880,36 @@ DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n
 URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
 END:VEVENT
 BEGIN:VEVENT
+UID:07939d55-9cf7-4461-9e88-424ce75177a1
+DTSTAMP:20260610T080923Z
+DTSTART:20260620T030000Z
+DTEND:20260620T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: アップグレード抽選 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:07939d55-9cf7-4461-9e88-424ce75177a2
+DTSTAMP:20260610T080923Z
+DTSTART:20260624T145900Z
+DTEND:20260624T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: アップグレード抽選 終了
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9354c67-e31f-443b-aa74-017d91350231
+DTSTAMP:20260610T080947Z
+DTSTART:20260704T030000Z
+DTEND:20260704T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: アップグレード先着販売 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
+END:VEVENT
+BEGIN:VEVENT
 UID:b5dcab36-62ee-4b78-b9ba-9f7ec2e76131
 DTSTAMP:20260425T065221Z
 DTSTART:20260730T093000Z
@@ -5902,7 +5943,7 @@ URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:44958eac-cd70-4add-94f1-d87dca457841
-DTSTAMP:20260221T063208Z
+DTSTAMP:20260610T080925Z
 DTSTART:20260521T030000Z
 DTEND:20260521T033000Z
 TRANSP:TRANSPARENT
@@ -5912,7 +5953,7 @@ URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:44958eac-cd70-4add-94f1-d87dca457842
-DTSTAMP:20260221T063208Z
+DTSTAMP:20260610T080925Z
 DTSTART:20260531T145900Z
 DTEND:20260531T152900Z
 TRANSP:TRANSPARENT
@@ -5959,7 +6000,7 @@ TRANSP:TRANSPARENT
 SUMMARY:叶 2nd LIVE 孤独 -solitude-
 LOCATION:東京国際フォーラム ホールA
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京国際フォーラム ホールA":geo:35.677433,139.763351
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#叶_2ndライブ\nhttps://x.com/search?q=%E5%8F%B6_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n「藍」シリアル先行抽選 (2026/2/25 12:00〜2026/3/23 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n総合・個人ファンクラブ先行抽選 (2026/4/9 12:00〜2026/4/15 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nStagecrowd Ticket先行抽選 (2026/4/27 12:00〜2026/5/3 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n一般販売（先着） (2026/5/23 12:00〜)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nアップグレード抽選 (2026/6/1 12:00〜2026/6/7 12:00)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nアップグレード先着販売 (2026/6/20 12:00〜)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#叶_2ndライブ\nhttps://x.com/search?q=%E5%8F%B6_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n「藍」シリアル先行抽選 (2026/2/25 12:00〜2026/3/23 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n総合・個人ファンクラブ先行抽選 (2026/4/9 12:00〜2026/4/15 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nStagecrowd Ticket先行抽選 (2026/4/27 12:00〜2026/5/3 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n一般販売（先着） (2026/5/23 12:00〜)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nアップグレード抽選 (2026/6/1 12:00〜2026/6/7 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nアップグレード先着販売 (2026/6/20 12:00〜)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
 URL:https://www.nijisanji.jp/events/kanae_2ndlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -6034,7 +6075,7 @@ URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:110a6820-2da2-4701-ba45-6d244e408db1
-DTSTAMP:20260523T012231Z
+DTSTAMP:20260609T121922Z
 DTSTART:20260601T030000Z
 DTEND:20260601T033000Z
 TRANSP:TRANSPARENT
@@ -6044,9 +6085,9 @@ URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:110a6820-2da2-4701-ba45-6d244e408db2
-DTSTAMP:20260523T012231Z
-DTSTART:20260607T030000Z
-DTEND:20260607T033000Z
+DTSTAMP:20260609T121922Z
+DTSTART:20260607T145900Z
+DTEND:20260607T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[チケット]叶 2nd LIVE 孤独 -solitude-: アップグレード抽選 終了
 DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【樋口楓】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【三枝明那】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【加賀美ハヤト】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
@@ -6279,7 +6320,67 @@ TRANSP:TRANSPARENT
 SUMMARY:Kuzuha One-Man Live "Bloody Alexandrite"
 LOCATION:Kアリーナ横浜
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2026/7/29 12:00〜)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\n総合ファンクラブ先行抽選 (2026/8/21 12:00〜2026/8/30 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\nイープラス先行抽選 (2026/9/3 12:00〜2026/9/13 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\n一般販売（先着） (2026/9/27 12:00〜)\n\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
+END:VEVENT
+BEGIN:VEVENT
+UID:8bd3b8e2-7b07-437a-922d-73a162a5b201
+DTSTAMP:20260609T122241Z
+DTSTART:20260729T030000Z
+DTEND:20260729T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": シリアル先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:78c4d293-3817-4c2a-9ed5-918b75bd4431
+DTSTAMP:20260609T122137Z
+DTSTART:20260821T030000Z
+DTEND:20260821T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": 総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:78c4d293-3817-4c2a-9ed5-918b75bd4432
+DTSTAMP:20260609T122137Z
+DTSTART:20260830T145900Z
+DTEND:20260830T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": 総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:b85206d2-2be9-4385-97e7-07eb504762e1
+DTSTAMP:20260609T122159Z
+DTSTART:20260903T030000Z
+DTEND:20260903T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nイベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/
+END:VEVENT
+BEGIN:VEVENT
+UID:b85206d2-2be9-4385-97e7-07eb504762e2
+DTSTAMP:20260609T122159Z
+DTSTART:20260913T145900Z
+DTEND:20260913T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nイベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba63d38e-ccad-4441-9e91-9e4a4cc6d6e1
+DTSTAMP:20260609T122211Z
+DTSTART:20260927T030000Z
+DTEND:20260927T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": 一般販売（先着） 開始
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
