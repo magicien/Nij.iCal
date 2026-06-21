@@ -1171,7 +1171,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Kaida Haru 1st One-Man Live - sokuseki -
 LOCATION:Tokyo International Forum Hall A
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1025\n\nniconico Live\n\n\nHashtag: #甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 15, 2026, 12:00 until May 19, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral fan club pre-sale lottery (from May 20, 2026, 12:00 until Jun 30, 2025, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from May 31, 2026, 12:00 until Jun 7, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 12:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1025\n\nniconico Live\n\n\nHashtag: #甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 15, 2026, 12:00 until May 19, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral fan club pre-sale lottery (from May 20, 2026, 12:00 until Jun 30, 2025, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from May 31, 2026, 12:00 until Jun 7, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 12:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nLimited visibility seats for sale (first-come, first-served) (from Jun 21, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/kaida_sokuseki/
 END:VEVENT
 BEGIN:VEVENT
@@ -1261,6 +1261,16 @@ DTSTART:20260624T145900Z
 DTEND:20260624T152900Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Kaida Haru 1st One-Man Live - sokuseki -: Upgrade Lottery ends
+DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:e62e7c69-ac82-4b34-8ad4-f36767aeee11
+DTSTAMP:20260621T045753Z
+DTSTART:20260621T030000Z
+DTEND:20260621T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kaida Haru 1st One-Man Live - sokuseki -: Limited visibility seats for sale (first-come, first-served) starts
 DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nEvent:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
 URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
 END:VEVENT
