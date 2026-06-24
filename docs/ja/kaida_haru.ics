@@ -1171,7 +1171,7 @@ TRANSP:TRANSPARENT
 SUMMARY:甲斐田晴 1st One-Man Live -足跡-
 LOCATION:東京国際フォーラム ホールA
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="東京国際フォーラム ホールA":geo:35.677433,139.763351
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_1025\n\nオンライン視聴ページ\n\n\nハッシュタグ：#甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n「WEATHER」シリアル先行抽選 (2026/4/15 12:00〜2026/5/19 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n総合ファンクラブ先行抽選 (2026/5/20 12:00〜2025/6/30 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket先行抽選 (2026/5/31 12:00〜2026/6/7 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n一般販売（先着） (2026/6/20 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nアップグレード抽選 (2026/6/20 12:00〜2026/6/24 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n見切れ席販売（先着） (2026/6/21 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nアップグレード先着販売 (2026/7/4 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_1025\n\nオンライン視聴ページ\n\n\nハッシュタグ：#甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n「WEATHER」シリアル先行抽選 (2026/4/15 12:00〜2026/5/19 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n総合ファンクラブ先行抽選 (2026/5/20 12:00〜2025/6/30 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket先行抽選 (2026/5/31 12:00〜2026/6/7 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n一般販売（先着） (2026/6/20 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nアップグレード抽選 (2026/6/20 12:00〜2026/6/24 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\n見切れ席販売（先着） (2026/6/21 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nアップグレード先着販売 (2026/7/4 12:00〜)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nライブビューイング Stagecrowd Ticket先行抽選 (2026/6/24 17:00〜2026/6/30 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\nライブビューイング一般販売（先着） (2026/7/12 16:00〜)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/kaida_sokuseki/
 END:VEVENT
 BEGIN:VEVENT
@@ -1266,7 +1266,7 @@ URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:e62e7c69-ac82-4b34-8ad4-f36767aeee11
-DTSTAMP:20260621T045753Z
+DTSTAMP:20260624T144102Z
 DTSTART:20260621T030000Z
 DTEND:20260621T033000Z
 TRANSP:TRANSPARENT
@@ -1283,6 +1283,36 @@ TRANSP:TRANSPARENT
 SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: アップグレード先着販売 開始
 DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nイベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
 URL:https://nijisanji.stagecrowd.live/kaida_1st_live/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d06e097-2054-4294-a1bc-f0b67186f1a1
+DTSTAMP:20260624T144507Z
+DTSTART:20260624T080000Z
+DTEND:20260624T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: ライブビューイング Stagecrowd Ticket先行抽選 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\nイベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv
+END:VEVENT
+BEGIN:VEVENT
+UID:9d06e097-2054-4294-a1bc-f0b67186f1a2
+DTSTAMP:20260624T144507Z
+DTSTART:20260630T145900Z
+DTEND:20260630T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: ライブビューイング Stagecrowd Ticket先行抽選 終了
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\nイベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv
+END:VEVENT
+BEGIN:VEVENT
+UID:0e451c34-63b5-439a-8da4-475c197809c1
+DTSTAMP:20260624T144519Z
+DTSTART:20260712T070000Z
+DTEND:20260712T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]甲斐田晴 1st One-Man Live -足跡-: ライブビューイング一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\nイベント:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【甲斐田晴】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
