@@ -851,7 +851,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Lauren Iroas 1st LIVE “FACE”
 LOCATION:Tokyo International Forum Hall A
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_928\n\nniconico Live\n\n\nHashtag: #ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 22, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral fan club pre-sale lottery (from May 21, 2026, 12:00 until May 31, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from Jun 1, 2026, 12:00 until Jun 8, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 13:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nLimited visibility seats for sale (first-come, first-served) (from Jun 21, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 17:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_928\n\nniconico Live\n\n\nHashtag: #ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 22, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral fan club pre-sale lottery (from May 21, 2026, 12:00 until May 31, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from Jun 1, 2026, 12:00 until Jun 8, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 13:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nLimited visibility seats for sale (first-come, first-served) (from Jun 21, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nResale (from Jul 6, 2026, 12:00)\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 17:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/Lauren_FACE/
 END:VEVENT
 BEGIN:VEVENT
@@ -965,6 +965,16 @@ DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nEvent
 URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
+UID:81ea8705-d0bc-44f9-8648-75f4db9aaf61
+DTSTAMP:20260626T095322Z
+DTSTART:20260706T030000Z
+DTEND:20260706T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: Resale starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.nijisanji.jp/events/Lauren_FACE/
+END:VEVENT
+BEGIN:VEVENT
 UID:6ddc4de3-e878-44bd-89ed-dab27811c1a1
 DTSTAMP:20260624T144526Z
 DTSTART:20260624T080000Z
@@ -986,7 +996,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv
 END:VEVENT
 BEGIN:VEVENT
 UID:e6b7a70f-5f9a-4fa2-88f4-9b21af3c6041
-DTSTAMP:20260624T144319Z
+DTSTAMP:20260626T095228Z
 DTSTART:20260712T080000Z
 DTEND:20260712T083000Z
 TRANSP:TRANSPARENT

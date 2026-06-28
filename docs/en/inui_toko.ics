@@ -986,6 +986,38 @@ DESCRIPTION:News Page\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.htm
 URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:36ef712d-bff1-410f-a41d-03c370eff49a
+DTSTAMP:20260628T043721Z
+DTSTART:20260424T090000Z
+DTEND:20260424T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Inui Toko 2nd Solo Live "Restart"
+LOCATION:Tokyo Garden Theater
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo Garden Theater":geo:35.637767,139.792083
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/inui_restart/\n\nHashtag: #戌亥とこ_2ndライブ\nhttps://x.com/search?q=%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Oct 7, 2026, 12:00 until Nov 18, 2026, 23:59)\nhttps://eplus.jp/inuitoko/sp/\n\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://www.nijisanji.jp/events/inui_restart/
+END:VEVENT
+BEGIN:VEVENT
+UID:63430ecb-881c-42b5-960e-c36a7a3b3ab1
+DTSTAMP:20260628T053423Z
+DTSTART:20261007T030000Z
+DTEND:20261007T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Inui Toko 2nd Solo Live "Restart": Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/inuitoko/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/inui_restart/\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://eplus.jp/inuitoko/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:63430ecb-881c-42b5-960e-c36a7a3b3ab2
+DTSTAMP:20260628T053423Z
+DTSTART:20261118T145900Z
+DTEND:20261118T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Inui Toko 2nd Solo Live "Restart": Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/inuitoko/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/inui_restart/\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://eplus.jp/inuitoko/sp/
+END:VEVENT
+BEGIN:VEVENT
 UID:87a7e5bc-2707-47cb-9060-771f7a012019
 DTSTAMP:20250316T022612Z
 DTSTART;VALUE=DATE:20190909
