@@ -573,8 +573,80 @@ DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.0
 URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ab0aad32-31d3-436b-80cf-b885b4b52b08
+DTSTAMP:20260706T021251Z
+DTSTART:20260705T090000Z
+DTEND:20260705T100000Z
+TRANSP:TRANSPARENT
+SUMMARY:Bangkok Beat - BY THE BEAT
+LOCATION:Lido connect (Hall 2)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Lido connect (Hall 2)":geo:13.745445,100.532498
+DESCRIPTION:特設サイト\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nハッシュタグ：#BangkokBeat\nhttps://x.com/search?q=BangkokBeat\n\n==========\nチケット情報：\n\nSVIPチケット販売 (2026/5/2 12:00〜2026/7/5 19:00)\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nVIP・GAチケット販売 (2026/5/9 12:00〜2026/7/5 19:00)\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nオンライン視聴チケット販売 (2026/7/1 12:00〜2026/7/8 19:00)\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT
+END:VEVENT
+BEGIN:VEVENT
+UID:13bc3cf3-329a-483d-8bc3-17c040750cb1
+DTSTAMP:20260706T021855Z
+DTSTART:20260502T030000Z
+DTEND:20260502T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Bangkok Beat - BY THE BEAT: SVIPチケット販売 開始
+DESCRIPTION:チケット:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nイベント:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT
+END:VEVENT
+BEGIN:VEVENT
+UID:13bc3cf3-329a-483d-8bc3-17c040750cb2
+DTSTAMP:20260706T021855Z
+DTSTART:20260705T100000Z
+DTEND:20260705T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Bangkok Beat - BY THE BEAT: SVIPチケット販売 終了
+DESCRIPTION:チケット:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nイベント:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT
+END:VEVENT
+BEGIN:VEVENT
+UID:1735d097-b7be-4548-9aa0-322bf505cc61
+DTSTAMP:20260706T021916Z
+DTSTART:20260509T030000Z
+DTEND:20260509T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Bangkok Beat - BY THE BEAT: VIP・GAチケット販売 開始
+DESCRIPTION:チケット:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nイベント:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT
+END:VEVENT
+BEGIN:VEVENT
+UID:1735d097-b7be-4548-9aa0-322bf505cc62
+DTSTAMP:20260706T021916Z
+DTSTART:20260705T100000Z
+DTEND:20260705T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Bangkok Beat - BY THE BEAT: VIP・GAチケット販売 終了
+DESCRIPTION:チケット:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nイベント:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3529eb6-5ac6-446f-b512-21ace22578a1
+DTSTAMP:20260706T022351Z
+DTSTART:20260701T030000Z
+DTEND:20260701T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Bangkok Beat - BY THE BEAT: オンライン視聴チケット販売 開始
+DESCRIPTION:チケット:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nイベント:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3529eb6-5ac6-446f-b512-21ace22578a2
+DTSTAMP:20260706T022351Z
+DTSTART:20260708T100000Z
+DTEND:20260708T103000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Bangkok Beat - BY THE BEAT: オンライン視聴チケット販売 終了
+DESCRIPTION:チケット:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\nイベント:\nhttps://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT\n\n\n==========\n【ジール・ギンジョウカ】\nYouTube: https://www.youtube.com/@ZealGinjoka\nX: https://x.com/ZealGinjoka\n\n【フリオドール】\nYouTube: https://www.youtube.com/@Freodore_nijisanji\nX: https://x.com/Freo_2434\n\n【セイブル】\nYouTube: https://www.youtube.com/@Seible_nijisanji\nX: https://x.com/Seible_2434\n\n【ケイリクス・デボネア】\nYouTube: https://www.youtube.com/@KaelixDebonair\nX: https://x.com/KaelixDebonair\n\n
+URL:https://www.zipeventapp.com/e/Bangkok-Beat-BY-THE-BEAT
+END:VEVENT
+BEGIN:VEVENT
 UID:a9ff24d0-3570-494e-8656-c8d8bd6b2027
-DTSTAMP:20260517T145206Z
+DTSTAMP:20260706T020930Z
 DTSTART:20260711T000000Z
 DTEND:20260726T120000Z
 TRANSP:TRANSPARENT
