@@ -550,7 +550,7 @@ URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
-DTSTAMP:20260517T145206Z
+DTSTAMP:20260712T075553Z
 DTSTART:20260718T000000Z
 DTEND:20260814T120000Z
 TRANSP:TRANSPARENT
@@ -574,19 +574,19 @@ URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:6cee3ba9-3869-416a-bf74-a26104521749
-DTSTAMP:20260428T123604Z
+DTSTAMP:20260712T081855Z
 DTSTART:20261010T090000Z
 DTEND:20261010T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:MECHATU-A 1st LIVE “Over Drive!”
 LOCATION:Kアリーナ横浜
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nMECHATU-A 1st LIVE “Over Drive!”シリアル先行抽選 (2026/7/22 12:00〜2026/8/16 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_948\n\nオンライン視聴ページ\n\n\nハッシュタグ：#MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nMECHATU-A 1st LIVE “Over Drive!”シリアル先行抽選 (2026/7/22 12:00〜2026/8/16 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\n\n\n==========\n【佐伯イッテツ】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【赤城ウェン】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【宇佐美リト】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【緋八マナ】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【星導ショウ】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【叢雲カゲツ】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【小柳ロウ】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【伊波ライ】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
 URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:68cda899-94c0-46c3-8c1e-e82317ec5011
-DTSTAMP:20260428T123752Z
+DTSTAMP:20260712T081657Z
 DTSTART:20260722T030000Z
 DTEND:20260722T033000Z
 TRANSP:TRANSPARENT
@@ -596,7 +596,7 @@ URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:68cda899-94c0-46c3-8c1e-e82317ec5012
-DTSTAMP:20260428T123752Z
+DTSTAMP:20260712T081657Z
 DTSTART:20260816T145900Z
 DTEND:20260816T152900Z
 TRANSP:TRANSPARENT
@@ -606,7 +606,7 @@ URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:dc3aabd1-45d2-4302-88b0-b4239e08f0ab
-DTSTAMP:20260628T044152Z
+DTSTAMP:20260712T081039Z
 DTSTART:20261024T030000Z
 DTEND:20261024T040000Z
 TRANSP:TRANSPARENT
