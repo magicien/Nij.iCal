@@ -765,7 +765,7 @@ URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
-DTSTAMP:20260517T145206Z
+DTSTAMP:20260712T075553Z
 DTSTART:20260718T000000Z
 DTEND:20260814T120000Z
 TRANSP:TRANSPARENT
@@ -821,7 +821,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/ticket_event/information/nijiko2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2c341977-5c4c-4df5-97b5-fca8821d5bb1
-DTSTAMP:20260706T014243Z
+DTSTAMP:20260712T071628Z
 DTSTART:20260704T110000Z
 DTEND:20260704T113000Z
 TRANSP:TRANSPARENT
@@ -831,7 +831,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/ticket_event/information/nijiko2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2c341977-5c4c-4df5-97b5-fca8821d5bb2
-DTSTAMP:20260706T014243Z
+DTSTAMP:20260712T071628Z
 DTSTART:20260720T145900Z
 DTEND:20260720T152900Z
 TRANSP:TRANSPARENT
@@ -841,7 +841,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/ticket_event/information/nijiko2026
 END:VEVENT
 BEGIN:VEVENT
 UID:77f3901f-1135-4eb3-9e97-396a876d1ce1
-DTSTAMP:20260706T014253Z
+DTSTAMP:20260712T071729Z
 DTSTART:20260801T040000Z
 DTEND:20260801T043000Z
 TRANSP:TRANSPARENT
@@ -874,20 +874,82 @@ DESCRIPTION:Special Site\nhttps://nijisanji.stagecrowd.live/s/nstk/page/nijiko20
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/nijiko2026lv
 END:VEVENT
 BEGIN:VEVENT
+UID:f1d6dd40-2ac4-4810-b254-d6710b7a1423
+DTSTAMP:20260712T072652Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~
+LOCATION:Yokohama BUNTAI
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yokohama BUNTAI":geo:35.440951,139.636449
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\nOnline Viewing Tickets\n\nniconico Live\n\n\nHashtag: #3SKM_前夜集会\nhttps://x.com/search?q=3SKM_%E5%89%8D%E5%A4%9C%E9%9B%86%E4%BC%9A\n\n==========\nTicket Info:\n\nGeneral fan club pre-sale lottery (from Jul 10, 2026, 12:00 until Jul 19, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\ne+ pre-sale lottery (from Jul 20, 2026, 12:00 until Jul 26, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/\n\nGeneral sale (first come, first served) (from Aug 8, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff0822/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d18a0fa-04cd-47d8-8aed-7f4941514b21
+DTSTAMP:20260712T072541Z
+DTSTART:20260710T030000Z
+DTEND:20260710T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: General fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d18a0fa-04cd-47d8-8aed-7f4941514b22
+DTSTAMP:20260712T072541Z
+DTSTART:20260719T145900Z
+DTEND:20260719T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: General fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb468c0-bc9e-4ce5-84ff-c5e9a0aea8c1
+DTSTAMP:20260712T073021Z
+DTSTART:20260720T030000Z
+DTEND:20260720T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb468c0-bc9e-4ce5-84ff-c5e9a0aea8c2
+DTSTAMP:20260712T073021Z
+DTSTART:20260726T145900Z
+DTEND:20260726T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a18ce0-c977-4360-907c-3e00a4ae6241
+DTSTAMP:20260712T072627Z
+DTSTART:20260808T030000Z
+DTEND:20260808T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/
+END:VEVENT
+BEGIN:VEVENT
 UID:03e94ade-1069-42f7-b9d4-7f33286a2416
-DTSTAMP:20260706T013128Z
+DTSTAMP:20260712T081921Z
 DTSTART:20260823T090000Z
 DTEND:20260823T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:3SKM 1st LIVE “One-Off”
 LOCATION:Yokohama BUNTAI
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yokohama BUNTAI":geo:35.440951,139.636449
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_938\n\nniconico Live\n\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://www.nijisanji.jp/events/3skm_1stlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e61aa0-abcf-424f-9709-2510f9638161
-DTSTAMP:20260706T014306Z
+DTSTAMP:20260712T072306Z
 DTSTART:20260429T030000Z
 DTEND:20260429T033000Z
 TRANSP:TRANSPARENT
@@ -897,7 +959,7 @@ URL:https://eplus.jp/3skm-oneoff/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e61aa0-abcf-424f-9709-2510f9638162
-DTSTAMP:20260706T014306Z
+DTSTAMP:20260712T072306Z
 DTSTART:20260520T145900Z
 DTEND:20260520T152900Z
 TRANSP:TRANSPARENT
@@ -907,7 +969,7 @@ URL:https://eplus.jp/3skm-oneoff/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:51104dac-7eb5-43cb-89e8-a4cefb2e2b81
-DTSTAMP:20260706T014108Z
+DTSTAMP:20260712T072236Z
 DTSTART:20260603T030000Z
 DTEND:20260603T033000Z
 TRANSP:TRANSPARENT
@@ -917,7 +979,7 @@ URL:https://eplus.jp/3skm-oneoff/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:51104dac-7eb5-43cb-89e8-a4cefb2e2b82
-DTSTAMP:20260706T014108Z
+DTSTAMP:20260712T072236Z
 DTSTART:20260614T145900Z
 DTEND:20260614T152900Z
 TRANSP:TRANSPARENT

@@ -5858,8 +5858,20 @@ DESCRIPTION:News Page\nhttps://prtimes.jp/main/html/rd/p/000001506.000030865.htm
 URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:1ad778d8-f3f5-4de4-86fe-c81dda994126
+DTSTAMP:20260712T075928Z
+DTSTART:20260717T010000Z
+DTEND:20260805T100000Z
+TRANSP:TRANSPARENT
+SUMMARY:ChroNoiR 8th ANNIVERSARY POPUP
+LOCATION:LIGHT BOX ATELIER
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="LIGHT BOX ATELIER":geo:35.660337,139.714503
+DESCRIPTION:Special Site\nhttps://estream-store.com/lp/ChroNoiR-8th-ANNIVERSARY-POPUP/\n\nHashtag: #ChroNoiR8周年POPUP\nhttps://x.com/search?q=ChroNoiR8%E5%91%A8%E5%B9%B4POPUP\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://estream-store.com/lp/ChroNoiR-8th-ANNIVERSARY-POPUP/
+END:VEVENT
+BEGIN:VEVENT
 UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
-DTSTAMP:20260517T145206Z
+DTSTAMP:20260712T075553Z
 DTSTART:20260718T000000Z
 DTEND:20260814T120000Z
 TRANSP:TRANSPARENT
@@ -5871,14 +5883,14 @@ URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:548f5fa5-b048-4aab-8b5b-1572174a042f
-DTSTAMP:20260517T144900Z
+DTSTAMP:20260712T073848Z
 DTSTART:20260729T093000Z
 DTEND:20260729T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kaida Haru 1st One-Man Live - sokuseki -
 LOCATION:Tokyo International Forum Hall A
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1025\n\nniconico Live\n\n\nHashtag: #甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 15, 2026, 12:00 until May 19, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral fan club pre-sale lottery (from May 20, 2026, 12:00 until Jun 30, 2025, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from May 31, 2026, 12:00 until Jun 7, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 12:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nLimited visibility seats for sale (first-come, first-served) (from Jun 21, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nResale Lottery (from Jul 6, 2026, 12:00 until Jul 12, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 16:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/hMQvW15T8E\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1025\n\nVenue Report (MC: Hoshikawa Sara, Reporter: Hyakka Ryouran)\nhttps://live.nicovideo.jp/watch/lv350678113\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv350669274\n\nPost-Live Discussion (MC: Kagami Hayato)\nhttps://live.nicovideo.jp/watch/lv350825074\n\n\nHashtag: #甲斐田晴_1stライブ\nhttps://x.com/search?q=%E7%94%B2%E6%96%90%E7%94%B0%E6%99%B4_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 15, 2026, 12:00 until May 19, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral fan club pre-sale lottery (from May 20, 2026, 12:00 until Jun 30, 2025, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from May 31, 2026, 12:00 until Jun 7, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 12:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nLimited visibility seats for sale (first-come, first-served) (from Jun 21, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nResale Lottery (from Jul 6, 2026, 12:00 until Jul 12, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kaida_1st_live/\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 16:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv\n\nOnline viewing ticket sales (from Jul 7, 2026, 17:00 until Aug 15, 2026, 23:59)\nhttps://dwango-ticket.jp/project/hMQvW15T8E\n\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
 URL:https://www.nijisanji.jp/events/kaida_sokuseki/
 END:VEVENT
 BEGIN:VEVENT
@@ -6042,20 +6054,40 @@ DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokusek
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/kaida_sokuseki_lv
 END:VEVENT
 BEGIN:VEVENT
+UID:33703810-1d84-4d02-8baa-afb6f0eb7a81
+DTSTAMP:20260712T073158Z
+DTSTART:20260707T080000Z
+DTEND:20260707T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kaida Haru 1st One-Man Live - sokuseki -: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/hMQvW15T8E\n\nEvent:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://dwango-ticket.jp/project/hMQvW15T8E
+END:VEVENT
+BEGIN:VEVENT
+UID:33703810-1d84-4d02-8baa-afb6f0eb7a82
+DTSTAMP:20260712T073158Z
+DTSTART:20260815T145900Z
+DTEND:20260815T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kaida Haru 1st One-Man Live - sokuseki -: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/hMQvW15T8E\n\nEvent:\nhttps://www.nijisanji.jp/events/kaida_sokuseki/\n\n\n==========\n【Kaida Haru】\nYouTube: https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nX: https://x.com/Kaida_Haru\n\n
+URL:https://dwango-ticket.jp/project/hMQvW15T8E
+END:VEVENT
+BEGIN:VEVENT
 UID:b5dcab36-62ee-4b78-b9ba-9f7ec2e76131
-DTSTAMP:20260425T065221Z
+DTSTAMP:20260712T074239Z
 DTSTART:20260730T093000Z
 DTEND:20260730T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:Lauren Iroas 1st LIVE “FACE”
 LOCATION:Tokyo International Forum Hall A
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_928\n\nniconico Live\n\n\nHashtag: #ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 22, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral fan club pre-sale lottery (from May 21, 2026, 12:00 until May 31, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from Jun 1, 2026, 12:00 until Jun 8, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 13:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nLimited visibility seats for sale (first-come, first-served) (from Jun 21, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nResale Lottery (from Jul 6, 2026, 12:00 until Jul 12, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 17:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/0OQiwOnmQm\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_928\n\nVenue Report (MC: Fuwa Minato, Reporter: Hyakka Ryouran)\nhttps://live.nicovideo.jp/watch/lv350678319\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv350728004\n\nPost-Live Discussion (MC: Fuwa Minato)\nhttps://live.nicovideo.jp/watch/lv350825835\n\nHashtag: #ローレン_1stライブ\nhttps://x.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 22, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral fan club pre-sale lottery (from May 21, 2026, 12:00 until May 31, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nStagecrowd Ticket pre-sale lottery (from Jun 1, 2026, 12:00 until Jun 8, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nGeneral sale (first come, first served) (from Jun 20, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nUpgrade Lottery (from Jun 20, 2026, 13:00 until Jun 24, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nLimited visibility seats for sale (first-come, first-served) (from Jun 21, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jul 4, 2026, 13:00)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nResale Lottery (from Jul 6, 2026, 12:00 until Jul 12, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/Lauren_1st_live/\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 17:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv\n\nOnline viewing ticket sales (from Jul 8, 2026, 17:00 until Aug 16, 2026, 23:59)\nhttps://dwango-ticket.jp/project/0OQiwOnmQm\n\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/Lauren_FACE/
 END:VEVENT
 BEGIN:VEVENT
 UID:7eedfecc-2380-405c-bd0a-862bb254e9f1
-DTSTAMP:20260621T045617Z
+DTSTAMP:20260712T071715Z
 DTSTART:20260422T030000Z
 DTEND:20260422T033000Z
 TRANSP:TRANSPARENT
@@ -6065,7 +6097,7 @@ URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:7eedfecc-2380-405c-bd0a-862bb254e9f2
-DTSTAMP:20260621T045617Z
+DTSTAMP:20260712T071715Z
 DTSTART:20260520T145900Z
 DTEND:20260520T152900Z
 TRANSP:TRANSPARENT
@@ -6075,7 +6107,7 @@ URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:44958eac-cd70-4add-94f1-d87dca457841
-DTSTAMP:20260624T143901Z
+DTSTAMP:20260712T071144Z
 DTSTART:20260521T030000Z
 DTEND:20260521T033000Z
 TRANSP:TRANSPARENT
@@ -6085,7 +6117,7 @@ URL:https://nijisanji.stagecrowd.live/Lauren_1st_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:44958eac-cd70-4add-94f1-d87dca457842
-DTSTAMP:20260624T143901Z
+DTSTAMP:20260712T071144Z
 DTSTART:20260531T145900Z
 DTEND:20260531T152900Z
 TRANSP:TRANSPARENT
@@ -6214,15 +6246,35 @@ DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_l
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/Lauren_FACE_lv
 END:VEVENT
 BEGIN:VEVENT
+UID:ec887a36-a204-4231-a010-6b6557fe5941
+DTSTAMP:20260712T073901Z
+DTSTART:20260708T080000Z
+DTEND:20260708T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/0OQiwOnmQm\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://dwango-ticket.jp/project/0OQiwOnmQm
+END:VEVENT
+BEGIN:VEVENT
+UID:ec887a36-a204-4231-a010-6b6557fe5942
+DTSTAMP:20260712T073901Z
+DTSTART:20260816T145900Z
+DTEND:20260816T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st LIVE “FACE”: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/0OQiwOnmQm\n\nEvent:\nhttps://www.nijisanji.jp/events/Lauren_FACE/\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://dwango-ticket.jp/project/0OQiwOnmQm
+END:VEVENT
+BEGIN:VEVENT
 UID:6a4f7191-b4a8-47ca-851f-3e4c701001e1
-DTSTAMP:20260221T061959Z
+DTSTAMP:20260712T074621Z
 DTSTART:20260731T093000Z
 DTEND:20260731T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kanae 2nd LIVE -solitude-
 LOCATION:Tokyo International Forum Hall A
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Tokyo International Forum Hall A":geo:35.677433,139.763351
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #叶_2ndライブ\nhttps://x.com/search?q=%E5%8F%B6_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Feb 25, 2026, 12:00 until Mar 23, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nGeneral and individual fan club pre-sale lottery (from Apr 9, 2026, 12:00 until Apr 15, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nStagecrowd Ticket pre-sale lottery (from Apr 27, 2026, 12:00 until May 3, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nGeneral sale (first come, first served) (from May 23, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nUpgrade Lottery (from Jun 1, 2026, 12:00 until Jun 7, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jun 20, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nResale Lottery (from Jun 30, 2026, 12:00 until Jul 12, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_live?ima=2722\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_live_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 18:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_live_lv\n\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/XSuFUBuXpr\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_935\n\nVenue Report (MC: Ibrahim, Reporter: Hyakka Ryouran)\nhttps://live.nicovideo.jp/watch/lv350678413\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv350606755\n\n\nHashtag: #叶_2ndライブ\nhttps://x.com/search?q=%E5%8F%B6_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Feb 25, 2026, 12:00 until Mar 23, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nGeneral and individual fan club pre-sale lottery (from Apr 9, 2026, 12:00 until Apr 15, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nStagecrowd Ticket pre-sale lottery (from Apr 27, 2026, 12:00 until May 3, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nGeneral sale (first come, first served) (from May 23, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nUpgrade Lottery (from Jun 1, 2026, 12:00 until Jun 7, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nFirst-Come, First-Served Upgrade Sale (from Jun 20, 2026, 12:00)\nhttps://nijisanji.stagecrowd.live/kanae_2nd_live/\n\nResale Lottery (from Jun 30, 2026, 12:00 until Jul 12, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_live?ima=2722\n\nLive Viewing – Stagecrowd Ticket Priority Lottery (from Jun 24, 2026, 17:00 until Jun 30, 2026, 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_live_lv\n\nLive Viewing – General Sale (First-Come, First-Served) (from Jul 12, 2026, 18:00)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_live_lv\n\nOnline viewing ticket sales (from Jul 9, 2026, 17:00 until Aug 17, 2026, 23:59)\nhttps://dwango-ticket.jp/project/XSuFUBuXpr\n\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
 URL:https://www.nijisanji.jp/events/kanae_2ndlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -6247,7 +6299,7 @@ URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:b603d642-5835-4595-861e-678e71cf4af1
-DTSTAMP:20260624T143950Z
+DTSTAMP:20260712T071417Z
 DTSTART:20260409T030000Z
 DTEND:20260409T033000Z
 TRANSP:TRANSPARENT
@@ -6257,7 +6309,7 @@ URL:https://nijisanji.stagecrowd.live/kanae_2nd_live/
 END:VEVENT
 BEGIN:VEVENT
 UID:b603d642-5835-4595-861e-678e71cf4af2
-DTSTAMP:20260624T143950Z
+DTSTAMP:20260712T071417Z
 DTSTART:20260415T145900Z
 DTEND:20260415T152900Z
 TRANSP:TRANSPARENT
@@ -6376,6 +6428,26 @@ DESCRIPTION:Ticket:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_liv
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/kanae_2nd_live_lv
 END:VEVENT
 BEGIN:VEVENT
+UID:d78b9091-1bab-4bcb-8152-3586e7f98421
+DTSTAMP:20260712T074443Z
+DTSTART:20260709T080000Z
+DTEND:20260709T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/XSuFUBuXpr\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://dwango-ticket.jp/project/XSuFUBuXpr
+END:VEVENT
+BEGIN:VEVENT
+UID:d78b9091-1bab-4bcb-8152-3586e7f98422
+DTSTAMP:20260712T074443Z
+DTSTART:20260817T145900Z
+DTEND:20260817T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kanae 2nd LIVE -solitude-: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/XSuFUBuXpr\n\nEvent:\nhttps://www.nijisanji.jp/events/kanae_2ndlive/\n\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Kagami Hayato】\nYouTube: https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ\nX: https://x.com/H_KAGAMI2434\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n
+URL:https://dwango-ticket.jp/project/XSuFUBuXpr
+END:VEVENT
+BEGIN:VEVENT
 UID:8a1fc654-77a2-4a68-83f1-080ee3b4cce5
 DTSTAMP:20260517T145158Z
 DTSTART:20260801T093000Z
@@ -6421,7 +6493,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/ticket_event/information/nijiko2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2c341977-5c4c-4df5-97b5-fca8821d5bb1
-DTSTAMP:20260706T014243Z
+DTSTAMP:20260712T071628Z
 DTSTART:20260704T110000Z
 DTEND:20260704T113000Z
 TRANSP:TRANSPARENT
@@ -6431,7 +6503,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/ticket_event/information/nijiko2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2c341977-5c4c-4df5-97b5-fca8821d5bb2
-DTSTAMP:20260706T014243Z
+DTSTAMP:20260712T071628Z
 DTSTART:20260720T145900Z
 DTEND:20260720T152900Z
 TRANSP:TRANSPARENT
@@ -6441,7 +6513,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/ticket_event/information/nijiko2026
 END:VEVENT
 BEGIN:VEVENT
 UID:77f3901f-1135-4eb3-9e97-396a876d1ce1
-DTSTAMP:20260706T014253Z
+DTSTAMP:20260712T071729Z
 DTSTART:20260801T040000Z
 DTEND:20260801T043000Z
 TRANSP:TRANSPARENT
@@ -6474,20 +6546,82 @@ DESCRIPTION:Special Site\nhttps://nijisanji.stagecrowd.live/s/nstk/page/nijiko20
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/nijiko2026lv
 END:VEVENT
 BEGIN:VEVENT
+UID:f1d6dd40-2ac4-4810-b254-d6710b7a1423
+DTSTAMP:20260712T072652Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~
+LOCATION:Yokohama BUNTAI
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yokohama BUNTAI":geo:35.440951,139.636449
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\nOnline Viewing Tickets\n\nniconico Live\n\n\nHashtag: #3SKM_前夜集会\nhttps://x.com/search?q=3SKM_%E5%89%8D%E5%A4%9C%E9%9B%86%E4%BC%9A\n\n==========\nTicket Info:\n\nGeneral fan club pre-sale lottery (from Jul 10, 2026, 12:00 until Jul 19, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\ne+ pre-sale lottery (from Jul 20, 2026, 12:00 until Jul 26, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/\n\nGeneral sale (first come, first served) (from Aug 8, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff0822/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d18a0fa-04cd-47d8-8aed-7f4941514b21
+DTSTAMP:20260712T072541Z
+DTSTART:20260710T030000Z
+DTEND:20260710T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: General fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d18a0fa-04cd-47d8-8aed-7f4941514b22
+DTSTAMP:20260712T072541Z
+DTSTART:20260719T145900Z
+DTEND:20260719T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: General fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb468c0-bc9e-4ce5-84ff-c5e9a0aea8c1
+DTSTAMP:20260712T073021Z
+DTSTART:20260720T030000Z
+DTEND:20260720T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb468c0-bc9e-4ce5-84ff-c5e9a0aea8c2
+DTSTAMP:20260712T073021Z
+DTSTART:20260726T145900Z
+DTEND:20260726T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a18ce0-c977-4360-907c-3e00a4ae6241
+DTSTAMP:20260712T072627Z
+DTSTART:20260808T030000Z
+DTEND:20260808T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/3skm-oneoff0822/
+END:VEVENT
+BEGIN:VEVENT
 UID:03e94ade-1069-42f7-b9d4-7f33286a2416
-DTSTAMP:20260706T013128Z
+DTSTAMP:20260712T081921Z
 DTSTART:20260823T090000Z
 DTEND:20260823T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:3SKM 1st LIVE “One-Off”
 LOCATION:Yokohama BUNTAI
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yokohama BUNTAI":geo:35.440951,139.636449
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_938\n\nniconico Live\n\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://www.nijisanji.jp/events/3skm_1stlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e61aa0-abcf-424f-9709-2510f9638161
-DTSTAMP:20260706T014306Z
+DTSTAMP:20260712T072306Z
 DTSTART:20260429T030000Z
 DTEND:20260429T033000Z
 TRANSP:TRANSPARENT
@@ -6497,7 +6631,7 @@ URL:https://eplus.jp/3skm-oneoff/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e61aa0-abcf-424f-9709-2510f9638162
-DTSTAMP:20260706T014306Z
+DTSTAMP:20260712T072306Z
 DTSTART:20260520T145900Z
 DTEND:20260520T152900Z
 TRANSP:TRANSPARENT
@@ -6507,7 +6641,7 @@ URL:https://eplus.jp/3skm-oneoff/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:51104dac-7eb5-43cb-89e8-a4cefb2e2b81
-DTSTAMP:20260706T014108Z
+DTSTAMP:20260712T072236Z
 DTSTART:20260603T030000Z
 DTEND:20260603T033000Z
 TRANSP:TRANSPARENT
@@ -6517,7 +6651,7 @@ URL:https://eplus.jp/3skm-oneoff/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:51104dac-7eb5-43cb-89e8-a4cefb2e2b82
-DTSTAMP:20260706T014108Z
+DTSTAMP:20260712T072236Z
 DTSTART:20260614T145900Z
 DTEND:20260614T152900Z
 TRANSP:TRANSPARENT
@@ -6556,20 +6690,62 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff/\n\nEvent:\nhttps://www.nijisa
 URL:https://eplus.jp/3skm-oneoff/
 END:VEVENT
 BEGIN:VEVENT
+UID:792f29f4-76ef-4314-8bd5-43c55119abcd
+DTSTAMP:20260712T080649Z
+DTSTART:20260906T060000Z
+DTEND:20260906T073500Z
+TRANSP:TRANSPARENT
+SUMMARY:Inui Toko 2nd Mini Album "One Day" Release Commemorative 1-on-1 Online Talk Session
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://limista.com/shipping_groups/7526/projects/7523\n\nHashtag: #戌亥とこ_Oneday\nhttps://x.com/search?q=%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93_Oneday\n\n==========\nTicket Info:\n\nSale of Applicable Products (from Jun 27, 2026, 20:00 until Jul 12, 2026, 23:59)\nhttps://limista.com/shipping_groups/7526/projects/7523\n\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://limista.com/shipping_groups/7526/projects/7523
+END:VEVENT
+BEGIN:VEVENT
+UID:977f7735-41aa-4a7a-b262-a8af963fd681
+DTSTAMP:20260712T081712Z
+DTSTART:20260627T110000Z
+DTEND:20260627T113000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Inui Toko 2nd Mini Album "One Day" Release Commemorative 1-on-1 Online Talk Session: Sale of Applicable Products starts
+DESCRIPTION:Ticket:\nhttps://limista.com/shipping_groups/7526/projects/7523\n\nEvent:\nhttps://limista.com/shipping_groups/7526/projects/7523\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://limista.com/shipping_groups/7526/projects/7523
+END:VEVENT
+BEGIN:VEVENT
+UID:977f7735-41aa-4a7a-b262-a8af963fd682
+DTSTAMP:20260712T081712Z
+DTSTART:20260712T145900Z
+DTEND:20260712T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Inui Toko 2nd Mini Album "One Day" Release Commemorative 1-on-1 Online Talk Session: Sale of Applicable Products ends
+DESCRIPTION:Ticket:\nhttps://limista.com/shipping_groups/7526/projects/7523\n\nEvent:\nhttps://limista.com/shipping_groups/7526/projects/7523\n\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://limista.com/shipping_groups/7526/projects/7523
+END:VEVENT
+BEGIN:VEVENT
+UID:1870eed5-5d5b-4192-aa5d-43e2a8adf999
+DTSTAMP:20260712T081707Z
+DTSTART:20260921T060000Z
+DTEND:20260921T073500Z
+TRANSP:TRANSPARENT
+SUMMARY:Inui Toko 2nd Mini Album "One Day" Release Commemorative 1-on-1 Online Talk Session
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://limista.com/shipping_groups/7526/projects/7523\n\nHashtag: #戌亥とこ_Oneday\nhttps://x.com/search?q=%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93_Oneday\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://limista.com/shipping_groups/7526/projects/7523
+END:VEVENT
+BEGIN:VEVENT
 UID:6cee3ba9-3869-416a-bf74-a26104521749
-DTSTAMP:20260428T123604Z
+DTSTAMP:20260712T081855Z
 DTSTART:20261010T090000Z
 DTEND:20261010T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:MECHATU-A 1st LIVE “Over Drive!”
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 22, 2026, 12:00 until Aug 16, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_948\n\nniconico Live\n\n\nHashtag: #MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 22, 2026, 12:00 until Aug 16, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
 URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:68cda899-94c0-46c3-8c1e-e82317ec5011
-DTSTAMP:20260428T123752Z
+DTSTAMP:20260712T081657Z
 DTSTART:20260722T030000Z
 DTEND:20260722T033000Z
 TRANSP:TRANSPARENT
@@ -6579,7 +6755,7 @@ URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:68cda899-94c0-46c3-8c1e-e82317ec5012
-DTSTAMP:20260428T123752Z
+DTSTAMP:20260712T081657Z
 DTSTART:20260816T145900Z
 DTEND:20260816T152900Z
 TRANSP:TRANSPARENT
@@ -6589,14 +6765,14 @@ URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf3af762-7c6e-4034-aacd-27f4e3831d30
-DTSTAMP:20260510T165912Z
+DTSTAMP:20260712T081944Z
 DTSTART:20261011T090000Z
 DTEND:20261011T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya Real Solo Live [Kokuufes]
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1080\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/kenmochi_fes/
 END:VEVENT
 BEGIN:VEVENT
@@ -6621,7 +6797,7 @@ URL:https://eplus.jp/kenmochi_fes/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:f692e6be-ff69-41e7-9edd-e89097387b61
-DTSTAMP:20260510T170219Z
+DTSTAMP:20260712T072943Z
 DTSTART:20260814T030000Z
 DTEND:20260814T033000Z
 TRANSP:TRANSPARENT
@@ -6631,7 +6807,7 @@ URL:https://eplus.jp/kenmochi_fes/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:f692e6be-ff69-41e7-9edd-e89097387b62
-DTSTAMP:20260510T170219Z
+DTSTAMP:20260712T072943Z
 DTSTART:20260823T145900Z
 DTEND:20260823T152900Z
 TRANSP:TRANSPARENT
@@ -6671,14 +6847,14 @@ URL:https://eplus.jp/kenmochi_fes/
 END:VEVENT
 BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
-DTSTAMP:20260510T170440Z
+DTSTAMP:20260712T082039Z
 DTSTART:20261012T090000Z
 DTEND:20261012T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kuzuha One-Man Live "Bloody Alexandrite"
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 29, 2026, 12:00)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nGeneral fan club pre-sale lottery (from Aug 21, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\ne+ pre-sale lottery (from Sep 3, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nGeneral sale (first come, first served) (from Sep 27, 2026, 12:00)\n\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_941\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 29, 2026, 12:00)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nGeneral fan club pre-sale lottery (from Aug 21, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\ne+ pre-sale lottery (from Sep 3, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nGeneral sale (first come, first served) (from Sep 27, 2026, 12:00)\n\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
@@ -6693,7 +6869,7 @@ URL:https://eplus.jp/kuzuha_bloodyalexandrite/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:78c4d293-3817-4c2a-9ed5-918b75bd4431
-DTSTAMP:20260609T122137Z
+DTSTAMP:20260712T072935Z
 DTSTART:20260821T030000Z
 DTEND:20260821T033000Z
 TRANSP:TRANSPARENT
@@ -6703,7 +6879,7 @@ URL:https://eplus.jp/kuzuha_bloodyalexandrite/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:78c4d293-3817-4c2a-9ed5-918b75bd4432
-DTSTAMP:20260609T122137Z
+DTSTAMP:20260712T072935Z
 DTSTART:20260830T145900Z
 DTEND:20260830T152900Z
 TRANSP:TRANSPARENT
@@ -6753,8 +6929,19 @@ DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n
 URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
 END:VEVENT
 BEGIN:VEVENT
+UID:e61f7a78-db2c-4e51-bf37-cd9903fec9f5
+DTSTAMP:20260712T081130Z
+DTSTART:20261018T060000Z
+DTEND:20261018T073500Z
+TRANSP:TRANSPARENT
+SUMMARY:Inui Toko 2nd Mini Album "One Day" Release Commemorative 1-on-1 Online Talk Session
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://limista.com/shipping_groups/7526/projects/7523\n\nHashtag: #戌亥とこ_Oneday\nhttps://x.com/search?q=%E6%88%8C%E4%BA%A5%E3%81%A8%E3%81%93_Oneday\n\n==========\n【Inui Toko】\nYouTube: https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg\nX: https://x.com/inui_toko\n\n
+URL:https://limista.com/shipping_groups/7526/projects/7523
+END:VEVENT
+BEGIN:VEVENT
 UID:dc3aabd1-45d2-4302-88b0-b4239e08f0ab
-DTSTAMP:20260628T044152Z
+DTSTAMP:20260712T081039Z
 DTSTART:20261024T030000Z
 DTEND:20261024T040000Z
 TRANSP:TRANSPARENT
@@ -6801,7 +6988,7 @@ URL:https://www.nijisanji.jp/events/inui_restart/
 END:VEVENT
 BEGIN:VEVENT
 UID:63430ecb-881c-42b5-960e-c36a7a3b3ab1
-DTSTAMP:20260628T053423Z
+DTSTAMP:20260712T072938Z
 DTSTART:20261007T030000Z
 DTEND:20261007T033000Z
 TRANSP:TRANSPARENT
@@ -6811,7 +6998,7 @@ URL:https://eplus.jp/inuitoko/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:63430ecb-881c-42b5-960e-c36a7a3b3ab2
-DTSTAMP:20260628T053423Z
+DTSTAMP:20260712T072938Z
 DTSTART:20261118T145900Z
 DTEND:20261118T152900Z
 TRANSP:TRANSPARENT
