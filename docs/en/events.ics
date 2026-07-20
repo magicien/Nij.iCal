@@ -6647,7 +6647,7 @@ TRANSP:TRANSPARENT
 SUMMARY:3SKM 1st LIVE “One-Off”
 LOCATION:Yokohama BUNTAI
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yokohama BUNTAI":geo:35.440951,139.636449
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_938\n\nniconico Live\n\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_938\n\nniconico Live\n\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\nLive viewing ticket pre-sale lottery (from Jul 16, 2026, 17:00 until Aug 3, 2026, 23:59)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nLive viewing ticket general sale (first come, first served) (from Aug 15, 2026, 18:00 until Aug 21, 2026, 12:00)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nLive viewing cinema online sale (first come, first served) (from Aug 22, 2026, 0:00)\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://www.nijisanji.jp/events/3skm_1stlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -6719,6 +6719,56 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://eplus.jp/3skm-oneoff/
+END:VEVENT
+BEGIN:VEVENT
+UID:d915a81b-4bf8-4751-8920-d38b5b1f34d1
+DTSTAMP:20260717T155624Z
+DTSTART:20260716T080000Z
+DTEND:20260716T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: Live viewing ticket pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv
+END:VEVENT
+BEGIN:VEVENT
+UID:d915a81b-4bf8-4751-8920-d38b5b1f34d2
+DTSTAMP:20260717T155624Z
+DTSTART:20260803T145900Z
+DTEND:20260803T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: Live viewing ticket pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv
+END:VEVENT
+BEGIN:VEVENT
+UID:8f28aff9-fa38-452e-a413-fda5fd7c4fb1
+DTSTAMP:20260717T155641Z
+DTSTART:20260815T090000Z
+DTEND:20260815T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: Live viewing ticket general sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv
+END:VEVENT
+BEGIN:VEVENT
+UID:8f28aff9-fa38-452e-a413-fda5fd7c4fb2
+DTSTAMP:20260717T155641Z
+DTSTART:20260821T030000Z
+DTEND:20260821T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: Live viewing ticket general sale (first come, first served) ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv
+END:VEVENT
+BEGIN:VEVENT
+UID:313dab81-9aaa-4316-a6dc-5a393b8ca951
+DTSTAMP:20260717T155752Z
+DTSTART:20260821T150000Z
+DTEND:20260821T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: Live viewing cinema online sale (first come, first served) starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://www.nijisanji.jp/events/3skm_1stlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0849124-c519-41a6-9c6b-9a56398ef4bb
@@ -6807,7 +6857,7 @@ URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
 END:VEVENT
 BEGIN:VEVENT
 UID:68cda899-94c0-46c3-8c1e-e82317ec5011
-DTSTAMP:20260712T081657Z
+DTSTAMP:20260717T155423Z
 DTSTART:20260722T030000Z
 DTEND:20260722T033000Z
 TRANSP:TRANSPARENT
@@ -6817,7 +6867,7 @@ URL:https://eplus.jp/mechatu-a_1stlive/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:68cda899-94c0-46c3-8c1e-e82317ec5012
-DTSTAMP:20260712T081657Z
+DTSTAMP:20260717T155423Z
 DTSTART:20260816T145900Z
 DTEND:20260816T152900Z
 TRANSP:TRANSPARENT
