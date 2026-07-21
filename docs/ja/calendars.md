@@ -268,4 +268,6 @@
 <tr class='liver-item' tags='塚原大地,tsukahara daichi,つかはらだいち'><td>塚原大地</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/tsukahara_daichi.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/tsukahara_daichi.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='小々波いるか,kokonami iruka,ここなみいるか'><td>小々波いるか</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/kokonami_iruka.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/kokonami_iruka.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='御子神琴音,mikogami kotone,みこがみことね'><td>御子神琴音</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/mikogami_kotone.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/mikogami_kotone.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='ぷりん・らら・もーど,purin lala mode,ぷりんららもーど'><td>ぷりん・らら・もーど</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/purin_lala_mode.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/purin_lala_mode.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='ぽめろ・ぱんち,pomelo punch,ぽめろぱんち'><td>ぽめろ・ぱんち</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/pomelo_punch.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/pomelo_punch.ics'>英語</a></td></tr>
 </tbody></table></div>
