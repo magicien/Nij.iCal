@@ -1351,6 +1351,17 @@ DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.0
 URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:6a4c8c19-8bd6-42c3-b619-d9d3b16b9fde
+DTSTAMP:20260808T065551Z
+DTSTART:20260927T040000Z
+DTEND:20260927T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじFAN TALK Vol.6 (9/27)
+LOCATION:オンライン
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n\n\nハッシュタグ：#にじFANTalk\nhttps://x.com/search?q=%E3%81%AB%E3%81%98FANTalk\n\n==========\n【家長むぎ】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://x.com/ienaga_mugi23\n\n【える】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://x.com/elu_world\n\n【来栖夏芽】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://x.com/kurusu72me\n\n【早乙女ベリー】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n【シスター・クレア】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://x.com/sistercleaire\n\n【鷹宮リオン】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://x.com/takamiyarion\n\n【ドーラ】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://x.com/___dola\n\n【猫屋敷美紅】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n【緑仙】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
+END:VEVENT
+BEGIN:VEVENT
 UID:c65f87f4-ce7e-456b-b229-dce513012019
 DTSTAMP:20250315T135923Z
 DTSTART;VALUE=DATE:20190124

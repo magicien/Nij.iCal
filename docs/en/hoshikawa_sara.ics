@@ -1557,6 +1557,17 @@ DESCRIPTION:Special Site\nhttps://nijisanji.stagecrowd.live/s/nstk/page/nijiko20
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/nijiko2026lv
 END:VEVENT
 BEGIN:VEVENT
+UID:0f7e635d-071a-4d8f-836f-c5825c7d353f
+DTSTAMP:20260808T065701Z
+DTSTART:20261004T040000Z
+DTEND:20261004T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Niji FAN Talk Vol.6 (Oct 4)
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n\nHashtag: #にじFANTalk\nhttps://x.com/search?q=%E3%81%AB%E3%81%98FANTalk\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://x.com/emma_august_\n\n【Eli Conifer】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://x.com/Eli_Conifer\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://x.com/65_kaburaki\n\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://x.com/Hisui_Kitakoji\n\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://x.com/Levi_E_2434\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
+END:VEVENT
+BEGIN:VEVENT
 UID:30d68adc-35e9-4bfc-bf5f-095037012020
 DTSTAMP:20250316T024813Z
 DTSTART;VALUE=DATE:20200807

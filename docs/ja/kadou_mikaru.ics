@@ -373,6 +373,17 @@ DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001506.0
 URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
+UID:b4be5613-c532-421c-afa8-23898624c888
+DTSTAMP:20260808T065627Z
+DTSTART:20261003T040000Z
+DTEND:20261003T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:にじFAN TALK Vol.6 (10/3)
+LOCATION:オンライン
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n\n\nハッシュタグ：#にじFANTalk\nhttps://x.com/search?q=%E3%81%AB%E3%81%98FANTalk\n\n==========\n【蝸堂みかる】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n【神田笑一】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://x.com/kanda_shoichi\n\n【椎名唯華】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【栞葉るり】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://x.com/Ruri_4ori8\n\n【健屋花那】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://x.com/sukosuko_sukoya\n\n【壱百満天原サロメ】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://x.com/1000000lome\n\n【フミ】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://x.com/FumiVirtual\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【ルイス・キャミー】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://x.com/Luis_Cammy\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
+END:VEVENT
+BEGIN:VEVENT
 UID:c21fe986-097e-41fa-8ac4-e82018012026
 DTSTAMP:20250814T105044Z
 DTSTART;VALUE=DATE:20260601
