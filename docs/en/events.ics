@@ -1602,11 +1602,11 @@ URL:https://www.nijisanji.jp/events/countdown2024/
 END:VEVENT
 BEGIN:VEVENT
 UID:728e68cd-28b9-44e4-aada-fc422bf5dc50
-DTSTAMP:20250323T051229Z
+DTSTAMP:20260808T064632Z
 DTSTART:20250220T080000Z
 DTEND:20250220T100000Z
 TRANSP:TRANSPARENT
-SUMMARY:
+SUMMARY:Nanajigen Seitokai! ~Allow Us to Borrow the Eve Festival Stage!~
 LOCATION:Makuhari Messe
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Makuhari Messe":geo:35.646867,140.034609
 DESCRIPTION:Special Site\nhttps://fes.nijisanji.jp/2025/hallevent/\n\nFree Part\nhttps://www.youtube.com/live/TEaxy1ybjo8\n\n==========\n【Kanae】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Saegusa Akina】\nYouTube: https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ\nX: https://x.com/333akina\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n【Leos Vincent】\nYouTube: https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow\nX: https://x.com/Leos_Vincent\n\n【Suo Sango】\nYouTube: https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\nX: https://x.com/Suo_Sango\n\n
@@ -6844,8 +6844,52 @@ DESCRIPTION:Special Site\nhttps://limista.com/shipping_groups/7526/projects/7523
 URL:https://limista.com/shipping_groups/7526/projects/7523
 END:VEVENT
 BEGIN:VEVENT
+UID:2fb9462c-6f16-41f6-98db-d051a40c5a02
+DTSTAMP:20260808T065326Z
+DTSTART:20260926T040000Z
+DTEND:20260926T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Niji FAN Talk Vol.6 (Sep 26)
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n\nHashtag: #にじFANTalk\nhttps://x.com/search?q=%E3%81%AB%E3%81%98FANTalk\n\n==========\n【Aizono Manami】\nYouTube: https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA\nX: https://x.com/manami_aizono\n\n【Ars Almal】\nYouTube: https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w\nX: https://x.com/ars_almal\n\n【Igarashi Rika】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://x.com/1garashi_Rika\n\n【Togawa Nonoha】\nYouTube: https://www.youtube.com/@TogawaNonoha\nX: https://x.com/Togawa_Nonoha\n\n【Nanase Suzuna】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://x.com/Suzuna_Nanase\n\n【Nui Sociere】\nYouTube: https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g\nX: https://x.com/Nui_Sociere\n\n【Higuchi Kaede】\nYouTube: https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\nX: https://x.com/Higuchikaede\n\n【Yamagami Karuta】\nYouTube: https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ\nX: https://x.com/karuta_Yamagami\n\n【Yumeoi Kakeru】\nYouTube: https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw\nX: https://x.com/kakeru_yumeoi\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4c8c19-8bd6-42c3-b619-d9d3b16b9fde
+DTSTAMP:20260808T065551Z
+DTSTART:20260927T040000Z
+DTEND:20260927T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Niji FAN Talk Vol.6 (Sep 27)
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n\nHashtag: #にじFANTalk\nhttps://x.com/search?q=%E3%81%AB%E3%81%98FANTalk\n\n==========\n【Ienaga Mugi】\nYouTube: https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ\nX: https://x.com/ienaga_mugi23\n\n【Elu】\nYouTube: https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag\nX: https://x.com/elu_world\n\n【Kurusu Natsume】\nYouTube: https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA\nX: https://x.com/kurusu72me\n\n【Saotome Berry】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n【Sister Claire】\nYouTube: https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ\nX: https://x.com/sistercleaire\n\n【Takamiya Rion】\nYouTube: https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw\nX: https://x.com/takamiyarion\n\n【Dola】\nYouTube: https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ\nX: https://x.com/___dola\n\n【Nekoyashiki Miku】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n【Ryushen】\nYouTube: https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw\nX: https://x.com/midori_2434\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
+END:VEVENT
+BEGIN:VEVENT
+UID:b4be5613-c532-421c-afa8-23898624c888
+DTSTAMP:20260808T065627Z
+DTSTART:20261003T040000Z
+DTEND:20261003T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Niji FAN Talk Vol.6 (Oct 3)
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n\nHashtag: #にじFANTalk\nhttps://x.com/search?q=%E3%81%AB%E3%81%98FANTalk\n\n==========\n【Kadou Mikaru】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n【Kanda Shoichi】\nYouTube: https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ\nX: https://x.com/kanda_shoichi\n\n【Shiina Yuika】\nYouTube: https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\nX: https://x.com/yuika_siina\n\n【Shioriha Ruri】\nYouTube: https://www.youtube.com/@ShiorihaRuri\nX: https://x.com/Ruri_4ori8\n\n【Sukoya Kana】\nYouTube: https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ\nX: https://x.com/sukosuko_sukoya\n\n【Hyakumantenbara Salome】\nYouTube: https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg\nX: https://x.com/1000000lome\n\n【Fumi】\nYouTube: https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw\nX: https://x.com/FumiVirtual\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Luis Cammy】\nYouTube: https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw\nX: https://x.com/Luis_Cammy\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7e635d-071a-4d8f-836f-c5825c7d353f
+DTSTAMP:20260808T065701Z
+DTSTART:20261004T040000Z
+DTEND:20261004T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:Niji FAN Talk Vol.6 (Oct 4)
+LOCATION:Online
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n\nHashtag: #にじFANTalk\nhttps://x.com/search?q=%E3%81%AB%E3%81%98FANTalk\n\n==========\n【Amamiya Kokoro】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n【Emma August】\nYouTube: https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ\nX: https://x.com/emma_august_\n\n【Eli Conifer】\nYouTube: https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ\nX: https://x.com/Eli_Conifer\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n【Kaburaki Roco】\nYouTube: https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA\nX: https://x.com/65_kaburaki\n\n【Kitakoji Hisui】\nYouTube: https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\nX: https://x.com/Hisui_Kitakoji\n\n【Shirayuki Tomoe】\nYouTube: https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\nX: https://x.com/Tomoe_Shirayuki\n\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n【Levi Elipha】\nYouTube: https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q\nX: https://x.com/Levi_E_2434\n\n
+URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
+END:VEVENT
+BEGIN:VEVENT
 UID:6cee3ba9-3869-416a-bf74-a26104521749
-DTSTAMP:20260712T081855Z
+DTSTAMP:20260808T065114Z
 DTSTART:20261010T090000Z
 DTEND:20261010T110000Z
 TRANSP:TRANSPARENT
