@@ -654,14 +654,14 @@ URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:f1d6dd40-2ac4-4810-b254-d6710b7a1423
-DTSTAMP:20260712T072652Z
+DTSTAMP:20260812T111630Z
 DTSTART:20260822T090000Z
 DTEND:20260822T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:3SKMは横浜BUNTAIでも眠らない ～“One-Off”前夜集会～
 LOCATION:横浜BUNTAI
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="横浜BUNTAI":geo:35.440951,139.636449
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\nオンラインチケット購入ページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#3SKM_前夜集会\nhttps://x.com/search?q=3SKM_%E5%89%8D%E5%A4%9C%E9%9B%86%E4%BC%9A\n\n==========\nチケット情報：\n\n総合ファンクラブ先行抽選 (2026/7/10 12:00〜2026/7/19 23:59)\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\nイープラス先行抽選 (2026/7/20 12:00〜2026/7/26 23:59)\nhttps://eplus.jp/3skm-oneoff0822/\n\n一般販売（先着） (2026/8/8 12:00〜)\nhttps://eplus.jp/3skm-oneoff0822/\n\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nオンライン視聴ページ\nhttps://live.nicovideo.jp/watch/lv350951177\n\nハッシュタグ：#3SKM_前夜集会\nhttps://x.com/search?q=3SKM_%E5%89%8D%E5%A4%9C%E9%9B%86%E4%BC%9A\n\n==========\nチケット情報：\n\n総合ファンクラブ先行抽選 (2026/7/10 12:00〜2026/7/19 23:59)\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\nイープラス先行抽選 (2026/7/20 12:00〜2026/7/26 23:59)\nhttps://eplus.jp/3skm-oneoff0822/\n\n一般販売（先着） (2026/8/8 12:00〜)\nhttps://eplus.jp/3skm-oneoff0822/\n\nオンライン視聴チケット販売 (2026/8/6 17:00〜2026/9/7 23:59)\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/
 END:VEVENT
 BEGIN:VEVENT
@@ -715,15 +715,35 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff0822/\n\nイベント:\nh
 URL:https://eplus.jp/3skm-oneoff0822/
 END:VEVENT
 BEGIN:VEVENT
+UID:9b004068-9ccd-4d44-8138-ecc09c58b1e1
+DTSTAMP:20260812T110703Z
+DTSTART:20260806T080000Z
+DTEND:20260806T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKMは横浜BUNTAIでも眠らない ～“One-Off”前夜集会～: オンライン視聴チケット販売 開始
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
+END:VEVENT
+BEGIN:VEVENT
+UID:9b004068-9ccd-4d44-8138-ecc09c58b1e2
+DTSTAMP:20260812T110703Z
+DTSTART:20260907T145900Z
+DTEND:20260907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKMは横浜BUNTAIでも眠らない ～“One-Off”前夜集会～: オンライン視聴チケット販売 終了
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
+END:VEVENT
+BEGIN:VEVENT
 UID:03e94ade-1069-42f7-b9d4-7f33286a2416
-DTSTAMP:20260713T121455Z
+DTSTAMP:20260812T111533Z
 DTSTART:20260823T090000Z
 DTEND:20260823T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:3SKM 1st LIVE “One-Off”
 LOCATION:横浜BUNTAI
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="横浜BUNTAI":geo:35.440951,139.636449
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_938\n\nオンライン視聴ページ\n\n\nハッシュタグ：#3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n3SKM 1st Mini Album「Nighthawks」シリアル先行抽選 (2026/4/29 12:00〜2026/5/20 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\n総合ファンクラブ先行抽選 (2026/6/3 12:00〜2026/6/14 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\nイープラス先行抽選 (2026/6/17 12:00〜2026/6/28 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\n一般販売（先着） (2026/8/2 12:00〜)\nhttps://eplus.jp/3skm-oneoff/\n\nライブビューイングプレオーダー（抽選） (2026/7/16 17:00〜2026/8/3 23:59)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nライブビューイング一般販売（先着） (2026/8/15 18:00〜2026/8/21 12:00)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nライブビューイング映画館ネット販売（先着） (2026/8/22 0:00〜)\n\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nオンラインチケット購入ページ\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_938\n\n直前放送（MC: 篠宮ゆの / 城瀬いすみ、レポーター：八木美佐子）\nhttps://live.nicovideo.jp/watch/lv350973860\n\n無料パート\nhttps://www.youtube.com/live/PguV3fXFqqw\n\nオンライン視聴ページ\nhttps://live.nicovideo.jp/watch/lv350951488\n\n最速感想放送（出演: 篠宮ゆの / 城瀬いすみ）\nhttps://live.nicovideo.jp/watch/lv351101427\n\n\nハッシュタグ：#3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n3SKM 1st Mini Album「Nighthawks」シリアル先行抽選 (2026/4/29 12:00〜2026/5/20 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\n総合ファンクラブ先行抽選 (2026/6/3 12:00〜2026/6/14 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\nイープラス先行抽選 (2026/6/17 12:00〜2026/6/28 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\n一般販売（先着） (2026/8/2 12:00〜)\nhttps://eplus.jp/3skm-oneoff/\n\nオンライン視聴チケット販売 (2026/8/6 17:00〜2026/9/7 23:59)\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nライブビューイングプレオーダー（抽選） (2026/7/16 17:00〜2026/8/3 23:59)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nライブビューイング一般販売（先着） (2026/8/15 18:00〜2026/8/21 12:00)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nライブビューイング映画館ネット販売（先着） (2026/8/22 0:00〜)\n\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://www.nijisanji.jp/events/3skm_1stlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -795,6 +815,26 @@ TRANSP:TRANSPARENT
 SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: 一般販売（先着） 開始
 DESCRIPTION:チケット:\nhttps://eplus.jp/3skm-oneoff/\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://eplus.jp/3skm-oneoff/
+END:VEVENT
+BEGIN:VEVENT
+UID:40a4b65b-b3be-40a4-b99e-15f4d8f4c7f1
+DTSTAMP:20260812T110604Z
+DTSTART:20260806T080000Z
+DTEND:20260806T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: オンライン視聴チケット販売 開始
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
+END:VEVENT
+BEGIN:VEVENT
+UID:40a4b65b-b3be-40a4-b99e-15f4d8f4c7f2
+DTSTAMP:20260812T110604Z
+DTSTART:20260907T145900Z
+DTEND:20260907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]3SKM 1st LIVE “One-Off”: オンライン視聴チケット販売 終了
+DESCRIPTION:チケット:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nイベント:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【榊ネス】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【北見遊征】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【魁星】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
 END:VEVENT
 BEGIN:VEVENT
 UID:d915a81b-4bf8-4751-8920-d38b5b1f34d1
