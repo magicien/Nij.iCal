@@ -6547,14 +6547,14 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/page/nijiko2026lv
 END:VEVENT
 BEGIN:VEVENT
 UID:f1d6dd40-2ac4-4810-b254-d6710b7a1423
-DTSTAMP:20260712T072652Z
+DTSTAMP:20260812T111630Z
 DTSTART:20260822T090000Z
 DTEND:20260822T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~
 LOCATION:Yokohama BUNTAI
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yokohama BUNTAI":geo:35.440951,139.636449
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\nOnline Viewing Tickets\n\nniconico Live\n\n\nHashtag: #3SKM_前夜集会\nhttps://x.com/search?q=3SKM_%E5%89%8D%E5%A4%9C%E9%9B%86%E4%BC%9A\n\n==========\nTicket Info:\n\nGeneral fan club pre-sale lottery (from Jul 10, 2026, 12:00 until Jul 19, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\ne+ pre-sale lottery (from Jul 20, 2026, 12:00 until Jul 26, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/\n\nGeneral sale (first come, first served) (from Aug 8, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff0822/\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv350951177\n\n\nHashtag: #3SKM_前夜集会\nhttps://x.com/search?q=3SKM_%E5%89%8D%E5%A4%9C%E9%9B%86%E4%BC%9A\n\n==========\nTicket Info:\n\nGeneral fan club pre-sale lottery (from Jul 10, 2026, 12:00 until Jul 19, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/fc/\n\ne+ pre-sale lottery (from Jul 20, 2026, 12:00 until Jul 26, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff0822/\n\nGeneral sale (first come, first served) (from Aug 8, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff0822/\n\nOnline viewing ticket sales (from Aug 6, 2026, 17:00 until Sep 7, 2026, 23:59)\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/
 END:VEVENT
 BEGIN:VEVENT
@@ -6608,6 +6608,26 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff0822/\n\nEvent:\nhttps://www.ni
 URL:https://eplus.jp/3skm-oneoff0822/
 END:VEVENT
 BEGIN:VEVENT
+UID:9b004068-9ccd-4d44-8138-ecc09c58b1e1
+DTSTAMP:20260812T110703Z
+DTSTART:20260806T080000Z
+DTEND:20260806T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
+END:VEVENT
+BEGIN:VEVENT
+UID:9b004068-9ccd-4d44-8138-ecc09c58b1e2
+DTSTAMP:20260812T110703Z
+DTSTART:20260907T145900Z
+DTEND:20260907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM Never Sleeps Not Even at Yokohama BUNTAI ~ 'One-Off' Eve Gathering ~: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/zenya_shukai/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
+END:VEVENT
+BEGIN:VEVENT
 UID:e9cd5ef7-9713-4010-ab87-cc6556b46048
 DTSTAMP:20260713T122225Z
 DTSTART:20260823T030000Z
@@ -6640,14 +6660,14 @@ URL:https://limista.com/shipping_groups/7557
 END:VEVENT
 BEGIN:VEVENT
 UID:03e94ade-1069-42f7-b9d4-7f33286a2416
-DTSTAMP:20260713T121455Z
+DTSTAMP:20260812T111533Z
 DTSTART:20260823T090000Z
 DTEND:20260823T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:3SKM 1st LIVE “One-Off”
 LOCATION:Yokohama BUNTAI
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Yokohama BUNTAI":geo:35.440951,139.636449
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_938\n\nniconico Live\n\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\nLive viewing ticket pre-sale lottery (from Jul 16, 2026, 17:00 until Aug 3, 2026, 23:59)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nLive viewing ticket general sale (first come, first served) (from Aug 15, 2026, 18:00 until Aug 21, 2026, 12:00)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nLive viewing cinema online sale (first come, first served) (from Aug 22, 2026, 0:00)\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_938\n\nVenue Report (MC: Shinomiya Yuno, Shirose Isumi, Reporter: Yagi Misako)\nhttps://live.nicovideo.jp/watch/lv350678413\n\nFree Part\nhttps://www.youtube.com/live/PguV3fXFqqw\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv350951488\n\nPost-Live Discussion (MC: Shinomiya Yuno, Shirose Isumi)\nhttps://live.nicovideo.jp/watch/lv351101427\n\nHashtag: #3SKM_1stライブ\nhttps://x.com/search?q=3SKM_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Apr 29, 2026, 12:00 until May 20, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/sp/\n\nGeneral fan club pre-sale lottery (from Jun 3, 2026, 12:00 until Jun 14, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/fc/\n\ne+ pre-sale lottery (from Jun 17, 2026, 12:00 until Jun 28, 2026, 23:59)\nhttps://eplus.jp/3skm-oneoff/\n\nGeneral sale (first come, first served) (from Aug 2, 2026, 12:00)\nhttps://eplus.jp/3skm-oneoff/\n\nOnline viewing ticket sales (from Aug 6, 2026, 17:00 until Sep 7, 2026, 23:59)\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nLive viewing ticket pre-sale lottery (from Jul 16, 2026, 17:00 until Aug 3, 2026, 23:59)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nLive viewing ticket general sale (first come, first served) (from Aug 15, 2026, 18:00 until Aug 21, 2026, 12:00)\nhttps://eplus.jp/sf/movie/liveviewing/3skm-1stlive/lv\n\nLive viewing cinema online sale (first come, first served) (from Aug 22, 2026, 0:00)\n\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://www.nijisanji.jp/events/3skm_1stlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -6719,6 +6739,26 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: General sale (first come, first served) starts
 DESCRIPTION:Ticket:\nhttps://eplus.jp/3skm-oneoff/\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
 URL:https://eplus.jp/3skm-oneoff/
+END:VEVENT
+BEGIN:VEVENT
+UID:40a4b65b-b3be-40a4-b99e-15f4d8f4c7f1
+DTSTAMP:20260812T110604Z
+DTSTART:20260806T080000Z
+DTEND:20260806T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
+END:VEVENT
+BEGIN:VEVENT
+UID:40a4b65b-b3be-40a4-b99e-15f4d8f4c7f2
+DTSTAMP:20260812T110604Z
+DTSTART:20260907T145900Z
+DTEND:20260907T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]3SKM 1st LIVE “One-Off”: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/5R76aPfrgd\n\nEvent:\nhttps://www.nijisanji.jp/events/3skm_1stlive/\n\n\n==========\n【Sakaki Ness】\nYouTube: https://www.youtube.com/@SakakiNess\nX: https://x.com/Ness_Sakaki\n\n【Kitami Yusei】\nYouTube: https://www.youtube.com/@KitamiYusei\nX: https://x.com/Kitami_Coolguy\n\n【Kaisei】\nYouTube: https://www.youtube.com/@Kaisei_nijisanji\nX: https://x.com/Kaisei_2434\n\n
+URL:https://dwango-ticket.jp/project/5R76aPfrgd
 END:VEVENT
 BEGIN:VEVENT
 UID:d915a81b-4bf8-4751-8920-d38b5b1f34d1
@@ -7070,16 +7110,26 @@ TRANSP:TRANSPARENT
 SUMMARY:Kuzuha One-Man Live "Bloody Alexandrite"
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_941\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 29, 2026, 12:00)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nGeneral fan club pre-sale lottery (from Aug 21, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\ne+ pre-sale lottery (from Sep 3, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nGeneral sale (first come, first served) (from Sep 27, 2026, 12:00)\n\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_941\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 29, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nGeneral fan club pre-sale lottery (from Aug 21, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\ne+ pre-sale lottery (from Sep 3, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nGeneral sale (first come, first served) (from Sep 27, 2026, 12:00)\n\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
 UID:8bd3b8e2-7b07-437a-922d-73a162a5b201
-DTSTAMP:20260609T122241Z
+DTSTAMP:20260812T110253Z
 DTSTART:20260729T030000Z
 DTEND:20260729T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Kuzuha One-Man Live "Bloody Alexandrite": Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:8bd3b8e2-7b07-437a-922d-73a162a5b202
+DTSTAMP:20260812T110253Z
+DTSTART:20260812T145900Z
+DTEND:20260812T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kuzuha One-Man Live "Bloody Alexandrite": Serial code pre-sale lottery ends
 DESCRIPTION:Ticket:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://eplus.jp/kuzuha_bloodyalexandrite/sp/
 END:VEVENT
