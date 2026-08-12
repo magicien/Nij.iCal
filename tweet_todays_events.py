@@ -4,6 +4,7 @@ import os
 import sys
 from playwright.sync_api import sync_playwright
 from requests_oauthlib import OAuth1
+import pkg_resources_compat  # noqa: F401  # twitter_text より前に import すること
 from twitter_text import parse_tweet
 from nijical import NijiCal
 from settings import debug, url_prefix
