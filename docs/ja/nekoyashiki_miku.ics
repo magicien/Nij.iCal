@@ -384,6 +384,38 @@ DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n
 URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
 END:VEVENT
 BEGIN:VEVENT
+UID:5ca61613-8d4e-4048-820d-8a8a7d367c64
+DTSTAMP:20260814T124801Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:今宵、××と夢を見る。Offline Mini Live「秋は夕暮れ、××と共に。」
+LOCATION:CIRCUS TOKYO
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="CIRCUS TOKYO":geo:35.654165,139.705581
+DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001583.000030865.html\n\nハッシュタグ：#よいゆめライブ_秋は夕暮れ\nhttps://x.com/search?q=%E3%82%88%E3%81%84%E3%82%86%E3%82%81%E3%83%A9%E3%82%A4%E3%83%96_%E7%A7%8B%E3%81%AF%E5%A4%95%E6%9A%AE%E3%82%8C\n\n==========\nチケット情報：\n\n1周年グッズ購入者限定抽選 (2026/8/15 18:00〜2026/9/13 23:59)\nhttps://nijisanji.stagecrowd.live/s/nstk/page/yoiyume_live\n\n\n\n==========\n【十河ののは】\nYouTube: https://www.youtube.com/@TogawaNonoha\nX: https://x.com/Togawa_Nonoha\n\n【夜牛詩乃】\nYouTube: https://www.youtube.com/@YagyuShino\nX: https://x.com/YagyuShino\n\n【蝸堂みかる】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n【猫屋敷美紅】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://prtimes.jp/main/html/rd/p/000001583.000030865.html
+END:VEVENT
+BEGIN:VEVENT
+UID:90b21ed1-c9cc-496b-b850-07224b7cf101
+DTSTAMP:20260814T125340Z
+DTSTART:20260815T090000Z
+DTEND:20260815T093000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]今宵、××と夢を見る。Offline Mini Live「秋は夕暮れ、××と共に。」: 1周年グッズ購入者限定抽選 開始
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/yoiyume_live\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001583.000030865.html\n\n\n==========\n【十河ののは】\nYouTube: https://www.youtube.com/@TogawaNonoha\nX: https://x.com/Togawa_Nonoha\n\n【夜牛詩乃】\nYouTube: https://www.youtube.com/@YagyuShino\nX: https://x.com/YagyuShino\n\n【蝸堂みかる】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n【猫屋敷美紅】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://nijisanji.stagecrowd.live/s/nstk/page/yoiyume_live
+END:VEVENT
+BEGIN:VEVENT
+UID:90b21ed1-c9cc-496b-b850-07224b7cf102
+DTSTAMP:20260814T125340Z
+DTSTART:20260913T145900Z
+DTEND:20260913T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]今宵、××と夢を見る。Offline Mini Live「秋は夕暮れ、××と共に。」: 1周年グッズ購入者限定抽選 終了
+DESCRIPTION:チケット:\nhttps://nijisanji.stagecrowd.live/s/nstk/page/yoiyume_live\n\nイベント:\nhttps://prtimes.jp/main/html/rd/p/000001583.000030865.html\n\n\n==========\n【十河ののは】\nYouTube: https://www.youtube.com/@TogawaNonoha\nX: https://x.com/Togawa_Nonoha\n\n【夜牛詩乃】\nYouTube: https://www.youtube.com/@YagyuShino\nX: https://x.com/YagyuShino\n\n【蝸堂みかる】\nYouTube: https://www.youtube.com/@KadouMikaru\nX: https://x.com/Kadou_Mikaru\n\n【猫屋敷美紅】\nYouTube: https://www.youtube.com/@NekoyashikiMiku\nX: https://x.com/Nekoyashiki_39\n\n
+URL:https://nijisanji.stagecrowd.live/s/nstk/page/yoiyume_live
+END:VEVENT
+BEGIN:VEVENT
 UID:0ce85979-69ae-400f-b074-dba842012026
 DTSTAMP:20250814T104728Z
 DTSTART;VALUE=DATE:20260327
