@@ -270,4 +270,6 @@
 <tr class='liver-item' tags='御子神琴音,mikogami kotone,みこがみことね'><td>御子神琴音</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/mikogami_kotone.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/mikogami_kotone.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='ぷりん・らら・もーど,purin lala mode,ぷりんららもーど'><td>ぷりん・らら・もーど</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/purin_lala_mode.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/purin_lala_mode.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='ぽめろ・ぱんち,pomelo punch,ぽめろぱんち'><td>ぽめろ・ぱんち</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/pomelo_punch.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/pomelo_punch.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='神永タイガ,kaminaga taiga,かみながたいが'><td>神永タイガ</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/kaminaga_taiga.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/kaminaga_taiga.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='山田龍一郎,yamada ryuichiro,やまだりゅういちろう'><td>山田龍一郎</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/yamada_ryuichiro.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/yamada_ryuichiro.ics'>英語</a></td></tr>
 </tbody></table></div>
