@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+PRODID:-//magicien//NONSGML Nij.iCal//JA
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Yamada Ryuichiro
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1012027
+DTSTAMP:20260827T102202Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro Birthday
+DESCRIPTION:Yamada Ryuichiro Birthday\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022026
+DTSTAMP:20260827T102202Z
+DTSTART:20260827T090600Z
+DTEND:20260827T093600Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro Debut
+DESCRIPTION:Yamada Ryuichiro Debut\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1032026
+DTSTAMP:20260827T102202Z
+DTSTART:20260828T113000Z
+DTEND:20260828T120000Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro Debut stream
+DESCRIPTION:Yamada Ryuichiro Debut stream\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022027
+DTSTAMP:20260827T102202Z
+DTSTART:20270827T090600Z
+DTEND:20270827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 1st Anniversary
+DESCRIPTION:Yamada Ryuichiro 1st Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022028
+DTSTAMP:20260827T102202Z
+DTSTART:20280827T090600Z
+DTEND:20280827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 2nd Anniversary
+DESCRIPTION:Yamada Ryuichiro 2nd Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022029
+DTSTAMP:20260827T102202Z
+DTSTART:20290827T090600Z
+DTEND:20290827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 3rd Anniversary
+DESCRIPTION:Yamada Ryuichiro 3rd Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022030
+DTSTAMP:20260827T102202Z
+DTSTART:20300827T090600Z
+DTEND:20300827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 4th Anniversary
+DESCRIPTION:Yamada Ryuichiro 4th Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022031
+DTSTAMP:20260827T102202Z
+DTSTART:20310827T090600Z
+DTEND:20310827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 5th Anniversary
+DESCRIPTION:Yamada Ryuichiro 5th Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022032
+DTSTAMP:20260827T102202Z
+DTSTART:20320827T090600Z
+DTEND:20320827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 6th Anniversary
+DESCRIPTION:Yamada Ryuichiro 6th Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022033
+DTSTAMP:20260827T102202Z
+DTSTART:20330827T090600Z
+DTEND:20330827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 7th Anniversary
+DESCRIPTION:Yamada Ryuichiro 7th Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022034
+DTSTAMP:20260827T102202Z
+DTSTART:20340827T090600Z
+DTEND:20340827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 8th Anniversary
+DESCRIPTION:Yamada Ryuichiro 8th Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022035
+DTSTAMP:20260827T102202Z
+DTSTART:20350827T090600Z
+DTEND:20350827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 9th Anniversary
+DESCRIPTION:Yamada Ryuichiro 9th Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf25270-b414-4aca-961c-b634d1022036
+DTSTAMP:20260827T102202Z
+DTSTART:20360827T090600Z
+DTEND:20360827T090601Z
+TRANSP:TRANSPARENT
+SUMMARY:Yamada Ryuichiro 10th Anniversary
+DESCRIPTION:Yamada Ryuichiro 10th Anniversary\n\nFirst tweet: Aug 27, 2026, 18:06 (JST)\nFirst stream: Aug 28, 2026, 20:30 (JST)\n\n\n==========\n【Yamada Ryuichiro】\nYouTube: https://www.youtube.com/@YamadaRyuichiro\nX: https://x.com/Ryuichiro_YMD\n\n
+URL:https://www.youtube.com/@YamadaRyuichiro
+END:VEVENT
+END:VCALENDAR
