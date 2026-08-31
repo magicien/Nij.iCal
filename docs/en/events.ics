@@ -7581,8 +7581,90 @@ DESCRIPTION:Ticket:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detai
 URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=115945
 END:VEVENT
 BEGIN:VEVENT
+UID:e56d1d9f-dd80-41df-bb2a-53808f061a1e
+DTSTAMP:20260831T130223Z
+DTSTART:20270303T090000Z
+DTEND:20270303T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Fuwa Minato 2nd LIVE “VORTEX”
+LOCATION:Nippon Budokan
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Nippon Budokan":geo:35.693361,139.749822
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\nHashtag: #不破湊_2ndLIVE\nhttps://x.com/search?q=%E4%B8%8D%E7%A0%B4%E6%B9%8A_2ndLIVE\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Dec 9, 2026, 12:00 until Jan 11, 2027, 23:59)\nhttps://eplus.jp/fuwaminato-serial/\n\nFan club pre-sale lottery (from Jan 19, 2027, 12:00 until Jan 26, 2027, 23:59)\nhttps://eplus.jp/fuwaminato-fc/\n\ne+ pre-sale lottery (from Feb 3, 2027, 12:00 until Feb 7, 2027, 23:59)\nhttps://eplus.jp/fuwaminato/\n\nGeneral sale (first come, first served) (from Feb 20, 2027, 12:00)\nhttps://eplus.jp/fuwaminato/\n\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://www.nijisanji.jp/events/fuwa_VORTEX/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec072773-efc3-4406-a666-46e29d6717f1
+DTSTAMP:20260831T130503Z
+DTSTART:20261209T030000Z
+DTEND:20261209T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato 2nd LIVE “VORTEX”: Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/fuwaminato-serial/\n\nEvent:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-serial/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec072773-efc3-4406-a666-46e29d6717f2
+DTSTAMP:20260831T130503Z
+DTSTART:20270111T145900Z
+DTEND:20270111T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato 2nd LIVE “VORTEX”: Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/fuwaminato-serial/\n\nEvent:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-serial/
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc45747-b217-4d24-9e4d-466c880fd181
+DTSTAMP:20260831T130758Z
+DTSTART:20270119T030000Z
+DTEND:20270119T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato 2nd LIVE “VORTEX”: Fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/fuwaminato-fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc45747-b217-4d24-9e4d-466c880fd182
+DTSTAMP:20260831T130758Z
+DTSTART:20270126T145900Z
+DTEND:20270126T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato 2nd LIVE “VORTEX”: Fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/fuwaminato-fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a346c06-9e26-481b-a34c-2231a3ae3f91
+DTSTAMP:20260831T130759Z
+DTSTART:20270203T030000Z
+DTEND:20270203T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato 2nd LIVE “VORTEX”: e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/fuwaminato/\n\nEvent:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a346c06-9e26-481b-a34c-2231a3ae3f92
+DTSTAMP:20260831T130759Z
+DTSTART:20270207T145900Z
+DTEND:20270207T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato 2nd LIVE “VORTEX”: e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/fuwaminato/\n\nEvent:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato/
+END:VEVENT
+BEGIN:VEVENT
+UID:21323e3f-a583-4c0d-a8bd-09b8578d6761
+DTSTAMP:20260831T130759Z
+DTSTART:20270220T030000Z
+DTEND:20270220T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato 2nd LIVE “VORTEX”: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/fuwaminato/\n\nEvent:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato/
+END:VEVENT
+BEGIN:VEVENT
 UID:36ef712d-bff1-410f-a41d-03c370eff49a
-DTSTAMP:20260713T123524Z
+DTSTAMP:20260831T112423Z
 DTSTART:20270424T090000Z
 DTEND:20270424T110000Z
 TRANSP:TRANSPARENT
@@ -7594,7 +7676,7 @@ URL:https://www.nijisanji.jp/events/inui_restart/
 END:VEVENT
 BEGIN:VEVENT
 UID:63430ecb-881c-42b5-960e-c36a7a3b3ab1
-DTSTAMP:20260820T142419Z
+DTSTAMP:20260831T130759Z
 DTSTART:20261007T030000Z
 DTEND:20261007T033000Z
 TRANSP:TRANSPARENT
@@ -7604,7 +7686,7 @@ URL:https://eplus.jp/inuitoko/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:63430ecb-881c-42b5-960e-c36a7a3b3ab2
-DTSTAMP:20260820T142419Z
+DTSTAMP:20260831T130759Z
 DTSTART:20261118T145900Z
 DTEND:20261118T152900Z
 TRANSP:TRANSPARENT
