@@ -1701,6 +1701,88 @@ DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandr
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
+UID:e56d1d9f-dd80-41df-bb2a-53808f061a1e
+DTSTAMP:20260831T130223Z
+DTSTART:20270303T090000Z
+DTEND:20270303T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:不破湊 2nd LIVE “VORTEX”
+LOCATION:日本武道館
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="日本武道館":geo:35.693361,139.749822
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\nハッシュタグ：#不破湊_2ndLIVE\nhttps://x.com/search?q=%E4%B8%8D%E7%A0%B4%E6%B9%8A_2ndLIVE\n\n==========\nチケット情報：\n\n『ECLIPSE』シリアル先行抽選 (2026/12/9 12:00〜2027/1/11 23:59)\nhttps://eplus.jp/fuwaminato-serial/\n\nファンクラブ先行抽選 (2027/1/19 12:00〜2027/1/26 23:59)\nhttps://eplus.jp/fuwaminato-fc/\n\nイープラス先行抽選 (2027/2/3 12:00〜2027/2/7 23:59)\nhttps://eplus.jp/fuwaminato/\n\n一般販売（先着） (2027/2/20 12:00〜)\nhttps://eplus.jp/fuwaminato/\n\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://www.nijisanji.jp/events/fuwa_VORTEX/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec072773-efc3-4406-a666-46e29d6717f1
+DTSTAMP:20260831T130503Z
+DTSTART:20261209T030000Z
+DTEND:20261209T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]不破湊 2nd LIVE “VORTEX”: 『ECLIPSE』シリアル先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/fuwaminato-serial/\n\nイベント:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-serial/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec072773-efc3-4406-a666-46e29d6717f2
+DTSTAMP:20260831T130503Z
+DTSTART:20270111T145900Z
+DTEND:20270111T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]不破湊 2nd LIVE “VORTEX”: 『ECLIPSE』シリアル先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/fuwaminato-serial/\n\nイベント:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-serial/
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc45747-b217-4d24-9e4d-466c880fd181
+DTSTAMP:20260831T130758Z
+DTSTART:20270119T030000Z
+DTEND:20270119T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]不破湊 2nd LIVE “VORTEX”: ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/fuwaminato-fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc45747-b217-4d24-9e4d-466c880fd182
+DTSTAMP:20260831T130758Z
+DTSTART:20270126T145900Z
+DTEND:20270126T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]不破湊 2nd LIVE “VORTEX”: ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/fuwaminato-fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a346c06-9e26-481b-a34c-2231a3ae3f91
+DTSTAMP:20260831T130759Z
+DTSTART:20270203T030000Z
+DTEND:20270203T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]不破湊 2nd LIVE “VORTEX”: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/fuwaminato/\n\nイベント:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a346c06-9e26-481b-a34c-2231a3ae3f92
+DTSTAMP:20260831T130759Z
+DTSTART:20270207T145900Z
+DTEND:20270207T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]不破湊 2nd LIVE “VORTEX”: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/fuwaminato/\n\nイベント:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato/
+END:VEVENT
+BEGIN:VEVENT
+UID:21323e3f-a583-4c0d-a8bd-09b8578d6761
+DTSTAMP:20260831T130759Z
+DTSTART:20270220T030000Z
+DTEND:20270220T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]不破湊 2nd LIVE “VORTEX”: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/fuwaminato/\n\nイベント:\nhttps://www.nijisanji.jp/events/fuwa_VORTEX/\n\n\n==========\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://eplus.jp/fuwaminato/
+END:VEVENT
+BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9012020
 DTSTAMP:20250316T031739Z
 DTSTART;VALUE=DATE:20200418
