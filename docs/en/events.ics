@@ -7540,7 +7540,7 @@ URL:https://eplus.jp/furen_smile/fc/
 END:VEVENT
 BEGIN:VEVENT
 UID:2ad3a2e3-cfa5-46f1-9f9a-767b2826a6a1
-DTSTAMP:20260820T142919Z
+DTSTAMP:20260905T122451Z
 DTSTART:20270108T030000Z
 DTEND:20270108T033000Z
 TRANSP:TRANSPARENT
@@ -7550,7 +7550,7 @@ URL:https://eplus.jp/furen_smile/
 END:VEVENT
 BEGIN:VEVENT
 UID:2ad3a2e3-cfa5-46f1-9f9a-767b2826a6a2
-DTSTAMP:20260820T142919Z
+DTSTAMP:20260905T122451Z
 DTSTART:20270112T145900Z
 DTEND:20270112T152900Z
 TRANSP:TRANSPARENT
@@ -7569,8 +7569,90 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/furen_smile/\n\nEvent:\nhttps://www.nijisa
 URL:https://eplus.jp/furen_smile/
 END:VEVENT
 BEGIN:VEVENT
+UID:3dcfbaa2-5f5f-4fcb-b19f-8db4a3fdc343
+DTSTAMP:20260905T121647Z
+DTSTART:20270207T090000Z
+DTEND:20270207T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”
+LOCATION:Kanadevia Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kanadevia Hall":geo:35.702869,139.754393
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\nOnline Viewing Tickets\n\nMerch page\n\nniconico Live\n\n\nHashtag: #星川サラ_2ndライブ\nhttps://x.com/search?q=%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Nov 25, 2026, 12:00 until Dec 16, 2026, 23:59)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/sp/\n\nFan club pre-sale lottery (from Dec 18, 2026, 12:00 until Dec 27, 2026, 23:59)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/fc/\n\nFan club pre-sale lottery (from Jan 8, 2027, 12:00 until Jan 12, 2027, 23:59)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nGeneral sale (first come, first served) (from Jan 23, 2027, 13:00)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:f83e8591-a059-4b35-9bc0-1624dfcc3c31
+DTSTAMP:20260905T121925Z
+DTSTART:20261125T030000Z
+DTEND:20261125T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”: Serial code pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:f83e8591-a059-4b35-9bc0-1624dfcc3c32
+DTSTAMP:20260905T121925Z
+DTSTART:20261216T145900Z
+DTEND:20261216T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”: Serial code pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/sp/\n\nEvent:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:551c0d6d-279d-42db-9f23-1cc317e6e351
+DTSTAMP:20260905T122416Z
+DTSTART:20261218T030000Z
+DTEND:20261218T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”: Fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:551c0d6d-279d-42db-9f23-1cc317e6e352
+DTSTAMP:20260905T122416Z
+DTSTART:20261227T145900Z
+DTEND:20261227T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”: Fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/fc/\n\nEvent:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d189874-85e9-4c99-af18-6f68130e1c41
+DTSTAMP:20260905T122130Z
+DTSTART:20270108T030000Z
+DTEND:20270108T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”: Fan club pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nEvent:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d189874-85e9-4c99-af18-6f68130e1c42
+DTSTAMP:20260905T122130Z
+DTSTART:20270112T145900Z
+DTEND:20270112T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”: Fan club pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nEvent:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:14f53062-fdc6-4a7e-a269-12417a9dece1
+DTSTAMP:20260905T122151Z
+DTSTART:20270123T040000Z
+DTEND:20270123T043000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Hoshikawa Sara 2nd Live “Hoshikuzu Shining Day”: General sale (first come, first served) starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nEvent:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【Hoshikawa Sara】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
 UID:ec47c672-0c3b-4f2b-bd55-6b982e0bc88c
-DTSTAMP:20260820T132244Z
+DTSTAMP:20260905T114417Z
 DTSTART:20270220T030000Z
 DTEND:20270220T040000Z
 TRANSP:TRANSPARENT
@@ -7581,7 +7663,7 @@ URL:https://tower.jp/article/feature_item/2026/07/13/0702
 END:VEVENT
 BEGIN:VEVENT
 UID:87cb1b6d-d33d-453f-9d38-54e854905f61
-DTSTAMP:20260820T142852Z
+DTSTAMP:20260905T122154Z
 DTSTART:20260713T120000Z
 DTEND:20260713T123000Z
 TRANSP:TRANSPARENT
@@ -7591,7 +7673,7 @@ URL:https://tower.jp/article/feature_item/2026/07/13/0702
 END:VEVENT
 BEGIN:VEVENT
 UID:87cb1b6d-d33d-453f-9d38-54e854905f62
-DTSTAMP:20260820T142852Z
+DTSTAMP:20260905T122154Z
 DTSTART:20260923T145900Z
 DTEND:20260923T152900Z
 TRANSP:TRANSPARENT
@@ -7612,7 +7694,7 @@ URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=115945
 END:VEVENT
 BEGIN:VEVENT
 UID:2f003cd7-21f0-4ec8-9a09-11b5b8942e01
-DTSTAMP:20260820T142854Z
+DTSTAMP:20260905T122434Z
 DTSTART:20260713T150000Z
 DTEND:20260713T153000Z
 TRANSP:TRANSPARENT
@@ -7622,7 +7704,7 @@ URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=115945
 END:VEVENT
 BEGIN:VEVENT
 UID:2f003cd7-21f0-4ec8-9a09-11b5b8942e02
-DTSTAMP:20260820T142854Z
+DTSTAMP:20260905T122434Z
 DTSTART:20261220T145900Z
 DTEND:20261220T152900Z
 TRANSP:TRANSPARENT
@@ -7726,7 +7808,7 @@ URL:https://www.nijisanji.jp/events/inui_restart/
 END:VEVENT
 BEGIN:VEVENT
 UID:63430ecb-881c-42b5-960e-c36a7a3b3ab1
-DTSTAMP:20260831T130759Z
+DTSTAMP:20260905T122513Z
 DTSTART:20261007T030000Z
 DTEND:20261007T033000Z
 TRANSP:TRANSPARENT
@@ -7736,7 +7818,7 @@ URL:https://eplus.jp/inuitoko/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:63430ecb-881c-42b5-960e-c36a7a3b3ab2
-DTSTAMP:20260831T130759Z
+DTSTAMP:20260905T122513Z
 DTSTART:20261118T145900Z
 DTEND:20261118T152900Z
 TRANSP:TRANSPARENT

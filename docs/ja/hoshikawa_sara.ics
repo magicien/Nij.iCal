@@ -1568,6 +1568,88 @@ DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijifantalk_vol6/\n
 URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
 END:VEVENT
 BEGIN:VEVENT
+UID:3dcfbaa2-5f5f-4fcb-b19f-8db4a3fdc343
+DTSTAMP:20260905T121647Z
+DTSTART:20270207T090000Z
+DTEND:20270207T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」
+LOCATION:Kanadevia Hall
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kanadevia Hall":geo:35.702869,139.754393
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#星川サラ_2ndライブ\nhttps://x.com/search?q=%E6%98%9F%E5%B7%9D%E3%82%B5%E3%83%A9_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\n『Stella Note』シリアル先行抽選 (2026/11/25 12:00〜2026/12/16 23:59)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/sp/\n\nファンクラブ先行抽選 (2026/12/18 12:00〜2026/12/27 23:59)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/fc/\n\nイープラス先行抽選 (2027/1/8 12:00〜2027/1/12 23:59)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\n一般販売（先着） (2027/1/23 13:00〜)\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:f83e8591-a059-4b35-9bc0-1624dfcc3c31
+DTSTAMP:20260905T121925Z
+DTSTART:20261125T030000Z
+DTEND:20261125T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」: 『Stella Note』シリアル先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:f83e8591-a059-4b35-9bc0-1624dfcc3c32
+DTSTAMP:20260905T121925Z
+DTSTART:20261216T145900Z
+DTEND:20261216T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」: 『Stella Note』シリアル先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:551c0d6d-279d-42db-9f23-1cc317e6e351
+DTSTAMP:20260905T122416Z
+DTSTART:20261218T030000Z
+DTEND:20261218T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」: ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:551c0d6d-279d-42db-9f23-1cc317e6e352
+DTSTAMP:20260905T122416Z
+DTSTART:20261227T145900Z
+DTEND:20261227T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」: ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d189874-85e9-4c99-af18-6f68130e1c41
+DTSTAMP:20260905T122130Z
+DTSTART:20270108T030000Z
+DTEND:20270108T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」: イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nイベント:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d189874-85e9-4c99-af18-6f68130e1c42
+DTSTAMP:20260905T122130Z
+DTSTART:20270112T145900Z
+DTEND:20270112T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」: イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nイベント:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:14f53062-fdc6-4a7e-a269-12417a9dece1
+DTSTAMP:20260905T122151Z
+DTSTART:20270123T040000Z
+DTEND:20270123T043000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd LIVE ｢星くず Shining Day-きみと紡ぐ星の軌跡-」: 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nイベント:\nhttps://www.nijisanji.jp/events/hoshikuzu_shiningday_2nd/\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://eplus.jp/hoshikuzu_shiningday_2nd/
+END:VEVENT
+BEGIN:VEVENT
 UID:30d68adc-35e9-4bfc-bf5f-095037012020
 DTSTAMP:20250316T024813Z
 DTSTART;VALUE=DATE:20200807
