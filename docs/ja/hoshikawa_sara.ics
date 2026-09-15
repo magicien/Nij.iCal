@@ -1650,6 +1650,37 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/hoshikuzu_shiningday_2nd/\n\nイベ�
 URL:https://eplus.jp/hoshikuzu_shiningday_2nd/
 END:VEVENT
 BEGIN:VEVENT
+UID:db116444-e60f-42f3-aa78-3e0632988dd7
+DTSTAMP:20260915T172341Z
+DTSTART:20270429T030000Z
+DTEND:20270429T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:星川サラ 2nd ミニアルバム『Stella Note』発売記念2ショット撮影会（時間は非公開のため仮置き）
+LOCATION:都内某所
+DESCRIPTION:詳細ページ\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334\n\n==========\nチケット情報：\n\n抽選申込 (2026/9/6 0:00〜2027/2/21 23:59)\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334\n\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334
+END:VEVENT
+BEGIN:VEVENT
+UID:e447529b-9bc6-46e7-b59d-bf44d14ff441
+DTSTAMP:20260915T172102Z
+DTSTART:20260905T150000Z
+DTEND:20260905T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd ミニアルバム『Stella Note』発売記念2ショット撮影会（時間は非公開のため仮置き）: 抽選申込 開始
+DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334\n\nイベント:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334
+END:VEVENT
+BEGIN:VEVENT
+UID:e447529b-9bc6-46e7-b59d-bf44d14ff442
+DTSTAMP:20260915T172102Z
+DTSTART:20270221T145900Z
+DTEND:20270221T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]星川サラ 2nd ミニアルバム『Stella Note』発売記念2ショット撮影会（時間は非公開のため仮置き）: 抽選申込 終了
+DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334\n\nイベント:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334\n\n\n==========\n【星川サラ】\nYouTube: https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\nX: https://x.com/Sara_Hoshikawa\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116334
+END:VEVENT
+BEGIN:VEVENT
 UID:30d68adc-35e9-4bfc-bf5f-095037012020
 DTSTAMP:20250316T024813Z
 DTSTART;VALUE=DATE:20200807
