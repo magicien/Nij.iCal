@@ -1133,6 +1133,48 @@ DESCRIPTION:Special Site\nhttps://nijisanji.stagecrowd.live/s/nstk/page/nijiko20
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/nijiko2026lv
 END:VEVENT
 BEGIN:VEVENT
+UID:a05336ce-54e6-4982-94a3-4a2df60b30e7
+DTSTAMP:20260915T173255Z
+DTSTART:20260815T030000Z
+DTEND:20260815T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:Lauren Iroas 1st Mini Album "No One" Release Commemorative Two-Shot Photo Session
+LOCATION:Osaka
+DESCRIPTION:Detail Page\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n==========\nTicket Info:\n\nLottery Entry (from Jan 29, 2026, 0:00 until Jun 14, 2026, 23:59)\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
+UID:3e927a25-1f1c-4559-8e73-9f47dc858cc1
+DTSTAMP:20260915T173543Z
+DTSTART:20260128T150000Z
+DTEND:20260128T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st Mini Album "No One" Release Commemorative Two-Shot Photo Session: Lottery Entry starts
+DESCRIPTION:Ticket:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\nEvent:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
+UID:3e927a25-1f1c-4559-8e73-9f47dc858cc2
+DTSTAMP:20260915T173543Z
+DTSTART:20260614T145900Z
+DTEND:20260614T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Lauren Iroas 1st Mini Album "No One" Release Commemorative Two-Shot Photo Session: Lottery Entry ends
+DESCRIPTION:Ticket:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\nEvent:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
+UID:060d741e-b429-4b74-bde2-6e0880922cd9
+DTSTAMP:20260915T173354Z
+DTSTART:20260829T030000Z
+DTEND:20260829T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:Lauren Iroas 1st Mini Album "No One" Release Commemorative Two-Shot Photo Session
+LOCATION:Tokyo
+DESCRIPTION:Detail Page\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n==========\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
 DTSTAMP:20260712T082039Z
 DTSTART:20261012T090000Z

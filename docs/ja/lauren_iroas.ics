@@ -1133,6 +1133,48 @@ DESCRIPTION:特設ページ\nhttps://nijisanji.stagecrowd.live/s/nstk/page/nijik
 URL:https://nijisanji.stagecrowd.live/s/nstk/page/nijiko2026lv
 END:VEVENT
 BEGIN:VEVENT
+UID:a05336ce-54e6-4982-94a3-4a2df60b30e7
+DTSTAMP:20260915T173255Z
+DTSTART:20260815T030000Z
+DTEND:20260815T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:ローレン・イロアス 1st Mini Album「No One」発売記念2ショット撮影会（大阪、時間は非公開のため仮置き）
+LOCATION:大阪某所
+DESCRIPTION:詳細ページ\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n==========\nチケット情報：\n\n抽選申込（大阪、東京） (2026/1/29 0:00〜2026/6/14 23:59)\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
+UID:3e927a25-1f1c-4559-8e73-9f47dc858cc1
+DTSTAMP:20260915T173543Z
+DTSTART:20260128T150000Z
+DTEND:20260128T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ローレン・イロアス 1st Mini Album「No One」発売記念2ショット撮影会（大阪、時間は非公開のため仮置き）: 抽選申込（大阪、東京） 開始
+DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\nイベント:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
+UID:3e927a25-1f1c-4559-8e73-9f47dc858cc2
+DTSTAMP:20260915T173543Z
+DTSTART:20260614T145900Z
+DTEND:20260614T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ローレン・イロアス 1st Mini Album「No One」発売記念2ショット撮影会（大阪、時間は非公開のため仮置き）: 抽選申込（大阪、東京） 終了
+DESCRIPTION:チケット:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\nイベント:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
+UID:060d741e-b429-4b74-bde2-6e0880922cd9
+DTSTAMP:20260915T173354Z
+DTSTART:20260829T030000Z
+DTEND:20260829T040000Z
+TRANSP:TRANSPARENT
+SUMMARY:ローレン・イロアス 1st Mini Album「No One」発売記念2ショット撮影会（東京、時間は非公開のため仮置き）
+LOCATION:都内某所
+DESCRIPTION:詳細ページ\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690\n\n==========\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=114690
+END:VEVENT
+BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
 DTSTAMP:20260712T082039Z
 DTSTART:20261012T090000Z
