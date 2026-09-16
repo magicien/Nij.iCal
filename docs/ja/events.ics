@@ -7202,7 +7202,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Kuzuha One-Man Live "Bloody Alexandrite"
 LOCATION:Kアリーナ横浜
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="Kアリーナ横浜":geo:35.464567,139.630609
-DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_941\n\nオンライン視聴ページ\n\n\nハッシュタグ：#葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2026/7/29 12:00〜2026/8/12 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\n総合ファンクラブ先行抽選 (2026/8/21 12:00〜2026/8/30 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\nイープラス先行抽選 (2026/9/3 12:00〜2026/9/13 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\n一般販売（先着） (2026/9/27 12:00〜)\n\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nオンラインチケット購入ページ\n\nグッズページ\nhttps://shop.nijisanji.jp/TAG_941\n\nオンライン視聴ページ\n\n\nハッシュタグ：#葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nシリアル先行抽選 (2026/7/29 12:00〜2026/8/12 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\n総合ファンクラブ先行抽選 (2026/8/21 12:00〜2026/8/30 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\nイープラス先行抽選 (2026/9/3 12:00〜2026/9/13 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\n一般販売（先着） (2026/9/27 12:00〜)\n\nライブビューイング イープラス先行抽選 (2026/9/16 16:00〜2026/9/27 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/lv/\n\nライブビューイング 劇場一般販売（先着） (2026/10/8 0:00〜)\n\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
@@ -7276,6 +7276,36 @@ DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandr
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
+UID:13c663d0-d11f-47a7-96ae-36eef13f7081
+DTSTAMP:20260916T132307Z
+DTSTART:20260916T070000Z
+DTEND:20260916T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": ライブビューイング イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/lv/\n\nイベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/lv/
+END:VEVENT
+BEGIN:VEVENT
+UID:13c663d0-d11f-47a7-96ae-36eef13f7082
+DTSTAMP:20260916T132307Z
+DTSTART:20260927T145900Z
+DTEND:20260927T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": ライブビューイング イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/lv/\n\nイベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/lv/
+END:VEVENT
+BEGIN:VEVENT
+UID:d254105e-5f03-4bd0-b713-496350897111
+DTSTAMP:20260916T132442Z
+DTSTART:20261007T150000Z
+DTEND:20261007T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]Kuzuha One-Man Live "Bloody Alexandrite": ライブビューイング 劇場一般販売（先着） 開始
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【剣持刀也】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【不破湊】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【イブラヒム】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【ローレン・イロアス】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
+END:VEVENT
+BEGIN:VEVENT
 UID:33332d1d-8b0c-4c3b-8ed0-30190884e55f
 DTSTAMP:20260628T044151Z
 DTSTART:20261017T030000Z
@@ -7322,7 +7352,7 @@ URL:https://prtimes.jp/main/html/rd/p/000001583.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:90b21ed1-c9cc-496b-b850-07224b7cf101
-DTSTAMP:20260814T125340Z
+DTSTAMP:20260916T132423Z
 DTSTART:20260815T090000Z
 DTEND:20260815T093000Z
 TRANSP:TRANSPARENT
@@ -7332,7 +7362,7 @@ URL:https://nijisanji.stagecrowd.live/s/nstk/page/yoiyume_live
 END:VEVENT
 BEGIN:VEVENT
 UID:90b21ed1-c9cc-496b-b850-07224b7cf102
-DTSTAMP:20260814T125340Z
+DTSTAMP:20260916T132423Z
 DTSTART:20260913T145900Z
 DTEND:20260913T152900Z
 TRANSP:TRANSPARENT
@@ -7378,7 +7408,7 @@ URL:https://www.nijisanji.jp/events/seitokai_07_daisakusen/
 END:VEVENT
 BEGIN:VEVENT
 UID:2553a545-82cb-4252-8576-d8d4f4c827c1
-DTSTAMP:20260819T135823Z
+DTSTAMP:20260916T132318Z
 DTSTART:20261111T030000Z
 DTEND:20261111T033000Z
 TRANSP:TRANSPARENT
@@ -7388,7 +7418,7 @@ URL:https://eplus.jp/nanajigen-seitokai-close/
 END:VEVENT
 BEGIN:VEVENT
 UID:2553a545-82cb-4252-8576-d8d4f4c827c2
-DTSTAMP:20260819T135823Z
+DTSTAMP:20260916T132318Z
 DTSTART:20261203T145900Z
 DTEND:20261203T152900Z
 TRANSP:TRANSPARENT
