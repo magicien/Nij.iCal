@@ -1609,7 +1609,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Kuzuha One-Man Live "Bloody Alexandrite"
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_941\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 29, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nGeneral fan club pre-sale lottery (from Aug 21, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\ne+ pre-sale lottery (from Sep 3, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nGeneral sale (first come, first served) (from Sep 27, 2026, 12:00)\n\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_941\n\nniconico Live\n\n\nHashtag: #葛葉ワンマンライブ\nhttps://x.com/search?q=%E8%91%9B%E8%91%89%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 29, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/sp/\n\nGeneral fan club pre-sale lottery (from Aug 21, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/fc/\n\ne+ pre-sale lottery (from Sep 3, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nGeneral sale (first come, first served) (from Sep 27, 2026, 12:00)\n\nLive viewing e+ pre-sale lottery (from Sep 16, 2026, 16:00 until Sep 27, 2026, 23:59)\nhttps://eplus.jp/kuzuha_bloodyalexandrite/lv/\n\nLive viewing cinema online sale (first come, first served) (from Oct 8, 2026, 0:00)\n\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
@@ -1679,6 +1679,36 @@ DTSTART:20260927T030000Z
 DTEND:20260927T033000Z
 TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Kuzuha One-Man Live "Bloody Alexandrite": General sale (first come, first served) starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
+END:VEVENT
+BEGIN:VEVENT
+UID:13c663d0-d11f-47a7-96ae-36eef13f7081
+DTSTAMP:20260916T132307Z
+DTSTART:20260916T070000Z
+DTEND:20260916T073000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kuzuha One-Man Live "Bloody Alexandrite": Live viewing e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/lv/\n\nEvent:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/lv/
+END:VEVENT
+BEGIN:VEVENT
+UID:13c663d0-d11f-47a7-96ae-36eef13f7082
+DTSTAMP:20260916T132307Z
+DTSTART:20260927T145900Z
+DTEND:20260927T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kuzuha One-Man Live "Bloody Alexandrite": Live viewing e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/lv/\n\nEvent:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
+URL:https://eplus.jp/kuzuha_bloodyalexandrite/lv/
+END:VEVENT
+BEGIN:VEVENT
+UID:d254105e-5f03-4bd0-b713-496350897111
+DTSTAMP:20260916T132442Z
+DTSTART:20261007T150000Z
+DTEND:20261007T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kuzuha One-Man Live "Bloody Alexandrite": Live viewing cinema online sale (first come, first served) starts
 DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/\n\n\n==========\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n【Ibrahim】\nYouTube: https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\nX: https://x.com/honmono_ibrahim\n\n【Lauren Iroas】\nYouTube: https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow\nX: https://x.com/Lauren_iroas\n\n
 URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
