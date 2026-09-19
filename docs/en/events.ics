@@ -7038,7 +7038,7 @@ TRANSP:TRANSPARENT
 SUMMARY:MECHATU-A 1st LIVE “Over Drive!”
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_948\n\nniconico Live\n\n\nHashtag: #MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 22, 2026, 12:00 until Aug 16, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nGeneral fan club pre-sale lottery (from Aug 19, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/fc\n\ne+ pre-sale lottery (from Sep 2, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/\n\nGeneral sale (first come, first served) (from Sep 26, 2026, 12:00)\nhttps://eplus.jp/mechatu-a_1stlive/\n\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_948\n\nniconico Live\n\n\nHashtag: #MECHATUA_1stライブ\nhttps://x.com/search?q=MECHATUA_1st%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 22, 2026, 12:00 until Aug 16, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/sp/\n\nGeneral fan club pre-sale lottery (from Aug 19, 2026, 12:00 until Aug 30, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/fc\n\ne+ pre-sale lottery (from Sep 2, 2026, 12:00 until Sep 13, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/\n\nGeneral sale (first come, first served) (from Sep 26, 2026, 12:00)\nhttps://eplus.jp/mechatu-a_1stlive/\n\nLive viewing e+ pre-sale lottery (from Sep 16, 2026, 15:00 until Sep 27, 2026, 23:59)\nhttps://eplus.jp/mechatu-a_1stlive/lv/\n\nLive viewing cinema online sale (first come, first served) (from Oct 8, 2026, 0:00)\n\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
 URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
 END:VEVENT
 BEGIN:VEVENT
@@ -7112,6 +7112,36 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/\n\nEvent:\nhttps://www.
 URL:https://eplus.jp/mechatu-a_1stlive/
 END:VEVENT
 BEGIN:VEVENT
+UID:577f69bc-2371-40f3-8625-dd8d83f241f1
+DTSTAMP:20260919T061910Z
+DTSTART:20260916T060000Z
+DTEND:20260916T063000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]MECHATU-A 1st LIVE “Over Drive!”: Live viewing e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/lv/\n\nEvent:\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://eplus.jp/mechatu-a_1stlive/lv/
+END:VEVENT
+BEGIN:VEVENT
+UID:577f69bc-2371-40f3-8625-dd8d83f241f2
+DTSTAMP:20260919T061910Z
+DTSTART:20260927T145900Z
+DTEND:20260927T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]MECHATU-A 1st LIVE “Over Drive!”: Live viewing e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttps://eplus.jp/mechatu-a_1stlive/lv/\n\nEvent:\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://eplus.jp/mechatu-a_1stlive/lv/
+END:VEVENT
+BEGIN:VEVENT
+UID:5477dece-af19-4008-87a7-c53e2cdd1ce1
+DTSTAMP:20260919T061919Z
+DTSTART:20261007T150000Z
+DTEND:20261007T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]MECHATU-A 1st LIVE “Over Drive!”: Live viewing cinema online sale (first come, first served) starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/mechatu-a_1stlive/\n\n\n==========\n【Saiki Ittetsu】\nYouTube: https://www.youtube.com/@SaikiIttetsu\nX: https://x.com/Saiki_Supadari\n\n【Akagi Wen】\nYouTube: https://www.youtube.com/@AkagiWen\nX: https://x.com/akagi_wen\n\n【Usami Rito】\nYouTube: https://www.youtube.com/@UsamiRito\nX: https://x.com/usamirito_power\n\n【Hibachi Mana】\nYouTube: https://www.youtube.com/@HibachiMana\nX: https://x.com/Hibachi_Mana\n\n【Hoshirube Sho】\nYouTube: https://www.youtube.com/@HoshirubeSho\nX: https://x.com/Show_SylveSTAR\n\n【Murakumo Kagetsu】\nYouTube: https://www.youtube.com/@MurakumoKagetsu\nX: https://x.com/Kagetsu_2434\n\n【Koyanagi Rou】\nYouTube: https://www.youtube.com/@KoyanagiRou\nX: https://x.com/Rou_2434\n\n【Inami Rai】\nYouTube: https://www.youtube.com/@InamiRai\nX: https://x.com/rai_173\n\n
+URL:https://www.nijisanji.jp/events/mechatu-a_1stlive/
+END:VEVENT
+BEGIN:VEVENT
 UID:cf3af762-7c6e-4034-aacd-27f4e3831d30
 DTSTAMP:20260712T081944Z
 DTSTART:20261011T090000Z
@@ -7120,12 +7150,12 @@ TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya Real Solo Live [Kokuufes]
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1080\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1080\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\nLimited visibility seats for sale (first-come, first-served) (from Sep 20, 2026, 13:00)\n\nLive viewing e+ pre-sale lottery (from Sep 16, 2026, 15:30 until Sep 27, 2026, 23:59)\nhttp://eplus.jp/kenmochi_fes/lv\n\nLive viewing cinema online sale (first come, first served) (from Oct 8, 2026, 0:00)\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/kenmochi_fes/
 END:VEVENT
 BEGIN:VEVENT
 UID:320944a5-50ca-4a26-be2b-f01c93713581
-DTSTAMP:20260510T170138Z
+DTSTAMP:20260919T061757Z
 DTSTART:20260715T030000Z
 DTEND:20260715T033000Z
 TRANSP:TRANSPARENT
@@ -7135,7 +7165,7 @@ URL:https://eplus.jp/kenmochi_fes/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:320944a5-50ca-4a26-be2b-f01c93713582
-DTSTAMP:20260510T170138Z
+DTSTAMP:20260919T061757Z
 DTSTART:20260812T145900Z
 DTEND:20260812T152900Z
 TRANSP:TRANSPARENT
@@ -7194,6 +7224,46 @@ DESCRIPTION:Ticket:\nhttps://eplus.jp/kenmochi_fes/\n\nEvent:\nhttps://www.nijis
 URL:https://eplus.jp/kenmochi_fes/
 END:VEVENT
 BEGIN:VEVENT
+UID:dfc3fd7c-5633-4219-bc31-d383ded47a11
+DTSTAMP:20260919T061420Z
+DTSTART:20260920T040000Z
+DTEND:20260920T043000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Limited visibility seats for sale (first-come, first-served) starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8a632f-6355-477f-8c44-2f33e8546621
+DTSTAMP:20260919T061508Z
+DTSTART:20260916T063000Z
+DTEND:20260916T070000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Live viewing e+ pre-sale lottery starts
+DESCRIPTION:Ticket:\nhttp://eplus.jp/kenmochi_fes/lv\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:http://eplus.jp/kenmochi_fes/lv
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8a632f-6355-477f-8c44-2f33e8546622
+DTSTAMP:20260919T061508Z
+DTSTART:20260927T145900Z
+DTEND:20260927T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Live viewing e+ pre-sale lottery ends
+DESCRIPTION:Ticket:\nhttp://eplus.jp/kenmochi_fes/lv\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:http://eplus.jp/kenmochi_fes/lv
+END:VEVENT
+BEGIN:VEVENT
+UID:aba9f1c7-a9df-4cbd-8d8c-c9a4ad79f841
+DTSTAMP:20260919T061522Z
+DTSTART:20261007T150000Z
+DTEND:20261007T153000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Live viewing cinema online sale (first come, first served) starts
+DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
 DTSTAMP:20260712T082039Z
 DTSTART:20261012T090000Z
@@ -7207,7 +7277,7 @@ URL:https://www.nijisanji.jp/events/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
 UID:8bd3b8e2-7b07-437a-922d-73a162a5b201
-DTSTAMP:20260812T110253Z
+DTSTAMP:20260919T061301Z
 DTSTART:20260729T030000Z
 DTEND:20260729T033000Z
 TRANSP:TRANSPARENT
@@ -7217,7 +7287,7 @@ URL:https://eplus.jp/kuzuha_bloodyalexandrite/sp/
 END:VEVENT
 BEGIN:VEVENT
 UID:8bd3b8e2-7b07-437a-922d-73a162a5b202
-DTSTAMP:20260812T110253Z
+DTSTAMP:20260919T061301Z
 DTSTART:20260812T145900Z
 DTEND:20260812T152900Z
 TRANSP:TRANSPARENT
