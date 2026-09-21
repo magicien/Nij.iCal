@@ -1814,11 +1814,11 @@ URL:https://eplus.jp/fuwaminato/
 END:VEVENT
 BEGIN:VEVENT
 UID:101ede77-6a49-4088-bafb-026a74e143b8
-DTSTAMP:20260915T174826Z
+DTSTAMP:20260921T072634Z
 DTSTART:20270402T100000Z
 DTEND:20270402T110000Z
 TRANSP:TRANSPARENT
-SUMMARY:Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session
+SUMMARY:Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session (animate)
 LOCATION:Tokyo
 DESCRIPTION:Detail Page\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303\n\n==========\nTicket Info:\n\nLottery Entry (from Sep 1, 2026, 0:00 until Jan 31, 2027, 23:59)\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303\n\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
 URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303
@@ -1829,7 +1829,7 @@ DTSTAMP:20260915T172006Z
 DTSTART:20260831T150000Z
 DTEND:20260831T153000Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session: Lottery Entry starts
+SUMMARY:[Ticket]Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session (animate): Lottery Entry starts
 DESCRIPTION:Ticket:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303\n\nEvent:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
 URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303
 END:VEVENT
@@ -1839,9 +1839,20 @@ DTSTAMP:20260915T172006Z
 DTSTART:20270131T145900Z
 DTEND:20270131T152900Z
 TRANSP:TRANSPARENT
-SUMMARY:[Ticket]Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session: Lottery Entry ends
+SUMMARY:[Ticket]Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session (animate): Lottery Entry ends
 DESCRIPTION:Ticket:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303\n\nEvent:\nhttps://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
 URL:https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116303
+END:VEVENT
+BEGIN:VEVENT
+UID:faad685b-c673-4790-a592-a02074bb2f90
+DTSTAMP:20260921T073040Z
+DTSTART:20270409T100000Z
+DTEND:20270409T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session (HMV)
+LOCATION:Tokyo
+DESCRIPTION:Detail Page\nhttps://www.hmv.co.jp/news/article/260825112/\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://www.hmv.co.jp/news/article/260825112/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd6b66a-b63f-47ba-a4d1-1a45d9012020
