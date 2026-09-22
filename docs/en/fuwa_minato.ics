@@ -1851,7 +1851,27 @@ DTEND:20270409T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session (HMV)
 LOCATION:Tokyo
-DESCRIPTION:Detail Page\nhttps://www.hmv.co.jp/news/article/260825112/\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+DESCRIPTION:Detail Page\nhttps://www.hmv.co.jp/news/article/260825112/\n\n==========\nTicket Info:\n\nLottery Entry (from Dec 8, 2026, 10:00 until Jan 31, 2027, 23:59)\nhttps://www.hmv.co.jp/news/article/260825112/\n\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://www.hmv.co.jp/news/article/260825112/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c0e4ae-2490-4682-befb-7fa2e78c56e1
+DTSTAMP:20260921T131549Z
+DTSTART:20261208T010000Z
+DTEND:20261208T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session (HMV): Lottery Entry starts
+DESCRIPTION:Ticket:\nhttps://www.hmv.co.jp/news/article/260825112/\n\nEvent:\nhttps://www.hmv.co.jp/news/article/260825112/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
+URL:https://www.hmv.co.jp/news/article/260825112/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c0e4ae-2490-4682-befb-7fa2e78c56e2
+DTSTAMP:20260921T131549Z
+DTSTART:20270131T145900Z
+DTEND:20270131T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Fuwa Minato New Single "ECLIPSE" Release Commemorative Two-Shot Photo Session (HMV): Lottery Entry ends
+DESCRIPTION:Ticket:\nhttps://www.hmv.co.jp/news/article/260825112/\n\nEvent:\nhttps://www.hmv.co.jp/news/article/260825112/\n\n\n==========\n【Fuwa Minato】\nYouTube: https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA\nX: https://x.com/Fuwa_Minato\n\n
 URL:https://www.hmv.co.jp/news/article/260825112/
 END:VEVENT
 BEGIN:VEVENT
