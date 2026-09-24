@@ -7150,7 +7150,7 @@ TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya Real Solo Live [Kokuufes]
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1080\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\nLimited visibility seats for sale (first-come, first-served) (from Sep 20, 2026, 13:00)\n\nLive viewing e+ pre-sale lottery (from Sep 16, 2026, 15:30 until Sep 27, 2026, 23:59)\nhttp://eplus.jp/kenmochi_fes/lv\n\nLive viewing cinema online sale (first come, first served) (from Oct 8, 2026, 0:00)\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1080\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\nLimited visibility seats for sale (first-come, first-served) (from Sep 20, 2026, 13:00)\n\nResale Lottery (from Sep 24, 2026, 12:00 until Oct 9, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/15238\n\nLive viewing e+ pre-sale lottery (from Sep 16, 2026, 15:30 until Sep 27, 2026, 23:59)\nhttp://eplus.jp/kenmochi_fes/lv\n\nLive viewing cinema online sale (first come, first served) (from Oct 8, 2026, 0:00)\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/kenmochi_fes/
 END:VEVENT
 BEGIN:VEVENT
@@ -7234,8 +7234,28 @@ DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n=========
 URL:https://www.nijisanji.jp/events/kenmochi_fes/
 END:VEVENT
 BEGIN:VEVENT
+UID:993b2c5e-d33c-47fe-ba47-2ce08ca5ea91
+DTSTAMP:20260924T053617Z
+DTSTART:20260924T030000Z
+DTEND:20260924T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Resale Lottery starts
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/15238\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://trade.tixplus.jp/artists/tour/15238
+END:VEVENT
+BEGIN:VEVENT
+UID:993b2c5e-d33c-47fe-ba47-2ce08ca5ea92
+DTSTAMP:20260924T053617Z
+DTSTART:20261009T025900Z
+DTEND:20261009T032900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Resale Lottery ends
+DESCRIPTION:Ticket:\nhttps://trade.tixplus.jp/artists/tour/15238\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://trade.tixplus.jp/artists/tour/15238
+END:VEVENT
+BEGIN:VEVENT
 UID:fc8a632f-6355-477f-8c44-2f33e8546621
-DTSTAMP:20260919T061508Z
+DTSTAMP:20260924T053453Z
 DTSTART:20260916T063000Z
 DTEND:20260916T070000Z
 TRANSP:TRANSPARENT
@@ -7245,7 +7265,7 @@ URL:http://eplus.jp/kenmochi_fes/lv
 END:VEVENT
 BEGIN:VEVENT
 UID:fc8a632f-6355-477f-8c44-2f33e8546622
-DTSTAMP:20260919T061508Z
+DTSTAMP:20260924T053453Z
 DTSTART:20260927T145900Z
 DTEND:20260927T152900Z
 TRANSP:TRANSPARENT
@@ -7255,7 +7275,7 @@ URL:http://eplus.jp/kenmochi_fes/lv
 END:VEVENT
 BEGIN:VEVENT
 UID:aba9f1c7-a9df-4cbd-8d8c-c9a4ad79f841
-DTSTAMP:20260919T061522Z
+DTSTAMP:20260924T053415Z
 DTSTART:20261007T150000Z
 DTEND:20261007T153000Z
 TRANSP:TRANSPARENT
