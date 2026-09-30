@@ -1723,14 +1723,14 @@ URL:https://prtimes.jp/main/html/rd/p/000001506.000030865.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cf3af762-7c6e-4034-aacd-27f4e3831d30
-DTSTAMP:20260712T081944Z
+DTSTAMP:20260930T135807Z
 DTSTART:20261011T090000Z
 DTEND:20261011T110000Z
 TRANSP:TRANSPARENT
 SUMMARY:Kenmochi Toya Real Solo Live [Kokuufes]
 LOCATION:K-Arena Yokohama
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="K-Arena Yokohama":geo:35.464567,139.630609
-DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nOnline Viewing Tickets\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1080\n\nniconico Live\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\nLimited visibility seats for sale (first-come, first-served) (from Sep 20, 2026, 13:00)\nhttps://eplus.jp/kenmochi_fes/\n\nResale Lottery (from Sep 24, 2026, 12:00 until Oct 9, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/15238\n\nLive viewing e+ pre-sale lottery (from Sep 16, 2026, 15:30 until Sep 27, 2026, 23:59)\nhttp://eplus.jp/kenmochi_fes/lv\n\nLive viewing cinema online sale (first come, first served) (from Oct 8, 2026, 0:00)\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+DESCRIPTION:Special Site\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\nNon-Nijisanji guests: Peanuts-kun, Hoshimachi Suisei\n\nOnline Viewing Tickets\nhttps://dwango-ticket.jp/project/1xtyXjxa77\n\nMerch page\nhttps://shop.nijisanji.jp/TAG_1080\n\nVenue Report (MC: Fushimi Gakue, Reporter: Hyakka Ryouran)\nhttps://sp.live.nicovideo.jp/watch/lv351316861\n\nFree Part\nhttps://www.youtube.com/live/crb-1ck8pe8\n\nniconico Live\nhttps://live.nicovideo.jp/watch/lv351345207\n\nPost-Live Discussion (MC: Ishigami Nozomi, Fushimi Gaku, Lunlun)\nhttps://sp.live.nicovideo.jp/watch/lv351393127\n\n\nHashtag: #虚空狂宴\nhttps://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4\n\n==========\nTicket Info:\n\nSerial code pre-sale lottery (from Jul 15, 2026, 12:00 until Aug 12, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/sp/\n\nGeneral fan club pre-sale lottery (from Aug 14, 2026, 12:00 until Aug 23, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/fc/\n\ne+ pre-sale lottery (from Aug 26, 2026, 12:00 until Sep 6, 2026, 23:59)\nhttps://eplus.jp/kenmochi_fes/\n\nGeneral sale (first come, first served) (from Sep 20, 2026, 12:00)\nhttps://eplus.jp/kenmochi_fes/\n\nLimited visibility seats for sale (first-come, first-served) (from Sep 20, 2026, 13:00)\nhttps://eplus.jp/kenmochi_fes/\n\nResale Lottery (from Sep 24, 2026, 12:00 until Oct 9, 2026, 11:59)\nhttps://trade.tixplus.jp/artists/tour/15238\n\nLive viewing e+ pre-sale lottery (from Sep 16, 2026, 15:30 until Sep 27, 2026, 23:59)\nhttp://eplus.jp/kenmochi_fes/lv\n\nLive viewing cinema online sale (first come, first served) (from Oct 8, 2026, 0:00)\n\nOnline viewing ticket sales (from Sep 30, 2026, 17:00 until Oct 28, 2026, 23:59)\nhttps://dwango-ticket.jp/project/1xtyXjxa77\n\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/kenmochi_fes/
 END:VEVENT
 BEGIN:VEVENT
@@ -1862,6 +1862,26 @@ TRANSP:TRANSPARENT
 SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Live viewing cinema online sale (first come, first served) starts
 DESCRIPTION:Event:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
 URL:https://www.nijisanji.jp/events/kenmochi_fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8ff528-e3ef-4245-b9af-fd2ad96a5d51
+DTSTAMP:20260930T135401Z
+DTSTART:20260930T080000Z
+DTEND:20260930T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Online viewing ticket sales starts
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/1xtyXjxa77\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://dwango-ticket.jp/project/1xtyXjxa77
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8ff528-e3ef-4245-b9af-fd2ad96a5d52
+DTSTAMP:20260930T135401Z
+DTSTART:20261028T145900Z
+DTEND:20261028T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[Ticket]Kenmochi Toya Real Solo Live [Kokuufes]: Online viewing ticket sales ends
+DESCRIPTION:Ticket:\nhttps://dwango-ticket.jp/project/1xtyXjxa77\n\nEvent:\nhttps://www.nijisanji.jp/events/kenmochi_fes/\n\n\n==========\n【Kenmochi Toya】\nYouTube: https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw\nX: https://x.com/rei_Toya_rei\n\n【Kuzuha】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://dwango-ticket.jp/project/1xtyXjxa77
 END:VEVENT
 BEGIN:VEVENT
 UID:988aa033-c00d-4c99-934c-2ea0b41d8fdf
