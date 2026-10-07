@@ -635,15 +635,35 @@ URL:https://www.nijisanji.jp/events/nijifantalk_vol6/
 END:VEVENT
 BEGIN:VEVENT
 UID:6776406f-1604-499a-9c26-ec5505fe05b5
-DTSTAMP:20260517T143302Z
-DTSTART:20261219T090000Z
-DTEND:20261219T110000Z
+DTSTAMP:20261007T135831Z
+DTSTART:20261220T080000Z
+DTEND:20261220T100000Z
 TRANSP:TRANSPARENT
 SUMMARY:にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 Prism Stage
 LOCATION:インテックス大阪
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="インテックス大阪":geo:34.637692,135.419412
-DESCRIPTION:ニュースページ\nhttps://prtimes.jp/main/html/rd/p/000001504.000030865.html\n\nハッシュタグ：#虹をつないで未来を見つけて\nhttps://x.com/search?q=%E8%99%B9%E3%82%92%E3%81%A4%E3%81%AA%E3%81%84%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%A6\n\n==========\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://x.com/lulu_suzuhara\n\n【天宮こころ】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://x.com/1garashi_Rika\n\n【司賀りこ】\nYouTube: https://www.youtube.com/@ShigaRiko\nX: https://x.com/Shigariko_\n\n【雲母たまこ】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://x.com/kirara_tamako\n\n【早乙女ベリー】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://x.com/Suzuna_Nanase\n\n
-URL:https://prtimes.jp/main/html/rd/p/000001504.000030865.html
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/nijikimi/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#虹をつないで未来を見つけて\nhttps://x.com/search?q=%E8%99%B9%E3%82%92%E3%81%A4%E3%81%AA%E3%81%84%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%A6\n\n==========\nチケット情報：\n\nオンライン視聴チケット販売 (2026/11/19 17:00〜2027/1/5 17:00)\n\n\n\n==========\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://x.com/lulu_suzuhara\n\n【天宮こころ】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://x.com/1garashi_Rika\n\n【司賀りこ】\nYouTube: https://www.youtube.com/@ShigaRiko\nX: https://x.com/Shigariko_\n\n【雲母たまこ】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://x.com/kirara_tamako\n\n【早乙女ベリー】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://x.com/Suzuna_Nanase\n\n
+URL:https://www.nijisanji.jp/events/nijikimi/
+END:VEVENT
+BEGIN:VEVENT
+UID:40a09292-9209-4f05-8516-e809d45c8781
+DTSTAMP:20261007T135746Z
+DTSTART:20261119T080000Z
+DTEND:20261119T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 Prism Stage: オンライン視聴チケット販売 開始
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/nijikimi/\n\n\n==========\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://x.com/lulu_suzuhara\n\n【天宮こころ】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://x.com/1garashi_Rika\n\n【司賀りこ】\nYouTube: https://www.youtube.com/@ShigaRiko\nX: https://x.com/Shigariko_\n\n【雲母たまこ】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://x.com/kirara_tamako\n\n【早乙女ベリー】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://x.com/Suzuna_Nanase\n\n
+URL:https://www.nijisanji.jp/events/nijikimi/
+END:VEVENT
+BEGIN:VEVENT
+UID:40a09292-9209-4f05-8516-e809d45c8782
+DTSTAMP:20261007T135746Z
+DTSTART:20270105T080000Z
+DTEND:20270105T083000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 Prism Stage: オンライン視聴チケット販売 終了
+DESCRIPTION:イベント:\nhttps://www.nijisanji.jp/events/nijikimi/\n\n\n==========\n【リゼ・ヘルエスタ】\nYouTube: https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w\nX: https://x.com/Lize_Helesta\n\n【鈴原るる】\nYouTube: https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w\nX: https://x.com/lulu_suzuhara\n\n【天宮こころ】\nYouTube: https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w\nX: https://x.com/amamiya_kokoro\n\n【五十嵐梨花】\nYouTube: https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ\nX: https://x.com/1garashi_Rika\n\n【司賀りこ】\nYouTube: https://www.youtube.com/@ShigaRiko\nX: https://x.com/Shigariko_\n\n【雲母たまこ】\nYouTube: https://www.youtube.com/@KiraraTamako\nX: https://x.com/kirara_tamako\n\n【早乙女ベリー】\nYouTube: https://www.youtube.com/@Saotomeberry\nX: https://x.com/Saotome_Berry\n\n【七瀬すず菜】\nYouTube: https://www.youtube.com/@NanaseSuzuna\nX: https://x.com/Suzuna_Nanase\n\n
+URL:https://www.nijisanji.jp/events/nijikimi/
 END:VEVENT
 BEGIN:VEVENT
 UID:58e13fcf-3d3e-42b3-888e-ceca71012020
