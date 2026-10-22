@@ -13,12 +13,24 @@ on:
           - japanese
           - english
   schedule:
-    - cron: '17 21 * * *' # 6:17 JST (毎時0分は GitHub Actions が混雑し遅延しやすいためずらす)
+    # 4:17 JST に起動し、ジョブ内で 7:00 JST まで待機する
+    # (schedule は 2〜4 時間程度遅延することがあるため早めに起動する)
+    - cron: '17 19 * * *'
 
 jobs:
   tweet-todays-events:
     runs-on: ubuntu-latest
     steps:
+      - name: Wait until 7:00 JST
+        if: github.event_name == 'schedule'
+        run: |
+          target=$(TZ=JST-9 date -d '07:00' +%s)
+          now=$(date +%s)
+          if [ "$now" -lt "$target" ]; then
+            echo "Waiting $((target - now)) seconds until 7:00 JST"
+            sleep $((target - now))
+          fi
+
       - name: Checkout
         uses: actions/checkout@v7
 
