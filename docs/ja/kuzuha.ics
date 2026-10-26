@@ -1863,6 +1863,88 @@ DESCRIPTION:チケット:\nhttps://eplus.jp/kuzuha_bloodyalexandrite/\n\nイベ�
 URL:https://eplus.jp/kuzuha_bloodyalexandrite/
 END:VEVENT
 BEGIN:VEVENT
+UID:8c305f59-1217-454d-8afa-827f1e41cc97
+DTSTAMP:20261026T114754Z
+DTSTART:20270515T090000Z
+DTEND:20270515T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:ChroNoiR 2nd Live "Twin King's Gambit"
+LOCATION:GMOアリーナさいたま
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE="GMOアリーナさいたま":geo:35.894874,139.630854
+DESCRIPTION:特設サイト\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\nオンラインチケット購入ページ\n\nグッズページ\n\nオンライン視聴ページ\n\n\nハッシュタグ：#ChroNoiR_2ndライブ\nhttps://x.com/search?q=ChroNoiR_2nd%E3%83%A9%E3%82%A4%E3%83%96\n\n==========\nチケット情報：\n\nChroNoiR ニューシングル シリアル先行抽選 (2027/1/27 12:00〜2027/2/17 23:59)\nhttps://eplus.jp/chronoir_2ndlive/sp/\n\nにじさんじ総合ファンクラブ先行抽選 (2027/2/24 12:00〜2027/3/5 23:59)\nhttps://eplus.jp/chronoir_2ndlive/fc/\n\nイープラス先行抽選 (2027/3/17 12:00〜2027/3/24 23:59)\nhttps://eplus.jp/chronoir_2ndlive/\n\n一般販売（先着） (2027/4/10 12:00〜)\nhttps://eplus.jp/chronoir_2ndlive/\n\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://www.nijisanji.jp/events/chronoir_2ndlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:75262946-b0d0-40a7-9b85-69e641ba1511
+DTSTAMP:20261026T115138Z
+DTSTART:20270127T030000Z
+DTEND:20270127T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ChroNoiR 2nd Live "Twin King's Gambit": ChroNoiR ニューシングル シリアル先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/chronoir_2ndlive/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/chronoir_2ndlive/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:75262946-b0d0-40a7-9b85-69e641ba1512
+DTSTAMP:20261026T115138Z
+DTSTART:20270217T145900Z
+DTEND:20270217T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ChroNoiR 2nd Live "Twin King's Gambit": ChroNoiR ニューシングル シリアル先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/chronoir_2ndlive/sp/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/chronoir_2ndlive/sp/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d5209e-b580-413b-8506-beef31653771
+DTSTAMP:20261026T115159Z
+DTSTART:20270224T030000Z
+DTEND:20270224T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ChroNoiR 2nd Live "Twin King's Gambit": にじさんじ総合ファンクラブ先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/chronoir_2ndlive/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/chronoir_2ndlive/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d5209e-b580-413b-8506-beef31653772
+DTSTAMP:20261026T115159Z
+DTSTART:20270305T145900Z
+DTEND:20270305T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ChroNoiR 2nd Live "Twin King's Gambit": にじさんじ総合ファンクラブ先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/chronoir_2ndlive/fc/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/chronoir_2ndlive/fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:331da3d2-5616-4da7-bd01-39053ac11371
+DTSTAMP:20261026T115206Z
+DTSTART:20270317T030000Z
+DTEND:20270317T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ChroNoiR 2nd Live "Twin King's Gambit": イープラス先行抽選 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/chronoir_2ndlive/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/chronoir_2ndlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:331da3d2-5616-4da7-bd01-39053ac11372
+DTSTAMP:20261026T115206Z
+DTSTART:20270324T145900Z
+DTEND:20270324T152900Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ChroNoiR 2nd Live "Twin King's Gambit": イープラス先行抽選 終了
+DESCRIPTION:チケット:\nhttps://eplus.jp/chronoir_2ndlive/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/chronoir_2ndlive/
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0bb555-2b1f-4b6a-b963-75f73faa6051
+DTSTAMP:20261026T115226Z
+DTSTART:20270410T030000Z
+DTEND:20270410T033000Z
+TRANSP:TRANSPARENT
+SUMMARY:[チケット]ChroNoiR 2nd Live "Twin King's Gambit": 一般販売（先着） 開始
+DESCRIPTION:チケット:\nhttps://eplus.jp/chronoir_2ndlive/\n\nイベント:\nhttps://www.nijisanji.jp/events/chronoir_2ndlive/\n\n\n==========\n【叶】\nYouTube: https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA\nX: https://x.com/kanae_2434\n\n【葛葉】\nYouTube: https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g\nX: https://x.com/vamp_kuzu\n\n
+URL:https://eplus.jp/chronoir_2ndlive/
+END:VEVENT
+BEGIN:VEVENT
 UID:31aa1280-3197-42b6-8492-365147012018
 DTSTAMP:20250315T145454Z
 DTSTART;VALUE=DATE:20181110
