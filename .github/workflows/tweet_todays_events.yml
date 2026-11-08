@@ -19,7 +19,7 @@ on:
 
 jobs:
   tweet-todays-events:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Wait until 7:00 JST
         if: github.event_name == 'schedule'
