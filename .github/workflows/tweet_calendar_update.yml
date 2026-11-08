@@ -6,7 +6,7 @@ on:
 
 jobs:
   tweet-calendar-update:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.title, '[CalendarUpdate]')
     steps:
       - name: Checkout
