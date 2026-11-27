@@ -272,4 +272,6 @@
 <tr class='liver-item' tags='ぽめろ・ぱんち,pomelo punch,ぽめろぱんち'><td>ぽめろ・ぱんち</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/pomelo_punch.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/pomelo_punch.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='神永タイガ,kaminaga taiga,かみながたいが'><td>神永タイガ</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/kaminaga_taiga.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/kaminaga_taiga.ics'>英語</a></td></tr>
 <tr class='liver-item' tags='山田龍一郎,yamada ryuichiro,やまだりゅういちろう'><td>山田龍一郎</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/yamada_ryuichiro.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/yamada_ryuichiro.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='リュール・ファクトゥール,lueur facteur,りゅーるふぁくとぅーる'><td>リュール・ファクトゥール</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/lueur_facteur.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/lueur_facteur.ics'>英語</a></td></tr>
+<tr class='liver-item' tags='ロビュスト・ファクトゥール,robuste facteur,ろびゅすとふぁくとぅーる'><td>ロビュスト・ファクトゥール</td><td><a href='webcal://magicien.github.io/Nij.iCal/ja/robuste_facteur.ics'>日本語</a></td><td><a href='webcal://magicien.github.io/Nij.iCal/en/robuste_facteur.ics'>英語</a></td></tr>
 </tbody></table></div>
